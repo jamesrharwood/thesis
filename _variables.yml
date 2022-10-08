@@ -1,0 +1,36 @@
+# Item 1. Title: Concise description of the nature and topic of the study. Identifying the study as qualitative or indicating the approach (e.g., ethnography, grounded theory) or data collection methods (e.g., interview, focus group) is recommended.
+title: "Identifying possible improvements to reporting guideline dissemination: focus groups with guideline experts"
+abstract: TODO
+# Introduction
+# Item 3. Problem Formulation: Description and significance of the problem/phenomenon studied; review of relevant theory and empirical work; problem statement.
+problem-formulation: |
+  * what is known about the problem
+  * gaps in current knowledge (problem statement)
+  * review theoretical/empirical work directly relevant to problem/phenomena
+  * why qualitative? (To generate ideas)
+purpose-of-research-question: |
+  * the purposes of this study was to elicit possible solutions to [these] barriers from experts familiar with reporting guideline dissemination.
+# Methods
+# Item 5. Qualitative approach and research paradigm: Qualitative approach (e.g., ethnography, grounded theory, case study, phenomenology, narrative research) and guiding theory if appropriate; identifying the research paradigm (e.g., post-positivist, constructivist/interpretivist) is also recommended; rationale.
+qualitative-approach-and-research-paradigm:
+researcher-characteristics-and-reflexivity:
+context:
+sampling-strategy:
+ethical-issues:
+data-collection-methods:
+data-collection-instruments-and-technologies:
+units-of-study:
+data-processing:
+data-analysis:
+techniques-to-enhance-trustworthiness:
+#Results
+synthesis-and-interpretation:
+links-to-empirical-data:
+#Discussion
+integration-with-prior-work:
+implications:
+transferability:
+contributions-to-the-field:
+limitations:
+coi:
+funding:
