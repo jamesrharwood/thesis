@@ -10,6 +10,9 @@ driver_id: capability
 * Reporting vs designing
 * Guidelines vs requirements
 
+Many authors may have never heard of reporting guidelines. Those that have may misunderstand what reporting guidelines are on first encountering them. Authors may more commonly use terms like “writing” or “writing up”, and may understand “reporting” to be a procedural task such as reporting progress to a funder. Without clear positioning as a _writing_ guideline, authors may understand reporting guidelines to be about designing or conducting research. 
+
+Authors may perceive RGs to be a set of requirements as opposed to recommendations. This may be more likely if authors only ever encounter the checklist which lacks nuance included in the full guidance. 
 ---
 
 id: what-rgs-exist
