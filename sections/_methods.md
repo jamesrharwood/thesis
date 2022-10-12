@@ -13,8 +13,9 @@ Reflecting on our prior held opinions, all authors believed reporting to be impo
 :::
 
 ::: {.SRQR data="Item 7. Context: Setting/site and salient contextual factors; rationale."}
-We ran focus groups over Microsoft Teams, with participants attending from their usual place of work of home.
 :::
+We ran focus groups over Microsoft Teams, with participants attending from their usual place of work of home.
+# ASK: what else is relevant to context?
 
 sampling-strategy:
 
