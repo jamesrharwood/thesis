@@ -1,4 +1,10 @@
 venv/
 .quarto/
 .vscode/
+.ipynb_checkpoints/
+*.DS_Store
+*_files/
+~$*
 /.quarto/
+*.pyc
+*.code-workspace
