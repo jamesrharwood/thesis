@@ -17,7 +17,7 @@ We used purposive sampling, seeking participants that were all (#TODO: doing qua
 
 We used information power to guide our initial sample size. We considered our aim to narrow and sample to be specific but with adequate variation. Our intervention was based on behaviour change theory, we expected our methods to provide ample opportunities for deep discussion. For these reasons, we felt confident recruiting and initial sample of 10 participants. We decided to stop sampling when a) we had not identified any additional dimensions of importance and b) #ASK: once 3 participants in a row elicited fewer than 3 additional problem areas.
 
-<!-- # DECIDE: renumeration -->
+<!-- # DECIDE: remuneration -->
 
 ## Ethical issues pertaining to human subjects
 <!-- Documentation of approval by an appropriate ethics review board and participant consent, or explanation for lack thereof; other confidentiality and data security issues -->
@@ -73,24 +73,29 @@ Finally, we asked the participants again for their opinions on the website and g
 <!-- #DECIDE: Do we really need people to go away and write, then come back? Recruiting people that are actively writing may bias our sample as we may attract participants that are looking for help/feedback on their writing. If we were to ditch this step, we could ask participants to do the +/- test live, in the session, and then interview them immediately. A middle ground could be to give them an option: Participants could expect to attend 2 interviews, but then if it turns out they aren't writing anything actively, we could cancel the second interview and do the +/- there and then. Downside of this is that we can't offer manuscript review as an incentive. But downside of offering manuscript review as an incentive is that it may bias our sample (to people looking for help) and also may give the game away. Perhaps we could counter act that by recruiting people that we already know don't like guidelines? But would they do the writing task?-->
 
 ## Data collection instruments and technologies
+
 <!-- Description of instruments (e.g., interview guides, questionnaires) and devices (e.g., audio recorders) used for data collection; if/how the instrument(s) changed over the course of the study -->
 Interviews were conducted over Zoom, using its in-built video and audio recording. We created interview schedules (#REF) and piloted them amongst students in the department. The version of the website tested can be viewed at (#REF).
 
 ## Units of study
+
 <!-- Number and relevant characteristics of participants, documents, or events included in the study; level of participation (could be reported in results) --> #FIXME move to Results?
 
 ## Data processing
+
 <!-- Methods for processing data prior to and during analysis, including transcription, data entry, data management and security, verification of data integrity, data coding, and anonymization/de-identification of excerpts -->
-We used Trint to automatically transcribe audio recordings, and then manually double checked the transcripts and added context from the videos, interview notes, +/- annotations and writing sample. We imported transcripts into NVivo (#REF), creating cases for participants and intervention components.
+We used Zoom to automatically transcribe audio recordings, and then manually double checked the transcripts and added context from the videos, interview notes, +/- annotations and writing sample. We imported transcripts into NVivo (#REF), creating cases for participants and intervention components.
 
 ## Data analysis
+
 <!-- Process by which inferences, themes, etc., were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach; rationale** -->
 We coded positive and negative experiences and grouped them by intervention component. We did this because we expected its output - negative and positive experiences grouped by intervention component - to be easier to act upon than if we grouped experiences by method.
 
 <!-- # DECIDE: count similar problems? -->
 
 ## Techniques to enhance trustworthiness
+
 <!-- Techniques to enhance trustworthiness and credibility of data analysis (e.g., member checking, audit trail, triangulation); rationale** -->
 * Double checking of coding
 * Member checking
-* Triangulation? Read the paper Charlotte recommended. Perhaps it is about mixed method studies? Perhaps that means I could count errors / number of people that did a task successfully? https://www.bmj.com/bmj/section-pdf/186156?path=/bmj/341/7783/Research_Methods_Reporting.full.pdf
+* Triangulation? Read the paper Charlotte recommended. Perhaps it is about mixed method studies? Perhaps that means I could count errors / number of people that did a task successfully? [https://www.bmj.com/bmj/section-pdf/186156?path=/bmj/341/7783/Research_Methods_Reporting.full.pdf]

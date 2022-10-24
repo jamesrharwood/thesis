@@ -51,7 +51,6 @@ Record:
 <!-- # ASK: What would I do with the plus parts? If nothing, is there point in collecting them? -->
 * Reasons for non-compliance
 
-
 [Usability of documents](https://www.uxmatters.com/mt/archives/2020/05/how-to-test-the-usability-of-documents.php)
 
 [Text Evaluation Goals and Methods](https://journals.sagepub.com/doi/epdf/10.1177/1050651997011004003) by de Jong and Schellens
@@ -71,5 +70,4 @@ So if each participant took 90 min then that would cost:
 
 £270-360 per participants.
 
-An alternative could be TRINT - AI transcript software. Check University rule.
-
+An alternative could be TRINT or Zoom - AI transcript software. Check University rule.
