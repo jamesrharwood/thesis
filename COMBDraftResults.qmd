@@ -1,0 +1,45 @@
+---
+title: |
+    Identifying possible improvements to reporting guideline dissemination: focus groups with guideline experts
+format: 
+    docx:
+        reference-doc: reference.docx
+---
+
+::: {.callout-note icon=false}
+
+## Hello COM-Bers!
+
+Thank you for taking the time to read this 🤩
+
+I asked guideline experts to to expand upon the output of our previous meetings. I've rearranged the results into a list of possible changes and the barriers they address.
+
+If you have time before we meet:
+
+* Please read through the possible changes. Feel free to add comments. You can read through the barriers too if you want a refresher.
+* As you read, see if you agree with the stakeholders I've listed for each change.
+* If you have time and motivation, try wireframing what a guideline page could look like, and what the home page could look like. But no pressure - I've spent time doing this already so we will already have plenty to talk about!
+
+Thank you!
+
+:::
+
+{{< pagebreak >}}
+
+# Proposed Intervention Changes
+
+```{python}
+#| echo: false
+#| output: asis
+from data.create_table import create_recommendations_text
+print(create_recommendations_text())
+```
+
+# Barriers
+
+```{python}
+#| output: asis
+#| echo: false
+from data.create_table import create_barriers_text
+print(create_barriers_text())
+```
