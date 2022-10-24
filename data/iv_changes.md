@@ -8,7 +8,13 @@ stakeholder_ids: [publishers, equator, developers, funders, ethics, institutions
 stage: dissemination
 ---
 
-Summarize what RGs are, how and when to use them, what personal benefits to expect, and the importance to others. A generalised statement could go wherever authors are likely to first encounter RGs e.g., journal author guidelines, EQUATOR's home page. A guideline specific statement could go at the top of guideline resources.
+* Summarize: 
+  * what RGs are,
+  * how and when to use them,
+  * what personal benefits to expect,
+  * and the importance to others.
+* A generalised statement can go where authors first encounter RGs e.g., journal author guidelines, EQUATOR's home page. 
+* A guideline specific statement could go at the top of guideline resources.
 
 ---
 
@@ -20,7 +26,8 @@ stakeholder_ids: [developers, equator]
 stage: dissemination
 ---
 
-Ensure all resources are in ready-to-use formats (e.g. Word files) as opposed to e.g., checklists as tables within published articles that have to be copied by the user.
+Ensure resources are ready-to-use
+e.g. checklists as Word files, not as tables within published articles.
 
 ---
 
@@ -32,7 +39,7 @@ stakeholder_ids: [developers, equator]
 stage: dissemination
 ---
 
-Ensure all resources are open access. This allows access to authors without journal subscriptions and allows others to build upon the guidance.
+Ensure resources are open access. This allows access to authors without journal subscriptions and allows others to build upon the guidance.
 
 ---
 
@@ -44,7 +51,8 @@ stakeholder_ids: [developers, equator]
 stage: dissemination
 ---
 
-Display citation data alongside the guidelines as a form of social proof. Encourage authors to cite the guideline so readers discover it.
+* Display citation data alongside the guidelines as a form of social proof. 
+* Encourage authors to cite the guideline so readers discover it.
 
 ---
 
@@ -56,7 +64,9 @@ stakeholder_ids: [developers]
 stage: development
 ---
 
-Avoid prescribing structure as it may clash with journal guidelines or other reporting guidelines. Instead, give options for where items can be reported including options beyond the article body (e.g. tables, figures, appendices).
+* Avoid prescribing structure as it may clash with journal requirements or other reporting guidelines. 
+* Instead, give options for where items can be reported   
+* Include options beyond the article body, like tables, figures, or appendices be.
 
 <!---#ASK: Is this an example of _not_ including an Education intervention?-->
 
