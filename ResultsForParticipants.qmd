@@ -1,0 +1,58 @@
+---
+title: |
+    Identifying possible improvements to reporting guideline dissemination: focus groups with guideline experts
+
+format: 
+    docx:
+        from: markdown+grid_tables
+        reference-doc: reference.docx
+        toc: true
+        toc-depth: 2
+    html: 
+        theme: cosmo
+---
+
+::: {.callout-note icon=false}
+
+## Thank you for taking the time to read this 🤩
+
+Below is a list of ideas that came out of focus groups with reporting guideline developers and advocates. I have arranged them into things to consider before, whilst, and after developing guidance.
+
+Each idea targets one or more barriers that authors may face when using reporting guidelines. I've included the barriers at the end of the document. Most of these barriers came from previous evidence and a few more were added by participants during the focus groups.
+
+Please have a read through and comment on anything that is unclear, misrepresentative, or if you would like to add further ideas. 
+
+Thank you again!
+
+:::
+
+{{< pagebreak >}}
+
+# Ideas to improve reporting guidelines
+
+```{python}
+#| echo: false
+#| output: asis
+#| cache: false
+
+from collections import defaultdict
+from data.create_table import create_recommendations_text, create_barriers_text
+from data import STAGES, CHANGES_BY_STAGE
+from collections import defaultdict
+
+changes_by_stage = defaultdict(list)
+for change in CHANGES_BY_STAGE:
+    changes_by_stage[change.stage].append(change)
+
+for stage in changes_by_stage:
+    print(f"## {STAGES[stage]}\n\n\n\n")
+    print(create_recommendations_text(changes_by_stage[stage]))
+```
+
+# Barriers
+
+```{python}
+#| output: asis
+#| echo: false
+print(create_barriers_text())
+```

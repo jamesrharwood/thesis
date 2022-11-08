@@ -1,32 +1,40 @@
 # Methods
 
-<!-- # ASK: How should I report the meetings I help with EQUATOR first? Do I need to report that as a separate study? Or can I just describe it in the methods? If so, where? Maybe in data-collection methods? -->
-
 ## Qualitative approach and research paradigm
 
-Our qualitative approach was active research, whereby participants and researchers generated ideas linked to theoretical concepts from the Behaviour Change Wheel (#REF). Our paradigm was post-positivist; we considered that ideas were "out there" and recognised that the opinions of the lead researchers may influence what they observe and conclude, and attempted to mitigate against this (see [_Techniques to Enhance Trustworthiness_](#sec-trust)<!--#TODO: add link-->). <!-- # ASK: Active research post-positivist? -->
+Our qualitative approach was active research, whereby participants and researchers generated ideas linked to theoretical concepts from the Behaviour Change Wheel (#REF). Our paradigm was post-positivist; we considered that ideas were "out there" and recognised that the opinions of the lead researchers may influence what they observe and conclude, and attempted to mitigate against this (see [_Techniques to Enhance Trustworthiness_](#sec-trust)).
 
 ## Researcher characteristics and reflexivity
 
 CA teaches qualitative methods across a range of courses at Oxford University and, at the time of the study, was course director of Oxford Qualitative courses, through which JH received training in interviewing, focus groups, and analysing qualitative data.
 
-Reflecting on our prior held opinions, all authors believed reporting to be important. With the exception of CA, all authors have a history of developing or advocating for reporting guidelines. JH, JdB and MS fed their ideas into the focus groups. GC had professional relationships with some of the invited guideline developers but was not involved in the focus groups which were facilitated by JH, a PhD student with no prior relationships. JH has a background in software development and user experience and as a novice researcher has experienced first hand frustration when trying to use reporting guidelines, and so came to this study with a slightly different perspective. As a relative outsider to the reporting guideline ecosystem, he hoped that participants would feel comfortable to speak candidly and non-defensively about the strengths and weaknesses of reporting guidelines. JH maintained reflexivity by reflecting on prior-held beliefs and maintaining a journal.  
-<!-- # All agreed that reporting is important # ASK: Charlotte's prior held beliefs? 
-# All agreed that RGs were not perfect -->
+Reflecting on our prior held opinions, all authors believed reporting to be important. With the exception of CA, all authors have a history of developing or advocating for reporting guidelines. CA felt that reporting guidelines are useful for quantitative research but that some reporting guidelines, in their current format, risk holding qualitative researchers to positivist standards.
+
+JH, JdB and MS took part in the internal EQUATOR meetings before the focus groups were held (see Methods).JH has a background in software development and user experience. As an early career researcher, JH has experienced first hand frustration when trying to use reporting guidelines himself, and maintained reflexivity by maintaining a journal of these experiences as well as his experiences facilitating the focus groups.
+
 
 ## Context
 
-We ran focus groups over Zoom, with participants attending from their usual place of work of home.
-
-<!-- # ASK: what else is relevant to context? Contextual factors? -->
+We ran focus groups over Zoom, with participants attending from their usual place of work of home. The study took place at a time where the EQUATOR guidance for guideline developers was being updated. All participants had heard of EQUATOR, and many had professional relationships with GC, JdB and MS, who did not take part in the focus groups. JH had spoken to a few participants previously at conferences but, as a relative outsider to the reporting guideline ecosystem, he hoped that participants would feel comfortable to speak candidly and non-defensively.
 
 ## Sampling Strategy
 
 We invited a purposive sample including the developers of the twenty most popular reporting guidelines, publishing professionals, and academics that have studied reporting guidelines. We asked participants to extend the invite to others they felt would be appropriate. Because the behaviour change wheel requires input from experts with insight into the intervention, we decided to elicit the opinions of authors in a separate study.
 
-Our estimated sample size was guided by information power (#REF). (#TODO: check how others report information power). Our aim was narrow (#ASK: narrow aim), our sample was dense in that they knew a lot about how reporting guidance is disseminated but also showed variance in terms of which guidelines they work on. We were using the BCW and COM-B model as applied theories. We used open questioning and (#ASK: is there a term for eliciting views before revealing views of others?) to encourage strong dialogue. Our analysis strategy was (#ASK: analysis strategy). Given this, we felt our information power was sufficient to justify initially recruiting 15-20 participants. We stopped sampling once three focus groups contributed fewer than three new ideas as, by this point, we judged the benefit of continued sampling insufficient given time constraints.
+Our estimated sample size was guided by information power (#REF). (#TODO: check how others report information power). Our aim was narrow (#ASK: narrow aim), our sample was dense in that they knew a lot about how reporting guidance is disseminated but also showed variance in terms of which guidelines they work on. We were using the BCW and COM-B model as applied theories. We used open questioning and (#ASK: is there a term for eliciting views before revealing views of others?) to encourage strong dialogue. Our analysis strategy was (#ASK: analysis strategy). Given this, we felt our information power was sufficient to justify initially recruiting 15-20 participants. + add focus group number expectations.
 <!-- # ASK: Is our unit of analysis the document? Ideas? Or the focus group? If the latter, shouldn't we have based sample size estimate on # of focus groups, not number of participants? -->
-<!-- # ASK: is my definition of data saturation sufficient? -->
+Use words like:
+
+    * Best practice
+    * Iterative
+    * Not making decisions before hand
+
+We stopped sampling once groups began contributing few new themes as, by this point, we judged the benefit of continued sampling insufficient given time constraints.
+
+* Can use diagloue criteria as a stopping criteria. We monitored closely and noticed no new information was coming up.
+<!-- # ASK: is my definition of data saturation sufficient? Also is it even valid, as ppts didn't talk about all barriers. Just the ones selected. -->
+
+<!-- #ASK: should I have recruited funders, ethics, registries, institutions? Could I still? -->
 
 ## Ethical Issues
 
@@ -36,52 +44,61 @@ The study was approved by the Medical Sciences Interdivisional Research Ethics C
 
 We chose focus groups to collect data so that participants with differing backgrounds could feed off each other's ideas. Focus groups took place between May-July 2022.
 
-_Materials:_
+### Pre-focus group activities: developing the first version of the co-produced document
 
-Before the focus group began, participants were sent a link to shared, editable file (stored on the University Sharepoint) containing barriers that authors may face when using reporting guidelines. These barriers came from previous research; a thematic synthesis, review of quantitative surveys, observation of user behaviour on the EQUATOR Network, and personal experience of EQUATOR team members. Participants were allowed to add barriers to this list.
+Our starting point was a list of barriers and facilitators that came from previous research; a thematic synthesis, review of quantitative surveys, observation of user behaviour on the EQUATOR Network, and personal experience of EQUATOR team members. The difference between barrier and facilitator isn't always clear cut: sometimes a facilitator to one person could be a barrier for another, and othertimes the absence of a facilitator can be described as a barrier. From here-on, we use the word "barriers" to refer to barriers _and_ the absence of facilitators.
 
-Each barrier was described on a new page. Each page had two columns: the barrier was described in the left hand column, and potential solutions in the right hand column. Text in this right hand column was formatted in white, making it invisible so that participants' thinking was not bias by previous participants.
+Given that there were many barriers to discuss and many potential solutions, we felt it was not feasible to ask participants to start from a blank sheet. Therefore, JH facilitated a series of meetings with members of the EQUATOR Network to create an initial set of potential solutions. He used worksheets 1-#TODO of the Behaviour Change Wheel.These worksheets help intervention designers to define the behaviour they wish to target, barriers preventing that behaviour, and the behavioural drivers underlying those barriers. Worksheet #TODO asks you to consider #TODO: Count IFs types of intervention functions (which encompass all possible types of intervention) and how they could be used to target the barrier. Worksheet #TODO asks you to consider #TODO different policy categories (which represent all possible options for how intervention functions can be delivered) and which stakeholders could enact them.
 
-Given that there were many barriers to discuss and many potential solutions, we felt it was not feasible to ask participants to start from a blank sheet. Therefore, JH worked with members of the EQUATOR Network to create an initial set of potential solutions by going over each barrier in depth, over # TODO: # meetings, lasting # TODO: # hours in total. Participants could then expand, edit, or add to this intial list. This method made it easier to achieve our aim of identifying as many ideas as possible. 
+The EQUATOR team met #TODO times between #TODO and #TODO, with each meeting lasting #TODO hours. Throughout these meetings, JH would ask EQUATOR members to consider the worksheets on their own or in pairs, before discussing as a group. He would withold his own ideas until the end, whereupon other EQUATOR members could discuss them and add them to the document if desired. Most of these ideas came from the thematic synthesis or his software development experience. We felt this was justified as raising ideas from the lead researcher at this early stage meant that all EQUATOR members and future focus group members would have the opportunity to modify or disagree with them.
 
-We did not aim to priotise ideas. Stakeholders could choose to evaluate ideas. The Behaviour Change Wheel recommends using the APEASE criteria for this (Acceptability, Practicability, Effectiveness, Affordability, Side-effects and Equity). 
+The result was a single document with two columns: barriers were described in the left hand column, and potential solutions in the right hand column. It can be seen at #TODO OSF file. Focus group participants could edit or add to this initial list. This gave participants plenty of food for thought and made it easier to achieve our aim of identifying as many ideas as possible.
 
-An initial list of solutions was generated by members of the EQUATOR Network. 
+### Before each focus group
 
-_Focus Group introductions:_
+Before each focus group, we would ask participants to spend some time thinking of faciliators and barriers. A few minutes before the focus group began we would send aMicrosoft Sharepoint link to the latest version of the list of barriers and solutions. In order not to bias participants, we formatted the solutions column with white text before sharing it. This made the text initially invisible, and we would only change the font back to black after focus group participants had considered their own ideas.
 
-At the start of each focus group JH explained that the goal was to brainstorm blue-sky ideas to barriers. He explained the evidence behind the barriers. Wanting guideline developers to think open-mindedly and not defensively, he explained that the barriers were in reference to reporting guidelines _in general_, and not necessarily a comment on _their_ guideline. He encouraged participants to think beyond the guideline documents themselves, and to consider all stakeholders and resources involved.
+We did not aim to priotise ideas. Stakeholders could choose to evaluate ideas. The Behaviour Change Wheel recommends using the APEASE criteria for this (Acceptability, Practicability, Effectiveness, Affordability, Side-effects and Equity).
+<!-- #TODO: move to discussion -->
 
-_Selecting which barriers to talk about:_
+### Focus Group introductions
 
-In the first focus group it became apparent that participants had a lot to say and that 2 hours was not sufficient to cover all the barriers, so JH added a table of contents to the top of the document. Participants spent the first few minutes reading through this table and marking the items that they wanted to talk about. JH then used these marks to select barriers for discussion, and also selected barriers himself - either because the barrier had been neglected by previous groups or because he expected participants' to have insight into it.
+At the start of each focus group JH explained that the goal was to brainstorm blue-sky ideas to barriers. Wanting guideline developers to think open-mindedly and not defensively, he explained where the list of barriers had come from, and that the barriers were in reference to reporting guidelines _in general_, and not necessarily a comment on _their_ guideline. He encouraged participants to think beyond the guideline documents themselves, and to consider all stakeholders and resources involved. He explained that the aim was to think of as many ideas as possible, and not worry too much about whether ideas were good or bad.
 
-_Brainstorming solutions to chosen barriers:_
+### Selecting which barriers to talk about
 
-JH would explain the barrier in question and allow participants to ask questions. Once participants felt they understood it, JH asked them to spend a couple of minutes brainstorming solutions in silence. Participants then explained discussed their ideas as a group. Once all ideas had been discussed, JH would reveal the solutions identified by previous groups by changing the colour of the text in the right hand column from white (which made it invisible) to black. Participants then edited or extended the text until it reflected their thoughts. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to.
+In the first focus group it became apparent that participants had a lot to say and that 2 hours was not sufficient to cover all the barriers, so JH added a table of contents to the top of the document. Participants spent the first few minutes reading through this table and marking the items that they wanted to talk about or raising any barriers they felt were missing from the list. JH then used these marks to select barriers for discussion, and also selected barriers himself - either because the barrier had been neglected by previous groups or because he expected participants' to have insight into it.
 
-Sometimes participants would get fixed on a particular solution and find it difficult to think of others. If this happened, JH would reassure participants that their fixated solution was documented and that it would be useful to think of alternatives. He would use intervention functions from the Behaviour Change Wheel to prompt discussion, saying something like "Could we create incentives to solve this problem?" or "What would make [behaviour] easier to do?".
+### Brainstorming solutions to chosen barriers
 
-_Between focus groups:_
+JH would explain the barrier in question and allow participants to ask questions. Once participants felt they understood it, JH asked them to spend a couple of minutes brainstorming solutions in silence. Participants then explained discussed their ideas as a group. Once all ideas had been discussed, JH would reveal the solutions identified by previous groups by changing the colour of the text in the right hand column from white to black. Participants then edited or extended the text until it reflected their thoughts. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to.
 
-After each focus group, JH would make notes on how the session went, make a copy of the co-produced document and turn the right hand column white again, ready for the next group.
+Sometimes participants would get fixed on a particular solution and find it difficult to think of others. If this happened, JH would reassure participants that their fixated solution was documented and that it would be useful to think of alternatives. He would use intervention functions from the Behaviour Change Wheel to prompt discussion, saying something like "Could we change how people feel about this [barrier]?" or "What would make [behaviour] easier to do?".
 
-_Units of study:_
+### Between focus groups
 
-The unit of study was #TODO: unit of study & move this section
+After each focus group, JH would make notes on how the session went, make a copy of the co-produced document, turn the right hand column white again, and share it with participants of the next group.
+
+### Data processing and anlysis
+
+After the final focus group, JH imported the final co-produced file into NVivo and applied descriptive codes to ideas. Each idea was a single intervention change, so some sentences contained multiple ideas. Sometimes the same idea appeared against multiple barriers, and most barriers had multiple associated ideas. He also coded the barriers and stakeholders that were related to each idea.
+
+### Data analysis
+
+Our analysis involved aggregating and summarising ideas. We did not seek to interpret data as doing so would erase the views captured during co-production. JH grouped ideas inductively in ways that felt cohesive and made the results easy for our intended audience (the reporting guideline community) to understand and act upon. For example, the ideas "ask authors to cite reporting guidelines" and "display citation metrics on reporting guideline resources" were placed together into an aggregated ideas about "Citations", even though they target different barriers (discoverability and trustworthiness) and employ different intervention functions (education and persuasion). # TODO: ensure wording matches results.
+
+JH then discussed and refined all coding, aggregating and summarising with JdB. Sometimes participants would mention an idea without specifying which stakeholder(s) it could apply to, and so JH and JdB added relationships between stakeholders and ideas retrospectively when necessary.
+
+JH kept a diary whilst running focus groups and analysing data, where he noted down any additional ideas as they came to him. Whereas he had contributed ideas to pre-focus group, internal EQUATOR meetings (where colleagues could discuss, challenge and build upon them), he kept these ideas to himself during the focus groups and only added them to the data after analysis, marking them clearly, before sending the draft summary of ideas back to participants for comment.
 
 _Feedback after the focus groups:_
 
-_data-processing_
-
-After the final focus group, JH imported the final co-produced file into NVivo and coded the barriers, ideas of how to address the barrier, and the stakeholders that could act on the idea. Each idea was a single intervention change, so some sentences contained multiple ideas. Sometimes the same idea appeared against multiple barriers, and most barriers had multiple associated ideas.
-
-_data analysis_
-
-JH then grouped ideas inductively in ways that felt cohesive and made the results easy for our intended audience (the reporting guideline community) to understand. For example, the ideas "ask authors to cite reporting guidelines" and "display citation metrics on reporting guideline resources" were placed together into a category about "Citations", even though they target different barriers (making guidelines discoverable reporting guidelines and convincing researchers that guidelines are trustworthy) and employ different intervention functions (education and persuasion). # TODO: ensure wording matches results.
-
-JH then summarised each group of ideas and shared the draft summary with EQUATOR members and focus group participants, who were invited to ensure the summary reflected their ideas faithfully and add any further ideas. JH also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
+JH invited EQUATOR members and focus group participants to comment on the summary of ideas to ensure it reflected their ideas faithfully and add any further ideas. JH also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
 
 _Techniques to enhance trustworthiness:_ {#sec-trust}
 
-JH maintained a reflective journal through the study and listed his own ideas before collecting data and throughout the study, whenever ideas struck him. He withheld these from participants so as to not bias their thinking, but added any ideas that _were not_ covered by others at the end. We kept a record of which ideas originated from EQUATOR, from the focus groups, from feedback comments, and from JH. Participants were asked to check and edit the results to ensure it reflected their thoughts. # ASK: Should I label each idea with its origin?
+JH maintained a reflective journal through the study and documented his own ideas before and during the study. Together, this journal and the versions of the co-produced document formed a paper trail. JH could refer to audio recordings of the focus groups for clarity.
+
+JH would always ask participants to consider things themselves before discussing with a group, and before revealing the thoughts of previous participants (by changing text from white to black). 
+
+* Consider explaining again how I dealt with ideas _before_ the study and _during_ the study.

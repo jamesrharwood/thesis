@@ -3,9 +3,10 @@ from operator import attrgetter
 
 from . import markdown_loader
 from .bases import DataclassBase, InstanceCollection
+from .stages import STAGES
 
 CHANGES = InstanceCollection('id')
-stages = ['planning', 'development', 'dissemination', 'ongoing']
+stages = list(STAGES.keys())
 
 @dataclass(repr=False)
 class Change(DataclassBase):

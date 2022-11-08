@@ -1,7 +1,7 @@
 ---
 
 id: what-are-rgs
-title: What are reporting guidelines?
+title: Researchers may not know what RGs are
 driver_id: capability
 ---
 
@@ -10,7 +10,7 @@ Researchers may have never heard the term "reporting guideline" or may misunders
 ---
 
 id: what-rgs-exist
-title: What reporting guidelines exist?
+title: Researchers may not know what RGs exist
 driver_id: capability
 ---
 
@@ -19,7 +19,7 @@ Researchers may not be aware of which reporting guidelines exist. Most guideline
 ---
 
 id: scope
-title: When does guidance apply?
+title: Researchers may not know whether a RG applies to them
 driver_id: capability
 ---
 
@@ -28,7 +28,7 @@ If the scope of a RG is undefined or unclear, then researchers won’t know whet
 ---
 
 id: best-fit
-title: Which guideline fits best?
+title: Researchers may not know what RG is their best fit
 driver_id: capability
 relation_ids: [what-rgs-exist, scope]
 ---
@@ -38,7 +38,7 @@ Researchers may not know when more specific guidance exists. An author's “perf
 ---
 
 id: what-resources-exist
-title: What resources exist for each guideline?
+title: Researchers may not know what resources exist for a RG
 driver_id: capability
 ---
 
@@ -47,7 +47,7 @@ Resources include the guidance itself, checklists, E&E files, templates, and web
 ---
 
 id: when-to-use
-title: When should reporting guidelines be used?
+title: Researchers may not know when RGs should be used
 driver_id: capability
 ---
 
@@ -65,7 +65,7 @@ Researchers may not understand concepts, terms or words within the guidance, or 
 ---
 
 id: benefits
-title: What benefits to expect
+title: Researchers may not know what benefits to expect
 driver_id: capability
 relation_ids: [believed-benefits]
 ---
@@ -83,7 +83,7 @@ Researchers may not know what benefits to expect from using a reporting guidelin
 ---
 
 id: importance
-title: Why are items important?
+title: Researchers may not know why items are important
 driver_id: capability
 relation_ids: [care-about-benefits]
 ---
@@ -161,7 +161,7 @@ driver_id: opportunity
 ---
 
 <!-- # ASK: Should I use bold to show the separate parts of a recommendation? -->
-Following a guideline can result in **lengthy, bloated reports** which are **unpleasant** to read and **breach journals' word limits**. Researchers may not know how to **keep writing fluid and concise** or **where they can report an item** (e.g., what section, in the text or in a table or figure, in the manuscript or in supplementary material).
+Following a guideline can result in lengthy, bloated reports which are unpleasant to read and breach journals' word limits. Researchers may not know how to keep writing fluid and concise** or where they can report an item (e.g., what section, in the text or in a table or figure, in the manuscript or in supplementary material).
 
 ---
 
@@ -172,20 +172,20 @@ driver_id: opportunity
 
 Researchers use reporting guidelines for different tasks and want tools to make that job easier. Researchers report using reporting guidelines for:
 
-* **Planning** research
-* **Designing** research
+* Planning research
+* Designing research
   * Researchers want items presented in the order in which decisions need to be made
   * Researchers want links to resources
-* Whilst **collecting data**
+* Whilst collecting data
   * Researchers want items ordered in the order they are done
   * Items embedded into data collection tools
-* **Drafting** manuscript
+* Drafting manuscript
   * templates
-* **Checking** manuscripts
-* **Demonstrating compliance**
+* Checking manuscripts
+* Demonstrating compliance
   * Checklists embedded into submission workflows
-* **Reviewing** the reporting of other people’s manuscripts
-* **Appraising** the quality of other people’s manuscripts
+* Reviewing the reporting of other people’s manuscripts
+* Appraising the quality of other people’s manuscripts
 
 ---
 
@@ -194,7 +194,7 @@ title: Guidelines can become outdated
 driver_id: opportunity
 ---
 
-Guidelines can become **out of date** compared to other guidance or compared to current research standards.
+Guidelines can become out of date compared to other guidance or compared to current research standards.
 
 ---
 
@@ -203,7 +203,7 @@ title: Researchers may need to reconcile multiple sets of guidance
 driver_id: opportunity
 ---
 
-Researchers must adhere to journal guidelines, multiple reporting guidelines (e.g., PRISMA + PRISMA-Abstracts + PRISMA-S) and other best practice guidelines (like NIH principles). Using multiple guidelines **increases complexity and costs**, and guidelines can **contradict each other**.
+Researchers must adhere to journal guidelines, multiple reporting guidelines (e.g., PRISMA + PRISMA-Abstracts + PRISMA-S) and other best practice guidelines (like NIH principles). Using multiple guidelines increases complexity and costs, and guidelines can contradict each other.
 
 ---
 
@@ -212,7 +212,7 @@ title: Researchers may be asked to remove guideline content
 driver_id: opportunity
 ---
 
-Researchers may be **asked to remove** guideline content by co-researchers, editors or reviewers.
+Researchers may be asked to remove guideline content by co-researchers, editors or reviewers.
 
 ---
 
@@ -222,7 +222,7 @@ driver_id: opportunity
 relation_ids: [need-enough-time, need-right-time]
 ---
 
-Having been told to complete a checklist upon journal submission, some researchers may continue to **only ever use RGs as pre-submission checklists** if not told otherwise. Some researchers report **wanting to be told** to use reporting guidelines earlier in their research.
+Having been told to complete a checklist upon journal submission, some researchers may continue to only ever use RGs as pre-submission checklists if not told otherwise. Some researchers report wanting to be told to use reporting guidelines earlier in their research.
 
 ---
 
@@ -234,12 +234,12 @@ relation_ids: [what-rgs-exist]
 
 Researcher should be able to easily find guidance and resources that they believe to exist. However:
 
-* **search functions** can be hard to find or use,
-* researchers may not know **which search terms** to use,
-* websites may be hard to **navigate**,
-* **guidance can be buried** within articles,
-* resources may not be **optimised for search engines**,
-* and resources may not be **in the same place**.
+* search functions can be hard to find or use,
+* researchers may not know which search terms to use,
+* websites may be hard to navigate,
+* guidance can be buried within articles,
+* resources may not be optimised for search engines,
+* and resources may not be in the same place.
 
 ---
 
@@ -248,7 +248,7 @@ title: (In)accessible resources
 driver_id: opportunity
 ---
 
-Researchers may be unable to access guidance published in **subscription journals**. Journal websites can feature **broken links**.
+Researchers may be unable to access guidance published in subscription journals. Journal websites can feature broken links.
 
 ---
 

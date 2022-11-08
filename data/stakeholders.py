@@ -29,7 +29,7 @@ stakeholders = """
   description: Ipsum Lorem
   policy_category_ids: [communication, guidelines, fiscal, regulation, service-provision]
 - id: ethics
-  title: Ethics Committees
+  title: Ethics committees
   colour: blue
   description: Ipsum Lorem
   policy_category_ids: [communication, guidelines, regulation, service-provision]
@@ -49,7 +49,7 @@ stakeholders = """
   description: Ipsum Lorem
   policy_category_ids: [communication, guidelines, environmental-planning, service-provision]
 - id: developers
-  title: Guideline Developers
+  title: Guideline developers
   colour: blue
   description: Ipsum Lorem
   policy_category_ids: [communication, guidelines, environmental-planning, service-provision]
