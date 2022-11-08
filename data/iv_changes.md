@@ -1,38 +1,39 @@
 ---
 
 id: value-statement
-title: Display value statement
+title: Summarize the value of RGs where they are first encountered
 barrier_ids: [what-are-rgs, when-to-use, benefits, importance]
 intervention_fn_ids: [education]
-stakeholder_ids: [publishers, equator, developers, funders, ethics, institutions]
+stakeholder_ids: [publishers, equator, developers, funders, ethics, institutions, registries, preprints]
 stage: dissemination
 ---
 
-* Summarize: 
+* Summarize:
   * what RGs are,
   * how and when to use them,
   * what personal benefits to expect,
   * and the importance to others.
-* A generalised statement can go where authors first encounter RGs e.g., journal author guidelines, EQUATOR's home page. 
+* A generalised statement can go where authors first encounter RGs e.g., journal author guidelines, EQUATOR's home page.
 * A guideline specific statement could go at the top of guideline resources.
+* Be careful when considering whether to use the word _guideline_, _standards_, _templates_, etc and be clear about whether the guidelines _are_ guidelines, or whether they are intended to be requirements.
+* Consider specifying whether or not the guidelines are design requirements
 
 ---
 
 id: ready-to-use
-title: Ready to use resources
+title: Make resources ready-to-use
 barrier_ids: [need-usable-formats]
 intervention_fn_ids: [environmental-restructuring]
 stakeholder_ids: [developers, equator]
-stage: dissemination
+stage: creation
 ---
 
-Ensure resources are ready-to-use
-e.g. checklists as Word files, not as tables within published articles.
+Ensure resources are ready-to-use e.g., checklists as Word files, not as tables within published articles.
 
 ---
 
 id: accessible
-title: Accessible resources
+title: Make resources accessible
 barrier_ids: [need-accessible]
 intervention_fn_ids: [enablement]
 stakeholder_ids: [developers, equator]
@@ -44,28 +45,28 @@ Ensure resources are open access. This allows access to authors without journal 
 ---
 
 id: citation
-title: Citing RGs
+title: Show and encourage citations
 barrier_ids: [what-rgs-exist, believed-benefits]
 intervention_fn_ids: [education, persuasion]
 stakeholder_ids: [developers, equator]
 stage: dissemination
 ---
 
-* Display citation data alongside the guidelines as a form of social proof. 
+* Display usage data (like citations or downloads) alongside the guidelines as a form of social proof.
 * Encourage authors to cite the guideline so readers discover it.
 
 ---
 
 id: avoid-prescribing-structure
-title: Avoid Prescribing Structure
+title: Avoid prescribing structure
 barrier_ids: [need-to-reconcile, need-concise-writing]
-intervention_fn_ids: [education]
+intervention_fn_ids: [enablement]
 stakeholder_ids: [developers]
 stage: development
 ---
 
-* Avoid prescribing structure as it may clash with journal requirements or other reporting guidelines. 
-* Instead, give options for where items can be reported   
+* Avoid prescribing structure as it may clash with journal requirements or other reporting guidelines.
+* Instead, give options for where items can be reported.
 * Include options beyond the article body, like tables, figures, or appendices be.
 
 <!---#ASK: Is this an example of _not_ including an Education intervention?-->
@@ -73,19 +74,19 @@ stage: development
 ---
 
 id: create-early-guidance
-title: Create guidance for earlier stages of work
+title: Create guidance for early stages of work
 barrier_ids: [need-tools, need-right-time]
 intervention_fn_ids: [education]
 stakeholder_ids: [developers]
 stage: planning
 ---
 
-Guideline developers could create more guidance for earlier stages of work (e.g., protocols, funding applications).
+Consider creating guidance for earlier stages of work (e.g., protocols, funding applications).
 
 ---
 
 id: avoid-proliferation
-title: Do not duplicate guidance
+title: Avoid duplicating guidance
 barrier_ids: [what-rgs-exist, need-to-reconcile]
 intervention_fn_ids: [enablement]
 relation_ids: [information-architecture, easy-understand]
@@ -93,7 +94,12 @@ stakeholder_ids: [developers, equator]
 stage: planning
 ---
 
- To avoid duplicating resources, developers could consult EQUATOR's register of guidelines under development and contact the developers of related guidelines before commencing a new guideline. When a new resource is justified, developers could build on top of existing resources instead of starting from scratch. This could mean extending or replacing subsets of items instead of publishing a totally new guideline. Developers could consider making guidance modular, like the Journal Article Reporting Standards for psychology. This could also be done retrospectively, e.g., by splitting broad guidance into shorter, related resources (e.g. STROBE being split into STROBE Cohort, STROBE Case-control and STROBE Cross-section).
+* To avoid duplicating resources, before commencing a new guideline:
+  * consult EQUATOR's register of guidelines under development. EQUATOR could make this register easier to find and search.
+  * contact the developers of related guidelines.
+  * journals could ask guideline developers to prove that they have registered their guideline with EQUATOR (like they do for clinical trials).
+* When a new resource is justified, build upon existing resources instead of starting from scratch. This could mean extending or replacing subsets of items instead of publishing a totally new guideline.
+* Consider making modular guidance, like the Journal Article Reporting Standards for psychology.
 
 ---
 
@@ -103,6 +109,7 @@ barrier_ids: [need-enough-time, feel-not-a-job]
 intervention_fn_ids: [enablement]
 stakeholder_ids: [funders, institutions]
 stage: ongoing
+
 ---
 
 Funders and research supervisors could encourage applicants to allocate sufficient time and money for documenting and reporting results.
@@ -114,34 +121,61 @@ title: Make RGs easy to understand
 barrier_ids: [understanding, need-translations]
 intervention_fn_ids: [education, enablement]
 stakeholder_ids: [developers]
-stage: development
+stage: creation
+
 ---
 
-To make resources easy to understand, developers could use plain language, define key terms, use consistent terms across related resources, provide translations, and update guidance in response to user feedback.
+* Use plain language
+* Define key terms
+* Use consistent terms across related resources
+* Provide translations
+* Update guidance in response to user feedback.
 
 ---
 
 id: create-rewards
-title: Create Rewards
+title: Create rewards
 barrier_ids: [believed-benefits]
 intervention_fn_ids: [incentivization, persuasion]
-stakeholder_ids: [developers, equator, publishers, funders, institutions]
+stakeholder_ids: [developers, equator, publishers, funders, institutions, preprints, registries, reviewplatforms]
 stage: ongoing
+
 ---
 
-Stakeholders could create new rewards. Journals could badge well reported articles. EQUATOR could offer a certification service. Funders could reward good reporting financially. Institutions could offer prizes.
+Stakeholders could create new rewards:
+
+* Journals could fast-track submissions
+* Journals, preprint servers, or peer review platforms could badge well reported articles
+* Journals could fast-track review
+* Journals could offer discounts on article processing charges
+* EQUATOR could offer a certification service
+* Funders could reward good reporting financially
+* Institutions could offer prizes.
 
 ---
 
 id: create-spaces
 title: Create discussion spaces
-barrier_ids: [understanding, feel-patronized]
+barrier_ids: [understanding, feel-patronized, believed-benefits]
 intervention_fn_ids: [enablement, persuasion]
 stakeholder_ids: [equator, developers]
 stage: ongoing
+
 ---
 
-Stakeholders could create spaces for authors to discuss reporting and reporting guidelines. These could be online (forums, social media, email) or offline (meet-ups, clubs). Authors could use these spaces to solicit help, share experiences, and provide feedback to guideline developers. Being able to provide feedback may help cultivate a feeling of community ownership.
+Create spaces for authors to discuss reporting and reporting guidelines.
+
+These could be:
+
+* online (forums, social media, email),
+* or offline (meet-ups, clubs).
+
+Try to make spaces accessible to researchers from all nationalities, professional disciplines and other demographics. Spaces will allow authors to:
+
+* solicit help,
+* share experiences,
+* provide feedback to guideline developers,
+* and cultivate a feeling of inclusivity and community ownership.
 
 ---
 
@@ -154,13 +188,16 @@ stakeholder_ids: [equator, developers, publishers, funders, ethics, institutions
 stage: ongoing
 ---
 
-Stakeholders could create new acquisition channels to reach authors at earlier stages of work. Funders and ethics committees could create automated email campaigns to prompt researchers at early stages. The EQUATOR website could have dedicated user journeys for planning and drafting research. Web resources could be optimised for search terms like "protocol", "research plan" or "funding application".
+* All stakeholders could create automated email campaigns to prompt researchers at early stages.
+* The EQUATOR website could encourage visitors to use RGs for planning and drafting research.
+* Web resources could be optimised for search terms like "protocol", "research plan" or "funding application".(#ME)
+* Writing clubs and writing training could flag reporting guidelines.
 
 ---
 
 id: design-agnostic
 title: Keep RGs agnostic to design choices
-barrier_ids: [feel-restricted, feel-transparent]
+barrier_ids: [feel-restricted, feel-transparent, believed-costs, what-are-rgs]
 intervention_fn_ids: [education]
 relation_ids: [keep-short, value-statement]
 stakeholder_ids: [developers]
@@ -169,7 +206,15 @@ stage: development
 
 <!-- #ASK Olga: is this negative education? -->
 
-Reporting guidance could encourage transparent reporting irregardless of design choices. Recommending or admonishing design choices elongates guidelines and risks shaming researchers making them _less_ likely to report transparently. Guideline developers that wish to impart good design practice can consider linking to design and appraisal resources elsewhere.
+Encourage transparent reporting regardless of design choices.
+
+Avoid recommending or admonishing design choices within the reporting guidance because:
+
+* Doing so may make authors feel nervous or ashamed, and therefore _less_ likely to report transparently.
+* Design advice elongates reporting guidelines.
+* Including design advice may give the impression that the guideline is for designing or appraising design.
+
+Consider linking to external design or appraisal tools instead.
 
 ---
 
@@ -177,54 +222,92 @@ id: persuade
 title: Use persuasive language and design
 barrier_ids: [feel-transparent, feel-patronized, believed-benefits]
 intervention_fn_ids: [persuasion]
-stakeholder_ids: [developers, equator, publishers, funders, ethics, institutions]
-stage: dissemination
+stakeholder_ids: [developers, equator,  publishers, funders, ethics, institutions]
+stage: creation
+
 ---
 
-Stakeholders could use language and design to communicate confidence and simplicity as opposed to to judgement and complexity, and reassure authors that _all_ research has limitations that can be addressed in Discussion sections. Developers could reassure authors when guidelines are _just_ guidelines, and could encourage explanation even when choices were unusual or sub-optimal.
+* Use language and design to communicate confidence and simplicity as opposed to to judgement and complexity.
+* Encourage explanation even when choices were unusual or sub-optimal.
+* Reassure authors that most research has limitations that can be addressed in Discussion sections.
+* Reassure authors that guidelines are _just_ guidelines.
+* Avoid patronizing authors.
 
 ---
 
 id: create-tools
-title: Create tools
+title: Create additional tools
 barrier_ids: [need-tools, need-right-time]
 intervention_fn_ids: [enablement]
 stakeholder_ids: [developers, equator, funders, ethics, publishers]
-stage: dissemination
+stage: creation
 ---
 
-Stakeholders could create tools for different tasks e.g., discussion points for planning research, to-do lists for conducting research, templates for drafting, checklists for checking manuscripts, tools for generating tables and figures, and suggested ctrl-F keywords for reviewers assessing reporting.
+Create tools for different tasks:
+
+* discussion points for planning research in the order decisions are made
+* to-do lists for conducting research in the order data is collected
+* templates for drafting
+* writing assistance tools (e.g., COBWEB)
+* checklists for checking manuscripts
+* tools for co-researchers to check each other's work
+* tools for generating tables and figures
+* resources for peer reviewers who wish to review reporting quality including:
+  * guidance specifically for peer reviewers.
+  * commonly-used words that reviewers can search for to quickly find relevant text (#ME).
+  * suggested text that peer reviewers can copy to request information
+  * tools to generate feedback reports
+* journal articles where reporting guideline items are annotated/highlighted
 
 ---
 
 id: findable-resources
-title: Ensure resources are easy to discover and find
+title: Make resources easy to discover and find
 barrier_ids: [what-rgs-exist, what-resources-exist, need-findable]
 intervention_fn_ids: [environmental-restructuring]
 stakeholder_ids: [developers, equator]
-stage: dissemination
+stage: creation
 ---
 
-Guideline resources should link to related resources. For example, checklists should link to example and elaboration documents. Related RGs should link to each other. All resources could all be hosted somewhere consistent with a search function that is easy to use. Links should be permanent (e.g. DOIs) where possible, and all stakeholder_ids should ensure old URLs are maintained or redirected to avoid broken links. Web pages could all be optimized for search engines.
+Link resources:
 
-Guideline names could be descriptive, as acronyms may be meaningless to novice users. Related guidelines could use consistent names and terms to show relationships (e.g. the names PRISMA and PRISMA-P appear more related than CONSORT and SPRIT).
+* Ensure all resources link to each other. For example, checklists should link to example and elaboration documents and vice versa.
+* Related guidelines should link to each other.
+* Guidelines and resources should link to translations
+* Links should be permanent (e.g. DOIs) where possible and old links should be maintained or redirected. Broken links should be replaced.
+
+Make searching easy:
+
+* Host resources somewhere consistent
+* Provide easy-to-use website search functions
+* Web pages should be optimized for search engines (#ME)
+* Created curated collections for study types
+* Create decision tools for identifying RGs
+
+Make names useful:
+
+* Guideline names could be descriptive, as acronyms may be meaningless to novice users.
+* Related guidelines should use consistent names to show relationships (e.g. PRISMA and PRISMA-P appear more related than CONSORT and SPRIT).
 
 ---
 
 id: endorse-enforce
-title: Endorse and enforce
+title: Endorse and enforce RGs
 barrier_ids: [what-rgs-exist, believed-benefits]
 intervention_fn_ids: [education, restriction, persuasion]
-stakeholder_ids: [publishers, institutions, ethics, funders]
+stakeholder_ids: [publishers, institutions, ethics, funders, registries, conferences, preprints]
 stage: ongoing
 ---
 
-Funders, ethics committees, institutions and publishers could endorse reporting guidelines and, where possible, enforce their use either by enforcing checklists or (preferably) adherence to the guidelines directly.
+All stakeholders could:
+
+* endorse reporting guidelines
+* enforce their use by enforcing checklists or (preferably) adherence to the guidelines.
 
 ---
 
 id: evidence-benefits
-title: Evidence benefits
+title: Evidence the benefits
 barrier_ids: [believed-benefits]
 intervention_fn_ids: [persuasion, education]
 relation_ids: [testimonials, value-statement]
@@ -232,41 +315,55 @@ stakeholder_ids: [developers, equator]
 stage: ongoing
 ---
 
-Evidence any stated benefits. Experiential benefits could be evidenced by testimonials (e.g. feeling confident, easier writing, value to readers). Quantifiable benefits could be evidenced with data (e.g., acceptance rates, publishing speed, writing speed).
+Evidence any stated benefits:
+
+* Experiential benefits could be evidenced by testimonials (e.g. feeling confident, easier writing, value to readers).
+* Quantifiable benefits could be evidenced with data (e.g., acceptance rates, publishing speed, writing speed).
 
 ---
 
 id: information-architecture
-title: Information architecture TODO
+title: Make information digestible
 barrier_ids: [need-enough-time, believed-costs]
 intervention_fn_ids: [enablement]
 relation_ids: [item-content]
 stakeholder_ids: [developers, equator]
-stage: dissemination
+stage: creation
 ---
 
-Organise information so it is easy to navigate and not overwhelming. Cater read from start to finish, but others will dip in and out. Structure text with headings. For information presented online, consider showing/hiding information as required, and use section URLs to send authors directly to relevant parts of guidance. Embed or hyperlink related resources.
+Organise information so it is easy to navigate and not overwhelming.
+
+* Cater to users that read from start to finish, and those that dip in and out.
+* Structure text with headings.
+* Use section URLs to send authors directly to relevant parts of guidance.
+* Consider hyperlinking related resources
+* Consider embedding guidelines that "fit together", like PRISMA and PRISMA-Abstracts
+* For information presented online, consider showing/hiding information as required. For example, if PRISMA-Abstracts were embedded into PRISMA, users could choose to expand or collapse it. Or you could show/hide guidance depending on whether the author is writing a funding application, protocol, manuscript.
 
 ---
 
 id: item-content
-title: Item content
+title: Describe reporting items fully
 barrier_ids: [scope, how-to-report, how-to-do, how-to-report-not-done, need-concise-writing, importance, care-about-benefits, need-to-remove]
 intervention_fn_ids: [education, persuasion]
 stakeholder_ids: [developers]
 stage: development
 ---
 
-For each item, an author needs to know the following:
+For each item, authors may need to know the following:
 
-* What needs to be reported
+* What needs to be reported – a brief description could go in all resources (checklists, templates etc) with a longer description in the guidance itself.
 * State why the information is important, and to whom
 * Any circumstances where the item is not applicable and what to write
 * Indicate priority, and any circumstances that modify importance
 * Where the item can be reported, including beyond the main article body (e.g., section, table, figure, appendix)
 * What to write if an item wasn’t, or couldn’t be done
 * What to write if an item cannot be reported for external reasons
-* Examples of good and bad reporting with explanations
+* Examples, which could be real or generated, including:
+  * examples of good _and_ bad reporting with explanations.
+  * examples of concise or word-count-friendly reporting, like in alternative formats like tables and figures.(#ME)
+  * examples of well reported "imperfect" items (items that were not done)
+  * examples from different research contexts
 * Links to external design or appraisal advice
 
 ---
@@ -279,7 +376,12 @@ stakeholder_ids: [publishers, funders, ethics, institutions]
 stage: ongoing
 ---
 
-Journals, funders and ethics committees can make RGs appear as a priority by prominently mentioning them early in author instructions, by placing checklists earlier in compiled PDFs, and by publicizing when RGs are used by reviewers.
+Journals, funders and ethics committees can make RGs appear as a priority:
+
+* Make them prominent in author instructions.
+* Placing checklists earlier in compiled PDFs.
+* Publicize when RGs are used by reviewers.
+* Funders could ask about RGs/checklists when collecting updates from grant recipients.
 
 ---
 
@@ -288,31 +390,39 @@ title: Promote RGs
 barrier_ids: [what-are-rgs, what-rgs-exist]
 intervention_fn_ids: [education]
 relation_ids: [endorse-enforce, reporting-champions]
-stakeholder_ids: [institutions, publishers, developers, equator, ethics, funders]
+stakeholder_ids: [institutions, publishers, developers, equator, ethics, funders, societies, registries, conferences, preprints]
 stage: ongoing
 ---
 
-All stakeholder_ids can promote RGs on and offline. Online may include websites, email campaigns, social media, and blogs. Offline may include appearing at conferences.
+Promote RGs on and offline.
+
+* Online may include websites, email campaigns, social media, and blogs.
+* Offline may include appearing at conferences, seminars, and workshops.
 
 Institutions could promote RGs in their curricula, learning materials, or through [reporting champions](#sec-reporting-champions). Guideline developers or EQUATOR could push for RGs to be included in text books.
+
+Promotion can begin before a guideline has been published so that researchers know about guidelines being developed.
 
 NB. Promotion is different to endorsement; a journal could run an email campaign to promote RGs without having an endorsement policy.
 
 ---
 
 id: reporting-champions
-title: Reporting Champions
+title: Install reporting champions
 barrier_ids: [what-rgs-exist, believed-benefits, understanding]
 intervention_fn_ids: [education, persuasion]
-stakeholder_ids: [equator, developers, institutions, funders, ethics, publishers]
+stakeholder_ids: [equator, developers, institutions, funders, ethics, publishers, conferences, preprints, registries]
 stage: ongoing
 ---
 
-Funders, ethics committees, institutions and publishers could have members to promote and facilitate the usage of reporting guidelines. This could follow a local network model, such as the one used by UKRN (#REF), with EQUATOR as the central organiser.
+All stakeholders could have members to promote and facilitate the usage of reporting guidelines.
+
+* This could follow a local network model with EQUATOR as the central organiser.
+* Could make use of existing networks, like regional reproducibility networks.
 
 ---
 id: rg-introductions
-title: RG introduction content
+title: Describe RGs fully
 barrier_ids: [scope, when-to-use, feel-not-my-job, need-enough-time, feel-patronized]
 intervention_fn_ids: [education, enablement, persuasion]
 stakeholder_ids: [developers, equator]
@@ -320,10 +430,11 @@ stage: development
 
 ---
 
-For each RG, authors need the following information:
+For each RG, authors may need the following information:
 
 * A clear definition of the RGs intended scope in plain language.
 * If-then rules to direct authors to other, more appropriate guidelines.
+* If no better guidance exists (e.g. there is no protocol guidance) then indicate which items do/do not apply.
 * What tasks the RG can and cannot be used for
 * Why reporting is the responsibility of the author
 * How long the resource will take to use
@@ -340,13 +451,18 @@ stakeholder_ids: [developers]
 stage: development
 ---
 
-Keep guidance as a short as possible. Be concise but clear. Be realistic about what to expect from authors as each additional item increases the chances an author will be put off. Link to longer guidance elsewhere if desired.
+Keep guidance as a short as possible:
+
+* Be concise but clear.
+* Be realistic about what to expect from authors as each additional item increases the chances an author will be put off
+* Link to other guidance elsewhere if desired.
+* Consider splitting broad guidance that tries to cater for different options into shorter, modular guidance (modularity avoids duplication).
 
 ---
 
 id: testimonials
-title: Testimonials
-barrier_ids: [believed-benefits, believed-costs, care-about-benefits, feel-transparent]
+title: Provide testimonials
+barrier_ids: [benefits, believed-benefits, believed-costs, care-about-benefits, feel-transparent]
 intervention_fn_ids: [persuasion, modelling]
 stakeholder_ids: [developers, equator]
 stage: dissemination
@@ -354,19 +470,42 @@ stage: dissemination
 
 Testimonials can be short quotes or longer case studies. They could come from:
 
-* from research consumers explaining the impact that (missing) information.
-* from decision makers (e.g., editors/grant managers) explaining that they value good reporting and/or explaining how they check for reporting as part of their evaluation.
-* From peer reviewers explaining how they use RGs to check for good reporting.
-* From other researchers (including nervous ones) about their positive experiences of using RGs.
+* researchers who have had positive experiences using RGs, including researchers that were nervous about transparency,
+* decision makers (e.g., editors/grant managers) that value good reporting and/or check for reporting as part of their evaluation,
+* peer reviewers that use RGs to check for good reporting,
+* patients who are affected by research waste,
+* and researchers who need to understand, synthesise, or apply research articles.
 
 ---
 
 id: support
-title: Additional teaching
+title: Provide additional teaching
 barrier_ids: [feel-not-a-job, understanding, importance, how-to-report, need-right-time, care-about-benefits]
 intervention_fn_ids: [education, training]
 stakeholder_ids: [developers, equator, publishers, institutions, funders, ethics]
 stage: ongoing
 ---
 
-Authors may benefit from guideline specific education or training. Students could learn the importance of good reporting, and good workflows for documenting and communication research, and how to think about writing as a process. Students could attempt a replication or be asked to use a RG as part of their studies. These could be delivered on or offline, as education or training.
+Provide guideline-specific education or training (e.g., courses, videos)
+
+More generally, students could:
+
+* learn about writing as a process and workflows for documenting and communicating research,
+* learn about research waste from poor reporting (#ME)
+* attempt a replication to learn about the importance of complete reporting
+* use a RG as part of their studies.
+
+---
+id: updating
+title: Make updating guidelines easier
+barrier_ids: [need-updating]
+intervention_fn_ids: [enablement]
+stakeholder_ids: [equator, funders]
+stage: ongoing
+---
+
+Make it easier for guideline developers to update guidelines.
+
+* Fund guideline developers to evaluate, refine, and update their resources(#ME)
+* Make it easy for guideline developers to collect feedback from authors
+* Small updates or refinements could be made without publishing a new article
