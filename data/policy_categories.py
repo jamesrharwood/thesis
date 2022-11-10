@@ -14,31 +14,31 @@ categories = """
 - id: communication
   title: Communication
   colour: blue
-  description: Ipsum Lorem
+  description: Using print, electronic, telephonic or broadcast media
 - id: guidelines
   title: Guidelines
   colour: blue
-  description: Ipsum Lorem
+  description: Creating documents that recommend or mandate practice - this includes all changes to service provision
 - id: fiscal
   title: Fiscal
   colour: blue
-  description: Ipsum Lorem
+  description: Using the tax system to reduce or increase the financial cost
 - id: regulation
   title: Regulation
   colour: blue
-  description: Ipsum Lorem
+  description: Establishing rules or principles of behaviour or practice
 - id: legislation
   title: Legislation
   colour: blue
-  description: Ipsum Lorem
+  description: Making or changing laws
 - id: environmental-planning
   title: Environmental/social planning
   colour: blue
-  description: Ipsum Lorem
+  description: Designing and/or controlling the physical or social environment
 - id: service-provision
   title: Service Provision
   colour: blue
-  description: Ipsum Lorem
+  description: Delivering a service
 """
 
 for category in yaml.safe_load(categories):
