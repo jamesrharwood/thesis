@@ -1,0 +1,70 @@
+---
+title: |
+    Identifying possible improvements to reporting guideline dissemination: focus groups with guideline experts
+
+format: 
+    docx:
+        from: markdown+grid_tables
+        reference-doc: reference.docx
+        toc: true
+    html: 
+        theme: cosmo
+filters:
+  - docx-landscape.lua
+---
+
+
+{{< pagebreak >}}
+
+::: {.callout-note icon=false}
+
+## Thank you for taking the time to read this 🤩
+
+Below is a list of ideas that came out of focus groups with guideline developers and advocates. I have arranged them into things to consider before, whilst, and after developing guidance.
+
+Each idea targets one or more barriers that authors may face when using reporting guidelines. I've included the barriers at the end of the document. Most of these barriers came from previous evidence and a few more were added by participants during the focus groups.
+
+Please have a read through and comment on anything that is unclear, misrepresentative, or if you would like to add further ideas. 
+
+You may notice that I've labelled ideas and barriers with _Functions_ and _Behavioural Drivers_ respectively. These concepts come form the behaviour change framework I'm using and you don't need to worry about those. 
+
+Thank you again!
+
+:::
+
+{{< pagebreak >}}
+
+::: landscape
+
+## Proposed Intervention Changes
+
+```{python}
+#| echo: false
+#| output: asis
+#| cache: false
+
+from collections import defaultdict
+from data.create_table import create_recommendations_table
+from data import STAGES, CHANGES
+
+ordered_changes = defaultdict(list)
+for c in CHANGES:
+    ordered_changes[c.stage].append(c)
+assert set(ordered_changes.keys()) == set(STAGES.keys())
+for stage, stage_description in STAGES.items():
+    print(f"### {stage_description}\n\n\n\n")
+    tb = create_recommendations_table(ordered_changes[stage])
+    print(tb.draw())
+    print("{{< pagebreak >}}")
+```
+
+## Barriers
+
+```{python}
+#| output: asis
+#| echo: false
+from data.create_table import create_barriers_table
+print(create_barriers_table().draw())
+```
+
+:::

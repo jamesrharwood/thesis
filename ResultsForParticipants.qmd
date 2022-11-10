@@ -14,11 +14,13 @@ format:
 
 ::: {.callout-note icon=false}
 
-## Thank you for taking the time to read this 🤩
+## Thank you for taking the time to read this!
 
 Below is a list of ideas that came out of focus groups with reporting guideline developers and advocates. I have arranged them into things to consider before, whilst, and after developing guidance.
 
 Each idea targets one or more barriers that authors may face when using reporting guidelines. I've included the barriers at the end of the document. Most of these barriers came from previous evidence and a few more were added by participants during the focus groups.
+
+^JH^ indicates clarifications or additions that I have made but which weren't present in the co-edited file.
 
 Please have a read through and comment on anything that is unclear, misrepresentative, or if you would like to add further ideas. 
 
