@@ -3,5 +3,5 @@ STAGES = {
     'development': 'When developing guidance',
     'creation': 'When writing guidance down and creating resources',
     'dissemination': 'When disseminating resources',
-    'ongoing': 'Ongoing',
+    'ongoing': 'On an ongoing basis',
 }
