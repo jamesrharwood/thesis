@@ -111,7 +111,7 @@ def create_text(iterable, relationships_str, relationships_attr): #, bcw_concept
     return s
 
 def create_barriers_text():
-    return create_text(BARRIERS, 'Ideas', 'changes') #, 'Behavioural Driver', 'driver')
+    return create_text(BARRIERS, 'Ideas to address this barrier', 'changes') #, 'Behavioural Driver', 'driver')
 
 def create_recommendations_text(changes):
     # return create_text(CHANGES_BY_STAGE, 'Barriers addressed', 'barriers', 'Intervention Functions', 'intervention_fns')
