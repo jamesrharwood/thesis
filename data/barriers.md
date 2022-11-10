@@ -51,12 +51,12 @@ title: Researchers may not know when RGs should be used
 driver_id: capability
 ---
 
-Researchers may not know when, in their research workflow, they should use RGs. Guideline developers may want researchers to use guidance as early as possible, but this is may not be obvious to researchers who may only ever receive instruction to complete a checklist as part of journal submission and may [never discover the full guidance](#sec-what-resources-exist). Consequently, researchers may assume that RGs are supposed to be used by single authors as pre-submission checklists to demonstrate adherence. It may not occur to them that RGs can be used earlier, or by teams.
+Researchers may not know when they should use RGs in their research workflow. Guideline developers may want researchers to use guidance as early as possible, but this is may not be obvious to researchers who may only ever receive instruction to complete a checklist as part of journal submission and may [never discover the full guidance](#sec-what-resources-exist). Consequently, researchers may assume that RGs are supposed to be used by single authors as pre-submission checklists to demonstrate adherence. It may not occur to them that RGs can be used earlier, or by teams. Some researchers, having come to this realisation themselves, report wanting to be told to use reporting guidelines earlier in their research.
 
 ---
 
 id: understanding
-title: (Mis)understanding
+title: Researchers may misunderstand
 driver_id: capability
 ---
 
@@ -72,7 +72,7 @@ relation_ids: [believed-benefits]
 
 Researchers may not know what benefits to expect from using a reporting guideline. These benefits may include:
 
-* improved completeness of reporting which readers use your research and reduces research waste.
+* improved completeness of reporting which helps readers use research and reduces research waste.
 * improved flow and less “waffle” in writing
 * facilitated discussions between collaborators, especially at the design or protocol stage
 * publishing and passing peer review more efficiently
@@ -131,7 +131,7 @@ Checklists take time to complete, and completing them with page numbers or paste
 ---
 
 id: need-right-time
-title: Researchers need guidance at a stage where they are able to act on it
+title: Researchers may not encounter RGs early enough to act on them
 driver_id: opportunity
 relation_ids: [need-enough-time]
 ---
@@ -146,7 +146,7 @@ Some RG items require work that has to be done within a certain time windows suc
 ---
 
 id: need-translations
-title: Researchers may need guidance in a language they can understand
+title: Researchers may not understand the language
 driver_id: opportunity
 relation_ids: [understanding]
 ---
@@ -156,17 +156,17 @@ Researchers may not understand the language guidance is written in. A lot of res
 ---
 
 id: need-concise-writing
-title: Researchers may need to keep writing concise
+title: Researchers may struggle to keep writing concise
 driver_id: opportunity
 ---
 
 <!-- # ASK: Should I use bold to show the separate parts of a recommendation? -->
-Following a guideline can result in lengthy, bloated reports which are unpleasant to read and breach journals' word limits. Researchers may not know how to keep writing fluid and concise** or where they can report an item (e.g., what section, in the text or in a table or figure, in the manuscript or in supplementary material).
+Following a guideline can result in lengthy, bloated reports which are unpleasant to read and breach journals' word limits. Researchers may not know how to keep writing fluid and concise or where they can report an item (e.g., what section, in the text or in a table or figure, in the manuscript or in supplementary material).
 
 ---
 
 id: need-tools
-title: Researchers may need tools for the job at hand
+title: Researchers may not have tools for the job at hand
 driver_id: opportunity
 ---
 
@@ -174,23 +174,23 @@ Researchers use reporting guidelines for different tasks and want tools to make 
 
 * Planning research
 * Designing research
-  * Researchers want items presented in the order in which decisions need to be made
-  * Researchers want links to resources
+  * Researchers report wanting items presented in the order in which decisions need to be made
+  * Researchers report wanting links to resources
 * Whilst collecting data
-  * Researchers want items ordered in the order they are done
-  * Items embedded into data collection tools
+  * Researchers report wanting items ordered in the order they are done
+  * Resaerchers report wanting items embedded into data collection tools
 * Drafting manuscript
-  * templates
+  * Researchers report wanting templates
 * Checking manuscripts
 * Demonstrating compliance
-  * Checklists embedded into submission workflows
+  * Researchers report wanting checklists embedded into submission workflows
 * Reviewing the reporting of other people’s manuscripts
 * Appraising the quality of other people’s manuscripts
 
 ---
 
 id: need-up-to-date-guidance
-title: Guidelines can become outdated
+title: RGs can become outdated
 driver_id: opportunity
 ---
 
@@ -199,7 +199,7 @@ Guidelines can become out of date compared to other guidance or compared to curr
 ---
 
 id: need-to-reconcile
-title: Researchers may need to reconcile multiple sets of guidance
+title: Researchers may struggle to reconcile multiple sets of guidance
 driver_id: opportunity
 ---
 
@@ -208,7 +208,7 @@ Researchers must adhere to journal guidelines, multiple reporting guidelines (e.
 ---
 
 id: need-to-remove
-title: Researchers may be asked to remove guideline content
+title: Researchers may be asked to remove RG content
 driver_id: opportunity
 ---
 
@@ -217,17 +217,19 @@ Researchers may be asked to remove guideline content by co-researchers, editors 
 ---
 
 id: need-prompts
-title: Researchers may need prompting to use guidelines at earlier research stages
+title: Researchers may forget to use RGs at earlier research stages
 driver_id: opportunity
 relation_ids: [need-enough-time, need-right-time]
 ---
 
-Having been told to complete a checklist upon journal submission, some researchers may continue to only ever use RGs as pre-submission checklists if not told otherwise. Some researchers report wanting to be told to use reporting guidelines earlier in their research.
+Having been told to complete a checklist upon journal submission, researchers may forget to use a RG earlier next time.
+
+NB forgetting is different to [not realising](#sec-when-to-use) that RGs can be used early.
 
 ---
 
 id: need-findable
-title: Easy to Find
+title: Guidance may be difficult to find
 driver_id: opportunity
 relation_ids: [what-rgs-exist]
 ---
@@ -244,7 +246,7 @@ Researcher should be able to easily find guidance and resources that they believ
 ---
 
 id: need-accessible
-title: (In)accessible resources
+title: RGs may be difficult to access
 driver_id: opportunity
 ---
 
@@ -253,7 +255,7 @@ Researchers may be unable to access guidance published in subscription journals.
 ---
 
 id: need-usable-formats
-title: (Un)usable formats
+title: RG resources may not be in usable formats
 driver_id: opportunity
 ---
 
@@ -272,7 +274,7 @@ Researchers may feel afraid or uncertain when trying to report something that th
 ---
 
 id: feel-restricted
-title: Researchers may feel restricted if reporting guidelines prescribe design
+title: Researchers may feel restricted if RGs prescribe design
 driver_id: motivation
 ---
 
@@ -309,7 +311,7 @@ Instead of hypothetical benefits or benefits to others, researchers report carin
 ---
 
 id: believed-costs
-title: Researchers may expect the costs of using a RG to be higher than they are
+title: Researchers may expect the costs to outweigh benefits
 driver_id: motivation
 ---
 
@@ -333,8 +335,4 @@ title: Researchers may not consider writing as reporting
 driver_id: motivation
 ---
 
-Researchers may need to change their approach to writing or what they consider writing to be.Researchers differ in their writing process. Teams that follow a structured approach to writing - planning, outlining, drafting and editing with discussion at each stage - may find it easier to incorporate RGs into their workflow. Other authors write without an established process and without discussing with other team members.
-
-Some authors may approach writing as a creative process with the desire to tell a story. To these authors, _reporting_ using a RG may feel like a different approach with a different end-goal (transparency vs. narrative). Reporting using a RG also requires a different process; authors must consider the written article at the very start of their research, and may need to compose their manuscript around a skeleton of reporting items as opposed to writing from start to finish.
-
-Some experienced researchers may be used to a way of working and reluctant to change, and some inexperienced researchers may be unaware of alternative writing processes. Not all researchers have access to help within their institution, such as writing training, research integrity training, or a publications coordinator.
+Researchers may need to change their approach to writing or what they consider writing to be.Researchers differ in their writing process. Authors that follow a structured approach to writing may find it easier to incorporate RGs into their workflow. Some experienced researchers may be used to a way of working and reluctant to change, and some inexperienced researchers may be unaware of alternative writing processes.
