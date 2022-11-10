@@ -53,6 +53,26 @@ stakeholders = """
   colour: blue
   description: Ipsum Lorem
   policy_category_ids: [communication, guidelines, environmental-planning, service-provision]
+- id: registries
+  title: Registries
+  colour: blue
+  description: Ipsum Lorem
+  policy_category_ids: [communication, guidelines, environmental-planning, regulation]
+- id: preprints
+  title: Preprint servers
+  colour: blue
+  description: Ipsum Lorem
+  policy_category_ids: [communication, guidelines, environmental-planning, regulation]
+- id: conferences
+  title: Conference organisers
+  colour: blue
+  description: Ipsum Lorem
+  policy_category_ids: [communication, guidelines, environmental-planning, regulation]
+- id: societies
+  title: Societies
+  colour: blue
+  description: Ipsum Lorem
+  policy_category_ids: [communication]
 """
 
 for stakeholder in yaml.safe_load(stakeholders):
