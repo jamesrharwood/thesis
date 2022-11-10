@@ -1,0 +1,32 @@
+# Discussion
+
+* Tension between wanting to provide design/procedural advice but also wanting to remain design-agnostic and keep guidance short. Solution is to link out to separate guidance.
+
+integration-with-prior-work:
+
+* Provides some explanation for why previous intervention studies (#REF) have had disappointing results _and_ provides hypotheses for how these interventions could be improved.
+
+implications:
+
+* We purposefully didn't rate or rank ideas. The BCW suggests using APEASE criteria which stands for #TODO. Different stakeholders will rank ideas differently especially with regards to cost-effectiveness.
+
+transferability:
+
+* Our findings will be of use to reporting guideline developers.
+* could (probably not) be interesting to developers of other kinds of guideline (e.g., clinical guidelines)
+* more importantly, our _approach_ may be interesting to other groups seeking to inspire behaviour change
+
+contributions-to-the-field:
+
+* First time RG dissemination has been thought of in this way.
+* Brought together stakeholders
+* First step towards a unified dissemination plan backed up by theory
+* Will underpin future feasibility and evaluation studies
+
+limitations: |
+  
+* all western and native english speakers
+
+coi:
+
+funding:

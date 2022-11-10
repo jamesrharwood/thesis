@@ -4,18 +4,19 @@
   
 * We know that reporting is substandard
 * We know that RGs have had limited effect
-* We now know lots of reasons _why_ RGs effect may be limited.
+* We now know lots of reasons _why_ RGs' effect may be limited.
   * Evidence comes from thematic synthesis, commentary and website review.
   * Summarize some of the main themes
-* gaps in current knowledge (problem statement)
+  * Barriers listed in Appendix A
+* (gaps in current knowledge (problem statement))
   * We _don't_ know how to address these problems.
-* review theoretical/empirical work directly relevant to problem/phenomena
+* (review theoretical/empirical work directly relevant to problem/phenomena)
   * We view RGs as a complex behaviour change intervention where RGs are part of a system.
   * The BCW is a method for designing complex interventions.
   * We chose it because it is thorough (made by synthesising other methods), based on a model of behaviour (the COM-B model) and because it is accessible to non-behavioural experts.
-  * why qualitative? (To generate ideas)<!-- #ASK: Charlotte is this necessary? -->
+  * (why qualitative?) To generate ideas<!-- #ASK: Charlotte is this necessary? -->
 :::
 
 ::: {.SRQR data="purpose-of-research-question"}
-The purpose of this study was to elicit possible solutions to barriers currently limiting RG impact from experts familiar with RG dissemination.
+The purpose of this study was to elicit ideas  from experts familiar with RG dissemination, of how to address barriers that may otherwise limit RG impact.
 :::

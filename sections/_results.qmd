@@ -1,0 +1,38 @@
+# Results
+
+## Units of study 
+
+#TODO participants attended one of {{< var focus_groups_count >}} focus groups. Participants included guideline developers (n=#TODO), publishing professionals (n=#TODO), and academics that study reporting guidelines (n=#TODO). 
+
+Participants identified {{< var counts.sub_items_pre_jh >}} ideas to address {{< var counts.barriers >}} barriers. JH added a further {{< var counts.jh_ideas >}} ideas to this list retrospectively to make {{< var counts.sub_items >}} ideas in total. JH then grouped these ideas into {{< var counts.changes >}} broader ideas, which we categorised according to whether they could be considered {{< var descriptions.stages >}}. Participants identified {{< counts.stakeholders >}} stakeholders that could enact these ideas including {{< descriptions.stakeholders >}}.
+
+<!-- #TODO: Compare with the number of ideas, barriers and stakeholders identified by EQUATOR before the focus groups began. -->
+
+_Synthesis and interpretation:_
+
+<!-- #TODO: For each idea write a small discussion of the focus group data, e.g., highlighting disagreements and 'popular' barriers. -->
+
+<!-- Main findings (e.g., interpretations, inferences, and
+themes); might include development of a theory or model, or integration with
+prior research or theory -->
+
+<!-- Links to empirical data - Evidence (e.g., quotes, field notes, text excerpts,
+photographs) to substantiate analytic findings -->
+
+```{python}
+#| echo: false
+#| output: asis
+#| cache: false
+
+from collections import defaultdict
+from data.create_table import create_recommendations_text
+from data import STAGES, CHANGES_BY_STAGE
+
+changes_by_stage = defaultdict(list)
+for change in CHANGES_BY_STAGE:
+    changes_by_stage[change.stage].append(change)
+
+for stage in changes_by_stage:
+    print(f"## {STAGES[stage]}\n\n\n\n")
+    print(create_recommendations_text(changes_by_stage[stage]))
+```

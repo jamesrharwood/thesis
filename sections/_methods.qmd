@@ -12,7 +12,6 @@ Reflecting on our prior held opinions, all authors believed reporting to be impo
 
 JH, JdB and MS took part in the internal EQUATOR meetings before the focus groups were held (see Methods).JH has a background in software development and user experience. As an early career researcher, JH has experienced first hand frustration when trying to use reporting guidelines himself, and maintained reflexivity by maintaining a journal of these experiences as well as his experiences facilitating the focus groups.
 
-
 ## Context
 
 We ran focus groups over Zoom, with participants attending from their usual place of work of home. The study took place at a time where the EQUATOR guidance for guideline developers was being updated. All participants had heard of EQUATOR, and many had professional relationships with GC, JdB and MS, who did not take part in the focus groups. JH had spoken to a few participants previously at conferences but, as a relative outsider to the reporting guideline ecosystem, he hoped that participants would feel comfortable to speak candidly and non-defensively.
@@ -71,7 +70,7 @@ In the first focus group it became apparent that participants had a lot to say a
 
 ### Brainstorming solutions to chosen barriers
 
-JH would explain the barrier in question and allow participants to ask questions. Once participants felt they understood it, JH asked them to spend a couple of minutes brainstorming solutions in silence. Participants then explained discussed their ideas as a group. Once all ideas had been discussed, JH would reveal the solutions identified by previous groups by changing the colour of the text in the right hand column from white to black. Participants then edited or extended the text until it reflected their thoughts. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to.
+JH would explain the barrier in question and allow participants to ask questions. Once participants felt they understood it, JH asked them to spend a couple of minutes brainstorming solutions in silence. Participants then  discussed their ideas as a group. Once all ideas had been discussed, JH would reveal the solutions identified by previous groups by changing the colour of the text in the right hand column from white to black. #TODO exaplin why we did this. Participants then edited or extended the text until it reflected their thoughts. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to.
 
 Sometimes participants would get fixed on a particular solution and find it difficult to think of others. If this happened, JH would reassure participants that their fixated solution was documented and that it would be useful to think of alternatives. He would use intervention functions from the Behaviour Change Wheel to prompt discussion, saying something like "Could we change how people feel about this [barrier]?" or "What would make [behaviour] easier to do?".
 
@@ -79,7 +78,7 @@ Sometimes participants would get fixed on a particular solution and find it diff
 
 After each focus group, JH would make notes on how the session went, make a copy of the co-produced document, turn the right hand column white again, and share it with participants of the next group.
 
-### Data processing and anlysis
+### Data processing
 
 After the final focus group, JH imported the final co-produced file into NVivo and applied descriptive codes to ideas. Each idea was a single intervention change, so some sentences contained multiple ideas. Sometimes the same idea appeared against multiple barriers, and most barriers had multiple associated ideas. He also coded the barriers and stakeholders that were related to each idea.
 
@@ -89,16 +88,12 @@ Our analysis involved aggregating and summarising ideas. We did not seek to inte
 
 JH then discussed and refined all coding, aggregating and summarising with JdB. Sometimes participants would mention an idea without specifying which stakeholder(s) it could apply to, and so JH and JdB added relationships between stakeholders and ideas retrospectively when necessary.
 
-JH kept a diary whilst running focus groups and analysing data, where he noted down any additional ideas as they came to him. Whereas he had contributed ideas to pre-focus group, internal EQUATOR meetings (where colleagues could discuss, challenge and build upon them), he kept these ideas to himself during the focus groups and only added them to the data after analysis, marking them clearly, before sending the draft summary of ideas back to participants for comment.
+JH kept a diary whilst running focus groups and analysing data, where he noted down any additional ideas as they came to him. Whereas he had contributed ideas to pre-focus group, internal EQUATOR meetings (where colleagues could discuss, challenge and build upon them), he kept ideas to himself during the focus groups and only added them to the data after analysis, marking them clearly, before sending the draft summary of ideas back to participants for comment. We felt that adding JH's ideas was justified because our objective was to identify as many ideas as possible, and whilst we wanted to solicit ideas from a wide range of stakeholders, the _origin_ of those ideas was not important.
 
-_Feedback after the focus groups:_
+### Feedback after the focus groups {#sec-feedback-after-focus-groups}
 
-JH invited EQUATOR members and focus group participants to comment on the summary of ideas to ensure it reflected their ideas faithfully and add any further ideas. JH also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
+JH sent the aggregated, summaried ideas to focus group participants and EQUATOR members, inviting them to add more ideas and to check that it reflected their ideas faithfully. JH also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
 
-_Techniques to enhance trustworthiness:_ {#sec-trust}
+## Techniques to enhance trustworthiness {#sec-trust}
 
-JH maintained a reflective journal through the study and documented his own ideas before and during the study. Together, this journal and the versions of the co-produced document formed a paper trail. JH could refer to audio recordings of the focus groups for clarity.
-
-JH would always ask participants to consider things themselves before discussing with a group, and before revealing the thoughts of previous participants (by changing text from white to black). 
-
-* Consider explaining again how I dealt with ideas _before_ the study and _during_ the study.
+In addition to the member checking described above, JH maintained a reflective journal through the study and documented his own ideas before and during the study. Together, this journal and the versions of the co-produced document formed a paper trail. JH refered to audio recordings of the focus groups whenever he needed to clarify parts of the document.
