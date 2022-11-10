@@ -8,3 +8,4 @@ venv/
 /.quarto/
 *.pyc
 *.code-workspace
+output/
