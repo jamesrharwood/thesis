@@ -9,3 +9,5 @@ venv/
 *.pyc
 *.code-workspace
 output/
+*.docx
+output/

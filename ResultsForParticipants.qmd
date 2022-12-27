@@ -1,6 +1,6 @@
 ---
 title: |
-    Identifying possible improvements to reporting guideline dissemination: focus groups with guideline experts
+    Identifying possible ways to improve the dissemination of reporting guidance: focus groups with guideline experts
 
 format: 
     docx:
@@ -18,11 +18,11 @@ format:
 
 Below is a list of ideas that came out of focus groups with reporting guideline developers and advocates. I have arranged them into things to consider before, whilst, and after developing guidance.
 
-Each idea targets one or more barriers that authors may face when using reporting guidelines. I've included the barriers at the end of the document. Most of these barriers came from previous evidence and a few more were added by participants during the focus groups.
+Each idea targets one or more barriers that authors may face when using reporting guidelines. Most of these barriers came from previous evidence and a few more were added by participants during the focus groups. I've included them in the second half of this document (see @sec-barriers).
 
-^JH^ indicates clarifications or additions that I have made but which weren't present in the co-edited file.
+^JH^ indicates clarifications or additions that I have made but which weren't present in the file that participants edited.
 
-Please have a read through and comment on anything that is unclear, misrepresentative, or if you would like to add further ideas. 
+Please have a read through and comment on anything that is unclear, misrepresentative, or if you would like to add further ideas.
 
 Thank you again!
 
@@ -30,7 +30,7 @@ Thank you again!
 
 {{< pagebreak >}}
 
-# Ideas to improve reporting guidelines
+# Ideas to improve reporting guidance dissemination
 
 ```{python}
 #| echo: false

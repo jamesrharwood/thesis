@@ -1,0 +1,17 @@
+```{python}
+#| echo: false
+#| output: asis
+#| cache: false
+
+from collections import defaultdict
+from data.create_table import create_recommendations_text
+from data import STAGES, CHANGES_BY_STAGE
+
+changes_by_stage = defaultdict(list)
+for change in CHANGES_BY_STAGE:
+    changes_by_stage[change.stage].append(change)
+
+for stage in changes_by_stage:
+    print(f"## {STAGES[stage]}\n\n\n\n")
+    print(create_recommendations_text(changes_by_stage[stage]))
+```

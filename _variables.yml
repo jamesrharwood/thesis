@@ -1,16 +1,81 @@
+IFSecs:
+  accessible: make-resources-accessible
+  apparent-priority: make-reporting-guidelines-appear-as-a-priority
+  avoid-prescribing-structure: avoid-prescribing-structure
+  avoid-proliferation: avoid-overwhelming-authors-with-too-many-reporting-guidelines
+  budget-and-fund-reporting: budget-for-reporting
+  citation: show-and-encourage-citations
+  create-early-guidance: create-reporting-guidance-for-early-stages-of-research
+  create-rewards: create-rewards
+  create-spaces: create-discussion-spaces
+  create-tools: create-additional-tools
+  design-agnostic: keep-reporting-guidelines-agnostic-to-design-choices
+  early-acquisition: create-ways-to-catch-authors-earlier
+  easy-understand: make-reporting-guidelines-easy-to-understand
+  endorse-enforce: endorse-and-enforce-reporting-guidelines
+  evidence-benefits: evidence-the-benefits
+  findable-resources: make-resources-easy-to-discover-and-find
+  information-architecture: make-information-digestible
+  item-content: describe-reporting-items-fully
+  keep-short: keep-guidance-short
+  persuade: use-persuasive-language-and-design
+  promote: promote-reporting-guidelines
+  ready-to-use: make-resources-ready-to-use
+  reporting-champions: install-reporting-champions
+  rg-introductions: describe-each-reporting-guideline-fully
+  support: provide-additional-teaching
+  testimonials: provide-testimonials
+  updating: make-updating-guidelines-easier
+  value-statement: describe-reporting-guidelines-where-they-are-encountered
+IFs:
+  accessible: Make resources accessible
+  apparent-priority: Make reporting guidelines appear as a priority
+  avoid-prescribing-structure: Avoid prescribing structure
+  avoid-proliferation: Avoid overwhelming authors with too many reporting guidelines
+  budget-and-fund-reporting: Budget for reporting
+  citation: Show and encourage citations
+  create-early-guidance: Create reporting guidance for early stages of research
+  create-rewards: Create rewards
+  create-spaces: Create discussion spaces
+  create-tools: Create additional tools
+  design-agnostic: Keep reporting guidelines agnostic to design choices
+  early-acquisition: Create ways to catch authors earlier
+  easy-understand: Make reporting guidelines easy to understand
+  endorse-enforce: Endorse and enforce reporting guidelines
+  evidence-benefits: Evidence the benefits
+  findable-resources: Make resources easy to discover and find
+  information-architecture: Make information digestible
+  item-content: Describe reporting items fully
+  keep-short: Keep guidance short
+  persuade: Use persuasive language and design
+  promote: Promote reporting guidelines
+  ready-to-use: Make resources ready-to-use
+  reporting-champions: Install reporting champions
+  rg-introductions: Describe each reporting guideline fully
+  support: Provide additional teaching
+  testimonials: Provide testimonials
+  updating: Make updating guidelines easier
+  value-statement: Describe reporting guidelines where they are encountered
 counts:
+  EQUATOR_ideas: TODO
+  academics: 2
   barriers: 32
   changes: 28
+  focus_groups: 7
+  guideline_developers: 11
   jh_ideas: 8
+  jh_ideas_before: TODO
+  participants: 16
+  publishers: 3
   stakeholders: 10
-  sub_items: 163
-  sub_items_pre_jh: 155
+  sub_items: 136
+  sub_items_pre_jh: 128
 descriptions:
-  stages: before developing guidance, when developing guidance, when writing guidance
-    down and creating resources, when disseminating resources, or on an ongoing basis
-  stakeholders: funders, ethics committees, institutions, publishers, equator network,
-    guideline developers, registries, preprint servers, conference organisers, and
-    societies
-focus_groups_count: 7
-stages: before developing guidance, when developing guidance, when writing guidance
-  down and creating resources, when disseminating resources or on an ongoing basis
+  stages: before developing guidance, when developing guidance, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
+  stakeholders: funders, ethics committees, institutions, publishers, equator network, guideline developers, registries, preprint servers, conference organisers, and societies
+stages:
+  creation: When writing guidance down and creating resources
+  development: When developing guidance
+  dissemination: When disseminating resources
+  ongoing: On an ongoing basis
+  planning: Before developing guidance

@@ -14,6 +14,7 @@ class Change(DataclassBase):
     content: str
     title: str
     stage: str
+    idea_count: int
     stage_index = int
     barrier_ids: list
     barriers: list=field(default_factory=list)

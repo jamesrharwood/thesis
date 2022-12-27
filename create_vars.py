@@ -2,13 +2,18 @@ import yaml
 
 from data import BARRIERS, CHANGES, STAKEHOLDERS, STAGES
 
+participants = 16 #TODO
+focus_groups = 7 #TODO
+guideline_developers = 11 #TODO
+publishers = 3 #TODO
+academics = 2 #TODO
+
 sub_item_count = 0
 jh_ideas_count = 0
+jh_ideas_before = 'TODO'
 
 for change in CHANGES:
-    items = change.content.splitlines()
-    items = [item for item in items if item]
-    sub_item_count += len(items)
+    sub_item_count += change.idea_count
     jh_ideas_count += change.content.count('^JH^')
 
 counts = dict(
@@ -18,22 +23,32 @@ counts = dict(
     sub_items = sub_item_count,
     sub_items_pre_jh = sub_item_count - jh_ideas_count,
     jh_ideas = jh_ideas_count,
+    jh_ideas_before = jh_ideas_before,
+    EQUATOR_ideas = 'TODO',
+    participants = participants,
+    focus_groups = focus_groups,
+    guideline_developers = guideline_developers, 
+    academics = academics, 
+    publishers = publishers,
 )
 
 
-stages = list(STAGES.values())
-stages = [s.lower() for s in stages]
-stages = ', '.join(stages[:-1]) + ', or ' + stages[-1]
+stages_strs = list(STAGES.values())
+stages_strs = [s.lower() for s in stages_strs]
+stages_str = ', '.join(stages_strs[:-1]) + ', or ' + stages_strs[-1]
 
-stakeholders = [s.title.lower() for s in STAKEHOLDERS]
-stakeholders = ', '.join(stakeholders[:-1]) + ', and ' + stakeholders[-1]
+stakeholders_strs = [s.title.lower() for s in STAKEHOLDERS]
+stakeholders_str = ', '.join(stakeholders_strs[:-1]) + ', and ' + stakeholders_strs[-1]
 
 descriptions = dict(
-    stages=stages,
-    stakeholders=stakeholders,
+    stages = stages_str,
+    stakeholders = stakeholders_str,
 )
 
 filename = "_variables.yml"
+
+changes = {c.id: c.title for c in CHANGES}
+changes_section_titles = {c.id: c.title.lower().replace(' ', '-') for c in CHANGES}
 
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)
@@ -44,5 +59,9 @@ with open(filename, 'r+') as file_:
         variables.update({'counts': {}})
     variables['counts'].update(counts)
     variables.update({'descriptions': descriptions})
-    yaml.dump(variables, file_)
+    stages = STAGES
+    variables.update({'stages': stages})
+    variables.update({'IFs':  changes})
+    variables.update({'IFSecs': changes_section_titles})
+    yaml.dump(variables, file_, width=1000)
     file_.truncate()

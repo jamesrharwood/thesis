@@ -10,7 +10,7 @@ CA teaches qualitative methods across a range of courses at Oxford University an
 
 Reflecting on our prior held opinions, all authors believed reporting to be important. With the exception of CA, all authors have a history of developing or advocating for reporting guidelines. CA felt that reporting guidelines are useful for quantitative research but that some reporting guidelines, in their current format, risk holding qualitative researchers to positivist standards.
 
-JH, JdB and MS took part in the internal EQUATOR meetings before the focus groups were held (see Methods).JH has a background in software development and user experience. As an early career researcher, JH has experienced first hand frustration when trying to use reporting guidelines himself, and maintained reflexivity by maintaining a journal of these experiences as well as his experiences facilitating the focus groups.
+JH, JdB and MS took part in the internal EQUATOR meetings before the focus groups were held (see Methods). As an early career researcher, JH has experienced first hand frustration when trying to use reporting guidelines himself, and maintained reflexivity by maintaining a journal of these experiences as well as his experiences facilitating the focus groups.
 
 ## Context
 
@@ -51,18 +51,15 @@ Given that there were many barriers to discuss and many potential solutions, we 
 
 The EQUATOR team met #TODO times between #TODO and #TODO, with each meeting lasting #TODO hours. Throughout these meetings, JH would ask EQUATOR members to consider the worksheets on their own or in pairs, before discussing as a group. He would withold his own ideas until the end, whereupon other EQUATOR members could discuss them and add them to the document if desired. Most of these ideas came from the thematic synthesis or his software development experience. We felt this was justified as raising ideas from the lead researcher at this early stage meant that all EQUATOR members and future focus group members would have the opportunity to modify or disagree with them.
 
-The result was a single document with two columns: barriers were described in the left hand column, and potential solutions in the right hand column. It can be seen at #TODO OSF file. Focus group participants could edit or add to this initial list. This gave participants plenty of food for thought and made it easier to achieve our aim of identifying as many ideas as possible.
+The result was a single "ideas document" with two columns: barriers were described in the left hand column, and potential solutions in the right hand column. It can be seen at #TODO OSF file. Focus group participants could edit or add to this initial list. This gave participants plenty of food for thought and made it easier to achieve our aim of identifying as many ideas as possible.
 
 ### Before each focus group
 
-Before each focus group, we would ask participants to spend some time thinking of faciliators and barriers. A few minutes before the focus group began we would send aMicrosoft Sharepoint link to the latest version of the list of barriers and solutions. In order not to bias participants, we formatted the solutions column with white text before sharing it. This made the text initially invisible, and we would only change the font back to black after focus group participants had considered their own ideas.
-
-We did not aim to priotise ideas. Stakeholders could choose to evaluate ideas. The Behaviour Change Wheel recommends using the APEASE criteria for this (Acceptability, Practicability, Effectiveness, Affordability, Side-effects and Equity).
-<!-- #TODO: move to discussion -->
+Before each focus group, we would ask participants to spend some time thinking of faciliators and barriers. A few minutes before the focus group began we would send a Microsoft Sharepoint link to the latest version of the ideas document. 
 
 ### Focus Group introductions
 
-At the start of each focus group JH explained that the goal was to brainstorm blue-sky ideas to barriers. Wanting guideline developers to think open-mindedly and not defensively, he explained where the list of barriers had come from, and that the barriers were in reference to reporting guidelines _in general_, and not necessarily a comment on _their_ guideline. He encouraged participants to think beyond the guideline documents themselves, and to consider all stakeholders and resources involved. He explained that the aim was to think of as many ideas as possible, and not worry too much about whether ideas were good or bad.
+At the start of each focus group JH explained that the goal was to brainstorm blue-sky ideas to barriers. Wanting guideline developers to think open-mindedly and not defensively, he explained where the list of barriers had come from, and that the barriers were in reference to reporting guidelines _in general_, and not necessarily a comment on _their_ guideline. He encouraged participants to think beyond the guideline documents themselves, and to consider all stakeholders and resources involved. He explained that the aim was to think of as many ideas as possible, and not worry about whether ideas were good or bad.
 
 ### Selecting which barriers to talk about
 
@@ -70,17 +67,17 @@ In the first focus group it became apparent that participants had a lot to say a
 
 ### Brainstorming solutions to chosen barriers
 
-JH would explain the barrier in question and allow participants to ask questions. Once participants felt they understood it, JH asked them to spend a couple of minutes brainstorming solutions in silence. Participants then  discussed their ideas as a group. Once all ideas had been discussed, JH would reveal the solutions identified by previous groups by changing the colour of the text in the right hand column from white to black. #TODO exaplin why we did this. Participants then edited or extended the text until it reflected their thoughts. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to.
+JH would explain the barrier in question and allow participants to ask questions. Once participants felt they understood it, JH asked them to spend a couple of minutes brainstorming solutions in silence. Participants then  discussed their ideas as a group. In order not to bias participants, JH hid exisint ideas within the ideas document by turning the text in the ideas column white, making it invisible before sharing. Once participants had discussed their own ideas, JH would reveal the ideas identified by previous groups by changing the colour of the text back to black. Participants then edited or extended the text until it reflected their thoughts. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to.
 
 Sometimes participants would get fixed on a particular solution and find it difficult to think of others. If this happened, JH would reassure participants that their fixated solution was documented and that it would be useful to think of alternatives. He would use intervention functions from the Behaviour Change Wheel to prompt discussion, saying something like "Could we change how people feel about this [barrier]?" or "What would make [behaviour] easier to do?".
 
 ### Between focus groups
 
-After each focus group, JH would make notes on how the session went, make a copy of the co-produced document, turn the right hand column white again, and share it with participants of the next group.
+After each focus group, JH would make notes on how the session went, make a copy of the edited ideas document and turn the ideas column white again, ready to be shared with the next group.
 
 ### Data processing
 
-After the final focus group, JH imported the final co-produced file into NVivo and applied descriptive codes to ideas. Each idea was a single intervention change, so some sentences contained multiple ideas. Sometimes the same idea appeared against multiple barriers, and most barriers had multiple associated ideas. He also coded the barriers and stakeholders that were related to each idea.
+After the final focus group, JH imported the final ideas document into NVivo and applied descriptive codes to ideas. Each idea was a single intervention change, so some sentences contained multiple ideas. Sometimes the same idea appeared against multiple barriers, and most barriers had multiple associated ideas. He also coded the barriers and stakeholders that were related to each idea.
 
 ### Data analysis
 
@@ -97,3 +94,4 @@ JH sent the aggregated, summaried ideas to focus group participants and EQUATOR 
 ## Techniques to enhance trustworthiness {#sec-trust}
 
 In addition to the member checking described above, JH maintained a reflective journal through the study and documented his own ideas before and during the study. Together, this journal and the versions of the co-produced document formed a paper trail. JH refered to audio recordings of the focus groups whenever he needed to clarify parts of the document.
+

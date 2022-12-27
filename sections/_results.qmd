@@ -1,14 +1,12 @@
 # Results
 
-## Units of study 
+## Units of study
 
-#TODO participants attended one of {{< var focus_groups_count >}} focus groups. Participants included guideline developers (n=#TODO), publishing professionals (n=#TODO), and academics that study reporting guidelines (n=#TODO). 
+{{< var counts.participants >}} participants attended one of {{< var counts.focus_groups >}} focus groups. Participants included guideline developers (n={{< var counts.guideline_developers >}}), publishing professionals (n={{< var counts.publishers >}}), and academics that study reporting guidelines (n={{< var counts.academics >}}).
 
-Participants identified {{< var counts.sub_items_pre_jh >}} ideas to address {{< var counts.barriers >}} barriers. JH added a further {{< var counts.jh_ideas >}} ideas to this list retrospectively to make {{< var counts.sub_items >}} ideas in total. JH then grouped these ideas into {{< var counts.changes >}} broader ideas, which we categorised according to whether they could be considered {{< var descriptions.stages >}}. Participants identified {{< counts.stakeholders >}} stakeholders that could enact these ideas including {{< descriptions.stakeholders >}}.
+Before the focus groups, JH had made a note of his own ideas (n={{< counts.jh_ideas_before >}}). The internal workshops with EQUATOR grew this list to {{< counts.EQUATOR_ideas >}} ideas which were included in the initial "ideas list" document presented to the first focus group. After the final focus group, participants had extended this list further to include {{< var counts.sub_items_pre_jh >}} ideas to address {{< var counts.barriers >}} barriers. JH then grouped these ideas into {{< var counts.changes >}} broader ideas, which we categorised according to whether they could be considered {{< var descriptions.stages >}}. Participants identified {{< counts.stakeholders >}} stakeholders that could enact these ideas including {{< descriptions.stakeholders >}}.
 
-<!-- #TODO: Compare with the number of ideas, barriers and stakeholders identified by EQUATOR before the focus groups began. -->
-
-_Synthesis and interpretation:_
+## Synthesis and interpretation
 
 <!-- #TODO: For each idea write a small discussion of the focus group data, e.g., highlighting disagreements and 'popular' barriers. -->
 
@@ -19,20 +17,351 @@ prior research or theory -->
 <!-- Links to empirical data - Evidence (e.g., quotes, field notes, text excerpts,
 photographs) to substantiate analytic findings -->
 
-```{python}
-#| echo: false
-#| output: asis
-#| cache: false
+### {{< var stages.planning >}}
 
-from collections import defaultdict
-from data.create_table import create_recommendations_text
-from data import STAGES, CHANGES_BY_STAGE
+#### Create reporting guidance for early stages of work
 
-changes_by_stage = defaultdict(list)
-for change in CHANGES_BY_STAGE:
-    changes_by_stage[change.stage].append(change)
+To encourage researchers to use reporting guidelines earlier in their research, participants suggested "developing [reporitng guidance] for protocols", funding , and ethics applications. 
 
-for stage in changes_by_stage:
-    print(f"## {STAGES[stage]}\n\n\n\n")
-    print(create_recommendations_text(changes_by_stage[stage]))
-```
+#### {{< var IFs.avoid-proliferation >}}
+
+#TODO reconsider this theme title 
+
+"We need fewer, better, reporting guidelines" wrote one participant, when discussing how authors may struggle to identify which of the 500+ reporting guidelines apply to their work. Authors can be confused when multiple guidelines exist for a type of research, and can find it difficult to reconcile multiple sets of guidance. 
+
+Because reporting guideline developers may duplicate each other's work unwitingly, participants wrote that developers should consult EQUATOR's register of reporting guidelines under development before creating a new guideline. 
+
+Sometimes a developer wishes to create guidance tailored to a use-case or research niche, and participants had ideas of how this could be done in user-friendly ways. The first was to consider creating "modular" guidance. Participants spoke of modules in two different ways. Firstly, new reporting guidelines can be created to substitute for particular items in existing reporting guidelines. Participants named TIDIER as an example of this strategy, which can be substituted for items 5 and 11 in CONSORT and SPIRIT. Participants identified a second kind of modularity in the JARS guidelines, where a general reporting guideline covering all quantitative psychology research can be mixed and matched with modules for non-experimental and experimental designs, with or without random assignment, or special modules for longitudinal, n-of-1, or replication studies (#REF). When modules aren't sufficient, participants suggested making "versions" or "extensions" of existing guidance "e.g., STROBE split into STROBE Cohort, Case-control etc". 
+
+Participants wrote that guideline developers could "harmonize" resources so that they "speak to another", have compatible structure, and don't "use different wording for what is essentially the same item". Participant's recommendation to "use similar terminology [across] related guidelines" extends to the title; STROBE-nut, STROBE-ME and STROBE-RDS are more redily idenifiable as STROBE extensions than STREGA, ROSES-I, or STROME-ID. Naming can also indicate when a guideline has been revised: "ARRIVE 2.0" is recognisable as a replacement of "ARRIVE", whereas "TIDIER Placebo" appears to be an extension but "should be called TIDIER 2.0".
+
+Participants noted that "EQUATOR cannot prevent guideline developers from creating duplicate guidelines or narrow extensions" but could "improve the registration process for RGs that are under development", better "highlight [reporting guidelines] that are under development in the main search results", and could "create options and instructions to encourage developers to extend existing guidance instead of duplicating. This could go in the new guidance for guideline developers".
+
+#### {{< var IFs.avoid-prescribing-structure >}}
+
+Participants noted that "guidelines should avoid prescribing structure as [it] may clash with journal guidelines". 
+
+#### {{< var IFs.design-agnostic >}}
+
+Participants recognised that _designing_ research is a separate problem to _reporting_ it, and that many authors will only encounter reporting guidelines _after_ the manuscript has been written, at which point design advice is less useful. Although some developers felt keen to impart design advice somehow (so that authors can "learn for next time"), others felt that design advice could be removed from reporting guidelines entirely, and that developers should "encourage transparent reporting over and above good design".
+
+These discussions arose when considering how some authors can feel afraid to report transparently if what they did goes against the design recommendation, and other can feel patronized if forced to use a reporting guideline that prescribes design choices. <!-- This could all go in persuasion instead --> Participants wrote that developers could "reassure researchers (and remind editors) that guidelines are just that: guidelines!" and that authors could "explain reasons for methods choices, [which may] be legitimate, and the consequence of not choosing one option over another, even if the choice is a rarely used option, may not have major consequence on the results of the study. Editors and peer-reviewers may not judge as harshly when the understand the rationale for the choice". <!-- to here -->Authors could be encouraged to "describe what they did in plain language to make it clear - if what they did doesn't quite fit with standard terminology (e.g., if they didn't really do theoretical sampling or aren't sure if they did theoretical sampling) then just describe what they did, how they made sampling decisions".
+
+These discussions _also_ arose when considering how including design advice elongates guidance, potentially putting authors off. To solve this, participants suggested reporting guidelines could link to design resources "elsewhere". If reporting guidance were presented on a website, authors could be given options to "display or hide" design advice, and could be displayed differently depending on whether the author was "designing [research], applying for funding, or drafting" a manuscript.
+
+#### {{< var IFs.item-content >}}
+
+Many barriers prompted participants to suggest content to include for every reporting item.
+
+Firstly, authors need to know what details to write. Participants noted that a brief description could go in checklists and a longer description in the full guidance.
+
+Participants also suggested advising authors what to write if they didn't or couldn't do something to make it "easy for researchers to report things they are embarrassed about", suggesting authors could "explain reasons for methods choices" <!-- used above too -->, or "consider the item in their discussion section as a possible limitation". Participants also wrote that developers could also help authors by suggesting what to write when an item doesn't apply.
+
+Besides knowing what to write, participants suggested explaining "why [an item] is important and who it is important to" as this isn't always obvious to authors. To make guidelines faster to use, participants suggested indicating which items are most important, perhaps "prioritis[ing] certain items as essential vs. recommended, like ARRIVE 2.0 essential 10" and indicating conditions that make items less or more important, including circumstances that make the item non-applicable.
+
+To help authors who want to keep writing concise, participants suggested advising "when an item can be put into a table, figure, box, supplement, or appendix etc" and to "explain the pros and cons of different options e.g., whether content will be peer reviewed or indexed" by search tools.
+
+Participants often mentioned examples to help authors understand and apply guidance. Participants suggested these examples could include both "good and bad reporting" with an explanation of "how [nad reporting] could be improved". To help authors who are afraid to transparently report limitations, participants suggested including examples of _imperfect_ research that is perfectly-reported. Participants suggested including examples of "reporting in different contexts", from different disciplines,  "in multiple languages", and should include examples of concise reporting e.g. reporting "TIDIER items nicely in a table".
+
+Because examples from the published literature can be "difficult to [...] find and list", participants suggested that developers could create examples themselves, noting that examples could be "real or generated". However they are compiled, participants write they should be "easy to find" from within the guidance resources. Others suggested a searchable "bank" of examples, or ways to showcase "exemplar papers (e.g., badges)".
+
+Finally, participants discussed the pros and cons of including design advice, procedural instructions, and appraisal advice, and the different ways of doing it (see @sec-{{< var IFSecs.design-agnostic >}}).
+
+#### {{< var IFs.rg-introductions >}}
+
+When considering what information an author needs to fully understand which reporting guideline they should use, participants wrote that reporting guidelines and resources should "clearly state what kind of research the guidance applies to" and "point researchers to other guidelines if more relevant, perhaps using 'if, then' rules e.g., 'if you did X then use Y instead of this guideline'".
+
+If no better guideline exists for a particular type of study, participants suggested to "warn the user that they can still use this guideline but that they may need to ignore certain questions e.g. 'This guideline is for studies that did X. You can still use it if you did Y, but you will need to ignore items 4, 6, and 8-10'".
+
+Similarly, to ensure that a reporting guideline for writing manuscripts can also be used for writing protocols, developers could specify "which items need to be considered at protocol/planning stage, and which at results reporting stage."
+
+Participants suggested stating the guideline's "aim". This could also be reflected in the guideline's name, when considering whether to use words like _guideline_, _standard_, or _template_ etc, which may influence how prescriptive the user expects the resource to be. Developers could "be clear about what reporting guidelines _are not_. For instance, when they are not design guideline or critical appraisal tools" this could be specified and authors could be directed to other tools instead.
+
+Finally, participants suggested telling authors how much time the guideline is expected to take them to read and use, why it can be trusted, and where they can read about its development.
+
+#### {{< var IFs.keep-short >}}
+
+"Make guidance shorter" wrote one participant, and "Make checklists shorter ;P", wrote another, when considering how "guideline length [...] may put researchers off" as "long guidelines appear more complex and time consuming" and can challenge word limits.
+
+Some felt that guidelines could be shorter if developers were "realistic about what they ask for. They should try using a guideline from start to finish and see how the manuscript ends up". Others felt that guidelines could be shortened by linking out to content that wasn't directly related to reporting, like design or appraisal advice (see @sec-{{< var IFSecs.design-agnostic >}}). Guidelines that are "very long or [have] lots of optional items" could be split into multiple versions (see STROBE as an example in @sec-{{< var IFSecs.avoid-proliferation >}}).
+
+Others suggested presenting guidance online with non-essential content collapsed so that authors could choose to "display or hide" it. When guidance is published in an article or document, participants noted that "itemisation can make guidance more digestible, but can also make it harder to get the bigger picture" and makes text appear longer.
+
+### {{< var stages.development >}}
+
+#### {{< var IFs.ready-to-use >}}
+
+Participants suggested that resources should be in ready-to-use formats. For instance, "checklists should be editable (not PDFs)".
+
+#### {{< var IFs.easy-understand >}}
+
+"Make guidance easier to understand" was written as a solution to help authors who misinterpret, or can't understand, guidance. Participants suggested developers could "make guidance as 'plain language' as possible" when writing new guidance, and could also "create plain language versions of existing guidance", being "mindful of language that may appear patronizing"
+
+Participants suggested defining "key words or phrases in a glossary or tooltips", using consistent terms across related resources, translating guidelines and examples, and ensuring these translations easy to find by making them "searchable", "linked properly" to each other, and "more evident on [the] EQUATOR site".
+
+Participants recognised a need to collect and respond to feedback from "international researchers" representative of the user base across disciplines and institutions, and that this could be sought when developing guidance to "test" it, but also on an ongoing basis to "continually revisit the items in the guidelines that may be confusing or difficult to implement". One guideline developer contributed that collecting feedback had lead them to remove "the word 'context' because users struggled to understand it".
+
+#### {{< var IFs.persuade >}}
+
+When discussing how authors feel about reporting guidelines and checklists, participants reflected on how the wording and presentation of resources can influence authors' perceptions to it.
+
+Participants noted that a poorly formatted checklist, lacking "visual appeal/graphic design", can "appear larger than it is" and "could also appear outdated". Participants suggested that developers could "engage graphic designers" to "foster feelings of simplicity".
+
+Participants suggested rewording the instructions to make reporting guidelines and checklists "appear less like 'red tape'", and to reassure that "reporting guidelines are just that: guidelines!". Participants suggested adding this framing at the top of checklists "in case people don't read the whole [guideline] paper", but being mindful not to "appear patronizing".
+
+Reassurance seemed especially important when considering how to motivate authors to transparently report items that aren't perfect, and that developers could use language to "foster a feeling of confidence, not judgement", perhaps reminding "researchers that all research has limitations". Reassurance could also be given by including notes aimed at reviewers, citing JARS as an example which "which explains to reviewers why an author may make certain choices", thereby educating reviewers whilst reassuring authors that they won't be penalised for transparency.
+
+#### {{< var IFs.create-tools >}}
+
+Where guidance is detailed in a guideline or "example or elaboration" document, developers can also make tools that make guidance easier to apply. The best known example of a tool are checklists which serve as a summary of the guidance and a way of demonstrating compliance to editors. Participants noted that checklists may be easier to use if they are editable (see @sec-{{< var IFSecs.ready-to-use >}}), if authors could complete them with "the relevant text, rather than [the] page/section number" which can be frustrating to keep updated.
+
+To aid writing, participants suggested "templates for drafting" manuscripts, interactive forms and "writing tools (e.g., COBWEB)", and tools for creating figures and tables like PRISMA's "flowchart generator", and tools for generating text, like TIDIER's tool for generating intervention description (#REF http://www.tidierguide.org/#/author-tool). Howeever, one participant warned that these kinds of structured writing tools "provide opportunities for inclusion but there is always the risk that they exclude more effective elements that are outside the boundaries of the template".
+
+To encourage authors to consider reporting guidance earlier in their research, participants considered to-do lists with items "in the order they are done", or "embed[ing] items into data collection tools" like software for systematic reviewers.
+
+To help reviewers check reporting, participants suggested creating "tools for co-researchers to check each others' work", creating extra guidance for peer reviewers, providing text that can be pasted in reviewer feedback forms to "request additional information" for poorly reported items, or even building a "reviewer tool that generates a report".
+
+Participants noted that tools should presented in ways that "better differentiate" how and when they should be used "e.g., resources for writing vs. checking vs. reviewing".
+
+#### {{< var IFs.findable-resources >}}
+
+Participants had ideas for how to help authors discover and find reporting guidelines and their associated tools.
+
+Participants wrote about links being an important way for authors to discover related guidelines and tools. These could be "horizontal links between related guidelines" and between guideline "documents and tools" like checklists and templates. All resources should "link to one another", ideally "item by item" so that checklist items could link directly to the relevant section of full guidance. Participants noted that hyperlinks can become out of date, and so stakeholders should "fix broken links".
+
+Participants also wrote that resources could be hosted on "a convenient place, such as a unified website". EQUATOR's website is one such place, and participants suggested making it "easier to navigate" and its "search tool more prominent and easier to use". One participant wrote that if a guideline's "scope is clearly defined that will help search tools" <!-- consider removing to Discussion--> and that when related guidelines have similar names they can benefit from search spillovers. For instance, PRISMA-P may be more likely to appear in a Google search for PRISMA than SPRIT is to appear in a search for CONSORT, simply because of the name similarity. <!-- to here -->
+
+Although some authors will use such search tools, participants recognised that others will browse, and that "curating" collections of reporting guidelines by study type to create a "manageable list of related, commonly used guidelines". As an example, an author writing a review article may be helped by a page listing "PRISMA, MOOSE, ENTREQ, PRISMA-SRc etc." and that "This page could be kept up to date as guidelines are revised". Another participant warned, however, that journals may not want to link to these pages if the collection has "a much broader scope" and includes guidelines that the journal doesn't endorse.
+
+Finding the right guidance is difficult for authors who are less familiar with study designs. One participants suggested creating "tools to help researchers identify study designs (e.g., a questionnaire)", and another, already familiar with such a tool previously developed by us suggested it should "use plain language". 
+
+#### {{< var IFs.information-architecture >}}
+
+Participants acknowleded that authors may use guidance in different ways; some will read the whole thing from start to finish, but others will dip in and out as-and-when they need. Similarly, different users will have different needs depending on their task (drafting, checking, reviewing) or stage of research (planning or writing up). Consequently, participants wrote that "having different options available that meet the needs of different users is vital" and that users should be able to consult guidance in ways that "work for them".
+
+One suggested way of doing this may be to "structure guidance using navigation menus and subheadings" so that "it is easy to find the information you need", making reporting guidelines faster to use and less overwhelming. Another noted that checklists can also be designed, citing TIDIER as "a nice example. They have integrated the intervention and placebo into one table" with the active intervention and placebo in adjacent columns.
+
+Dynamically hiding and showing content was floated here again (see @sec-{{< var IFSecs.keep-short >}}), with one participant suggesting that users could "filter out" irrelevant content, to only see instructions for their specific task (e.g. planning, writing, reviewing) or specific to their study. This could be done with a "decision tree" or "branching questions" to determine specific features of the study ("e.g., a systematic review _with_ network meta-analysis _of_ individual participant data"). Answers to these questions could then be used to to "modify" items to create "personalised guidelines", or to generate a "customised reporting checklist" that includes all "main and relevant extension items".
+
+Dynamic content was also seen as a favourable way to embed guidline extensions which made them discoverable but didn't overwhelm the author. Noting that "some guidelines 'fit together'...e.g., PRISMA and PRISMA-Abstracts", participants wrote that PRISMA-Abstracts could be "embedded", perhaps as collapsed, hidden content that interested authors could expand.
+
+### {{< var stages.dissemination >}}
+
+#### {{< var IFs.value-statement >}}
+
+When introducing reporting guidelines participants suggested telling authors what reporting guidelines are, "when and how best to use" them, and what benefits to expect. This information could go wherever authors are advised to use reporting guidelines (like like journal instruction pages, registries), EQUATOR's website, social media campaigns, and within the guidelines and could go in the checklists too "in case people don't read the whole paper". This introductiory text could be "short, sweet, and to the point", and benefits could be highlighted by putting them "in a box, or [by thinking about] font or positioning".
+
+<!-- #TODO: The quote above about in case people dont read the full guidance was included elsewhere -->
+
+Noting that it might not be obvious how or when to use a guidance, participants suggested being explicit. For example, "tell authors that they don’t need to fill out templates [or checklists] sequentially but can use an order that matches their workflow or decision making. Put this instruction on the template, checklists, and other tools. Example from PRISMA – population and subgroup items are separated in the checklist but go together when thinking/making decisions.". Similarly, authors could benefit from explicit suggestions of how to use reporting guidelines as a team, perhaps by asking "their co-researchers to check their reporting".
+
+<!-- #TODO: check that personal benefits are included elsewhere. E.g., Researchers report caring more about personal, immediate benefits compared to hypothetical benefits to others; More transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study, Provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification -->
+
+#### {{< var IFs.accessible >}}
+
+"Ensure guidance is open access"
+* Authors without subscriptions can access 
+* ALlows others to build upon guidance - extend or tools
+
+#### {{< var IFs.citations >}}
+
+"Ask researchers to cite the guidelines they use"
+"Encourage researchers to cite guidelines in their manuscripts"
+"Highlighting RG items in the manuscript so that it becomes more visible that an RG has been used and that it has helped the creation of a report"
+* makes RGs discoverable from a single article, but also...
+"Provide “social proof” e.g., number of downloads, citations, or visitsReference"
+
+#### {{< var IFs.testimonials >}}
+Testimonials can be short quotes or longer case studies. They could come from:
+•	researchers who have had positive experiences using RGs, including researchers that were nervous about transparency,
+•	decision makers (e.g., editors/grant managers) that value good reporting and/or check for reporting as part of their evaluation,
+•	peer reviewers that use RGs to check for good reporting,
+•	patients who are affected by research waste,
+•	and researchers who need to understand, synthesise, or apply research articles.
+
+"Provide case studies / testimonials from research consumers for whom an item is important
+"Testimonials from “nervous” researchers"
+"Testimonials from editors to put researchers at ease"
+"Provide testimonials illustrating how detrimental poor reporting is for end users (e.g. patients unable to understand a research article that could have helped them had it been better reported)"
+"Provide quotes from editors or reviewers emphasising their preference for transparent reporting"
+"Provide quotes from authors/researchers who felt that RGs helped their work and who’ve had positive experiences (e.g., helped with co-authorship communications, made writing easier, etc.)"
+"Testimonials from researchers describing their experiences of using guidelines, what they would do differently etc"
+"Provide case studies"
+"Provide case studies that showcase researchers with a range of experiences, including experienced researchers who have benefited by changing their practices"
+"Provide good examples of other researchers that have found RGs useful"
+
+### {{< var stages.ongoing >}}
+
+#### {{< var IFs.budget >}}
+
+Funders and research supervisors could encourage researchers to allocate sufficient time and money for documenting and reporting results of their research.
+"Researchers need budget to allocate time to writing. Funders could encourage proper financial/time budgeting for writing."
+
+
+#### {{< IFs.create_rewards >}}
+
+Stakeholders could create new rewards:
+•	journals could fast-track submissions or review for papers that followed a reporting guideline,
+•	journals could offer discounts on article processing charges for papers that followed a reporting guideline,
+•	journals, preprint servers, or peer review platforms could badge well reported articles,
+•	EQUATOR could offer a certification service,
+•	funders could reward good reporting financially,
+•	institutions could offer prizes for good reporting.
+
+"Create new rewards for researchers e.g., badges on published articles or a certificate after completing training"
+"Offer some sort of tangible reward/benefit after completing a reporting guideline (e.g., publishers offering a fast-track review/discount, transparency badge from something like publons)"
+"Badges"
+
+#### {{< IFs.create_spaces >}}
+
+Create spaces for authors to discuss reporting and reporting guidelines. These could be:
+•	online (forums, social media, email),
+•	or offline (meet-ups, clubs).
+Try to make spaces accessible to researchers from all nationalities, professional disciplines and other demographics. Spaces will allow authors to:
+•	solicit help,
+•	share experiences,
+•	provide feedback to guideline developers,
+•	and cultivate a feeling of inclusivity and community ownership.
+
+"Allow researchers to give user feedback and ask questions
+"Developers could consult different user groups when creating guidance to make sure all users understand it as intended"
+"Engage as many health professions as possible to use and share examples of guidelines
+Communicating an invitational attitude among colleagues in various settings is powerful as an extender of the user community"
+"Downregulating hierarchy is useful – nationally, gender, issues, professional disciplines"
+"Website needs constant updated and curating"
+"How can we enable users to give feedback on guidance?
+Researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed. 
+This information could be useful to guideline developers"
+
+"Provide ways for researchers to give feedback to guideline developers"
+"Allow researchers to give feedback on guidelines to cultivate a feeling of community ownership"
+"Build discussion forums so that researchers can see others using and talking about the guidance"
+"Create spaces for researchers to connect with other researchers to celebrate and share experiences e.g., forums, meetings, tea clubs, clinics both in real life and virtual"
+"Make it easier for guideline developers to update guidance"
+"Minor updates could be made without publishing a new article"
+"Engage as many health professions and editors as possible"
+
+#### {{< IFs.catch_early >}}
+
+•	Consider creating email campaigns to prompt researchers at early stages.
+•	The EQUATOR website could encourage visitors to use RGs for planning and drafting research.
+•	Web resources could be optimised for search terms like “protocol”, “research plan” or “funding application”.JH
+•	Writing clubs and writing training could flag reporting guidelines.
+
+"Catch researchers at the right time. Try and shift the time at which researchers discover or guidelines – encourage researchers to use them earlier when it’s more likely that guidelines will save them time"
+"Build user journeys that encourage researchers to use guidance earlier next time (like when you buy something from an online business for the first time, they then work hard to gain your custom again)"
+"Offer an email reminder"
+"Capture researchers earlier in their research pipeline when the RG will be of most benefit and least cost"
+"Encourage use at an earlier stage of research, not just upon submission"
+
+#### {{< IFs.endorse_and_enforce >}}
+
+Stakeholders could:
+•	endorse reporting guidelines
+•	enforce their use by mandating checklists or (preferably) adherence to the guidelines.
+•	Funders could ask about RGs/checklists when collecting updates from grant recipients.
+
+"Encourage more journals to endorse guidelines"
+"Focus on main RGs and being compliant with them – we need less RGs, better RGs"
+"Setting an expectation (from an external source, e.g. from a funder, from Researchfish, or from a journal) that completed checklists be submitted, as a requirement for publication, or as a condition of grant funding"
+"Making completion of reporting guidelines a requirement for registration (where applicable) (e.g. clinical trial registries, PROSPERO), and alerting researchers to the reporting guidelines at the time of registration"
+"Ethics committees and funding organisations requiring completion of guidelines (where applicable) in submission of applications. For example, completion of SPIRIT for clinical trial submissions."
+"Digital dashboard to help audit and monitoring"
+
+#### {{< IFs.evidence_benefits >}}
+
+Evidence any stated benefits:
+•	Experiential benefits could be evidenced by testimonials (e.g. feeling confident, easier writing, value to readers).
+•	Quantifiable benefits could be evidenced with data (e.g., acceptance rates, publishing speed, writing speed).
+
+"More transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study
+Provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification"
+"Likelihood of being accepted might not be heavily influenced – bad research well reported would still be rejected, but if a good study is badly reported may end up rejected just because reviewers/editors take a more critical view due to lack of detail or difficulty understanding what was done"
+"Evidence that the intervention – RG -  improve the completeness and transparency of the output"
+
+#### {{< IFs.apparent_importance >}}
+
+Journals, funders and ethics committees can make RGs appear as a priority:
+•	Make them prominent in author instructions.
+•	Placing checklists earlier in compiled PDFs.
+•	Publicize when RGs are used by reviewers.
+
+"When journals ‘stitch’ or ‘build’ together the manuscript pdf (including cover letter, manuscript main text, appendices, etc.), prioritise the reporting guideline or move it earlier in the pdf to make it more prominent"
+"If the journal uses any sort of structured peer review (e.g., specific questions related to methodology) to tell authors this explicitly and link it to the reporting guideline content"
+"Reporting Guidelines could be more prominent on journal author guideline pages but this is complicated as these guidelines already have to do a lot. RGs might be easier to discover if journal author guidelines were better organised and/or filterable."
+"When journals ‘stitch’ or ‘build’ together the manuscript pdf (including cover letter, manuscript main text, appendices, etc.), prioritise the reporting guideline or move it earlier in the pdf to make it more prominent"
+"If the journal uses any sort of structured peer review (e.g., specific questions related to methodology) to tell authors this explicitly and link it to the reporting guideline content"
+
+#### {{< IFs.promotion >}}
+
+•	Promote RGs on and offline.
+–	Online may include websites, email campaigns, social media, and blogs.
+–	Offline may include appearing at conferences, seminars, and workshops.
+•	Institutions could promote RGs in their curricula, learning materials, or through reporting champions. Guideline developers or EQUATOR could push for RGs to be included in text books.
+•	Promotion can begin before a guideline has been published so that researchers know about guidelines being developed.
+NB. Promotion is different to endorsement; a journal could run an email campaign to promote RGs without having an endorsement policy.
+
+"Social media (twitter and instagram) are very useful to share and connect with others.  Also important ways to drive traffic to the guideline website.  These require time and energy to share and engage with others in social media"
+"Conferences and workshops at institutions can be a great way to share the message and especially to assist in the interpretation and use of the guidelines."
+"Encourage more journals to endorse guidelines"
+"Advertise guidelines through professional societies and conferences as well as funding bodies and ethics committees who could influence research projects right at the project start/conception."
+"Introduce guidelines to early researchers by including these in the university teaching and training curriculum and text books, blogs and social media"
+"Recommend the provision of a time buffer/phasing period for updating new reporting guidelines which would allow researchers to have information about these new guidelines."
+"Using seminars, webinars, and presentations targeting researchers in known hard to reach countries/fields to help raise awareness for reporting guidelines"
+"Have conference organisers recommend researchers remind researchers to use a reporting guideline when writing their abstract (which might hint that they should use this early when writing the full manuscript)"
+"Universities/funders/journals speaking together about the importance of RG throughout to the research process – from protocol to completion"
+"Outreach through conferences, workshops, journals and champions to familiarise people"
+
+#### {{< IFs.reporting_champions >}}
+
+All stakeholders could have members to promote and facilitate the usage of reporting guidelines.
+•	This could follow a local network model with EQUATOR as the central organiser.
+•	Could make use of existing networks, like regional reproducibility networks.
+
+"“Reporting champions” within institutions that can help researchers"
+"Reporting champions that can provide feedback on writing"
+"Have champions within universities at an accessible level (e.g., post-doc, library staff), someone that ECRs feel comfortable talking with, perhaps EQUATOR Ambassadors e.g., as part of the UKRN"
+"“champions” in e.g. universities, with responsibility for expanding knowledge/awareness of guidelines"
+
+#### {{< IFs.additional_teaching >}}
+
+Provide guideline-specific education or training (e.g., courses, videos). More generally, students could:
+•	learn about writing as a process and workflows for documenting and communicating research,
+•	learn about research waste from poor reporting,JH
+•	attempt a replication to learn about the importance of complete reporting,
+•	and use a RG as part of their studies.
+
+"Researchers don’t necessarily understand that reporting is a stage in the research process. Updating the curriculum to teach about this could improve researchers’ knowledge on this issue."
+"Provide training courses"
+"Provide training (e.g., publication school)"
+"Encourage students to replicate a study or do a systematic review to discover how poorly research is currently reported"
+"Or, include learning about results from methods studies that indicate the research waste."
+"Provide training courses"
+"Good research practices that are taught in University courses (setting expectations), and education and training re reporting guidelines (as part of the curriculum). Developing research protocols (as Bachelor or Master Theses) using RGs  – protocols could be assessed based on the compliance with the appropriate RG + other criteria more related with methodology"
+"Structure university courses based on RG items – for example: a course on RCTs covering every single SPIRIT or CONSORT item – this could help a lot develop the protocols mentioned above"
+"Training in writing, workflows and scientific principles"
+"Use the guidelines to drive the field forward and continually"
+
+#### {{< IFs.updating >}}
+
+Update guidance in response to user feedback or changes in the field. This would be easier if:
+•	guideline developers could easily collect feedback from authors.
+•	small updates or refinements could be made without publishing a new article.
+•	guideline developers had funding to evaluate, refine, and update their resources.JH
+
+"Developers could consult different user groups when creating guidance to make sure all users understand it as intended"
+"Engage as many health professions as possible to use and share examples of guidelines"
+"Professional cultural issues can be usefully accommodated."
+"Communicating an invitational attitude among colleagues in various settings is powerful as an extender of the user community"
+"Downregulating hierarchy is useful – nationally, gender, issues, professional disciplines"
+"Website needs constant updated and curating"
+"How can we enable users to give feedback on guidance?"
+
+"Researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed. 
+This information could be useful to guideline developers"
+
+"Provide ways for researchers to give feedback to guideline developers"
+"Allow researchers to give feedback on guidelines to cultivate a feeling of community ownership"
+"Make it easier for guideline developers to update guidance
+"Minor updates could be made without publishing a new article
+"Engage as many health professions and editors as possible"
