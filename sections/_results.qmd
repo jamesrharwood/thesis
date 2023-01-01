@@ -159,89 +159,73 @@ Noting that it might not be obvious how or when to use a guidance, participants 
 
 #### {{< var IFs.accessible >}}
 
-"Ensure guidance is open access"
-* Authors without subscriptions can access 
-* ALlows others to build upon guidance - extend or tools
+Participants wrote "Ensure guidance is open access" as a potential solution to two problems. First, it would ensure that _all_ authors could access the guidance even if they don't have a journal subscription. Secondly, if guidance is published under a permissive license then others reuse the content to extend the guidance or build new tools.
+
+<!-- #TODO check wording - is permissive correct? -->
 
 #### {{< var IFs.citations >}}
 
-"Ask researchers to cite the guidelines they use"
-"Encourage researchers to cite guidelines in their manuscripts"
-"Highlighting RG items in the manuscript so that it becomes more visible that an RG has been used and that it has helped the creation of a report"
-* makes RGs discoverable from a single article, but also...
-"Provide “social proof” e.g., number of downloads, citations, or visitsReference"
+Displaying citation counts on the EQUATOR Network website (or other websites where authors search for reporting guidelines) was described as a way to "provide social proof" and convince first time users that guidelines are credible. 
+
+To generate these citations, participants suggested explicitly asking "researchers to cite the guideline they used", noting that authors may not unless instructed. Participants wrote that if an author cites a guideline they have used, then readers are likely to discover the guideline from that authors' articles. One participant suggested "highlighting RG items in the manuscript so that it becomes more visible that an RG has been used and that it has helped the creation of a report". 
 
 #### {{< var IFs.testimonials >}}
-Testimonials can be short quotes or longer case studies. They could come from:
-•	researchers who have had positive experiences using RGs, including researchers that were nervous about transparency,
-•	decision makers (e.g., editors/grant managers) that value good reporting and/or check for reporting as part of their evaluation,
-•	peer reviewers that use RGs to check for good reporting,
-•	patients who are affected by research waste,
-•	and researchers who need to understand, synthesise, or apply research articles.
 
-"Provide case studies / testimonials from research consumers for whom an item is important
-"Testimonials from “nervous” researchers"
-"Testimonials from editors to put researchers at ease"
-"Provide testimonials illustrating how detrimental poor reporting is for end users (e.g. patients unable to understand a research article that could have helped them had it been better reported)"
-"Provide quotes from editors or reviewers emphasising their preference for transparent reporting"
-"Provide quotes from authors/researchers who felt that RGs helped their work and who’ve had positive experiences (e.g., helped with co-authorship communications, made writing easier, etc.)"
-"Testimonials from researchers describing their experiences of using guidelines, what they would do differently etc"
-"Provide case studies"
-"Provide case studies that showcase researchers with a range of experiences, including experienced researchers who have benefited by changing their practices"
-"Provide good examples of other researchers that have found RGs useful"
+Participants suggested providing "testimonials" as a potential solution to a few different barriers. These could be short quotes or longer case studies, and their purpose would be to educate and persuade authors. 
+
+Participants suggested providing "quotes from authors/researchers who felt that reporting guidelines helped their work and who have had positive experiences" such as making "writing easier" or helping "with co-authorship communications".  Participants proposed that testimonials could bring benefits to life, thereby making them more believable. 
+
+To make authors care more about research waste caused by poor reporting, participants suggested testimonials from "research consumers for whom an item is important", or that illustrate "how detrimental poor reporting is for end users".
+
+Participants wrote that testimonials from decision makers (like editors, reviewers, and grant-givers) could communicate their "preference for transparent reporting" and convince authors that reporting will be checked. If these testimonials conveyed that transparency is valued above perfectionism, participants felt this could reassure authors nervous about transparently reporting imperfect research. Participants also suggested collecting testimonials from such "nervous researchers".
+
+Finally, participants suggested collecting testimonials from researchers "with a range of experience [levels]", including "experienced researchers who have benefitted by changing their practices". Diverse case studies would help engage a diverse user base, and challenge assumptions that reporting guidelines are too patronizing for experienced researchers or too complicated for inexperienced ones.
 
 ### {{< var stages.ongoing >}}
 
 #### {{< var IFs.budget >}}
 
-Funders and research supervisors could encourage researchers to allocate sufficient time and money for documenting and reporting results of their research.
-"Researchers need budget to allocate time to writing. Funders could encourage proper financial/time budgeting for writing."
-
+Participants noted that "researchers need budget to allocate time to writing" and that "funders could encourage proper financial/time budgeting for writing", as could research supervisors.
 
 #### {{< IFs.create_rewards >}}
 
-Stakeholders could create new rewards:
-•	journals could fast-track submissions or review for papers that followed a reporting guideline,
-•	journals could offer discounts on article processing charges for papers that followed a reporting guideline,
-•	journals, preprint servers, or peer review platforms could badge well reported articles,
-•	EQUATOR could offer a certification service,
-•	funders could reward good reporting financially,
-•	institutions could offer prizes for good reporting.
-
-"Create new rewards for researchers e.g., badges on published articles or a certificate after completing training"
-"Offer some sort of tangible reward/benefit after completing a reporting guideline (e.g., publishers offering a fast-track review/discount, transparency badge from something like publons)"
-"Badges"
+Participants suggested "offer[ing] some sort of tangible reward/benefit" to motivate guideline use, creating new rewards when necessary. Ideas included "publishers offering a fast-track review/discount", "badges on published articles" or platforms "like publons", "a certificate after completing training".
 
 #### {{< IFs.create_spaces >}}
 
-Create spaces for authors to discuss reporting and reporting guidelines. These could be:
-•	online (forums, social media, email),
-•	or offline (meet-ups, clubs).
-Try to make spaces accessible to researchers from all nationalities, professional disciplines and other demographics. Spaces will allow authors to:
-•	solicit help,
-•	share experiences,
-•	provide feedback to guideline developers,
-•	and cultivate a feeling of inclusivity and community ownership.
+Multiple barriers lead participants suggesting to "create spaces for researchers to connect with other researchers to celebrate and share experiences". These spaces could include "forums, meetings, tea clubs, clinics both in real life and virtual".
 
-"Allow researchers to give user feedback and ask questions
-"Developers could consult different user groups when creating guidance to make sure all users understand it as intended"
-"Engage as many health professions as possible to use and share examples of guidelines
-Communicating an invitational attitude among colleagues in various settings is powerful as an extender of the user community"
-"Downregulating hierarchy is useful – nationally, gender, issues, professional disciplines"
-"Website needs constant updated and curating"
+Such spaces could help authors solicit help and could act as social proof, and that seeing "others using and talking about the guidance" may be motivational.
+
+Online discussion spaces were considered a useful way to gather feedback from users directly (by asking for it) and indirectly, by monitoring discussions. Providing feedback channels "could be useful to guideline developers", and may also "cultivate a feeling of community ownership" by "communicating an invitational attitude", thereby making guidelines appear less like red tape imposed by a faceless beurocracy.
+
+
+<!-- #TODO: make sure consulting user groups, and SQUIRE quotes included in updating guidance section. "
+
 "How can we enable users to give feedback on guidance?
 Researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed. 
 This information could be useful to guideline developers"
-
+"Allow researchers to give user feedback and ask questions
+"Developers could consult different user groups when creating guidance to make sure all users understand it as intended"
+"Engage as many health professions as possible to use and share examples of guidelines
 "Provide ways for researchers to give feedback to guideline developers"
-"Allow researchers to give feedback on guidelines to cultivate a feeling of community ownership"
-"Build discussion forums so that researchers can see others using and talking about the guidance"
-"Create spaces for researchers to connect with other researchers to celebrate and share experiences e.g., forums, meetings, tea clubs, clinics both in real life and virtual"
 "Make it easier for guideline developers to update guidance"
 "Minor updates could be made without publishing a new article"
 "Engage as many health professions and editors as possible"
 
+Communicating an invitational attitude among colleagues in various settings is powerful as an extender of the user community"
+"Downregulating hierarchy is useful – nationally, gender, issues, professional disciplines"
+"Allow researchers to give feedback on guidelines to cultivate a feeling of community ownership" -->
+
+
+
 #### {{< IFs.catch_early >}}
+
+Participants thought of ways to "try and shift the time at which researchers discover or use guidelines", hypothesising that "it’s more likely that guidelines will save them time" if used earlier or "at the right time" and "not just upon submission".
+
+Ideas included automated "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again" via automated campaigns. Participants suggested that publishers and the EQAUTOR
+
+
 
 •	Consider creating email campaigns to prompt researchers at early stages.
 •	The EQUATOR website could encourage visitors to use RGs for planning and drafting research.
@@ -332,6 +316,7 @@ Provide guideline-specific education or training (e.g., courses, videos). More g
 •	and use a RG as part of their studies.
 
 "Researchers don’t necessarily understand that reporting is a stage in the research process. Updating the curriculum to teach about this could improve researchers’ knowledge on this issue."
+<!-- #TODO consider moving "understanding that reporting is a stage of work" to the budgeting section? -->
 "Provide training courses"
 "Provide training (e.g., publication school)"
 "Encourage students to replicate a study or do a systematic review to discover how poorly research is currently reported"
@@ -348,6 +333,7 @@ Update guidance in response to user feedback or changes in the field. This would
 •	guideline developers could easily collect feedback from authors.
 •	small updates or refinements could be made without publishing a new article.
 •	guideline developers had funding to evaluate, refine, and update their resources.JH
+
 
 "Developers could consult different user groups when creating guidance to make sure all users understand it as intended"
 "Engage as many health professions as possible to use and share examples of guidelines"
