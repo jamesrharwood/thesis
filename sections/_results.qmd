@@ -223,7 +223,7 @@ Communicating an invitational attitude among colleagues in various settings is p
 
 Participants thought of ways to "try and shift the time at which researchers discover or use guidelines", hypothesising that "it’s more likely that guidelines will save them time" if used earlier or "at the right time" and "not just upon submission".
 
-Most simply, participants suggested “telling” or “encouraging” authors visiting the EQUATOR Network website to use reporting guidelines for planning or drafting research (and not just for demonstrating compliance upon submission). Building upon this, participants suggested organising the website to make it obvious which stages of work resources can be used for.
+Most simply, participants suggested “telling” or “encouraging” authors visiting the EQUATOR Network website to use reporting guidelines for planning or drafting research (and not just for demonstrating compliance upon submission). Building upon this, participants suggested organising the website to make it obvious which stages of work resources can be used for. Participants suggested "including [reporting guidelines] in the university teaching and training curriculum and text books" so that students learn about them before running or writing up their first study. 
 
 Noting that some guidelines are harder to use early, participants suggested creating reporting guidance for early research outputs like funding applications and protocols, and advertising resources through funders, ethics committees, and writing training programmes. 
 
@@ -235,7 +235,7 @@ See @sec-{{< var IFs.create_guidance >}}
 
 Participants suggested "encouraging more journals to endorse guidelines" and drew a distinciton between endorsing reporting guidelines and promoting them on a website, social media, or email (see @sec-{{< IFs.promotion >}}). Endorsement was seen as a long term commitment to recommend or encourage guideline use, requires buy-in from organisational leaders, and possibly changes to policies, instructions, infrastructure, and workflows. Promotion, conversely, could be ephemeral, and does not require organisational changes. 
 
-Another distinction was drawn between endorsement and enforcement, whereby reporting guidelines are set as a "a requirement for publication", "for registration (where applicable) (e.g. clinical trial registries, PROSPERO)", "or as a condition of grant funding". One participant suggested that guideline adherance should be a condition of university employment. Enforcement was further divided into enforcing checklist completion or, noting that checklists may not always accurately reflect manuscript content, checking text for adherance to reporting guidelines.
+Another distinction was drawn between endorsement and enforcement, whereby reporting guidelines are set as a "a requirement for publication", "for registration (where applicable) (e.g. clinical trial registries, PROSPERO)", when submitting conference abstracts, "or as a condition of grant funding". One participant suggested that guideline adherance should be a condition of university employment. Enforcement was further divided into enforcing checklist completion or, noting that checklists may not always accurately reflect manuscript content, checking text for adherance to reporting guidelines.
 
 Along with journals, participants suggested that study registries, "ethics committees and funding organisations" could require that adhere to guidelines, "for example, completion of SPIRIT for clinical trial submissions", or to declare that they will use a guideline when writing their results. Participants suggested that the software academics use to provide funders with updates could ask for completed checklists.
 
@@ -258,75 +258,41 @@ When a journal endorses or enforces reporting guidelines, participants suggested
 #### {{< var IFs.promotion >}}
 
 •	Promote RGs on and offline.
-–	Online may include websites, email campaigns, social media, and blogs.
-–	Offline may include appearing at conferences, seminars, and workshops.
-•	Institutions could promote RGs in their curricula, learning materials, or through reporting champions. Guideline developers or EQUATOR could push for RGs to be included in text books.
-•	Promotion can begin before a guideline has been published so that researchers know about guidelines being developed.
-NB. Promotion is different to endorsement; a journal could run an email campaign to promote RGs without having an endorsement policy.
 
-"Social media (twitter and instagram) are very useful to share and connect with others.  Also important ways to drive traffic to the guideline website.  These require time and energy to share and engage with others in social media"
-"Conferences and workshops at institutions can be a great way to share the message and especially to assist in the interpretation and use of the guidelines."
-"Encourage more journals to endorse guidelines"
-"Advertise guidelines through professional societies and conferences as well as funding bodies and ethics committees who could influence research projects right at the project start/conception."
-"Introduce guidelines to early researchers by including these in the university teaching and training curriculum and text books, blogs and social media"
-"Recommend the provision of a time buffer/phasing period for updating new reporting guidelines which would allow researchers to have information about these new guidelines."
-"Using seminars, webinars, and presentations targeting researchers in known hard to reach countries/fields to help raise awareness for reporting guidelines"
-"Have conference organisers recommend researchers remind researchers to use a reporting guideline when writing their abstract (which might hint that they should use this early when writing the full manuscript)"
-"Universities/funders/journals speaking together about the importance of RG throughout to the research process – from protocol to completion"
-"Outreach through conferences, workshops, journals and champions to familiarise people"
+Participants wrote that all stakeholders could help spread the word that reporting guidelines exist, to help researchers discover them. Promotion was considered different to endorsement, as it doesnt require the promoting party to have a policy in place or any other role in research production. For example, "professional societies" could "advertise" reporting guidelines, despite not having any role in the funding, regulation or dissemination of research. 
+
+Promotion could occur online. Most obviously, on stakeholder guidance web pages. "Email campaigns, social media, blogs" could be useful channels to "share and connect with others [and] drive traffic to guideline website[s]", but "these require time and energy" from the reporting guideline community to set up and manage. 
+
+
+
+–	Offline may include appearing at conferences, seminars, and workshops.
+
+"Conferences and workshops at institutions" were cited as channels to pomote reporting guideline offline, as were " seminars, webinars, and presentations" especially in "hard to reach countries/fields". These events were described as useful ways "to assist in the interpretation and use of the guidelines" and could be opportunities for "universities/funders/journals [to speak] together about the importance of reporting guidelines".
+
+To reach students, participants suggested that universities could include reporting guidelines in their curricula, learning materials, or through (reporting champions)[@sec-{{< var IFs.reporting_champions >}}].
+
+Participants wrote that "promotion can begin before a guideline has been published so that researchers know about guidelines being developed" and suggested "the provision of a time buffer/phasing period for updating new reporting guidelines which would allow researchers to have information about these new guidelines".
+
 
 #### {{< var IFs.reporting_champions >}}
 
-All stakeholders could have members to promote and facilitate the usage of reporting guidelines.
-•	This could follow a local network model with EQUATOR as the central organiser.
-•	Could make use of existing networks, like regional reproducibility networks.
+Participants suggested that all stakeholders could have members to promote and facilitate the usage of reporting guidelines, centering on the terms "champions" and "EQUATOR ambassadors". Within publishers, funders, or ethics board, champions' responsibilty may be to "expand knowledge/awareness of guidelines". Within institutions, champions could also "help researchers" by "provid[ing feedback on writing" or simply by being individuals from "ac accessible level (e.g., post-doc, library staff), someone that ECRs feel comfortable talking with". This could follow a local network model (UKRN was cited as an example) with EQUATOR as the central organiser, and could utilize existing reproducibility networks. 
 
-"“Reporting champions” within institutions that can help researchers"
-"Reporting champions that can provide feedback on writing"
-"Have champions within universities at an accessible level (e.g., post-doc, library staff), someone that ECRs feel comfortable talking with, perhaps EQUATOR Ambassadors e.g., as part of the UKRN"
-"“champions” in e.g. universities, with responsibility for expanding knowledge/awareness of guidelines"
 
 #### {{< var IFs.additional_teaching >}}
 
-Provide guideline-specific education or training (e.g., courses, videos). More generally, students could:
-•	learn about writing as a process and workflows for documenting and communicating research,
-•	learn about research waste from poor reporting,JH
-•	attempt a replication to learn about the importance of complete reporting,
-•	and use a RG as part of their studies.
+Particiants proposed additional teaching as a way to promote reporting guidelines, make them easier to use, and a way to communicate the impacts of poor reporting. Education and training could be general (EQUATOR's publication school was cited as an example) of could be "guideline-specific", and could be delivered in person or online, as courses, videos, or text. 
 
-"Researchers don’t necessarily understand that reporting is a stage in the research process. Updating the curriculum to teach about this could improve researchers’ knowledge on this issue."
+In addition to learning about a particular guideline, students could learn about "writing as a process and workflows for documenting and communicating research". This was seen as useful as "researchers don’t necessarily understand that reporting is a stage in the research process". Curricula could include "methods studies that indicate the research waste" to teach students why reporting matters. Or, students could learn for themselves by attempting "to replicate a study or do a systematic review to discover how poorly research is currently reported". 
+
+To gain experience in using reporting guidelines, participants suggested students could develop "research protocols (as Bachelor or Master Theses) using reporting guidelines" and that these could "be assessed based on the compliance with the appropriate reporting guideline" in addition to "other criteria more related with methodology". To make this easier, participants suggested structuring courses around reporting guideline items "for example: a course on [randomized controlled trials] covering every single SPIRIT or CONSORT item".
+
 <!-- #TODO consider moving "understanding that reporting is a stage of work" to the budgeting section? -->
-"Provide training courses"
-"Provide training (e.g., publication school)"
-"Encourage students to replicate a study or do a systematic review to discover how poorly research is currently reported"
-"Or, include learning about results from methods studies that indicate the research waste."
-"Provide training courses"
-"Good research practices that are taught in University courses (setting expectations), and education and training re reporting guidelines (as part of the curriculum). Developing research protocols (as Bachelor or Master Theses) using RGs  – protocols could be assessed based on the compliance with the appropriate RG + other criteria more related with methodology"
-"Structure university courses based on RG items – for example: a course on RCTs covering every single SPIRIT or CONSORT item – this could help a lot develop the protocols mentioned above"
-"Training in writing, workflows and scientific principles"
-"Use the guidelines to drive the field forward and continually"
 
 #### {{< var IFs.updating >}}
 
-Update guidance in response to user feedback or changes in the field. This would be easier if:
-•	guideline developers could easily collect feedback from authors.
-•	small updates or refinements could be made without publishing a new article.
-•	guideline developers had funding to evaluate, refine, and update their resources.JH
+Participants acknowledged that "researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed" and that "this information could be useful to guideline developers". Some participants went further, expressing that guidance and websites should be updated "in response to user feedback or changes in the field". This idea differs in that it focusses on the behaviour of reporting guideline _developers_, not users, but I include it as it is a natual extension of many other ideas.  
 
+One developer wrote "how can we enable users to give feedback on guidance?", whilst another wrote "provide ways for researchers to give feedback to guideline developers" without forwarding any ways to do this. Others suggested that "developers could consult different user groups when creating guidance to make sure all users understand it as intended" and "engage as many health professions as possible" so that "professional cultural issues can be usefully accommodated."
 
-"Developers could consult different user groups when creating guidance to make sure all users understand it as intended"
-"Engage as many health professions as possible to use and share examples of guidelines"
-"Professional cultural issues can be usefully accommodated."
-"Communicating an invitational attitude among colleagues in various settings is powerful as an extender of the user community"
-"Downregulating hierarchy is useful – nationally, gender, issues, professional disciplines"
-"Website needs constant updated and curating"
-"How can we enable users to give feedback on guidance?"
-
-"Researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed. 
-This information could be useful to guideline developers"
-
-"Provide ways for researchers to give feedback to guideline developers"
-"Allow researchers to give feedback on guidelines to cultivate a feeling of community ownership"
-"Make it easier for guideline developers to update guidance
-"Minor updates could be made without publishing a new article
-"Engage as many health professions and editors as possible"
+Once feedback has been collected, onr developer suggested that "minor updates could be made without publishing a new article" if the guidance were disseminated on a website. Many guideline developers wrote that they required access to extra funding to evaluate, refine, and update their resources.
