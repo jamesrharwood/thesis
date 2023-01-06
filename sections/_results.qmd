@@ -187,11 +187,11 @@ Finally, participants suggested collecting testimonials from researchers "with a
 
 Participants noted that "researchers need budget to allocate time to writing" and that "funders could encourage proper financial/time budgeting for writing", as could research supervisors.
 
-#### {{< IFs.create_rewards >}}
+#### {{< var IFs.create_rewards >}}
 
 Participants suggested "offer[ing] some sort of tangible reward/benefit" to motivate guideline use, creating new rewards when necessary. Ideas included "publishers offering a fast-track review/discount", "badges on published articles" or platforms "like publons", "a certificate after completing training".
 
-#### {{< IFs.create_spaces >}}
+#### {{< var IFs.create_spaces >}}
 
 Multiple barriers lead participants suggesting to "create spaces for researchers to connect with other researchers to celebrate and share experiences". These spaces could include "forums, meetings, tea clubs, clinics both in real life and virtual".
 
@@ -219,7 +219,7 @@ Communicating an invitational attitude among colleagues in various settings is p
 
 
 
-#### {{< IFs.catch_early >}}
+#### {{< var IFs.catch_early >}}
 
 Participants thought of ways to "try and shift the time at which researchers discover or use guidelines", hypothesising that "it’s more likely that guidelines will save them time" if used earlier or "at the right time" and "not just upon submission".
 
@@ -229,59 +229,33 @@ Noting that some guidelines are harder to use early, participants suggested crea
 
 Participants suggested publishers and EQUATOR could use "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again" via automated campaigns.
 
-See @sec-{{< IFs.create_guidance >}}
+See @sec-{{< var IFs.create_guidance >}}
 
-#### {{< IFs.endorse_and_enforce >}}
+#### {{< var IFs.endorse_and_enforce >}}
 
 Participants suggested "encouraging more journals to endorse guidelines" and drew a distinciton between endorsing reporting guidelines and promoting them on a website, social media, or email (see @sec-{{< IFs.promotion >}}). Endorsement was seen as a long term commitment to recommend or encourage guideline use, requires buy-in from organisational leaders, and possibly changes to policies, instructions, infrastructure, and workflows. Promotion, conversely, could be ephemeral, and does not require organisational changes. 
 
-Another distinction was drawn between endorsement and enforcement, whereby reporting guidelines are set as a "a requirement for publication, or as a condition of grant funding". One participant went as far as saying that guideline adherance should be a condition of employment. Enforcement was further divided into enforcing checklist completion or, noting that checklists may not always accurately reflect manuscript content, checking text for adherance to reporting guidelines.
+Another distinction was drawn between endorsement and enforcement, whereby reporting guidelines are set as a "a requirement for publication", "for registration (where applicable) (e.g. clinical trial registries, PROSPERO)", "or as a condition of grant funding". One participant suggested that guideline adherance should be a condition of university employment. Enforcement was further divided into enforcing checklist completion or, noting that checklists may not always accurately reflect manuscript content, checking text for adherance to reporting guidelines.
 
 Along with journals, participants suggested that study registries, "ethics committees and funding organisations" could require that adhere to guidelines, "for example, completion of SPIRIT for clinical trial submissions", or to declare that they will use a guideline when writing their results. Participants suggested that the software academics use to provide funders with updates could ask for completed checklists.
 
 Noting that enforcement requires resources, participants suggested to "focus on main RGs and being compliant with them" or to create "digital dashboard to help audit and monitoring". 
 
 
-"Making completion of reporting guidelines a requirement for registration (where applicable) (e.g. clinical trial registries, PROSPERO), and alerting researchers to the reporting guidelines at the time of registration"
+#### {{< var IFs.evidence_benefits >}}
+
+Participants suggested that benefits may be more believable if there were evidenced. Most fundamentally, this could be "evidence that the intervention – [reporting guidelines] -  improve the completeness and transparency of the output". For quantifiable benefits, the suggestion was to collect and report data on “acceptance rates, publishing speed, writing speed”. One participant postied that "more transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study" and another suggested to "provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification".
+
+However, some participants were skeptical whether data on acceptance rates would show any benefit at all: "Likelihood of being accepted might not be heavily influenced – bad research well reported would still be rejected, but if a good study is badly reported may end up rejected just because reviewers/editors take a more critical view due to lack of detail or difficulty understanding what was done".
+
+For experiential benefits that cannot be quantified, participants suggested providing case studies or testimonials (see @sec-{{< var IFs.testimonials >}}).
+
+#### {{< var IFs.apparent_importance >}}
+
+When a journal endorses or enforces reporting guidelines, participants suggested making reporting guidelines more prominent within the journal's workflow so as to make them appear more important. Notes included that "reporting guidelines could be more prominent on journal author guideline pages", or that "if the journal uses any sort of structured peer review (e.g., specific questions related to methodology) to tell authors this explicitly [on author guideline pages and within review feedback] and link it to the reporting guideline content". A third suggestion was that "when journals ‘stitch’ or ‘build’ together the manuscript pdf (including cover letter, manuscript main text, appendices, etc.), prioritise the reporting guideline or move it earlier in the pdf". However, a few participants warned that prioritising guidelines on author instruction pages "is complicated as these [pages] already have to do a lot", although guidelines could be more prominent if the pages "were better organised and/or filterable".
 
 
-
-Stakeholders could:
-•	endorse reporting guidelines
-•	enforce their use by mandating checklists or (preferably) adherence to the guidelines.
-•	Funders could ask about RGs/checklists when collecting updates from grant recipients.
-
-
-
-
-#### {{< IFs.evidence_benefits >}}
-
-Participants suggested that benefits may be more believable if there were evidenced. Fundamentally "Evidence that the intervention – RG -  improve the completeness and transparency of the output"
-
-For quantifiable benefits, the suggestion was to collect and report data on “acceptance rates, publishing speed, writing speed” or 
-
-Evidence any stated benefits:
-•	Experiential benefits could be evidenced by testimonials (e.g. feeling confident, easier writing, value to readers).
-•	Quantifiable benefits could be evidenced with data (e.g., acceptance rates, publishing speed, writing speed).
-
-"More transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study
-Provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification"
-"Likelihood of being accepted might not be heavily influenced – bad research well reported would still be rejected, but if a good study is badly reported may end up rejected just because reviewers/editors take a more critical view due to lack of detail or difficulty understanding what was done"
-
-#### {{< IFs.apparent_importance >}}
-
-Journals, funders and ethics committees can make RGs appear as a priority:
-•	Make them prominent in author instructions.
-•	Placing checklists earlier in compiled PDFs.
-•	Publicize when RGs are used by reviewers.
-
-"When journals ‘stitch’ or ‘build’ together the manuscript pdf (including cover letter, manuscript main text, appendices, etc.), prioritise the reporting guideline or move it earlier in the pdf to make it more prominent"
-"If the journal uses any sort of structured peer review (e.g., specific questions related to methodology) to tell authors this explicitly and link it to the reporting guideline content"
-"Reporting Guidelines could be more prominent on journal author guideline pages but this is complicated as these guidelines already have to do a lot. RGs might be easier to discover if journal author guidelines were better organised and/or filterable."
-"When journals ‘stitch’ or ‘build’ together the manuscript pdf (including cover letter, manuscript main text, appendices, etc.), prioritise the reporting guideline or move it earlier in the pdf to make it more prominent"
-"If the journal uses any sort of structured peer review (e.g., specific questions related to methodology) to tell authors this explicitly and link it to the reporting guideline content"
-
-#### {{< IFs.promotion >}}
+#### {{< var IFs.promotion >}}
 
 •	Promote RGs on and offline.
 –	Online may include websites, email campaigns, social media, and blogs.
@@ -301,7 +275,7 @@ NB. Promotion is different to endorsement; a journal could run an email campaign
 "Universities/funders/journals speaking together about the importance of RG throughout to the research process – from protocol to completion"
 "Outreach through conferences, workshops, journals and champions to familiarise people"
 
-#### {{< IFs.reporting_champions >}}
+#### {{< var IFs.reporting_champions >}}
 
 All stakeholders could have members to promote and facilitate the usage of reporting guidelines.
 •	This could follow a local network model with EQUATOR as the central organiser.
@@ -312,7 +286,7 @@ All stakeholders could have members to promote and facilitate the usage of repor
 "Have champions within universities at an accessible level (e.g., post-doc, library staff), someone that ECRs feel comfortable talking with, perhaps EQUATOR Ambassadors e.g., as part of the UKRN"
 "“champions” in e.g. universities, with responsibility for expanding knowledge/awareness of guidelines"
 
-#### {{< IFs.additional_teaching >}}
+#### {{< var IFs.additional_teaching >}}
 
 Provide guideline-specific education or training (e.g., courses, videos). More generally, students could:
 •	learn about writing as a process and workflows for documenting and communicating research,
@@ -332,7 +306,7 @@ Provide guideline-specific education or training (e.g., courses, videos). More g
 "Training in writing, workflows and scientific principles"
 "Use the guidelines to drive the field forward and continually"
 
-#### {{< IFs.updating >}}
+#### {{< var IFs.updating >}}
 
 Update guidance in response to user feedback or changes in the field. This would be easier if:
 •	guideline developers could easily collect feedback from authors.
