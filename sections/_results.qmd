@@ -225,32 +225,30 @@ Participants thought of ways to "try and shift the time at which researchers dis
 
 Ideas included automated "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again" via automated campaigns. Participants suggested that publishers and the EQAUTOR
 
-
-
-•	Consider creating email campaigns to prompt researchers at early stages.
-•	The EQUATOR website could encourage visitors to use RGs for planning and drafting research.
-•	Web resources could be optimised for search terms like “protocol”, “research plan” or “funding application”.JH
-•	Writing clubs and writing training could flag reporting guidelines.
-
-"Catch researchers at the right time. Try and shift the time at which researchers discover or guidelines – encourage researchers to use them earlier when it’s more likely that guidelines will save them time"
-"Build user journeys that encourage researchers to use guidance earlier next time (like when you buy something from an online business for the first time, they then work hard to gain your custom again)"
-"Offer an email reminder"
-"Capture researchers earlier in their research pipeline when the RG will be of most benefit and least cost"
-"Encourage use at an earlier stage of research, not just upon submission"
+See @sec-{{< IFs.create_guidance >}}
 
 #### {{< IFs.endorse_and_enforce >}}
+
+Participants suggested "encouraging more journals to endorse guidelines" and drew a distinciton between endorsing reporting guidelines and promoting them on a website, social media, or email (see @sec-{{< IFs.promotion >}}). Endorsement was seen as a long term commitment to recommend or encourage guideline use, requires buy-in from organisational leaders, and possibly changes to policies, instructions, infrastructure, and workflows. Promotion, conversely, could be ephemeral, and does not require organisational changes. 
+
+Another distinction was drawn between endorsement and enforcement, whereby reporting guidelines are set as a "a requirement for publication, or as a condition of grant funding". One participant went as far as saying that guideline adherance should be a condition of employment. Enforcement was further divided into enforcing checklist completion or, noting that checklists may not always accurately reflect manuscript content, checking text for adherance to reporting guidelines.
+
+Along with journals, participants suggested that study registries, "ethics committees and funding organisations" could require that adhere to guidelines, "for example, completion of SPIRIT for clinical trial submissions", or to declare that they will use a guideline when writing their results. Participants suggested that the software academics use to provide funders with updates could ask for completed checklists.
+
+Noting that enforcement requires resources, participants suggested to "focus on main RGs and being compliant with them" or to create "digital dashboard to help audit and monitoring". 
+
+
+"Making completion of reporting guidelines a requirement for registration (where applicable) (e.g. clinical trial registries, PROSPERO), and alerting researchers to the reporting guidelines at the time of registration"
+
+
 
 Stakeholders could:
 •	endorse reporting guidelines
 •	enforce their use by mandating checklists or (preferably) adherence to the guidelines.
 •	Funders could ask about RGs/checklists when collecting updates from grant recipients.
 
-"Encourage more journals to endorse guidelines"
-"Focus on main RGs and being compliant with them – we need less RGs, better RGs"
-"Setting an expectation (from an external source, e.g. from a funder, from Researchfish, or from a journal) that completed checklists be submitted, as a requirement for publication, or as a condition of grant funding"
-"Making completion of reporting guidelines a requirement for registration (where applicable) (e.g. clinical trial registries, PROSPERO), and alerting researchers to the reporting guidelines at the time of registration"
-"Ethics committees and funding organisations requiring completion of guidelines (where applicable) in submission of applications. For example, completion of SPIRIT for clinical trial submissions."
-"Digital dashboard to help audit and monitoring"
+
+
 
 #### {{< IFs.evidence_benefits >}}
 
