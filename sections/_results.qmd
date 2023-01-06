@@ -223,7 +223,11 @@ Communicating an invitational attitude among colleagues in various settings is p
 
 Participants thought of ways to "try and shift the time at which researchers discover or use guidelines", hypothesising that "it’s more likely that guidelines will save them time" if used earlier or "at the right time" and "not just upon submission".
 
-Ideas included automated "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again" via automated campaigns. Participants suggested that publishers and the EQAUTOR
+Most simply, participants suggested “telling” or “encouraging” authors visiting the EQUATOR Network website to use reporting guidelines for planning or drafting research (and not just for demonstrating compliance upon submission). Building upon this, participants suggested organising the website to make it obvious which stages of work resources can be used for.
+
+Noting that some guidelines are harder to use early, participants suggested creating reporting guidance for early research outputs like funding applications and protocols, and advertising resources through funders, ethics committees, and writing training programmes. 
+
+Participants suggested publishers and EQUATOR could use "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again" via automated campaigns.
 
 See @sec-{{< IFs.create_guidance >}}
 
@@ -252,6 +256,10 @@ Stakeholders could:
 
 #### {{< IFs.evidence_benefits >}}
 
+Participants suggested that benefits may be more believable if there were evidenced. Fundamentally "Evidence that the intervention – RG -  improve the completeness and transparency of the output"
+
+For quantifiable benefits, the suggestion was to collect and report data on “acceptance rates, publishing speed, writing speed” or 
+
 Evidence any stated benefits:
 •	Experiential benefits could be evidenced by testimonials (e.g. feeling confident, easier writing, value to readers).
 •	Quantifiable benefits could be evidenced with data (e.g., acceptance rates, publishing speed, writing speed).
@@ -259,7 +267,6 @@ Evidence any stated benefits:
 "More transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study
 Provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification"
 "Likelihood of being accepted might not be heavily influenced – bad research well reported would still be rejected, but if a good study is badly reported may end up rejected just because reviewers/editors take a more critical view due to lack of detail or difficulty understanding what was done"
-"Evidence that the intervention – RG -  improve the completeness and transparency of the output"
 
 #### {{< IFs.apparent_importance >}}
 
