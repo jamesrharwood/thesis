@@ -163,7 +163,7 @@ Participants wrote "Ensure guidance is open access" as a potential solution to t
 
 <!-- #TODO check wording - is permissive correct? -->
 
-#### {{< var IFs.citations >}}
+#### {{< var IFs.citation >}}
 
 Displaying citation counts on the EQUATOR Network website (or other websites where authors search for reporting guidelines) was described as a way to "provide social proof" and convince first time users that guidelines are credible. 
 
@@ -183,15 +183,15 @@ Finally, participants suggested collecting testimonials from researchers "with a
 
 ### {{< var stages.ongoing >}}
 
-#### {{< var IFs.budget >}}
+#### {{< var IFs.budget-and-fund-reporting >}}
 
 Participants noted that "researchers need budget to allocate time to writing" and that "funders could encourage proper financial/time budgeting for writing", as could research supervisors.
 
-#### {{< var IFs.create_rewards >}}
+#### {{< var IFs.create-rewards >}}
 
 Participants suggested "offer[ing] some sort of tangible reward/benefit" to motivate guideline use, creating new rewards when necessary. Ideas included "publishers offering a fast-track review/discount", "badges on published articles" or platforms "like publons", "a certificate after completing training".
 
-#### {{< var IFs.create_spaces >}}
+#### {{< var IFs.create-spaces >}}
 
 Multiple barriers lead participants suggesting to "create spaces for researchers to connect with other researchers to celebrate and share experiences". These spaces could include "forums, meetings, tea clubs, clinics both in real life and virtual".
 
@@ -219,7 +219,8 @@ Communicating an invitational attitude among colleagues in various settings is p
 
 
 
-#### {{< var IFs.catch_early >}}
+#### {{< var IFs.early-ac
+quisition >}}
 
 Participants thought of ways to "try and shift the time at which researchers discover or use guidelines", hypothesising that "it’s more likely that guidelines will save them time" if used earlier or "at the right time" and "not just upon submission".
 
@@ -229,9 +230,9 @@ Noting that some guidelines are harder to use early, participants suggested crea
 
 Participants suggested publishers and EQUATOR could use "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again" via automated campaigns.
 
-See @sec-{{< var IFs.create_guidance >}}
+See @sec-{{< var IFs.create-early-guidance >}}
 
-#### {{< var IFs.endorse_and_enforce >}}
+#### {{< var IFs.endorse-enforce >}}
 
 Participants suggested "encouraging more journals to endorse guidelines" and drew a distinciton between endorsing reporting guidelines and promoting them on a website, social media, or email (see @sec-{{< IFs.promotion >}}). Endorsement was seen as a long term commitment to recommend or encourage guideline use, requires buy-in from organisational leaders, and possibly changes to policies, instructions, infrastructure, and workflows. Promotion, conversely, could be ephemeral, and does not require organisational changes. 
 
@@ -242,7 +243,7 @@ Along with journals, participants suggested that study registries, "ethics commi
 Noting that enforcement requires resources, participants suggested to "focus on main RGs and being compliant with them" or to create "digital dashboard to help audit and monitoring". 
 
 
-#### {{< var IFs.evidence_benefits >}}
+#### {{< var IFs.evidence-benefits >}}
 
 Participants suggested that benefits may be more believable if there were evidenced. Most fundamentally, this could be "evidence that the intervention – [reporting guidelines] -  improve the completeness and transparency of the output". For quantifiable benefits, the suggestion was to collect and report data on “acceptance rates, publishing speed, writing speed”. One participant postied that "more transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study" and another suggested to "provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification".
 
@@ -250,12 +251,12 @@ However, some participants were skeptical whether data on acceptance rates would
 
 For experiential benefits that cannot be quantified, participants suggested providing case studies or testimonials (see @sec-{{< var IFs.testimonials >}}).
 
-#### {{< var IFs.apparent_importance >}}
+#### {{< var IFs.apparent-priority >}}
 
 When a journal endorses or enforces reporting guidelines, participants suggested making reporting guidelines more prominent within the journal's workflow so as to make them appear more important. Notes included that "reporting guidelines could be more prominent on journal author guideline pages", or that "if the journal uses any sort of structured peer review (e.g., specific questions related to methodology) to tell authors this explicitly [on author guideline pages and within review feedback] and link it to the reporting guideline content". A third suggestion was that "when journals ‘stitch’ or ‘build’ together the manuscript pdf (including cover letter, manuscript main text, appendices, etc.), prioritise the reporting guideline or move it earlier in the pdf". However, a few participants warned that prioritising guidelines on author instruction pages "is complicated as these [pages] already have to do a lot", although guidelines could be more prominent if the pages "were better organised and/or filterable".
 
 
-#### {{< var IFs.promotion >}}
+#### {{< var IFs.promote >}}
 
 •	Promote RGs on and offline.
 
@@ -269,17 +270,17 @@ Promotion could occur online. Most obviously, on stakeholder guidance web pages.
 
 "Conferences and workshops at institutions" were cited as channels to pomote reporting guideline offline, as were " seminars, webinars, and presentations" especially in "hard to reach countries/fields". These events were described as useful ways "to assist in the interpretation and use of the guidelines" and could be opportunities for "universities/funders/journals [to speak] together about the importance of reporting guidelines".
 
-To reach students, participants suggested that universities could include reporting guidelines in their curricula, learning materials, or through (reporting champions)[@sec-{{< var IFs.reporting_champions >}}].
+To reach students, participants suggested that universities could include reporting guidelines in their curricula, learning materials, or through (reporting champions)[@sec-{{< var IFs.reporting-champions >}}].
 
 Participants wrote that "promotion can begin before a guideline has been published so that researchers know about guidelines being developed" and suggested "the provision of a time buffer/phasing period for updating new reporting guidelines which would allow researchers to have information about these new guidelines".
 
 
-#### {{< var IFs.reporting_champions >}}
+#### {{< var IFs.reporting-champions >}}
 
 Participants suggested that all stakeholders could have members to promote and facilitate the usage of reporting guidelines, centering on the terms "champions" and "EQUATOR ambassadors". Within publishers, funders, or ethics board, champions' responsibilty may be to "expand knowledge/awareness of guidelines". Within institutions, champions could also "help researchers" by "provid[ing feedback on writing" or simply by being individuals from "ac accessible level (e.g., post-doc, library staff), someone that ECRs feel comfortable talking with". This could follow a local network model (UKRN was cited as an example) with EQUATOR as the central organiser, and could utilize existing reproducibility networks. 
 
 
-#### {{< var IFs.additional_teaching >}}
+#### {{< var IFs.support >}}
 
 Particiants proposed additional teaching as a way to promote reporting guidelines, make them easier to use, and a way to communicate the impacts of poor reporting. Education and training could be general (EQUATOR's publication school was cited as an example) of could be "guideline-specific", and could be delivered in person or online, as courses, videos, or text. 
 
