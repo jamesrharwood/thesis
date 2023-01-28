@@ -70,6 +70,8 @@ counts:
   stakeholders: 10
   sub_items: 136
   sub_items_pre_jh: 128
+  EQUATOR_staff: TODO
+  EQUATOR_meetings: TODO
 descriptions:
   stages: before developing guidance, when developing guidance, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
   stakeholders: funders, ethics committees, institutions, publishers, equator network, guideline developers, registries, preprint servers, conference organisers, and societies

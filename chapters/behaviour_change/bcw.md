@@ -1,0 +1,13 @@
+# Behaviour Change (Target: 1000)
+
+In my introductory chapter I presented how I view reporting guidelines to be part of a _complex behaviour change intervention_. But that isn't how I have always viewed them. In fact, when I began my PhD I had never heard of the term. But after reading accounts of authors struggling with the guidance content, access, formats, workflows, confidence, and the behaviour of others, I began to think less of the guidance text, and more about the system.
+
+I started looking for a framework that could help me work out how this system could be changed to address the barriers I identified. Initially, and probably because of my background in software development, I looked at user experience literature (e.g., @experienceGuideUsingUserExperience) but quickly realised that heuristics for creating easy-to-use websites don't really generalise to long-form instructional text. Thinking of comparable documents, I then looked into user testing instruction manuals (@DevelopmentUsabilityTesting; @mollerUsabilityTestingUser2013) but found that focusing on the document alone neglected other parts of the intervention, like the impact of journal policies or the behaviour of peer reviewers. A conversation with a professor of Human-Computer Interaction was interesting but focussing on information technology design seemed, again, to only cover part of the problem. 
+
+Seeking a framework that could help me look at the system as a whole (guidelines, websites, institutions, people, everything), I landed upon behaviour change theory. First I considered the Theoretical Domains Framework (TDF, @caneValidationTheoreticalDomains2012; @michieMakingPsychologicalTheory2005). The TDF was developed to help implementation researchers identify what influences the behaviour of health professionals and patients. It was made by synthesising 33 theories of behaviour and behaviour change into 14 domains that cover the cognitive, affective, social, and environmental influences on behaviour. It was developed to help researchers understand and describe mechanisms of change and why interventions are effective.
+
+<!-- #TODO: sentence about limitations of TDF. Hard to use, not for designing (?), why else did Michie write the BCW? -->
+
+<!-- #TODO: insert BCW description from transfer. -->
+
+<!-- Think about structure. Maybe focus on BCW first, and then 'other' afterwards. Others include TDF, Person Based Approach, UX stuff -->

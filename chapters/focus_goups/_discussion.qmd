@@ -1,0 +1,61 @@
+# Discussion
+
+## Summary of results
+
+Before this study, I had thought of {{< var counts.ideas_JH >}} ideas to improve reporting guideline dissemination. EQUATOR staff then extended this to {{< var counts.ideas_EQUATOR >}}, and the participants in this study have extended this further to {{< var counts.ideas >}} ideas. Thus I felt that my main objective, to elicit new ideas, was met. Most of the guideline developers were keen to be kept abreast of my work, and a few offered to work together on future studies. Only one developer expressed scepticism that reporting guidelines are anything but already perfect (see @sec-box-reflexivity-focus-group). 
+
+I've tried to give each idea its own airtime in my results section, but here I will highlight a couple of areas of tension. Guideline developers felt differently about whether or not reporting guidelines should include design or procedural advice and would sometimes talk reporting and design issues interchangeably, which made me feel that they may not have considered the function of their guidance in behavioural terms before. 
+
+There was also disagreement over whether reporting guidelines should be viewed as rules (standards or requirements), or just a point in the right direction (guidance). The term 'guideline' is ambiguous in this way. NICE defines clinical guidelines as 'recommendations', which is in line with the Cambridge dictionary definition: "information intended to advise people on how something should be done". Thus guidelines "advise" or "recommend" but don't enforce or legislate. However, _journal author guidelines_ are, to all intents and purposes, rules that researchers have to adhere to if they want to publish, synonymous with _instructions_.
+
+## Results in context
+
+<!-- #Note: Are these in the right place? Or are these implications? -->
+
+These ideas will be of use to reporting guideline developers. At the time of writing, the EQUATOR Network was in the process of updating its advice for guideline developers and was hoping to redesign their website. These results will be pertinent to both of these projects.
+
+Where the barriers provide some explanation for why previous intervention studies (#REF) have had disappointing results, the ideas generated here provide hypotheses for how these interventions could be improved.
+
+Thinking about transferability, some of the ideas here could well be of interest to developers of other kinds of guidelines like critical appraisal tools (#REF CASP and latitude), or data sharing resources (#REF DCC?). 
+
+However, what I think could be more interesting, is the transferability of the _approach_. 
+
+<!-- #TODO: this could go in overall discussion. My manifesto for a new discipline. -->
+
+Many of the problems being tackled by open science enthusiasts are, at their core, behaviour change projects. When attending conferences I have found myself wondering how behaviour change could be applied to other projects. Some projects focussed on a particular tool rather than behaviour (#REF octopus, RCT report card). This might be because tools are easier to fund. The intended behaviour might be implicit, or poorly defined. Some researchers were fixated on one particular intervention type - often regulation. 
+
+I was excited to attend the Wellcome Trust, 2022 conference Reproducibility, Replicability and Trust in Science. Its theme was  "to position the challenge of reproducibility and replicability as a behaviour-change problem". Yet of the scores of presentations and posters, I was the only researcher using behaviour change theory. This leaves me feeling that although behaviour change theory is well established in health research, applying it to research-on-research is not commonplace. Is it time to coin a new discipline? Just as researchers interested in optimising health care delivery defined the field of _quality improvement_, perhaps there is space for _quality improvement in research_, or _scholarly improvement_. It deserves to be a field in its own right, with its own funding streams, departments, and titles. When I began my PhD, my official title was "DPhil in Musculoskeletal sciences". Transferring my title to "Observational epidemiology and statistics" half way through brought it marginally closer to reality. Looking at my next steps, there are a few funding streams available to research-on-research-researchers, but they are few and far between, as are potential departments and supervisors. 
+* At the World Conference on Research Integrity, the senior presenters and organisers all came from "other" disciplines. Epidemiologists, cardiologists, haematologists, etc. 
+* I doubt that cardiologist conferences are run by psychiatrists.
+* But there is in hope - younger attendees came from programmes like SOPS4RI, MIRROR, Brazil group, Journalology group etc. Hopefully this will be the generation that goes on to found groups, departments, to specialise on this stuff. 
+* Bennet (sp?) department
+
+
+## Box: Reflexivity whilst running and analysing focus groups
+
+* BCW seemed to help participants gain distance from their resources and look at them with fresh(er) eyes. 
+* Using the intervention function and policy categories as prompts was an effective way to prompt discussion or move things along when participants got stuck in a loop. 
+* Overall I felt I improved as a facilitator. I quickly identified a few weaknesses - I may talk too long when nervous, and I had a habit of asking two questions in one. My training at Oxford Qualitative Courses prepared me well and I could feel myself improving.
+* One participant in particular was a little challenging. They continued to refuse to accept that reporting guidelines may be difficult to use, and demanded empirical, quantitative, evidence to the fact.
+
+## Strengths, limitations, and future work
+
+contributions-to-the-field:
+
+* First time RG dissemination has been thought of in this way.
+* Brought together stakeholders
+* First step towards a unified dissemination plan backed up by theory
+* Will underpin future feasibility and evaluation studies
+
+limitations: |
+  
+* all western and native english speakers
+* We purposefully didn't rate or rank ideas. The BCW suggests using APEASE criteria which stands for #TODO. Different stakeholders will rank ideas differently especially with regards to cost-effectiveness.
+* Could have included funders, more journals, or other experts. Whilst analysing the data ideas, the software developer inside of me continued to come up with ideas. For example, when considering how to make resources findable nobody considered search engine optimization. Enriching websites with metadata so that search engines can index them properly is marketing 1-0-1, and including phrases like "how to write" or "how to describe" may help authors find researchers earlier in their research. SEO seems obvious to me as a developer, but was overlooked by participants who may not be as familiar with it.  
+
+integration-with-prior-work:
+
+
+
+implications:
+
