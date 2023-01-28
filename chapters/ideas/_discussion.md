@@ -1,36 +1,75 @@
 # Discussion
 
-## Summary of results
+## Description of findings
 
-Before this study, I had thought of {{< var counts.ideas_JH >}} ideas to improve reporting guideline dissemination. EQUATOR staff then extended this to {{< var counts.ideas_EQUATOR >}}, and the participants in this study have extended this further to {{< var counts.ideas >}} ideas. Thus my main objective, to elicit new ideas, was met. I was buoyed by the support for the project. Most of the guideline developers were keen to be kept abreast of my work, and a few offered to work together on future studies. Only one developer expressed scepticism that reporting guidelines are anything but already perfect (see @sec-box-reflexivity-focus-group). 
+<!-- 
+* short summary of the main findings
+* include some interpretation of the data in the context of previous findings, experiences, theory, or a guiding paradigm or approach.
+* The discussion provides authors an opportunity to:
+  * elaborate on their findings in relation to their research question(s) and study purpose(s);
+  * connect their findings to prior empirical work, theories, and/or frameworks; 
+  * and discuss implications:
+    * describe how findings contribute to or advance the field
+    * Implications may include transferability, or specifying the appropriate scope for generalization of the findings beyond the study (e.g., to other settings, populations, time periods, circumstances).
+-->
 
-I've tried to give each idea its own airtime in my results section, but here I will highlight a couple of areas of tension. Guideline developers felt differently about whether or not reporting guidelines should include design or procedural advice and would sometimes talk reporting and design issues interchangeably. There were different reasons for including design advice. Sometimes design was used to justify why the reporting item was important "You need to describe how you did X because studies that _don't_ do X are at risk of Y". Other times, design advice was included to be helpful or educational. Whereas all participants agreed that design advice is useful, some felt concerned that placing design advice within reporting guidance, or using examples of poor design to justify reporting items, has negative consequences. It makes guidance longer and risks shaming authors, making them less likely to report transparently and thereby undermining the true purpose of reporting guidance.
+### Summary of results
 
-There was also disagreement over whether reporting guidelines should be viewed as rules (standards or requirements), or just a point in the right direction (guidance). The term 'guideline' is ambiguous in this way. NICE defines clinical guidelines as 'recommendations', which is in line with the Cambridge dictionary definition: "information intended to advise people on how something should be done". Thus guidelines "advise" or "recommend" but don't enforce or legislate. However, _journal author guidelines_ can be perceived as _rules_ that researchers have to adhere to if they want to publish, synonymous with _instructions_.
+Participants identified {{< var counts.ideas >}} ideas employing all intervention functions. There were ideas to consider before, during, and after creating guidance, ideas to consider when writing the guidance down into a guideline, ideas about tools to help guidance application, ideas about ongoing activities to support or promote guidance use, and ideas about refining guidance over time in response to feedback. Many of these ideas could be enacted by guideline developers, publishers, and EQUATOR, but participants also saw opportunities for ethics committees, funders, academics, registries, and syllabus writers; stakeholders who are typically less frequently considered.
 
-## Results in context
+### Relation to study purpose
 
-<!-- #Note: Are these in the right place? Or are these implications? -->
+My objective was to identify to possible barriers, and I believed that including perspectives from a range of stakeholders would lead to more ideas. This seems to be the case: before this study, I had thought of {{< var counts.ideas_JH >}} ideas, EQUATOR staff then extended this to {{< var counts.ideas_EQUATOR >}}, still far below the number finally identified.
+<!-- 
+#TODO: results section doesn't link to IFs, although the data does. -->
 
-Where the barriers I identified previously offer explanations for why previous intervention studies (#REF) have had disappointing results, the ideas generated here provide hypotheses for how these interventions could be improved, and who could improve them. These results will be of use to the reporting guideline community. Developers may find inspiration here when writing or revising guidance. At the time of writing, the EQUATOR Network was in the process of updating its advice for guideline developers and was hoping to redesign their website. These results will be pertinent to both of these projects.
+My second aim was to garner stakeholder buy-in. I had a fair response rate from guideline groups and of those that did respond the reception was positive. Multiple guideline developers volunteered the guideline to be a "guinneapig" for my future work and expressed support for my work. Most developers were accepting of the barriers I presented. Only one developer expressed scepticism that reporting guidelines anything but perfect, and requested additional evidence of authors' negative experiences.
 
-Thinking about transferability, the ideas here could be of interest to developers of other kinds of guidelines or guideline (e.g., clinical guidelines, critical appraisal tools like CASP and latitude #REF). More interestingly (to me at least), is the transferability of the _approach_. Although theories of behaviour change are often used in clinical projects seeking to improve adherence to clinical guidelines, the approach is not utilised by meta-researchers or people seeking to improve adherence to best practices in academia. At the time of writing, I am not aware of any such interventions that have used behaviour change theory. Without such a framework, brainstorming may get "stuck" on certain types of intervention (in my experience, regulation, education, and training) and neglect others. Researchers seeking to influence the behaviour of other behaviours could benefit from bringing in stakeholders and using a behaviour change framework to structure discussion. (see @sec-where-do-I-sit in my discussion chapter).
+### Relations to previous findings
+<!-- 
+#TODO: some interpretation of the data in the context of previous findings, experiences, theory, or a guiding paradigm or approach?? Not sure about this -->
+Where the barriers I identified previously offer explanations for why previous intervention studies (#REF) have had disappointing results, the ideas generated here provide hypotheses for how these interventions could be improved, and who could improve them.
 
-## Box: Reflexivity whilst running and analysing focus groups
+### Benefits of the BCW
 
-* BCW seemed to help participants gain distance from their resources and look at them with fresh(er) eyes.
-* Using the intervention function and policy categories as prompts was an effective way to prompt discussion or move things along when participants got stuck in a loop. 
-* Overall I felt I improved as a facilitator. I quickly identified a few weaknesses - I may talk too long when nervous, and I had a habit of asking two questions in one. My training at Oxford Qualitative Courses prepared me well and I could feel myself improving.
-* One participant in particular was a little challenging. They continued to refuse to accept that reporting guidelines may be difficult to use, and demanded empirical, quantitative, evidence to the fact.
+Using the intervention function and policy categories as a guide was an effective way to prompt discussion when participants ran out of ideas or repeatedly focussed on the same type of intervention that had already been documented.
 
-## Strengths, limitations, and future work
+The framework also helped guideline developers detach themselves from their creations and look at them objectively. This was a relief, as I had worried that developers may feel defensive or criticised. Keeping discussion focussed on guidelines _in general_ (not theirs in particular), having evidence for barriers, and including mixed perspectives within groups, also helped.
 
-contributions-to-the-field:
+## Higher observations
 
-* First time RG dissemination has been thought of in this way.
-* Brought together stakeholders
-* First step towards a unified dissemination plan backed up by theory
-* Will underpin future feasibility and evaluation studies
+Two questions divided participants more than others; whether reporting guidelines should be agnostic to design choices, and whether they should be viewed as rules (standards or requirements), or just a point in the right direction (guidance). The term 'guideline' is used ambiguously in scholarly publishing. NICE defines clinical guidelines as 'recommendations', which is in line with the Cambridge dictionary definition: "information intended to advise people on how something should be done". Thus guidelines "advise" or "recommend" but don't enforce or legislate. However, _journal author guidelines_ can be perceived as _rules_ that researchers have to adhere to if they want to publish, synonymous with _instructions_. Some participants were concerned that reporting guidelines may be perceived as rules, and that authors should be reassured that "guidelines are just that: guidelines!". Conversely, a few participants argued strongly that reporting guidelines should be seen as rules.
+
+These divisions over whether guidelines are guides or rules, and whether they should include opinions about design, may reflect differences between the scope of reporting guidelines, and the perspective of developers. For example, some reporting guidelines cover specific types of study that are homogenous in design and approach (e.g. ontology and epistemology). In this instance, developers may feel comfortable making assumptions or recommendations about design choices, and may be more likely to consider guidelines as standards that can be enforced. In comparison, developers of guidelines with a broader scope may have purposefully tried to not make assumptions about design or approach in an attempt to accommodate studies that share a single feature (e.g. population or method) but vary in all others, such as their design or ontology.
+
+The division could also reflect variation in developers' aims. Transparency may be the end goal for most, but others may consider reporting standards to be a stepping stone towards influencing (what they consider to be) good design.
+
+<!-- #TODO: connect their findings to prior empirical work, theories, and/or frameworks -->
+
+### Implications
+
+#### Contributions to the field
+
+* advancement of the field (of RGs). First time this approach has been taken.
+  * First time RG dissemination has been thought of in this way.
+  * First step towards a unified dissemination plan backed up by theory
+* Implications for my work
+  * Will underpin future feasibility and evaluation studies
+* Additional implications for EQUATOR (that I don't cover in this thesis)
+* Implications for guideline developers
+* Implications for other stakeholders
+
+These results will be of use to the reporting guideline community. Developers may find inspiration here when writing or revising guidance. At the time of writing, the EQUATOR Network was in the process of updating its advice for guideline developers and was hoping to redesign their website. These results will be pertinent to both of these projects.
+
+#### Transferability
+
+* generalizability
+* transfer to other such interventions
+Although only a few reporting guideline development groups took part in this study, most ideas identified were abstract enough to generalise to most reporting guidance, which tend to be developed and distributed in similar ways; (e.g., all development groups will have to consider what guidance to create, its scope, how to communicate it clearly and how to disseminate it). Some ideas may even generalise to other interventions to encourage good research practices (e.g., to communicate personal benefits, not to patronize researchers).
+
+Thinking about transferability, the ideas here could be of interest to developers of other kinds of guidelines or guideline (e.g., clinical guidelines, critical appraisal tools like CASP and latitude #REF). More interestingly (to me at least), is the transferability of the _approach_. Although theories of behaviour change are often used in bealth care and business settings, it appears less common in meta-research. I elaborate on this in (@sec-where-do-i-sit) but focussing on this particular step, identifying ways to change behaviour, without a framework brainstorming may get "stuck" on certain types of intervention (in my experience, regulation, education, and training) and neglect others. Attending a workshop in early 2023, we were tasked with brainstorming ways to reduce bias in funding application assessment. One participant gave a rich account of how their team re-designed their system to minimise opportunity for bias, published case studies of how it affects applicants, how they praise examples of good practice, hold people to account when needed, and run training courses. These examples of environmental restructuring, persuasion, incentivization, and coercion were overlooked by the facilitator, who only wrote down 'training'. Familiarization with behaviour change frameworks would benefit future facilitators.
+
+## Limitations, and future work
 
 limitations:
   
@@ -38,6 +77,4 @@ limitations:
 * We purposefully didn't rate or rank ideas. The BCW suggests using APEASE criteria which stands for #TODO. Different stakeholders will rank ideas differently especially with regards to cost-effectiveness.
 * Could have included funders, more journals, or other experts. Whilst analysing the data ideas, the software developer inside of me continued to come up with ideas. For example, when considering how to make resources findable nobody considered search engine optimization. Enriching websites with metadata so that search engines can index them properly is marketing 1-0-1, and including phrases like "how to write" or "how to describe" may help authors find researchers earlier in their research. SEO seems obvious to me as a developer, but was overlooked by participants who may not be as familiar with it.  
 
-integration-with-prior-work:
-
-implications:
+future work:
