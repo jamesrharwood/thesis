@@ -50,6 +50,7 @@ The division could also reflect variation in developers' aims. Transparency may 
 
 #### Contributions to the field
 
+<!—
 * advancement of the field (of RGs). First time this approach has been taken.
   * First time RG dissemination has been thought of in this way.
   * First step towards a unified dissemination plan backed up by theory
@@ -58,16 +59,17 @@ The division could also reflect variation in developers' aims. Transparency may 
 * Additional implications for EQUATOR (that I don't cover in this thesis)
 * Implications for guideline developers
 * Implications for other stakeholders
+—>
 
-These results will be of use to the reporting guideline community. Developers may find inspiration here when writing or revising guidance. At the time of writing, the EQUATOR Network was in the process of updating its advice for guideline developers and was hoping to redesign their website. These results will be pertinent to both of these projects.
+This is the first time a Behaviour Change framework has been used to identify ways to encourage the application of reporting guidance. It is an important step in the journey towards an evidence based intervention underpinned with theory. Within my DPhil, it is the groundwork for subsequent chapters: designing and refining the intervention (see future work).
+
+These results will be of use to the reporting guideline community. Developers may find inspiration here when writing or revising guidance. At the time of writing, the EQUATOR Network was in the process of updating its advice for guideline developers and was hoping to redesign their website. These results will be pertinent to both of these projects, and include new avenues that EQUATOR could explore (see next chapter).
 
 #### Transferability
 
-* generalizability
-* transfer to other such interventions
-Although only a few reporting guideline development groups took part in this study, most ideas identified were abstract enough to generalise to most reporting guidance, which tend to be developed and distributed in similar ways; (e.g., all development groups will have to consider what guidance to create, its scope, how to communicate it clearly and how to disseminate it). Some ideas may even generalise to other interventions to encourage good research practices (e.g., to communicate personal benefits, not to patronize researchers).
+Although only a few reporting guideline development groups took part in this study, most ideas identified were abstract enough to generalise to most reporting guidance, which tend to be developed and distributed in similar ways; (e.g., all development groups will have to consider what guidance to create, its scope, how to communicate it clearly and how to disseminate it). Some ideas may even generalise to other interventions to encourage good research practices (e.g., to communicate personal benefits, not to patronize researchers). Some ideas may generalise to clinical guidelines, although those are better studied. 
 
-Thinking about transferability, the ideas here could be of interest to developers of other kinds of guidelines or guideline (e.g., clinical guidelines, critical appraisal tools like CASP and latitude #REF). More interestingly (to me at least), is the transferability of the _approach_. Although theories of behaviour change are often used in bealth care and business settings, it appears less common in meta-research. I elaborate on this in (@sec-where-do-i-sit) but focussing on this particular step, identifying ways to change behaviour, without a framework brainstorming may get "stuck" on certain types of intervention (in my experience, regulation, education, and training) and neglect others. Attending a workshop in early 2023, we were tasked with brainstorming ways to reduce bias in funding application assessment. One participant gave a rich account of how their team re-designed their system to minimise opportunity for bias, published case studies of how it affects applicants, how they praise examples of good practice, hold people to account when needed, and run training courses. These examples of environmental restructuring, persuasion, incentivization, and coercion were overlooked by the facilitator, who only wrote down 'training'. Familiarization with behaviour change frameworks would benefit future facilitators.
+In addition to my results generalising, my approach could be transferable to other meta-research work. Although theories of behaviour change are used in bealth care and business settings, it appears less common in meta-research. I elaborate on this in (@sec-where-do-i-sit) but focussing on this particular step, identifying ways to change behaviour, without a framework brainstorming may get "stuck" on certain types of intervention (in my experience, regulation, education, and training) and neglect others. Attending a workshop in early 2023, we were tasked with brainstorming ways to reduce bias in funding application assessment. One participant gave a rich account of how their team re-designed their system to minimise opportunity for bias, published case studies of how it affects applicants, how they praise examples of good practice, hold people to account when needed, and run training courses. These examples of environmental restructuring, persuasion, incentivization, and coercion were overlooked by the facilitator, who only wrote down 'training'. Familiarization with behaviour change frameworks would benefit future facilitators.
 
 ## Limitations, and future work
 
