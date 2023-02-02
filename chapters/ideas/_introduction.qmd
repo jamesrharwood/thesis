@@ -1,0 +1,20 @@
+
+# Introduction
+
+::: {.SRQR data="Item 3. Problem Formulation: Description and significance of the problem/phenomenon studied; review of relevant theory and empirical work; problem statement."}
+
+In chapter 3,<!--#FIXME--> I described how I used the BCW to define the behaviour (applying guidance as early as possible), and in chapters 4-7<!--#FIXME--> I describe how I identified behavioural drivers that influence this target behaviour. My next question was: what can we, the reporting guideline community, do to address these influences? I decided to include other stakeholders within the reporting guideline community for two reasons. Firstly, I expected that capturing their perspectives would generate additional ideas. Secondly, I hoped that I could bring them along on the journey, cultivate buy-in, and increase the chances that my outputs would be adopted. 
+
+## Identifying Intervention Functions with the UK EQUATOR Center {#sec-workshops}
+
+I previously described how the BCW book includes worksheets and a suggested approach to designing interventions (see Chapters 3 and 8<!--#FIXME-->). Worksheet 5 asks you to think about intervention functions at an abstract level and rate them according to the APPEASE criteria, standing for Affordability, Practicability, Effectiveness and cost-effectiveness, Acceptability, Side-effects, and Equity. However, because EQUATOR members weren't familiar with BCW concepts like "environmental restructuring" or "modelling", it felt more productive to take each in turn, talk about the definition, then go through each factor (or _influence_, from worksheet 4) to see how the intervention function could be applied. 
+
+The result of our modified worksheet 5 was a list of ideas - things that we, or others, could do - with each idea employing an intervention function. This list was the starting point from which I sought input from other members of the reporting guideline community.
+:::
+
+<!-- Notes: 
+1. I've not done much problem formulation here. I could talk about how the current intervention hasn't been designed, but I think I'll have already done that in my main introduction. -->
+
+
+
+

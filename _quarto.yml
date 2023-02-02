@@ -1,6 +1,15 @@
 project:
   title: "BCW-focus-groups"
   output-dir: output
-
+format:
+  html:
+    toc: true
+    theme: cosmo
+    smooth-scroll: true
+  docx:
+      from: markdown+grid_tables
+      reference-doc: reference.docx
+      toc: false
+      toc-depth: 2
 
 

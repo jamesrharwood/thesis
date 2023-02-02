@@ -27,7 +27,7 @@ idea_count: 9
 id: ready-to-use
 title: Make resources ready-to-use
 barrier_ids: [need-usable-formats, need-enough-time]
-intervention_fn_ids: [environmental-restructuring]
+intervention_fn_ids: [enablement]
 stakeholder_ids: [developers, equator]
 stage: creation
 idea_count: 1
@@ -95,7 +95,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 ---
 
 id: avoid-proliferation
-title: Avoid overwhelming authors with too many reporting guidelines
+title: Avoid confusing authors with too many reporting guidelines
 barrier_ids: [what-rgs-exist, need-to-reconcile, best-fit]
 intervention_fn_ids: [enablement]
 relation_ids: [information-architecture, easy-understand]
@@ -149,7 +149,7 @@ idea_count: 5
 id: create-rewards
 title: Create rewards
 barrier_ids: [care-about-benefits]
-intervention_fn_ids: [incentivization, persuasion]
+intervention_fn_ids: [incentivization]
 stakeholder_ids: [developers, equator, publishers, funders, institutions, preprints, registries]
 stage: ongoing
 idea_count: 6
@@ -194,7 +194,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 id: early-acquisition
 title: Create ways to catch authors earlier
 barrier_ids: [need-prompts, need-right-time, need-enough-time, when-to-use]
-intervention_fn_ids: [environmental-restructuring]
+intervention_fn_ids: [education, enablement, environmental-restructuring]
 relation_ids: [create-tools, create-early-guidance]
 stakeholder_ids: [equator, developers, publishers, funders, ethics, institutions, conferences, preprints, registries]
 stage: ongoing
@@ -211,14 +211,14 @@ idea_count: 4
 id: design-agnostic
 title: Keep reporting guidelines agnostic to design choices
 barrier_ids: [feel-restricted, feel-transparent, believed-costs, what-are-rgs]
-intervention_fn_ids: [education]
+intervention_fn_ids: [enablement, persuasion]
 relation_ids: [keep-short, value-statement]
 stakeholder_ids: [developers]
 stage: development
 idea_count: 3
 ---
 
-<!-- #ASK Olga: is this negative education? -->
+<!-- #ASK Olga: is this negative coercion, negative education? -->
 
 Ask authors to describe methods transparently without making assumptions about, or prescribing, methods or design choices. For example, an instruction to "describe how you determined your sample size" may be more helpful than "report your sample size calculation" for authors who encounter checklists at submission and did not perform a sample size calculation before collecting data.
 
@@ -432,7 +432,7 @@ NB. Promotion is different to endorsement; a journal could run an email campaign
 id: reporting-champions
 title: Install reporting champions
 barrier_ids: [what-are-rgs, benefits, understanding, when-to-use, importance]
-intervention_fn_ids: [education, persuasion]
+intervention_fn_ids: [education, enablement]
 stakeholder_ids: [equator, developers, institutions, funders, ethics, publishers, conferences, preprints, registries]
 stage: ongoing
 idea_count: 2

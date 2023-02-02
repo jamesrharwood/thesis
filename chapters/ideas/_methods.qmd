@@ -1,0 +1,85 @@
+# Methods
+
+::: {.SRQR data="purpose-of-research-question"}
+The purpose of this study was to elicit ideas from experts familiar with RG dissemination, on how to address barriers and facilitators that may influence the application of (and thereby adherence to) reporting guidance. 
+:::
+
+## Qualitative approach and research paradigm
+
+My qualitative approach was active research, whereby participants and researchers generated ideas linked to theoretical concepts from the Behaviour Change Wheel (#REF). My paradigm was post-positivist; I considered that ideas were "out there" and recognised that my opinions may influence what I observed and concluded, and attempted to mitigate against this (see @tbl-trust).
+
+## Researcher characteristics and reflexivity
+
+CA teaches qualitative methods across a range of courses at Oxford University and, at the time of the study, was course director of Oxford Qualitative courses, through which JH received training in interviewing, focus groups, and analysing qualitative data.
+
+Reflecting on our prior held opinions, all authors believed reporting to be important. With the exception of CA, all authors have a history of developing or advocating for reporting guidelines. CA felt that reporting guidelines are useful for quantitative research but that some reporting guidelines, in their current format, risk holding qualitative researchers to positivist standards.
+
+JH, JdB and MS took part in the internal EQUATOR meetings before the focus groups were held (see @sec-workshops). As an early career researcher, JH has experienced first hand frustration when trying to use reporting guidelines himself, and maintained reflexivity by maintaining a journal of these experiences as well as his experiences facilitating the focus groups.
+<!-- I will probably move this and have a single researcher characteristics section in thesis -->
+
+## Context
+
+I ran focus groups over Zoom, with participants attending from home or their usual place of work. The study took place at a time where the EQUATOR guidance for guideline developers was being updated. All participants had heard of EQUATOR, and many had professional relationships with GC, JdB and MS, who did not take part in the focus groups. JH had spoken to a few participants previously at conferences but, as a relative outsider to the reporting guideline ecosystem, he hoped that participants would feel comfortable to speak candidly and non-defensively. 
+
+<!-- May move context about EQUATOR update to main section within thesis -->
+
+## Sampling Strategy
+
+I invited a purposive sample including the developers of popular reporting guidelines, publishing professionals, and academics that have studied reporting guidelines. I asked participants to extend the invite to others they felt would be appropriate. Because the BCW requires input from experts with insight into the intervention, I decided to elicit the opinions of authors in a separate study.
+
+Following best-practice, I used information power([#REF](https://journals.sagepub.com/doi/10.1177/1049732315617444?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)) to guide my estimated sample size, and I deemed my power sufficient to justify initially recruiting 15-20 participants in 4 groups. This was because: my aim was narrow; my sample was dense in that participants knew a lot about how reporting guidance is disseminated but also showed variance in terms of which guidelines they work on; I used the BCW as an applied theory; I used open questioning and to encourage strong dialogue; and I was not planning a cross-case analysis. I used the dialogue criteria from Information Power as my stopping criteria, by monitoring edits of the co-produced file and noticing when no new information was being added. At this point, I judged that the benefit of continued sampling was insufficient given time constraints.
+
+## Ethical Issues
+
+The study was approved by the Medical Sciences Interdivisional Research Ethics Committee (R80414/RE001). Participants gave informed consent by completing an online form. Participant's edits to the co-produced file were anonymous. I recorded the audio of focus groups for reference during analysis.
+
+## Data Collection Methods and Materials
+
+I collected data between May-July 2022. I initially chose focus groups to collect data so that participants with differing backgrounds could feed off each other's ideas. However, in practice it was difficult to coordinate between participants across time zones and work commitments, and so sessions only had 2 or 3 participants. Some would consider these group sizes too small to be called focus groups, and may instead call them paired interviews, dyads, or triads ([#REF](https://www.aqr.org.uk/glossary/triad)). Some may feel concerned that small group sizes change the social dynamics, or that fewer people will result in fewer ideas. However, the small group sizes actually worked well in this situation. Participants had plenty of opinions and ideas, sessions often ran over the allotted time, and participants naturally responded to each other. If I had insisted on larger focus groups, participants would have had less time and I expect many ideas would have gone unheard. 
+
+### Pre-focus group activities: developing the first version of the co-produced document
+
+In the introduction to this chapter I described how EQUATOR and I generated a list of ideas that could target influences. This "ideas document" had two columns: influences were described in the left hand column, and ideas of possible changes in the right hand column. It can be seen in Appendix #TODO. The document gave participants plenty of food for thought which they could edit or extend, and made it easier to achieve our aim of identifying as many ideas as possible. However, because ideas could bias or limit the creativity of participants I initially hid them by turning the text in the ideas column white, making it invisible before sharing. I would reveal the text only after participants had exhausted their own imagination.
+
+### Before each focus group
+
+Before each focus group, I would ask participants to spend some time thinking of facilitators and barriers. A few minutes before the focus group began I would send a Microsoft Sharepoint link to the latest version of the ideas document. 
+
+### Focus Group introductions
+
+At the start of each focus group I explained that the goal was to brainstorm blue-sky ideas to address influences. Wanting guideline developers to think open-mindedly and not defensively, I explained where the list of influences had come from, and that the influences were in reference to reporting guidelines _in general_, and not necessarily a comment on _their_ guideline. I encouraged participants to think beyond the guideline documents themselves, and to consider all stakeholders and resources involved. I explained that the aim was to think of as many ideas as possible, and not worry about whether ideas were good or bad.
+
+### Selecting which influences to talk about
+
+In the first focus group it became apparent that participants had a lot to say and that 2 hours was not sufficient to cover all the influences, so I added a table of contents to the top of the document. In future sessions, participants spent the first few minutes reading through this table and marking the items that they wanted to talk about or raising any influences they felt were missing from the list. I used these marks to select influences for discussion, and sometimes selected influences myself - either because the influence had been neglected by previous groups or because he expected participants' to have insight into it.
+
+### Brainstorming solutions to chosen influences
+
+I would explain the influence in question and allow participants to ask questions. Once participants felt they understood it, I asked them to spend a couple of minutes brainstorming solutions in silence. Participants then  discussed their ideas as a group. Once participants had discussed their own ideas, I would reveal the ideas identified by previous groups by changing the colour of the text from white to black. Participants then edited or extended the text until it reflected their thoughts. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to.
+
+This was different to how I worked through the exercise with EQUATOR. The EQUATOR team had had many sessions to become familiar with BCW terms and concepts. Some even read the BCW book themselves. We took each intervention function in turn and tried to apply it to each barrier. But in practice EQUATOR staff frequently got confused and would, for instance, suggest an idea employing _persuasion_ when discussing _education_. I felt it impractical, therefore, to expect focus group participants to understand and begin using BCW concepts within a matter of minutes. Instead, I used the BCW to prompt discussion by asking questions like "how could this be easier to do?" or "how could we change how people feel about this?". These especially useful on occasions when participants would get fixed on a particular solution and find it difficult to think of others whereupon I would reassure participants that their fixated solution was documented, that it would be useful to think of alternatives, and use prompts to move the discussion along.
+
+### Between focus groups
+
+After each focus group, I made notes on how the session went, made a copy of the edited ideas document, and turned the ideas column white again, ready to be shared with the next group.
+
+### Data processing
+
+After the final focus group, I imported the final ideas document into NVivo and applied descriptive codes to ideas. Some sentences contained multiple ideas, each being a single intervention change. Sometimes the same idea appeared against multiple barriers, and most barriers had multiple associated ideas. I also coded the barriers and stakeholders that were related to each idea.
+
+### Data analysis
+
+I used qualitative description for my analysis (@bradshawEmployingQualitativeDescription2017; @kimCharacteristicsQualitativeDescriptive2017), which involved aggregating and summarising ideas. I did not interpret data as doing so would erase the views captured during co-production. I grouped ideas inductively in ways that felt cohesive and made the results easy for my intended audience (the reporting guideline community) to understand and act upon. For example, I aggregated "ask authors to cite reporting guidelines" and "display citation metrics on reporting guideline resources" into a group about "Citations", even though they target different barriers (discoverability and perceived trustworthiness) and employ different intervention functions (education and persuasion). 
+<!-- # TODO: ensure wording matches results. -->
+
+I discussed and refined my coding, aggregating and summarising with JdB. Sometimes participants would mention an idea without specifying which stakeholder(s) it could apply to, and so JdB and I added relationships between stakeholders and ideas retrospectively when necessary.
+
+I kept a diary whilst running focus groups and analysing data, where I noted any additional ideas as they came to me. 
+
+Whereas I had contributed ideas to pre-focus group, internal EQUATOR meetings, I kept ideas to myself during the focus groups and did not add them to the data after analysis. I had felt justified in contributing ideas before the focus group, because I knew that other stakeholders would have an opportunity to discuss, challenge and build upon them to the point where "my" ideas had been re-written to become "ours". However, during analysis a few more ideas came to me, mostly from my experience in product and software development, which made me consider that my participants may have lacked expertise in these areas, and that my analysis may have benefited from a wider participant pool. I elaborate on this, and on the additional ideas, in the Limitations sections of my discussion). 
+
+### Feedback after the focus groups {#sec-feedback-after-focus-groups}
+
+I sent the aggregated, summarised ideas to focus group participants and EQUATOR members, inviting them to add more ideas and to check that it reflected their ideas faithfully. I also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group. Other techniques to enhance trustworthiness are described in @tbl-trust.
+
+{{< include _credibility_table.qmd >}}

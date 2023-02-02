@@ -1,12 +1,4 @@
-# Introduction (Target: 1500)
-
-::: {.SRQR data="Item 3. Problem Formulation: Description and significance of the problem/phenomenon studied; review of relevant theory and empirical work; problem statement."}
-
-My thematic synthesis, survey review, website review, and journal audit generated many hypotheses to explain the limited impact of reporting guidelines. My next question was: what can we, the reporting guideline community, do to address these influences? I wanted to begin including other members of the reporting guideline community. My objective was to gather ideas, and I hoped that capturing perspectives from different stakeholders would generate more ideas compared to if I worked alone. I also hoped that by including the community in my work I could somehow bring them along on the journey, cultivate buy-in, and increase the chances that my work would lead to change. 
-
-## Working through the Behaviour Change Wheel with the UK EQUATOR Center (Target: 1000)
-
-I expected the Behaviour Change Wheel to be useful in turning a list of barriers into a list of ideas. In their book (@michieBehaviourChangeWheel2014), Michie et al. provide worksheets that guide you through the process of defining the behaviour you are interested, diagnosing barriers in terms of the underlying behavioural drivers, and selecting intervention components. Specifically, these worksheets help you:
+In their book (@michieBehaviourChangeWheel2014), Michie et al. provide worksheets that guide you through the process of defining the behaviour you are interested, diagnosing barriers in terms of the underlying behavioural drivers, and selecting intervention components. Specifically, these worksheets help you:
 
 1. define the problem in behavioural terms,
 2. identify which behaviours could bring about the desired change and selecting one to focus on,
@@ -33,10 +25,8 @@ This was a useful starting point because it made us aware of what we were _not_ 
 
 We followed worksheets 1-4 verbatim. Worksheet 4 asks you to identify what needs to change and to categorize these changes into the underlying behavioural driver from the COM-B model. For instance "authors need to know what reporting guidelines are" would be a change under _capability_. "Authors need to be able to access reporting guidelines" would be an _opportunity_ change. My thematic synthesis, survey review, website review and audit provided evidence for many changes, and EQUATOR members contributed their own thoughts based on personal experience.
 
-In the book, worksheet 5 asks you to think about intervention functions at an abstract level and rate them according to the APPEASE criteria, standing for Affordability, Practicability, Effectiveness and cost-effectiveness, Acceptability, Side-effects, and Equity. However, because EQUATOR members weren't familiar with BCW concepts like "environmental restructuring" or "modelling", it felt more productive to take each in turn, talk about the definition, then go through each required change (from worksheet 4) to see how the intervention function could be applied. We used the same technique for worksheets 6 to 8.
+## Identifying IFs - see focus group chapter
 
-The result of our modified worksheet 5 was a list of ideas - things that we, or others, could do. This felt like a good point at which to seek input from other members of the reporting guideline community. 
-:::
+## Identifying Policy Categories etc
 
-
-
+We used the same technique for worksheets 6 to 8. (Same method as Worksheet 5 in focus group chapter).

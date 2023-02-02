@@ -1,0 +1,7 @@
+{{< include _introduction.qmd >}}
+
+{{< include _methods.qmd >}}
+
+{{< include _results.qmd >}}
+
+{{< include _discussion.qmd >}}

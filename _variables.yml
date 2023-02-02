@@ -57,21 +57,35 @@ IFs:
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
 counts:
-  EQUATOR_ideas: TODO
+  EQUATOR_ideas: 82
   academics: 2
   barriers: 32
-  changes: 28
+  ideas: 28
   focus_groups: 7
   guideline_developers: 11
   jh_ideas: 8
-  jh_ideas_before: TODO
+  jh_ideas_before: 34
   participants: 16
   publishers: 3
   stakeholders: 10
   sub_items: 136
   sub_items_pre_jh: 128
-  EQUATOR_staff: TODO
-  EQUATOR_meetings: TODO
+  EQUATOR_staff: 6
+  EQUATOR_meetings: 7 
+  invitations:
+    total: 23
+    no_response: 7
+    guideline_groups: 
+      total: 15
+      attended: 5
+      no_time: 4
+      no_response: 5
+      denied: 1
+      post_group_feedback_only: 3
+
+
+
+
 descriptions:
   stages: before developing guidance, when developing guidance, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
   stakeholders: funders, ethics committees, institutions, publishers, equator network, guideline developers, registries, preprint servers, conference organisers, and societies
