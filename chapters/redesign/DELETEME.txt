@@ -1,0 +1,91 @@
+Describe what RGs are where they are first encountered:
+Differentiate resources and advice aimed at different tasks (writing vs designing vs appraising):
+Instruct authors to cite reporting guidelines:
+Encourage journals, ethics committees, funders, and other stakeholders to endorse reporting guidelines:
+Encourage all stakeholders to promote reporting guidelines:
+Install reporting champions; individuals that promote reporting guidelines within their organisation or peer group:
+Decision tools for discovering resources:
+Collections of related reporting guidelines:
+Links between related guidelines:
+embed reporting guidelines that "fit together":
+Centralised hosting:
+Search function on website:
+Search Engine Optimization:
+Permanent links (DOIs):
+Ensure guidelines and tools are open access:
+Describe the scope of a reporting guideline at the top of every resource:
+Use if-then rules to direct authors to more appropriate guidance when available:
+Explicitly state when no better guidance exists for a particular use case: 
+Decision tools (see above):
+provide translations of resources:
+Make guidance appear shorter by removing superfluous parts, hiding optional content, splitting long guidelines, using concise language, and separating design advice:
+Cater to different kinds of user (readers vs dippers) by structuring guidance with headings, itemisation, hyperlinking to particular sections, and with dynamic content:
+Include testimonials from researchers who were nervous about being punished for reporting transparently:
+Decrease fear of judgement by making reporting guidelines design agnostic:
+Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape:
+Reassure that all research has limitations and encourage explanation over perfection:
+Address communications to authors:
+Communicate why reporting is the responsibility of the author and not an editor or reviewer:
+Educate about writing as a process:
+Provide training and education about writing as a process:
+link all resources to each other:
+Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications):
+Gather and communicate evidence for benefits:
+Display citation metrics:
+Create spaces for authors to see other authors using reporting guidelines:
+Use language to communicate personal benefits; confidence and simplicity:
+Create new benefits that are more meaningful e.g., by offering recognition of good reporting through a certification service:
+Include testimonials from research users who benefit from complete reporting:
+Create training that helps students experience, first hand, the benefits of RGs and consequence of poor reporting:
+use plain language:
+define key terms:
+use consistent terms:
+provide translations:
+provide channels for feedback and support (see above):
+For each item, explain why the *information* is important and to whom (regardless of whether a particular design choice is important):
+For each item, indicate any conditions which modify importance:
+Explain importance of complete reporting to the scientific community:
+Provide links to other resources that explain how an item can be done:
+For each item, provide clear instruction of what needs to be described:
+For each item, provide examples of reporting in different contexts:
+Discussion spaces (see above):
+Provide clear instruction of what needs to be described when an item was not done, could not be done, or does not apply:
+Provide examples of reporting "imperfect" items:
+Ensure resources (checklists and templates) are in ready-to-use formats:
+Structure guidance to make it quicker to digest (see above):
+Indicate priority of items for authors that are short on time:
+Tell authors how long the guidance will take to read:
+Tell authors how long guidance will take to apply:
+Tell authors when to use RGs, or that RGs are best used as early as possible:
+Differentiate resources by task on website:
+Optimize websites for search terms aimed at early use like "how to write", or "funding application".:
+Promote RGs in writing clubs or writing training:
+Create prompts / communication campaigns authors early in their research:
+Create tools to be used for early writing tasks:
+Provide instruction as to how information can be reported without breaching word count limits or making articles bloated.:
+Provide examples of concise reporting:
+Create planning-points; discussion points for planning research in the order decisions are made (see above):
+Create to-do lists in the order research is conducted, to help authors collect information they will need to report (see above):
+Create templates for drafting (see above):
+Create tools to facilitate checklist completion:
+Create tools to facilitate particular reporting items:
+Create tools to help collaborators check each other's work:
+Create tools to help peer reviewers check reporting and request missing information:
+Provide feedback channels to help developers keep guidance updated (see Discussion spaces above):
+Create a system so that guideline developers can make small edits without publishing new articles:
+Explain when RGs do not intended to prescribe structure:
+Provide options for where items can be reported (see above): #TODO replace all see above with specific item numbers or text
+Create a system whereby guidelines can be embedded into each other (see above):
+Provide advice regarding how to respond if asked to remove reporting guideline content by a colleague, editor, or reviewer:
+Ensure resources (checklists and templates) are in ready-to-use formats (see above):
+Present design advice separately to reporting advice:
+Make reporting guidelines agnostic to design choices:
+Encourage explanation even when choices are unusual or not optimal:
+Reassure authors that all research has limitations:
+Include testimonials from authors who were nervous about reporting transparently:
+Present design advice separately and remain design agnostic (see above):
+Reassure when guidelines are _just_ guidelines:
+Create discussion spaces for authors to voice disagreements and contribute to revisions (see above):
+Avoid patronizing language:
+Explain how the guidance was developed and why it can be trusted:
+Create prompts / communication campaigns (see above):
