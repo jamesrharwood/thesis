@@ -1,0 +1,48 @@
+```{python}
+#| column: page
+#| echo: false
+#| output: asis
+
+import yaml
+import os
+from IPython.display import Markdown, display
+from tabulate import tabulate
+from data import BARRIERS
+import texttable
+
+COLS = ['Intervention Ingredient', 'Intervention Functions', 'BCT', 'Before', 'Now']
+COL_RANGE = range(len(COLS))
+WIDTHS = [100, 70, 70, 130, 130]
+ALIGNMENTS = ['l' for _ in COL_RANGE]
+DIR = os.getcwd()
+FP = os.path.join(DIR, 'chapters', 'redesign', 'planning_table.yaml')
+with open(FP, 'r') as f:
+    data = yaml.safe_load(f)
+table = texttable.Texttable()
+table.header(COLS)
+table.set_cols_width(WIDTHS)
+table.set_header_align(ALIGNMENTS)
+for key_behaviour, barriers in data.items():
+    table.add_row([f'[**Key Behaviour: {key_behaviour}**]{{.nowrap .text-info}}', '', '', '', ''])
+    for barrier, details in barriers.items():
+        target = BARRIERS[barrier].driver.title
+        text = f'[**Influencing factor:\n{{{{< var BARRIERS.{barrier} >}}}}**<br>Target Concept (BCW): {target}]{{.nowrap}}'
+        table.add_row([text, '', '', '', ''])
+        ingredients = details['ingredients']
+        if type(ingredients)==dict:
+            for desc, values in ingredients.items():
+                try:
+                    before = f'{values["before"]}\n\nExample: {values["before_example"]}'
+                    now = f'{values["now"]}\n\nExample: {values["now_example"]}'
+                except Exception as e:
+                    raise Exception(desc)
+                IF = values.get('IF', '')
+                BCT = values.get('BCT', '')
+                table.add_row([desc, IF, BCT, before, now])
+print(table.draw())
+```
+: Intervention Planning Table
+
+1. "Before" is in reference to RGs generally, but I have not audited RGs for BCTs used. Consider this column "rules of thumb".
+2. "Now" refers to the new home page I have built and my re-design of the SRQR guideline.
+3. "Future" items marked with * are hypothetical and up to other EQUATOR team members to consider. I will include all others items in a future post-doc application. Rows marked with ^1^ need to be applied to other RGs and/or to other resources (e.g. checklists, templates). {#tbl-int-plan}

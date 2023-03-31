@@ -1,0 +1,17 @@
+# Figures
+
+![EQUATOR Network website home page](figures/ph.png){#fig-home-b4}
+
+![DB Page](figures/ph.png){#fig-db-b4}
+
+![RG intro](figures/ph.png){#fig-rg-intro-b4}
+
+![Checklist intro](figures/ph.png){#fig-checklist-b4}
+
+![Author instructions for a typical journal](figures/ph.png){#fig-journal-instructions}
+
+![Intervention home page](figures/ph.png){#fig-home}
+
+![Intervention reporting guideline page. The top of the page now includes: a) Magna cillum magna incididunt consequat in laborum amet tempor voluptate excepteur b) Consequat ut mollit velit proident laboris Lorem ut consequat sint esse; and c) Laborum elit Lorem commodo reprehenderit labore.](figures/ph.png){#fig-rg-intro}
+
+![Intervention discussion page](figures/ph.png){#fig-discussion}

@@ -1,0 +1,21 @@
+---
+format: 
+    html:
+        css:
+            styles.css
+theme: cosmo
+---
+
+# (Re)designing the intervention
+
+{{< include methods.md >}}
+
+:::{.column-page-right}
+{{< include _table.qmd >}}
+:::
+
+{{< include _figures.qmd >}}
+
+{{< include _boxes.qmd >}}
+
+{{< include discussion.md >}}

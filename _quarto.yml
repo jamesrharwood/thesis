@@ -1,6 +1,7 @@
 project:
   title: "BCW-focus-groups"
   output-dir: output
+  execute-dir: project
 format:
   html:
     toc: true

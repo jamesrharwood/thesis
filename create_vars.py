@@ -49,7 +49,8 @@ filename = "_variables.yml"
 
 changes = {c.id: c.title for c in CHANGES}
 changes_section_titles = {c.id: c.title.lower().replace(' ', '-') for c in CHANGES}
-
+barriers = {b.id: b.title for b in BARRIERS}
+barrier_sections = {b.id: b.title.lower().replace(' ', '-') for b in BARRIERS}
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)
     file_.seek(0)
@@ -63,5 +64,7 @@ with open(filename, 'r+') as file_:
     variables.update({'stages': stages})
     variables.update({'IFs':  changes})
     variables.update({'IFSecs': changes_section_titles})
+    variables.update({'BARRIERS': barriers})
+    variables.update({'BARRIER_SECTIONS': barrier_sections})
     yaml.dump(variables, file_, width=1000)
     file_.truncate()

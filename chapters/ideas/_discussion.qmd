@@ -70,4 +70,4 @@ For example, participants did not consider writing guidance using in active voic
 
 We purposefully did not seek input from authors as this study required input from experts familiar with reporting guideline dissemination. We will explore authors' perspectives in future work.
 
-We also made no attempt to rate ideas. In chapter #TODO I describe how I worked with EQUATOR to prioritise ideas using the APEASE criteria, which is recommended by the BCW and stands for Affordability, Practicability, Efficacy, Acceptability, Side Effects, and Equity. This prioritization should be done be each stakeholder individually as it is subjective (what is practical for one may be impractical for another).
+We also made no attempt to prioritize ideas. This prioritization should be done be each stakeholder individually as it is subjective (what is practical for one may be impractical for another). In my next chapter I describe how I worked with EQUATOR to prioritise ideas and turn them into intervention components. 

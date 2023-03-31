@@ -1,8 +1,74 @@
+BARRIERS:
+  believed-benefits: Researchers may not believe stated benefits
+  believed-costs: Researchers may expect the costs to outweigh benefits
+  benefits: Researchers may not know what benefits to expect
+  best-fit: Researchers may not know what RG is their best fit
+  care-about-benefits: Researchers may not care about the benefits of using a RG
+  feel-not-a-job: Researchers may not consider writing as reporting
+  feel-not-my-job: Researchers may feel that checking reporting is someone else's job.
+  feel-patronized: Researchers may feel patronized
+  feel-restricted: Researchers may feel restricted if RGs prescribe design
+  feel-transparent: Researchers may feel afraid to report transparently
+  how-to-do: Researchers may not know how to do an item
+  how-to-report: Researchers may not know how to report an item in practice
+  how-to-report-not-done: Researchers may not know what to write when they cannot report an item
+  importance: Researchers may not know why items are important
+  need-accessible: RGs may be difficult to access
+  need-concise-writing: Researchers may struggle to keep writing concise
+  need-enough-time: Researchers have limited time
+  need-findable: Guidance may be difficult to find
+  need-prompts: Researchers may forget to use RGs at earlier research stages
+  need-right-time: Researchers may not encounter RGs early enough to act on them
+  need-to-reconcile: Researchers may struggle to reconcile multiple sets of guidance
+  need-to-remove: Researchers may be asked to remove RG content
+  need-tools: Researchers may not have tools for the job at hand
+  need-translations: Researchers may not understand the language
+  need-up-to-date-guidance: RGs can become outdated
+  need-usable-formats: RG resources may not be in usable formats
+  scope: Researchers may not know whether a RG applies to them
+  understanding: Researchers may misunderstand
+  what-are-rgs: Researchers may not know what RGs are
+  what-resources-exist: Researchers may not know what resources exist for a RG
+  what-rgs-exist: Researchers may not know what RGs exist
+  when-to-use: Researchers may not know when RGs should be used
+BARRIER_SECTIONS:
+  believed-benefits: researchers-may-not-believe-stated-benefits
+  believed-costs: researchers-may-expect-the-costs-to-outweigh-benefits
+  benefits: researchers-may-not-know-what-benefits-to-expect
+  best-fit: researchers-may-not-know-what-rg-is-their-best-fit
+  care-about-benefits: researchers-may-not-care-about-the-benefits-of-using-a-rg
+  feel-not-a-job: researchers-may-not-consider-writing-as-reporting
+  feel-not-my-job: researchers-may-feel-that-checking-reporting-is-someone-else's-job.
+  feel-patronized: researchers-may-feel-patronized
+  feel-restricted: researchers-may-feel-restricted-if-rgs-prescribe-design
+  feel-transparent: researchers-may-feel-afraid-to-report-transparently
+  how-to-do: researchers-may-not-know-how-to-do-an-item
+  how-to-report: researchers-may-not-know-how-to-report-an-item-in-practice
+  how-to-report-not-done: researchers-may-not-know-what-to-write-when-they-cannot-report-an-item
+  importance: researchers-may-not-know-why-items-are-important
+  need-accessible: rgs-may-be-difficult-to-access
+  need-concise-writing: researchers-may-struggle-to-keep-writing-concise
+  need-enough-time: researchers-have-limited-time
+  need-findable: guidance-may-be-difficult-to-find
+  need-prompts: researchers-may-forget-to-use-rgs-at-earlier-research-stages
+  need-right-time: researchers-may-not-encounter-rgs-early-enough-to-act-on-them
+  need-to-reconcile: researchers-may-struggle-to-reconcile-multiple-sets-of-guidance
+  need-to-remove: researchers-may-be-asked-to-remove-rg-content
+  need-tools: researchers-may-not-have-tools-for-the-job-at-hand
+  need-translations: researchers-may-not-understand-the-language
+  need-up-to-date-guidance: rgs-can-become-outdated
+  need-usable-formats: rg-resources-may-not-be-in-usable-formats
+  scope: researchers-may-not-know-whether-a-rg-applies-to-them
+  understanding: researchers-may-misunderstand
+  what-are-rgs: researchers-may-not-know-what-rgs-are
+  what-resources-exist: researchers-may-not-know-what-resources-exist-for-a-rg
+  what-rgs-exist: researchers-may-not-know-what-rgs-exist
+  when-to-use: researchers-may-not-know-when-rgs-should-be-used
 IFSecs:
   accessible: make-resources-accessible
   apparent-priority: make-reporting-guidelines-appear-as-a-priority
   avoid-prescribing-structure: avoid-prescribing-structure
-  avoid-proliferation: avoid-overwhelming-authors-with-too-many-reporting-guidelines
+  avoid-proliferation: avoid-confusing-authors-with-too-many-reporting-guidelines
   budget-and-fund-reporting: budget-for-reporting
   citation: show-and-encourage-citations
   create-early-guidance: create-reporting-guidance-for-early-stages-of-research
@@ -31,7 +97,7 @@ IFs:
   accessible: Make resources accessible
   apparent-priority: Make reporting guidelines appear as a priority
   avoid-prescribing-structure: Avoid prescribing structure
-  avoid-proliferation: Avoid overwhelming authors with too many reporting guidelines
+  avoid-proliferation: Avoid confusing authors with too many reporting guidelines
   budget-and-fund-reporting: Budget for reporting
   citation: Show and encourage citations
   create-early-guidance: Create reporting guidance for early stages of research
@@ -57,35 +123,32 @@ IFs:
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
 counts:
-  EQUATOR_ideas: 82
+  EQUATOR_ideas: TODO
+  EQUATOR_meetings: 7
+  EQUATOR_staff: 6
   academics: 2
   barriers: 32
-  ideas: 28
+  changes: 28
   focus_groups: 7
   guideline_developers: 11
+  ideas: 28
+  invitations:
+    guideline_groups:
+      attended: 5
+      denied: 1
+      no_response: 5
+      no_time: 4
+      post_group_feedback_only: 3
+      total: 15
+    no_response: 7
+    total: 23
   jh_ideas: 8
-  jh_ideas_before: 34
+  jh_ideas_before: TODO
   participants: 16
   publishers: 3
   stakeholders: 10
   sub_items: 136
   sub_items_pre_jh: 128
-  EQUATOR_staff: 6
-  EQUATOR_meetings: 7 
-  invitations:
-    total: 23
-    no_response: 7
-    guideline_groups: 
-      total: 15
-      attended: 5
-      no_time: 4
-      no_response: 5
-      denied: 1
-      post_group_feedback_only: 3
-
-
-
-
 descriptions:
   stages: before developing guidance, when developing guidance, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
   stakeholders: funders, ethics committees, institutions, publishers, equator network, guideline developers, registries, preprint servers, conference organisers, and societies

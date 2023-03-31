@@ -102,6 +102,7 @@ relation_ids: [information-architecture, easy-understand]
 stakeholder_ids: [developers, equator, publishers]
 stage: planning
 idea_count: 6
+
 ---
 
 * To avoid duplicating resources, before commencing a new reporting guideline:
@@ -199,6 +200,7 @@ relation_ids: [create-tools, create-early-guidance]
 stakeholder_ids: [equator, developers, publishers, funders, ethics, institutions, conferences, preprints, registries]
 stage: ongoing
 idea_count: 4
+
 ---
 
 * Consider creating email campaigns to prompt researchers at early stages.
@@ -216,6 +218,7 @@ relation_ids: [keep-short, value-statement]
 stakeholder_ids: [developers]
 stage: development
 idea_count: 3
+
 ---
 
 <!-- #ASK Olga: is this negative coercion, negative education? -->
@@ -258,6 +261,7 @@ intervention_fn_ids: [enablement]
 stakeholder_ids: [developers, equator, funders, ethics, publishers]
 stage: creation
 idea_count: 12
+
 ---
 
 Create tools for different tasks:
@@ -285,6 +289,7 @@ intervention_fn_ids: [environmental-restructuring]
 stakeholder_ids: [developers, equator]
 stage: creation
 idea_count: 11
+
 ---
 
 Link resources:
@@ -317,6 +322,7 @@ intervention_fn_ids: [education, restriction, persuasion]
 stakeholder_ids: [publishers, institutions, ethics, funders, registries, conferences, preprints]
 stage: ongoing
 idea_count: 3
+
 ---
 
 Stakeholders could:
@@ -335,6 +341,7 @@ relation_ids: [testimonials, value-statement]
 stakeholder_ids: [developers, equator, publishers]
 stage: ongoing
 idea_count: 2
+
 ---
 
 Evidence any stated benefits:
@@ -352,6 +359,7 @@ relation_ids: [item-content]
 stakeholder_ids: [developers, equator]
 stage: creation
 idea_count: 7
+
 ---
 
 Organise information so it is easy to navigate and not overwhelming.
@@ -372,6 +380,7 @@ intervention_fn_ids: [education, persuasion]
 stakeholder_ids: [developers]
 stage: development
 idea_count: 12
+
 ---
 
 For each item, authors may need to know the following:
@@ -399,6 +408,7 @@ intervention_fn_ids: [persuasion]
 stakeholder_ids: [publishers, funders, ethics, institutions, preprints, conferences, registries]
 stage: ongoing
 idea_count: 3
+
 ---
 
 Journals, funders and ethics committees could make reporting guidelines appear as a priority:
@@ -417,6 +427,7 @@ relation_ids: [endorse-enforce, reporting-champions]
 stakeholder_ids: [institutions, publishers, developers, equator, ethics, funders, societies, registries, conferences, preprints]
 stage: ongoing
 idea_count: 4
+
 ---
 
 * Promote reporting guidelines on and offline.
@@ -436,6 +447,7 @@ intervention_fn_ids: [education, enablement]
 stakeholder_ids: [equator, developers, institutions, funders, ethics, publishers, conferences, preprints, registries]
 stage: ongoing
 idea_count: 2
+
 ---
 
 All stakeholders could have members to promote and facilitate the usage of reporting guidelines.
@@ -473,6 +485,7 @@ relation_ids: [information-architecture, design-agnostic]
 stakeholder_ids: [developers]
 stage: development
 idea_count: 5
+
 ---
 
 Keep guidance as a short as possible:
@@ -491,6 +504,7 @@ intervention_fn_ids: [persuasion, modelling]
 stakeholder_ids: [developers, equator]
 stage: dissemination
 idea_count: 5
+
 ---
 
 Testimonials can be short quotes or longer case studies. They could come from:
@@ -510,6 +524,7 @@ intervention_fn_ids: [education, training]
 stakeholder_ids: [developers, equator, publishers, institutions, funders, ethics]
 stage: ongoing
 idea_count: 5
+
 ---
 
 Provide education or training (e.g., courses, videos) specific to particular reporting guidelines.
@@ -530,6 +545,7 @@ intervention_fn_ids: [enablement]
 stakeholder_ids: [equator, funders]
 stage: ongoing
 idea_count: 4
+
 ---
 
 Update guidance in response to user feedback or changes in the field. This would be easier if:
