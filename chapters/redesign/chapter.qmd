@@ -4,18 +4,21 @@ format:
         css:
             styles.css
 theme: cosmo
+title: (Re)designing the intervention
+project: 
+    preview:
+        port: 4200
+        browser: false
 ---
 
-# (Re)designing the intervention
-
 {{< include methods.md >}}
-
-:::{.column-page-right}
+ 
+:::{.column-page-right} 
 {{< include _table.qmd >}}
 :::
 
 {{< include _figures.qmd >}}
 
 {{< include _boxes.qmd >}}
-
+ 
 {{< include discussion.md >}}

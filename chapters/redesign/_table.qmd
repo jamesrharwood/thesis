@@ -32,8 +32,14 @@ for key_behaviour, barriers in data.items():
         if type(ingredients)==dict:
             for desc, values in ingredients.items():
                 try:
-                    before = f'{values["before"]}\n\nExample: {values["before_example"]}'
-                    now = f'{values["now"]}\n\nExample: {values["now_example"]}'
+                    before = f'{values["before"] or "(see above)"}'
+                    examples = values["before_example"]
+                    if examples: 
+                        before += f'\n\nExample: {examples}'
+                    now = f'{values["now"] or "(see above)"}'
+                    examples = values["now_example"]
+                    if examples: 
+                        now += f'\n\nExample: {examples}'
                 except Exception as e:
                     raise Exception(desc)
                 IF = values.get('IF', '')
@@ -41,6 +47,7 @@ for key_behaviour, barriers in data.items():
                 table.add_row([desc, IF, BCT, before, now])
 print(table.draw())
 ```
+
 : Intervention Planning Table
 
 1. "Before" is in reference to RGs generally, but I have not audited RGs for BCTs used. Consider this column "rules of thumb".

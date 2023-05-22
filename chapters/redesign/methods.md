@@ -1,34 +1,53 @@
-# Objectives
+## Introduction
 
-The output of my focus groups was a long list of ideas. I purposefully asked participants to think outside of the box and not to worry about whether an idea was good or practicable. One reason for this was that stakeholders may prioritise ideas differently; some ideas may be easy for one stakeholder, but harder for another. Because there were so many ideas and many were similar to each other, prioritizing all ideas separately was difficult and not very useful. However, ideas could be grouped according to their underlying intervention function, which proved to be a more useful level of classification as it was easier for EQUATOR to consider the differences of each group. My first objective, therefore, was to work with EQUATOR to prioritize intervention functions.
+The output of my focus groups was a long list of ideas. To turn this list into an intervention I had to determine which of them I _could_ implement, which ones I _should_ implement, and _how_ I could turn them into intervention components.
 
-My second objective was to prioritize policy categories available to EQUATOR and myself. For example, if we wanted to make RGs easier to understand we could publish plain language versions of existing RGs, a style guidelines for RG developers, or a help service to assist authors (examples of Communication, Guidelines, and Service Provision policy categories). EQUATOR's priority list will be guided by by their own perspectives and limitations as a grant funded research group with long-standing members, which will be different to my own limitations as a DPhil candidate with a fixed thesis deadline.
+In this chapter I explain how I a) defined the target behaviour, b) prioritized intervention functions and policy categories in order to determine which ideas to consider c) used behavioural analysis to turn ideas into intervention components which I then d) developed into an intervention prototype.
 
-Having prioritized intervention functions and policy categories through which to deliver them, my third objective was to define intervention components by bringing together ideas generated in the focus groups with the barriers that they aim to target, the intervention function they employ, and the specific behaviour change techniques they use.
+## Methods and Results 
 
-Finally, my fourth (and main) objective was to select components and develop a new intervention.
+### Objective 1: Defining the target behaviour
 
-## Methods and Results
+My first step was to state the objective of the intervention in terms of key behaviours and outcomes. I did this collaboratively with EQUATOR UK by running {{< var counts.EQUATOR_meetings >}} workshops attended by {{< var counts.EQUATOR_staff >}} between Jan - May 2022. As recommended by Michie et al (@michieBehaviourChangeWheel2014) we defined our key behaviour in terms of _who_ needed to do _what_, _when_, _where_, and in what _context_. Workshop participants drafted definitions on their own before discussing as a group and co-editing a shared file.
 
-### Objective 1: Prioritizing intervention functions
+Our final definition of our target behaviour was: **Researchers should use reporting guidance as early as possible in their research pipeline. They will do this for every piece of research, at their place of work, on their own but in the context of collaboration**
 
-The BCW book suggests prioritizing intervention functions according to their expected Affordability, Practicability, Efficacy, Acceptability, Side-Effects, and Equity (referred to as the APEASE criteria).
+We broke this key behaviour into two sub behaviours:
 
-In the previous chapter I described how I ran workshops with EQUATOR team members to brainstorm ideas to address barriers. To help EQUATOR become familiarized with intervention functions I presented each one in turn, read the description from the BCW book, and we then brainstormed ideas that fell within each category. Once everyone felt comfortable with each intervention function's definition, and understood the kinds of intervention change that could they could come from it, we talked through each of the APEASE criteria for each intervention function in turn and made a note of our thoughts and concerns. Afterwards, each workshop member chose their most and least favoured intervention functions.
+1. Engage with reporting guidelines as early as possible (ie read them) and,
+2. Apply the guidance to their writing as intended by the guideline developer.
 
-Overall, EQUATOR identified Education, Training, Persuasion, Modelling, and Environmental Restructuring as more practical, acceptable, and affordable. EQUATOR felt that Coercion, Restriction, and Incentivisation were potentially inequitable, had side effects, and may be unacceptable to many stakeholders. Incentivisation (e.g. rewarding guideline adherance with reduced APCs, promotion, or funding) was seen as inequitable because as long as guideline adherence is harder for some researchers than others, these policies would favour experienced, well resourced researchers, working in disciplines where the guidance was easier to apply. Similarly, Restriction and Coercion (e.g. the removal of access to finding or promotion) would disproportionally harm researchers that are inexperienced, poorly resourced, or in disciplines where guidelines are harder to apply. Aditionally, if the _threat_ of punishment were used as a behaviour change technique without any enforcement, these threats would quickly become known as paper tigers, lost effectiveness and erode trust.
+### Objective 2: Prioritizing intervention functions and policy categories
 
-Overall, EQUATOR saw Education, Training, Persuasion, Modelling, and Environmental Restructuring as low-hanging fruit that ranked favourably on all APEASE criteria, and that only once the barriers currently limiting usability are removed can Incentivization, Restriction and Coercion be considered. This was an important turning point for EQUATOR who, before this exercise, had always felt that the best way (or possibly the only way) to increase guideline adherence was for journal editors to enforce them and to refuse to publish articles that didn't adhere (an example of restriction).
+#### Purpose
 
-## Objective 2: Prioritizing policy categories
+Because I hope that EQUATOR will build upon the output of my PhD, it was important to include them in deciding which ideas they felt able and willing to support. Because I had included different stakeholders and encouraged blue-sky thinking, not all ideas were practical for EQUATOR to implement. For example, EQUATOR aren't able to offer financial rewards for good reporting, but they do control a website. And although they _could_ advocate for Universities to fire researchers that don't adhere to reporting guidelines, nobody at the UK EQUATOR Center would support such a policy. I lead a series of workshops so that we, as a group, could decide which ideas we felt we _could_ and _should_ take forward.
 
-In one of the later workshops (see Focus Group chapter #TODO), 
+#### Methods
 
-Consulting the list of ideas from my focus groups, I identified which could be implemented by members of the UK EQUATOR Center and presented this subset to them for consideration.
+The prioritization exercise occurred during the final three workshops described in the previous chapter. Although 6 members of the UK EQUATOR Centre took part in the internal workshops, only 4 took part in the prioritisation exercise.
 
+With over a hundred ideas, it was impractical to rank them individually. There were too many, and some were very similar, which made discussions at this level tedious and confusing. Additionally, because ideas often conflated intervention functions and policy categories, it was difficult to tease ideas apart - if we didn't like an idea, was it because we didn't like its function or its mode of delivery? For example, in the idea "journal instructions to authors should use reassuring authors", although EQUATOR members may have favoured using persuasive "reassuring" language, they may have felt that expending effort to lobby journals to change their author guidelines may be an expensive and impractical use of research budget.
 
+Instead, I asked workshop participants to use APEASE to prioritize intervention functions and policy categories. I used ideas as concrete examples of these, otherwise abstract, concepts, but I didn't ask members to rank these ideas directly.
 
-Individuals gave each idea a score out of 5 for each criteria, and I then totalled the scores. The ideas that came out on top were the ones that could be implemented by:
+I wanted participants to consider options' Affordability, Practicability, Efficacy, Acceptability, Side-effects, and Equity. Together, these are known as the APEASE criteria. Participants considered the APEASE criteria for each intervention intervention function on their own before discussing as a group and adding notes to a co-edited file. I then asked them to decide which intervention function(s) they would prioritize, which would consider but not prioritize, and which (if any) they would avoid. Participants then discussed their preferences as a group before reaching consensus.
+
+I then repeated the exercise to prioritize policy categories. Once workshop participants had identified their preferred policy categories, I decided which of these I could pursue within the constraints of my DPhil.
+
+#### Results
+
+Participants saw Enablement, Education, Training, Persuasion, Modelling, and Environmental Restructuring as ranking favourably on all APEASE criteria. Of these, Enablement was viewed as a particularly low-hanging fruit that would likely be effective and welcomed by the research community.
+
+Participants found the remaining intervention functions problematic. Incentivization and restriction (e.g. rewarding guideline adherence with funding or reduced article processing, or punishing non-adherence by withholding these benefits) were seen as inequitable because as long as guideline adherence is harder for some researchers than others, less-experienced, poorly resourced researchers would be at a disadvantage, as would those working in disciplines where reporting guidelines are poorly designed or harder to apply. Conversely, participants felt that enablement has potential to reduce existing inequalities. In addition to being inequitable, participants felt confident that restriction or punishment would be unacceptable to researchers, as would the threat of punishment - coercion. Furthermore, threats without enforcement would become known as paper tigers, lose effectiveness, and erode trust.
+
+Regarding policy categories, participants unanimously favoured Environmental Restructuring as their policy category of choice, followed by Education, Training, Persuasion, Modelling, which were all seen as practical, acceptable, and affordable policy categories that EQUATOR could use. Participants felt that Legislation and Restriction would not be acceptable to researchers and were not not practical options for EQUATOR to use.
+
+Environmental planning was seen as the most affordable, effective, acceptable, safe, and equitable policy category. When talking about the _environment_, EQUATOR was really talking about the _digital_ environment, within which EQUATOR has control over its own website but not websites or digital services run by others. Improving and extending the website was viewed as a single affordable investment, that would be welcomed by authors (thus acceptable), and a practical way to increase the proportion of authors engaging with reporting guidelines with no side effects. Making the site easier to use was expected to increase equity amongst website visitors.
+
+Members also recognised communication as a favourable policy category that is already utilised. Communication channels included the website, mailing lists, social media, conferences, and publications. Whilst communication was rated as affordable, practicable, acceptable, safe, and equitable, its effectiveness may be limited. Although communication could promote awareness of reporting guidelines are available, what they are, and how they can be used, EQUATOR members noted that the efficacy of a communications campaign may be undermined if the campaign is directing authors to a website that is difficult to use. Thus communication on its own might not be sufficient, and members suggested that it should come after improving the digital environment.
+
+When discussing concrete ideas, the ideas that came out on top were the ones that could be implemented by:
 
 * Web-based intervention:
   * Improving the EQUATOR website
@@ -37,67 +56,73 @@ Individuals gave each idea a score out of 5 for each criteria, and I then totall
 * Providing support services
 * Creating a network of "reporting champions", akin to the UK Reproducibility Network.
 
-Interestingly, the team gave low scores to ideas centring around restriction - encouraging journals, funders, or ethics committees to enforce RG adherence - principally because of concerns that such rules would not be acceptable to researchers, would be expensive, and would not be equitable, as RGs adherence would disproportionately burden international or early career researchers, or disciplines where the guidance is less mature or harder to apply. This marked a reversal of opinion from before we started, when most members of EQUATOR were confident that enforcement was the only solution.
+Of these, I then had to decide which ones I - as a time-limited PhD student with a thesis that requires research chapters - could address. Creating a service or network felt unsustainable beyond the end of my funding. I could have developed training materials but who would then promote or deliver the training? There was a risk that training materials would go unused.
 
-Of the prioritized options, improving and extending the EQUATOR website was seen as potentially very effective, very acceptable, affordable, practicable, have no side-effects, and would increase equity. Given the constraints of my PhD, developing training, networks, or a service felt unfeasible.
+In contrast, Improving and extending the EQUATOR website was seen as an acceptable, affordable, and practicable option with no side-effects that would have a high impact on the hundreds-of-thousands of authors that visit EQUATOR's website each year, and could increase equity. These kinds of changes could be made within the time limit of my PhD and, importantly, the impact would be sustained after I finish.
 
-## Designing intervention components
+### Objective 3: Define intervention content
 
-I went through the list of ideas and pulled out the ones that could be implemented in a web-based intervention. I linked each component with the barrier it was addressing (and the behavioural driver underlying that barrier), the intervention function(s) it was employing, and the idea that inspired it. I described how the component could be realised, and contrasted it to the existing system. To make this contrast, I looked at how the EQUATOR website is currently, and I made generalisation about how popular reporting guidelines are currently disseminated, and the content of their E&Es and checklists.
+#### Purpose
 
-I considered auditing popular guidelines to count how many currently employ any of the ideas in this list. However, with so many items, such an audit would have taken a long time:
+To define changes to intervention content in terms of the barriers and behavioural drivers it is trying to target, and the intervention function the change is employing. Defining intervention content in this is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.
 
-* Debatable benefit: already confident that lots of ideas not implemented
-* Those that are may not be implemented in an ideal way, e.g. not prominent. Hard to quantify.
-* Even if only 1 guideline doesn't do something, most of the ideas are fairly easy to implement, so the cost:benefit ratio still makes sense. 
+#### Methods
 
-So instead, I made generalisations about RGs using words like "some" or "few" to give an impression of how frequently a BCT is used. I sought out examples of an item not being implemented, or being implemented poorly. As long as 1 guideline doesn't do something, or does it poorly, that justified including the item.
+For every idea generated in chapter #TODO, I labelled which barriers (from chapters #TODO) it was addressing, which behavioural drivers it was targeting, and which intervention functions it was employing to do so.  this list was data driven, in that it was based upon the ideas and barriers generated from previous research. To give more structure and context to this list, I grouped ideas according to the sub-behaviours they targeted: 1) engaging with guidance and 2) applying it.
 
-#DECIDE or I could remove all "few" etc and just say "may", e.g. "RGs may not..."
+Once all ideas were coded, I selected ideas to implement by considering a) whether they could be incorporated into a web-based intervention, b) the priority of the intervention function (determined in objective 2), and c) whether I could feasibly deliver the idea within the time constraints of my DPhil.
 
-See table #XXX for a list of components.
+#### Results
 
-## Building the web-based intervention
+See table #TODO for all {{ < var counts.ideas >}} ideas, labelled with the barriers they address, the drivers they target, the intervention functions they use, and whether I could implement them.
 
-Building was iterative and collaborative. I wanted to include EQUATOR UK in the process because I expected them to have insights, but also because I wanted them to understand decisions and to take ownership of it.
+### Objective 4: Building the intervention
 
-We started off by sketching ideas on paper and drafting text in documents. I would visualise these in mockups which helped bring the ideas to life for discussion. Everyone would give feedback, I could create a new iteration and, once happy, I created an alpha version of the pages. These were real web pages in that they could be viewed in a browser and clicked on, but had dummy content to visualize where text and imagery would go. After another round of feedback I refined the alpha version and populated it with real text and images.
+#### Purpose
 
-Our intention was to populate the guidance pages with a sample of the most frequently accessed guidelines. But because we wanted to manipulate the guidance text, it made sense to start with one reporting guideline and I selected SRQR (see #TODO for my justification). I got written permission from Bridget O'Brien, the lead developer or SRQR, and from the publisher. I kept Bridget up to date with my work and invited her feedback.
+To build a working prototype that could be piloted.
 
-Many of the intervention components (#TODO: which one?) required structuring and standardising the content of reporting guideline items. I did this by pasting the SRQR guidance in a text editor and then:
+#### Methods and Results
 
-* Rearranging content into categories: what to write, how/where to write it, what to write if the item wasn't/couldn't be done, why the item is important and to whom, examples.
-* I re-wrote sentences to speak directly to authors. E.g. "Describe X" instead of "Authors should describe X", and to use active voice. This shortened the text and also made it clearer who the primary audience is. (We included instruction to editors and reviewers so they know they can use the guidance too).  
-* I deleted any repetition between the subtitle (which is generally used in the checklist) and the text.
-* For composite items I split the sub-items into bulleted lists. E.g.
-    > For each X, describe:
-    >
-    > * X
-    > * Y
-    > * Z
-    >
-* I rearranged conditional sub-items so that they read "If X, then describe Y", rather than "Describe Y if X".
-* I moved definitions into the glossary.
-* I moved contextual information into footnotes.
-* I also removed references for now. They can be re-added should the web-based intervention be made public.
-* I edited the resulting text to join it back together.
-* I edited the tone of voice.
+##### Designing the intervention
 
-This process revealed gaps in item description. Most commonly, there was often no guidance of what to write if an item wasn't or couldn't be done. For instance, the target sample size item had no instruction of what to write if you didn't ever have a target in mind. Some items were missing any kind of justification of why the item was important and to whom.
+I began by describing how the intervention component could be realised, and contrasted this to the existing system. In doing these comparisons, I looked at how the EQUATOR website is currently, and I made generalisation about how popular reporting guidelines are currently disseminated, and the content of their Example and Elaboration documents and checklists.
 
-After development, I double checked the intervention against the initial list of intervention components to ensure I had covered all of them. I consulted with EQUATOR members to verify that the components were.
+Designing was iterative and collaborative. I included the same members of EQUATOR UK that had participated in the workshops. We met 3 times between November 2022 and January 2023.
 
-## Iterative feedback
+We began by deciding which webpages required redesigning, and how webpages should be navigated. On the existing website, authors starting on the home page must visit up to 5 webpages to reach the full reporting guidance. We redesigned the layout of the website to reduce this to 2 webpages - the EQUATOR home page, and a reporting guideline page containing the full guidance. (See figures #TODO). These different website layouts are visualised in @fig-sankey-b4 and @fig-sankey-after.
 
-I sent drafts of the intervention to EQUATOR members. I used a tool Pastel to collect feedback. The first round elicited 39 comments from 3 team members. Some comments were supportive e.g., "I really like these two boxes!", others were suggested changes to wording or content. When members disagreed, we referred back to our intervention planning table to check the component against its intended function. For example, when one team member didn't like the background image, we consulted the table to check whether the image was doing what it was meant to. E.g. "even though you don't like it personally, do you agree that it is conveying a feeling of simplicity?".
+Workshop participants then sketched ideas for how the home page and guidance pages could be laid out and where intervention components could be placed. Once participants had agreed on a layout, I created an alpha version of the new website and invited members to comment on it. These were real webpages that could be viewed in a browser, but dummy text and images. After another round of feedback I refined the alpha version, populated it with real text and images, and participants gave feedback again. The new pages can be viewed in @fig-home, @fig-rg-intro, and @fig-discussion, and can be compared with the old pages in @fig-home-b4 and @fig-db-b4.
 
-## System architecture
+My intention was to create guideline pages for a sample of the most frequently accessed guidelines so that the website felt real for pilot participants. However, many intervention components involved changing the wording and layout of the guidance itself. Editing multiple guidelines was neither feasible not necessary, as we only needed one edited guideline to pilot the new website.
 
-When considering architecture options for the web-based intervention I prioritized technology that was easily maintainable by EQUATOR staff or a future PhD student. I looked for tools that would be familiar to early career researchers. I considered DIY website builders (like Wix or Squarespace) but these services can be expensive. Most offer a 'drag and drop' building experience which, although easy to use, is a labouriously repetitive way of uploading and formatting large amounts of content. Should EQUATOR want to change how an item is presented, they would have to manually edit each and every item for each and every reporting guideline. Additionally, our intervention components required some custom functionality that wasn't offered by these services (e.g. integration with a DOI minting service, glossary definitions, discussion boards).
+I selected SRQR as my test guideline to edit because I was familiar with it, having used it when writing up my own research, and because I felt it would make a good guideline to test with (see next chapter for why). I got written permission from Bridget O'Brien, the lead developer or SRQR, and from the publisher. I kept Bridget up to date with my work and invited her feedback.
 
-Although coding languages like `html` or `javascript` are used by many web developers to create websites, they aren't commonly used in research. Ultimately I decided on `markdown`, an incredible simple language that can be used by anybody who knows how to use Microsoft Word. Markdown is a plain text language. It uses asterixes, underscores, and carets to make text **\*\*bold\*\***, _\_italic\__, or ^\^superscript\^^.#TODO check superscript. Headings, URLS, and references are similarly easy, and can be simplifed further by using one of many readily available editors that make writing markdown feel like writing a Microsoft Word document.
+I began editing SRQR by pasting the text into Microsoft Word and rearranging content into categories: what to write, how/where to write it, what to write if the item wasn't/couldn't be done, why the item is important and to whom, examples. I edited sentences to speak directly to authors. E.g. "Describe X" instead of "Authors should describe X", and to use active voice. This shortened the text and also made it clearer that the primary audience is authors.
 
-I then use Quarto to turn markdown into html (the website). Quarto, like RStudio, is commonly used by academics to write reproducible manuscripts. It requires no technical knowledge, is easy to learn, has great documentation, and is open source. All files are hosted on Github, a version control repository that is commonly used to house code and data. The website is served using Github Pages which is free and configurable.
+For composite items I split the sub-items into bulleted lists. E.g.
 
-The new web-intervention is stored in a Github repository that EQUATOR can access. Each reporting guideline has its own repository, which means that guideline developers can be in control of their own content. When a developer makes a change, these changes are automatically version controlled and "pulled in" to EQUATOR's repository before "going live". This means that EQUATOR has ultimate control over the site, but guideline developers can easily edit their own content.
+> For each X, describe:
+>
+> * X
+> * Y
+> * Z
+>
+
+I rearranged conditional sub-items so that they read "If X, then describe Y", rather than "Describe Y if X". I moved definitions into the glossary and contextual information into notes. I edited the resulting text to join it back together. I edited the tone of voice to add reassuring language. An example of the redesigned guidance can be viewed in #sec-box-item.
+
+After development, I double checked the intervention against the initial list of intervention components to ensure I had covered all of them. I consulted with EQUATOR members to verify that the components were realised as expected and invited another round of feedback.
+
+##### System architecture
+
+When considering architecture options I prioritized technology that was easily maintainable by EQUATOR staff or a future PhD student. I looked for tools that would be familiar to early career researchers. I considered DIY website builders (like Wix or Squarespace) but these services can be expensive. Most offer a 'drag and drop' building experience which, although easy to use, is a laborious way of uploading and formatting large amounts of content. Should EQUATOR want to change how an item is presented, they would have to manually edit each and every item for each and every reporting guideline. Additionally, our intended intervention changes required some custom functionality that wasn't offered by these services (e.g. integration with a DOI minting service, glossary definitions, discussion boards).
+
+Although coding languages like `html` or `javascript` are used by many software developers to create websites, I felt that few early career researchers would be familiar with them. Ultimately I decided on `markdown`, an incredibly simple language that can be learnt in just a few minutes. Markdown is a plain text language. It uses asterisks, underscores, and carets to make text **\*\*bold\*\***, _\_italic\__, or ^\^superscript\^^. Headings, URLS, and references are similarly easy, and can be simplified further by using one of many readily available editors that make writing markdown feel like writing a Microsoft Word document.
+
+Many researchers already use markdown to write reproducible manuscripts using tools like RStudio or Quarto. Quarto can also be used to turn markdown into html (a website), and can be further customised using languages commonly used in research, like Ruby or Python. Quarto requires no technical knowledge, is easy to learn, has great documentation, and is open source.
+
+All code is on Github, a version control repository that researchers commonly use to store and share code and data. The website is served using Github Pages which is free and easily configurable.
+
+I wanted EQUATOR to have ultimate control over the website, but I also wanted guideline developers to have selective access to their own guideline content but not to other guidelines. I have built the website such that each reporting guideline is stored within its own repository on github, accessible only to its developers. These guideline repositories are then "pulled in" to the main EQUATOR repository, so EQUATOR can double check changes that developers make before allowing them to go live on the site.
+
+The website source code can be viewed at {{ < var website-github-repo-url >}} and the website can be viewed at {{ < var website-url > }}.

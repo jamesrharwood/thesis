@@ -2,6 +2,11 @@ project:
   title: "BCW-focus-groups"
   output-dir: output
   execute-dir: project
+  preview:
+    port: 4200
+    browser: true
+    watch-inputs: true
+    navigate: true
 format:
   html:
     toc: true
