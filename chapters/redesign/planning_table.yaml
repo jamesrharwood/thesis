@@ -11,7 +11,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Education
       Differentiate resources and advice aimed at different tasks (writing vs designing vs appraising):
         before: No clear instruction on what tasks RGs can and cannot be used for.
-        before_example: See @fig-home-b4, @fig-db-b4
+        before_example: See @fig-home-b4, @fig-db-b4, @fig-rg-intro-b4
         now: Clear instruction and differentiation of resources
         now_example: See @fig-home, @fig-rg-intro
         IF: Education
@@ -47,9 +47,9 @@ Engage with (read) appropriate reporting guidance as early as possible:
       Decision tools for discovering resources:
         before: We previously made a "reporting guideline wizard" but it was difficult to find.
         before_example: (see @fig-home-b4)
-        now: More prominent (see @fig-home)
+        now: Not included yet
         now_example:
-        future: Extend and improve
+        future: Reintroduce tool, extend and improve it.
         IF: Enablement
       Collections of related reporting guidelines:
         before: Collections exist on EQUATOR site but are difficult to find
@@ -60,7 +60,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Environmental Restructuring
       Links between related guidelines:
         before: E&E articles may reference guidelines published previously, but these references can be buried in text, and E&Es are not updated to reference guidelines published subsequently. EQUATOR website guideline pages feature links to extensions, but these are hard to find. Checklists do not link to related resources.
-        before_example: See @fig-db-b4
+        before_example: See @fig-db-b4, @fig-rg-intro-b4
         now: Guidelines prominently link to other relevant guidelines and explain when they should be used.
         now_example: See @fig-rg-intro
         future: Checklists, Templates, and all other resources will link to related guidelines.
@@ -130,7 +130,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Education
       Explicitly state when no better guidance exists for a particular use case: 
         before: Guideline E&Es do not consistently explain what to do when no better guidance exists for their use case
-        before_example: See @fig-rg-intro
+        before_example: See @fig-rg-intro-b4
         now: Guidelines warn authors when no better guidance exists for a use case, and how the current guidance can be adapted instead
         now_example: See @fig-rg-intro
         IF: Education
@@ -216,7 +216,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         before: EQUATOR provided education about how to write
         before_example:
         now: Guidelines link to this education #DECIDE
-        now_example: See @fig-rg-intro
+        now_example: See @sec-box-item
         IF: Education
         future: Deliver education to a wider audience. Influence curricula of other education programmes
         #TODO link to this training
@@ -225,7 +225,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         before: EQUATOR provided training about how to write
         before_example:
         now: Guidelines link to this training
-        now_example: See @fig-rg-intro #DECIDE
+        now_example: See @sec-box-item #DECIDE
         future: Deliver training to a wider audience. Influence curricula of other training programmes
         BCT: Instruction on how to perform a behaviour
         IF: Training
@@ -359,7 +359,7 @@ Apply reporting guidance to writing:
   how-to-do:
     ingredients:
       Provide links to other resources that explain how an item can be done:
-        before: Some RG E&Es include instruction in text but manny don't. SRQR did not.
+        before: Some RG E&Es include instruction in text but many don't. SRQR did not.
         before_example:
         now: Links included when relevant.
         now_example: See @sec-box-item
@@ -388,14 +388,15 @@ Apply reporting guidance to writing:
       Provide clear instruction of what needs to be described when an item was not done, could not be done, or does not apply:
         before: Rarely instructed
         now: Instructed where relevant
-        before_example: See @box-item-b4
+        before_example: See @sec-box-item-b4
         now_example: See @sec-box-item
         IF: Education
       Provide examples of reporting "imperfect" items:
         before: Examples not provided
-        now: Examples provided where relevant
+        now: No changes made
         before_example:
-        now_example: See @sec-box-item
+        now_example: 
+        future: Add more examples
         IF: Modelling
   need-enough-time:
     ingredients:
@@ -409,8 +410,8 @@ Apply reporting guidance to writing:
       Structure guidance to make it quicker to digest (see above):
         before: E&E documents not structured below the item level
         now: Items have consistent structure
-        before_example: See @box-item-b4
-        now_example: See @box-item
+        before_example: See [box @sec-box-item-b4]
+        now_example: See [box @sec-box-item]
         IF: Enablement
       Indicate priority of items for authors that are short on time:
         before: ARRIVE indicates priority, other RGs including SRQR do not.
@@ -426,9 +427,9 @@ Apply reporting guidance to writing:
         IF: Education
       Tell authors how long guidance will take to apply:
         before: No advice given
-        now: Indication of how long guidance will take to apply provided #TODO
+        now: No changes made
         before_example:
-        now_example: See @fig-rg-intro
+        now_example: No changes made
         IF: Education
   when-to-use:
     ingredients:
@@ -480,13 +481,14 @@ Apply reporting guidance to writing:
         before: Few RGs or RG items include this information
         now: Instruction at top of RG and in some items where most useful
         before_example:
-        now_example: See @fig-rg-intro, @sec-box-item
+        now_example: See @fig-rg-intro
         IF: Education
       Provide examples of concise reporting:
         before: No examples specifically to display concise reporting
-        now: Wordy items include examples of concise reporting #DECIDE
+        now: No changes made
         before_example:
-        now_example: See @sec-box-item
+        now_example: 
+        future: Wordy items could include examples of concise reporting
         IF: Modelling
   need-tools:
     ingredients:
@@ -496,8 +498,8 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
       Create to-do lists in the order research is conducted, to help authors collect information they will need to report (see above):
-        before:
-        now:
+        before: (see above)
+        now: (see above)
         before_example:
         now_example:
       Create templates for drafting (see above):
@@ -506,10 +508,10 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
       Create tools to facilitate checklist completion:
-        before: Updating page numbers in a checklist is time consuming. It takes editors time to double check page numbers and content.
+        before: Updating page numbers in a checklist is time consuming. It takes editors time to double check page numbers and content. Checklists may not include instructions of how to complete them.
         now: No changes made
         future: Create an online checklist that is easier to update and easy for editors to verify
-        before_example:
+        before_example: See @fig-checklist-b4
         now_example:
         IF: Enablement
       Create tools to facilitate particular reporting items:
@@ -591,13 +593,14 @@ Apply reporting guidance to writing:
     ingredients:
       Present design advice separately to reporting advice:
         before: Some RG E&Es include design advice
-        now: Design advice is presented separately #DECIDE
-        before_example: See @sec-box-item-b4
-        now_example: See @sec-box-item
+        now: No changes made
+        before_example: 
+        now_example: 
+        future: Present design advice separately
         IF: Coercion (removal of)
       Make reporting guidelines agnostic to design choices:
         before: Some RGs make implicit assumptions about design choices
-        now: No changes made to SRQR #DECIDE perhaps the sample item?
+        now: No changes made to SRQR
         before_example:
         now_example:
         IF: Coercion (removal of)
@@ -654,7 +657,7 @@ Apply reporting guidance to writing:
         before_example: See @fig-rg-intro-b4
         now_example: See @fig-rg-intro
         IF: Education
-Repeat engagement with reporting guidelines for their next study:
+Repeat engagement with reporting guidelines for subsequent studies:
   need-prompts:
     ingredients:
       Create prompts / communication campaigns (see above):
