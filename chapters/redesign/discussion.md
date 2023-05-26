@@ -32,26 +32,22 @@ Our horizons were perhaps limited by group-think. If I were to repeat the work, 
 
 ### Future work
 
-I partly remedy this limitation by piloting the new website amongst authors in the next chapter. Defining intervention components by their target barriers and intervention functions lends itself nicely to designing a pilot study to gather feedback. I describe this in more detail in the next chapter but, briefly, because I knew what each component was supposed to be _doing_ I could design an interview schedule with questions and tasks to specifically explore components. ~For example, the purpose of the top of the home page is to communicate what reporting guidelines are and how they benefit authors. Instead of asking general questions (like "what do you think of...?"), I decided to ask more specific questions ("What do you think the website is about? How do you think it might influence your work?"). Furthermore, because the purpose was to communicate these things _quickly_, I decided to only give pilot participants 5s before asking these questions.~
+I partly remedy this limitation by piloting the new website amongst authors in the next chapter. Defining intervention components by their target barriers and intervention functions lends itself nicely to designing a pilot study to gather feedback. I describe this in more detail in the next chapter but, briefly, because I knew what each component was supposed to be _doing_ I could design an interview schedule with questions and tasks to specifically explore components. ~For example, the purpose of the top of the home page is to communicate what reporting guidelines are and how they benefit authors. Instead of asking general questions (like "what do you think of...?"), I decided to ask more specific questions ("What do you think the website is about? How do you think it might influence your work?"). Furthermore, because the purpose was to communicate these things _quickly_, I decided to only give pilot participants 5s before asking these questions.~ Similarly, defining components in this way will facilitate future quantitative work to assess efficacy. 
 
-After I've done this pilot work and made refinements, further development work will be required before the new website can be made live. The intention is to recreate the new homepage on EQUATOR's existing website, and then to make the guidelines accessible as a subdomain (e.g. https://guidelines.equator-network.org). I will need to do some more technical work to make this happen, and spend time uploading other popular reporting guidelines.
+After I've done this pilot work and made refinements, further development work will be required before the new website can be made live. The intention is to recreate the new homepage on EQUATOR's existing website, and then to make the guidelines accessible as a subdomain (e.g. https://guidelines.equator-network.org). 
 
-Beyond the intervention components presented here, the prioritization exercise identified other ideas that EQUATOR would like to implement, but that I chose not to act upon. For example, participants 
+Along with this technical work, I will need to spend time uploading other popular reporting guidelines and editing items into a consistent structure, as I did with SRQR. This process revealed gaps in item description. Most commonly, there was often no guidance of what to write if an item wasn't or couldn't be done. For instance, the target sample size item had no instruction of what to write if you didn't ever have a target in mind. Some items were missing any kind of justification of why the item was important and to whom. I anticipate similar gaps for other reporting guidelines, and would seek to work alongside guideline developers to fill them. 
 
+Buy in. 
 
-Things yes to do before it can go into production
-Immediate implications - pilot
-Mid term implications - real-world testing
-Number of components remaining that Equator could deliver. Funding applications.
-Number of components that others could deliver. Previously unthought of.
+Beyond the intervention components presented here, the prioritization exercise identified other ideas that EQUATOR would like to implement, but that I chose not to act upon. For example, participants favoured developing training resources specific to individual reporting items, and creation of network of “reporting champions”, akin to the UKRN model. EQUATOR participants liked the idea of lobbying funders to require reporting guidelines be used for applications. The work in this chapter could be used to support funding applications to support these endeavours. 
 
 ### Implications
 
-Long term implications - a scalable intervention that can be used by reporting guidelines authors off the shelf.
+I talk about broader implications in my final discussion section.  
 
-#### Gaps in item description
-
-This process revealed gaps in item description. Most commonly, there was often no guidance of what to write if an item wasn't or couldn't be done. For instance, the target sample size item had no instruction of what to write if you didn't ever have a target in mind. Some items were missing any kind of justification of why the item was important and to whom.
+- Long term implications - a scalable intervention that can be used by reporting guidelines authors off the shelf.
+- Example of consort and prisma websites being down for months
 
 Why didn’t I do an analysis of existing RG system?
 
