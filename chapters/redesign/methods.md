@@ -126,3 +126,7 @@ All code is on Github, a version control repository that researchers commonly us
 I wanted EQUATOR to have ultimate control over the website, but I also wanted guideline developers to have selective access to their own guideline content but not to other guidelines. I have built the website such that each reporting guideline is stored within its own repository on github, accessible only to its developers. These guideline repositories are then "pulled in" to the main EQUATOR repository, so EQUATOR can double check changes that developers make before allowing them to go live on the site.
 
 The website source code can be viewed at {{ < var website-github-repo-url >}} and the website can be viewed at {{ < var website-url > }}.
+
+#### Iterative feedback and development
+
+I sent drafts of the intervention to EQUATOR members. I used a tool Pastel to collect feedback. The first round elicited 39 comments from 3 team members. Some comments were supportive e.g., "I really like these two boxes!", others were suggested changes to wording or content.

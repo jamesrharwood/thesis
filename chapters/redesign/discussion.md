@@ -1,34 +1,65 @@
-Demonstrated a data driven, systematic approach to intervention design. Number of components, number of functions, number of barriers. 
+## Discussion
 
-Number of components remaining that Equator could deliver. Funding applications. 
+I have demonstrated how I have used a data-driven approach, guided by behaviour theory, to re-design how reporting guidance is disseminated. I have proposed {{ < var counts.redesign.intervention-components >}} intervention components, addressing {{ < var counts.redesign.barriers-targeted >}} barriers and employing {{ < var counts.redesign.intervention-functions-used >}} intervention functions. By linking components with barriers and functions, I have justified and defined and my suggestions. I have then created a prototype website to demonstrate how these components could be realised.
 
-Number of components that others could deliver. Previously unthought of. 
+Together, these changes amount to a complete redesign of two key parts of the existing system through which reporting guidelines are currently disseminated; the guidelines themselves, and the EQUATOR Network website, visited by almost 1 million authors each year.
 
-First realisation of a RG intervention where each part is designed and defined by BCT. Previously the website and guidelines may well have had elements, but they were there haphazardly, organically. 
+### Ranking IFs
+
+One of the most interesting parts of this process was witnessing an unexpected change of opinion amongst EQUATOR staff. Before beginning this study, a common refrain heard around the office, was that in order for reporting guidelines to be successful, editors had to start enforcing their adherence and refuse to publish research that didn't adhere. So it was fascinating to see that workshop participants unanimously rated restriction and coercion as their least favourite options.
+
+I think two things happened here. Firstly, having discussed the barriers that authors face when trying to use reporting guidelines, participants felt that forcing authors to use them would be unacceptable to authors, impractical for editors, and inequitable as some authors would face larger hurdles than others. Secondly, participants reassessed things they had taken for granted, and realised that there are many low-hanging fruit that could make guidelines easier to find and use, and that these fruit were growing in their own orchard.
+
+### When comparing current intervention
+
+This reassessment required participants to take a step back and look at the current set-up with fresh eyes. We did this informally. Some participants shared long-standing frustrations with the website or guidelines. One participant shared designs she had created years ago for a redesigned EQUATOR website. Other times, after someone shared an idea, we would go to the guidelines to see how it's done now. In this way, we realised that the STROBE checklist (which is by far the most accessed resource on the EQUATOR website) doesn't link to the STROBE guideline article.
+
+So this comparison was ad-hoc, and I have included pieces of it in this chapter purely to provide context to the proposed changes. I sought out examples of a behaviour change technique not being implemented, or being implemented poorly. I made generalisations about RGs using words like "some" or "few" to give an impression of how frequently RGs currently use a given BCT. These frequency descriptions are based on my own observation, and not on a formal audit.
+
+I considered systematically auditing the content of EQUATOR Network website and popular guidelines to see which behaviour change techniques they employ and which of our ideas were already present. I decided not to for two reasons. Firstly, with so many  ideas and so many guidelines, this would have taken time and I decided instead to prioritize building and testing a prototype. Secondly, this audit wouldn't have dramatically influenced the intervention components we designed, but would merely quantify how different my proposed intervention is to the current set-up. Who would be interested in quantifying this difference? Perhaps my thesis examiners, and perhaps the guideline development community. But quantifying differences wouldn't bring me any further towards helping authors or impacting reporting quality, like building a prototype would. Should the guideline development community need that evidence then this audit could be done in the future, but in my opinion, the difference speaks for itself.
+
+### Limitations & reflections on process
+
+Using a framework and a systematic method helped participants (and I) to check our biases. Instead of relying on personal preference, we tried to ensure choices reflected the function we were trying to employ. For example, when choosing a background image, instead of asking "do you like this one?", the questions became "what feelings do you think this image conveys? Does it communicate simplicity?". Working as a group helped mitigate individual peculiarities.
+
+However, there is no avoiding the fact that many decisions required a degree of subjectivity and, as lead researcher, designer, and developer, often these decisions landed on my shoulders. I tried to mitigate this by involving EQUATOR members in every step, prioritizing their ideas over my own, and providing many opportunities for feedback.
+
+Our imagination may have been constrained by what already exists. Although I encouraged blue-sky thinking, participants often focussed on tweaking what already exists instead of starting from a blank slate. If reporting guidelines didn't exist, how else might we have tackled poor reporting? If EQUATOR didn't exist, would we still have recommended an organisation? How might that organisation be structured, governed, and what kind of legal entity might it be? If the publishing industry didn't exist, might we have imagined different ways of describing research that were more formulaic than free-form articles?
+
+These imagination constraints may be a weakness, but they are also an advantage. EQUATOR is in a privileged position that in that it is known and trusted by publishers, guideline developers, and many authors. Thousands of journals and authors already use reporting checklists. So whilst the changes proposed in this chapter (and the ideas proposed in the chapter before) may be criticised for not being radical enough, for an organisation (and a PhD student) with limited time and resources, it makes sense to improve a system that already has significant buy-in from the academic community, over and above destroying that system or trying to create a new one from scratch.
+
+Our horizons were perhaps limited by group-think. If I were to repeat the work, I would have included a small, diverse group of authors to take part in the design process. I would also have invited representatives from the publishing industry, funding community, and people more familiar with designing digital behavioural interventions. Including these diverse, informed voices in the design process could have lead to more radical design choices.
+
+### Future work
+
+I partly remedy this limitation by piloting the new website amongst authors in the next chapter. Defining intervention components by their target barriers and intervention functions lends itself nicely to designing a pilot study to gather feedback. I describe this in more detail in the next chapter but, briefly, because I knew what each component was supposed to be _doing_ I could design an interview schedule with questions and tasks to specifically explore components. ~For example, the purpose of the top of the home page is to communicate what reporting guidelines are and how they benefit authors. Instead of asking general questions (like "what do you think of...?"), I decided to ask more specific questions ("What do you think the website is about? How do you think it might influence your work?"). Furthermore, because the purpose was to communicate these things _quickly_, I decided to only give pilot participants 5s before asking these questions.~
+
+After I've done this pilot work and made refinements, further development work will be required before the new website can be made live. The intention is to recreate the new homepage on EQUATOR's existing website, and then to make the guidelines accessible as a subdomain (e.g. https://guidelines.equator-network.org). I will need to do some more technical work to make this happen, and spend time uploading other popular reporting guidelines.
+
+Beyond the intervention components presented here, the prioritization exercise identified other ideas that EQUATOR would like to implement, but that I chose not to act upon. For example, participants 
+
 
 Things yes to do before it can go into production
-
 Immediate implications - pilot
-
 Mid term implications - real-world testing
+Number of components remaining that Equator could deliver. Funding applications.
+Number of components that others could deliver. Previously unthought of.
 
-Long term implications - a scalable intervention that can be used by reporting guidelines authors off the shelf
+### Implications
 
+Long term implications - a scalable intervention that can be used by reporting guidelines authors off the shelf.
 
-Although data driven, still a lot of subjectivity. Eg design choices. But the intended function served as an anchor or yard stick so instead of relying on personal preferences participants could refer to intended function. Some felt that including multiple team members helped as we were less swayed by individual peculiarities. 
+#### Gaps in item description
 
-Limitations. Existing system is both. Limits imagination. What would we have made if EQUATOR didn’t exist? Or if RGs didn’t exist? If consort didn’t already exist, might they have taken a more Modular approach like jars? If no RGs existed, would we have still decided to create a system that mainly intervenes at publishing time? Should I have focused my time making resources for funders? But by improving something that already exists, we can be more certain of acceptability and practicality. 
-
-It would have been useful to include authors in the design workshops. 
+This process revealed gaps in item description. Most commonly, there was often no guidance of what to write if an item wasn't or couldn't be done. For instance, the target sample size item had no instruction of what to write if you didn't ever have a target in mind. Some items were missing any kind of justification of why the item was important and to whom.
 
 Why didn’t I do an analysis of existing RG system?
 
+Perhaps a GL for RGs would be useful
+
 Next steps - future work, pilot
-## Discussion
 
-### Ranking IFs:
-
-Interestingly, participants gave low scores to ideas centring around restriction - encouraging journals, funders, or ethics committees to enforce RG adherence - principally because of concerns that such rules would not be acceptable to researchers, would be expensive, and would not be equitable, as RGs adherence would disproportionately burden international or early career researchers, or disciplines where the guidance is less mature or harder to apply. This marked a reversal of opinion from before we started, when most members of EQUATOR were confident that enforcement was the only solution.
+### For later discussion
 
 ### How does my approach compare with the Person Based Approach?
 
@@ -41,21 +72,3 @@ Describe person based approach steps.
 Draw parallels with the steps I took. Say what was different.
 
 Argue why PBA wasn't necessary here.
-
-### When comparing current intervenion
-
-I considered auditing popular guidelines to count how many currently employ any of the ideas in this list. However, with so many items, such an audit would have taken a long time:
-
-* Debatable benefit: already confident that lots of ideas not implemented
-* Those that are may not be implemented in an ideal way, e.g. not prominent. Hard to quantify.
-* Even if only 1 guideline doesn't do something, most of the ideas are fairly easy to implement, so the cost:benefit ratio still makes sense. 
-
-So instead, I made generalisations about RGs using words like "some" or "few" to give an impression of how frequently a BCT is used. I sought out examples of an item not being implemented, or being implemented poorly. As long as 1 guideline doesn't do something, or does it poorly, that justified including the item.
-
-### Gaps in item description
-
-This process revealed gaps in item description. Most commonly, there was often no guidance of what to write if an item wasn't or couldn't be done. For instance, the target sample size item had no instruction of what to write if you didn't ever have a target in mind. Some items were missing any kind of justification of why the item was important and to whom.
-
-### feedback & the use of the intervention planning table
-
-I sent drafts of the intervention to EQUATOR members. I used a tool Pastel to collect feedback. The first round elicited 39 comments from 3 team members. Some comments were supportive e.g., "I really like these two boxes!", others were suggested changes to wording or content. When members disagreed, we referred back to our intervention planning table to check the component against its intended function. For example, when one team member didn't like the background image, we consulted the table to check whether the image was doing what it was meant to. E.g. "even though you don't like it personally, do you agree that it is conveying a feeling of simplicity?".

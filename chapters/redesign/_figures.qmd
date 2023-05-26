@@ -50,6 +50,16 @@ Frequently accessed guidelines are fairly easy to find (area C).
 * No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists.<br>
 ](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm}
 
+<!-- ## FIG-ITEM-B4 -->
+![An example item from the SRQR guideline. Limitations may include:<br><br>
+- Text is unstructured, so it is difficult to immediately identify what needs to be written.
+- Text uses verbose, passive language
+- The text appears long and difficult to digest
+- Terms aren't always defined
+- Not all reporting items are justified
+- Not all items include instruction of what to write if the item could not/was not done.
+](figures/item-b4.png){#fig-item-b4 height=150mm}
+
 <!-- ## FIG-CHECKLIST-B4 -->
 ![The SRQR checklist. Limitations of RG checklists may include:<br><br>
 * Checklists may not define what RGs are, what they can be used for, or their benefits.<br>
@@ -77,18 +87,30 @@ Frequently accessed guidelines are fairly easy to find (area C).
 
 <!-- ## FIG-RG-INTRO -->
 ![Intervention reporting guideline page. Intervention changes made to RG introductions include:<br><br>
-* Clear description of what the RG is, what it can and cannot be used for, the benefits to the author and to society, and how and when it can be used. (red highlight #TODO)<br>
-* Description of whether the RG is intended to be a standard or 'just' a guideline<br>
-* Tools are clearly differentiated by task (orange highlight #TODO)<br>
-* Related guidelines and other resources are linked. These links can be kept updated (yellow highlight #TODO)<br>
-* Clear instruction on whether a RG can be used in a situation that it wasn't designed for, but where no better guidance exists (green highlight #TODO)<br>
-* Links to translations (blue highlight #TODO)<br>
-* Reassuring language throughout, and reassuring quotes from editors, readers, and authors (purple highlight #TODO)<br>
-* Citation metrics (pink highlight #TODO)<br>
-* An estimation of how long guidance will take to read (brown highlight #TODO)<br>
-* Advice on how or where to report items so as not to breach word count limits and when RGs do or do not intend to prescribe structure (dark blue highlight #TODO)<br>
-* Information on how the guidance was developed and why it can be trusted (dark green highlight #TODO)<br>
-](figures/rg.png){#fig-rg-intro height=200mm}
+* Clear description of what the RG is, what it can and cannot be used for, the benefits to the author and to society, and how and when it can be used. (area A)<br>
+* Description of whether the RG is intended to be a standard or 'just' a guideline (area A)<br>
+* Tools are clearly differentiated by task (area B)<br>
+* Related guidelines and other resources are linked. These links can be updated as and when newer guidelines are published (area C)<br>
+* Clear instruction on whether a RG can be used in a situation that it wasn't designed for, but where no better guidance exists (area D)<br>
+* Links to translations (area E)<br>
+* Reassuring language throughout, and reassuring quotes from editors, readers, and authors (e.g., area F)<br>
+* Citation metrics (area G)<br>
+* An estimation of how long guidance will take to read (area H)<br>
+* Advice on how or where to report items so as not to breach word count limits and when RGs do or do not intend to prescribe structure (area I)<br>
+* Full guidance (area J, see @fig-item-after)<br>
+* Citation information (area K)<br>
+* Information on how the guidance was developed and why it can be trusted (area L)<br>
+](figures/rg-after.png){#fig-rg-intro height=200mm}
+
+<!-- ## FIG ITEM AFTER -->
+![A re-designed item from the SRQR reporting guideline. Intervention changes include:<br><br>
+- Content is separated into what to write (area A), why information is important (area B), examples (area C), and any additional background information (not shown).<br>
+- Areas B and C are presented as expandable content, so the only instruction immediately visible is what to write (area A). This means that the guidance is easier to digest and less intimidating.
+- Definitions are presented as pop-ups for technical terms (area D)<br>
+- Quotes provide reassurance and persuasion<br>
+- Language is direct and edited for clarity and brevity<br>
+- Each item has its own discussion page (linked to from the top right of area A)
+ ]()
 
 <!-- ## FIG-DISCUSSION -->
 ![Intervention discussion page. Every reporting item now has its own discussion page where authors can ask and answer questions, and provide feedback to guideline developers. ](figures/discussion-page.png){#fig-discussion height=150mm}
