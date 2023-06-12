@@ -11,3 +11,5 @@ venv/
 output/
 *.docx
 output/
+
+/.luarc.json
