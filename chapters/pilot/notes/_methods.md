@@ -71,3 +71,5 @@ So if each participant took 90 min then that would cost:
 £270-360 per participants.
 
 An alternative could be TRINT or Zoom - AI transcript software. Check University rule.
+
+Analysis: Framework analysis by Ritchie et al 1994 e.g. https://delvetool.com/blog/frameworkanalysis
