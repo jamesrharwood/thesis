@@ -16,101 +16,102 @@ format:
 <!-- BEFORE -->
 
 <!-- FIG-HOME-B4 -->
-![The existing EQUATOR home page, as captured on 5th of April, 2023. Limitations include:<br><br>
-* No prominent description of what RGs are<br>
-* No clear instruction on what tasks RGs can and cannot be used for<br>
-* Search function hard to find (area A)<br>
-* Decision tool for identifying which RG to use was hard to find (area B)<br>
-* The page looked cluttered and unappealing<br>
-* The tone of voice was functional. It was not particularly judgemental but not reassuring either.<br>
-* There was little description of benefits of using a reporting guideline besides the mention of 'quality' and 'transparency' in the definition of EQUATOR, reference to 'high-impact research', 'improve your writing', and 'enhance your peer review' in the header.<br>
-* No reassurance that most research has limitations<br><br>
-Frequently accessed guidelines are fairly easy to find (area C).
+![The existing EQUATOR home page, as captured on 5th of April, 2023. Limitations include:
+1) No prominent description of what RGs are
+2) No clear instruction on what tasks RGs can and cannot be used for 
+3) Search function hard to find (area A) 
+4) Decision tool for identifying which RG to use was hard to find (area B) 
+5) The page looked cluttered and unappealing 
+6) The tone of voice was functional. It was not particularly judgemental but not reassuring either. 
+7) There was little description of benefits of using a reporting guideline besides the mention of 'quality' and 'transparency' in the definition of EQUATOR, reference to 'high-impact research', 'improve your writing', and 'enhance your peer review' in the header. 
+8) No reassurance that most research has limitations 
+9) Frequently accessed guidelines are fairly easy to find (area C). 
 ](figures/www.equator-network.org_.png){#fig-home-b4 height=200mm}
 
 <!-- ## FIG-DB-B4 -->
-![The existing EQUATOR page for SRQR, as captured on 5th April, 2023. Limitations include:<br><br>
-* The actual guidance is hard to find. Area A includes 3 links. The first two send users to an article describing how SRQR was developed. The actual guidance appears in a supplement of that article, which is the third link in area A. The label "relevant URLs" is vague.<br>
-* Little instruction regarding what the RG is or can be used for other than "Qualitative research"<br>
-* Links to related guidelines that are hard to find or, for SRQR, absent<br>
-* No metrics around how many authors use this RG (e.g. citation counts)<br>
-* The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance.<br>
+![The existing EQUATOR page for SRQR, as captured on 5th April, 2023. Limitations include:  
+1) The actual guidance is hard to find. Area A includes 3 links. The first two send users to an article describing how SRQR was developed. The actual guidance appears in a supplement of that article, which is the third link in area A. The label "relevant URLs" is vague. 
+2) Little instruction regarding what the RG is or can be used for other than "Qualitative research" 
+3) Links to related guidelines that are hard to find or, for SRQR, absent 
+4) No metrics around how many authors use this RG (e.g. citation counts) 
+5) The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance. 
 ](figures/db_page_b4.png){#fig-db-b4 height=200mm}
 
 <!-- ## FIG-RG-INTRO-B4 -->
-![The SRQR publication, captured on the 5th April, 2023. Limitations of reporting guideline publications may include:<br><br>
-* RG publications often focus on how the guidance was developed. The actual guidance (see area C) or checklist (area B) may be relegated to a box, table, or a linked supplement.<br>
-* Not all RGs describe what RGs are or what they can be used for, and these descriptions can be hard to find (areas A).<br>
-* RG publications may not reassure authors that most research has limitations, and that transparency is OK<br>
-* Publications may not be written with a reassuring tone of voice. Instead, guideline developers may justify their work by emphasising the negative impact of research waste. This may be how developers justify their work to themselves, editors, reviewers, or readers. As a result, to a naive author considering using the guidance, the tone of voice may come across as judgemental.<br>
-* Benefits to the user may be hard to find or (as with this RG) not described at all. Benefits to _others_ are more likely to be described, including a focus on how transparent, complete reporting benefits the research community or, conversely, how poor reporting is wasteful.<br>
-* Instruction on when RGs do/do not intend to prescribe structure, or instruction may be hard to find (see area D) or missing.<br>
-* Instructions on whether a RG intends to be a strict standard vs. 'just' a guideline may be hard to find (see area D) or missing.<br>
-* Links to related resources only include those that were created before the RG was published. Some guidelines don't include any links. <br>
-* No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists.<br>
+![The SRQR publication, captured on the 5th April, 2023. Limitations of reporting guideline publications may include:  
+1) RG publications often focus on how the guidance was developed. The actual guidance (see area C) or checklist (area B) may be relegated to a box, table, or a linked supplement. 
+2) Not all RGs describe what RGs are or what they can be used for, and these descriptions can be hard to find (areas A). 
+3) RG publications may not reassure authors that most research has limitations, and that transparency is OK 
+4) Publications may not be written with a reassuring tone of voice. Instead, guideline developers may justify their work by emphasising the negative impact of research waste. This may be how developers justify their work to themselves, editors, reviewers, or readers. As a result, to a naive author considering using the guidance, the tone of voice may come across as judgemental. 
+5) Benefits to the user may be hard to find or (as with this RG) not described at all. Benefits to _others_ are more likely to be described, including a focus on how transparent, complete reporting benefits the research community or, conversely, how poor reporting is wasteful. 
+6) Instruction on when RGs do/do not intend to prescribe structure, or instruction may be hard to find (see area D) or missing. 
+7) Instructions on whether a RG intends to be a strict standard vs. 'just' a guideline may be hard to find (see area D) or missing. 
+8) Links to related resources only include those that were created before the RG was published. Some guidelines don't include any links.  
+9) No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists. 
 ](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm}
 
 <!-- ## FIG-ITEM-B4 -->
-![An example item from the SRQR guideline. Limitations may include:<br><br>
-- Text is unstructured, so it is difficult to immediately identify what needs to be written.
-- Text uses verbose, passive language
-- The text appears long and difficult to digest
-- Terms aren't always defined
-- Not all reporting items are justified
-- Not all items include instruction of what to write if the item could not/was not done.
+![An example item from the SRQR guideline. Limitations may include:  
+1) Text is unstructured, so it is difficult to immediately identify what needs to be written.
+2) Text uses verbose, passive language
+3) The text appears long and difficult to digest
+4) Terms aren't always defined
+5) Not all reporting items are justified
+6) Not all items include instruction of what to write if the item could not/was not done.
 ](figures/item-b4.png){#fig-item-b4 height=150mm}
 
 <!-- ## FIG-CHECKLIST-B4 -->
-![The SRQR checklist. Limitations of RG checklists may include:<br><br>
-* Checklists may not define what RGs are, what they can be used for, or their benefits.<br>
-* Checklists may not be in a usable format (e.g. a PDF that cannot be filled in, or a table that cannot be copied)<br>
-* Checklists may not include instruction of how to complete them.<br>
-* Checklists may not link to the underlying guidance, or other related resources.<br>
+![The SRQR checklist. Limitations of RG checklists may include:  
+1) Checklists may not define what RGs are, what they can be used for, or their benefits. 
+2) Checklists may not be in a usable format (e.g. a PDF that cannot be filled in, or a table that cannot be copied) 
+3) Checklists may not include instruction of how to complete them. 
+4) Checklists may not link to the underlying guidance, or other related resources. 
+5) Content may lack nuance of full guidance and may appear dictatorial and administrative
 ](figures/checklist-b4.jpeg){#fig-checklist-b4 height=200mm}
 
 <!-- ## FIG-JOURNAL-INSTRUCTIONS -->
-![Author instructions for BMJ Open, a typical journal, captured on 5th April, 2023. Limitations of Journal instruction to authors may include:<br><br>
-* Instructions advise authors to use RGs, but don't define what RGs are, what they can be used for, or the benefits or using them.<br>
-* Advice regarding reporting guidelines may be hard to find amongst lengthy instruction pages (see area A)<br>
+![Author instructions for BMJ Open, a typical journal, captured on 5th April, 2023. Limitations of Journal instruction to authors may include:  
+1) Instructions advise authors to use RGs, but don't define what RGs are, what they can be used for, or the benefits or using them. 
+2) Advice regarding reporting guidelines may be hard to find amongst lengthy instruction pages (see area A) 
 ](figures/journal-instructions.png){#fig-journal-instructions height=200mm}
 
 <!-- AFTER -->
 <!-- ## FIG Home -->
-![Intervention home page. Intervention changes made to the homepage include the following:<br><br>
-* RGs are now clearly defined (areas A)<br>
-* The site looks simple and has plenty of white space <br>
-* Personal benefits are described explicitly and communicated through reassuring language and quotes (see areas B) <br>
-* Search and browse buttons are easy to find (area C)<br>
-* Frequently accessed guidelines are still easy to find (area D)<br>
-* The site describes what tasks RGs can be used for, and differentiates tools by task (area E)
+![Intervention home page. Intervention changes made to the homepage include the following:  
+1) RGs are now clearly defined (areas A) 
+2) The site looks simple and has plenty of white space  
+3) Personal benefits are described explicitly and communicated through reassuring language and quotes (see areas B)  
+4) Search and browse buttons are easy to find (area C) 
+5) Frequently accessed guidelines are still easy to find (area D) 
+6) The site describes what tasks RGs can be used for, and differentiates tools by task (area E)
 ](figures/home.png){#fig-home height=200mm}
 
-<!-- ## FIG-RG-INTRO -->
-![Intervention reporting guideline page. Intervention changes made to RG introductions include:<br><br>
-* Clear description of what the RG is, what it can and cannot be used for, the benefits to the author and to society, and how and when it can be used. (area A)<br>
-* Description of whether the RG is intended to be a standard or 'just' a guideline (area A)<br>
-* Tools are clearly differentiated by task (area B)<br>
-* Related guidelines and other resources are linked. These links can be updated as and when newer guidelines are published (area C)<br>
-* Clear instruction on whether a RG can be used in a situation that it wasn't designed for, but where no better guidance exists (area D)<br>
-* Links to translations (area E)<br>
-* Reassuring language throughout, and reassuring quotes from editors, readers, and authors (e.g., area F)<br>
-* Citation metrics (area G)<br>
-* An estimation of how long guidance will take to read (area H)<br>
-* Advice on how or where to report items so as not to breach word count limits and when RGs do or do not intend to prescribe structure (area I)<br>
-* Full guidance (area J, see @fig-item-after)<br>
-* Citation information (area K)<br>
-* Information on how the guidance was developed and why it can be trusted (area L)<br>
+<!-- ## FIG-RG -->
+![Intervention reporting guideline page. Intervention changes made to RG introductions include:  
+1) Clear description of what the RG is, what it can and cannot be used for, the benefits to the author and to society, and how and when it can be used. (area A) 
+2) Description of whether the RG is intended to be a standard or 'just' a guideline (area A) 
+3) Tools are clearly differentiated by task (area B) 
+4) Related guidelines and other resources are linked. These links can be updated as and when newer guidelines are published (area C) 
+5) Clear instruction on whether a RG can be used in a situation that it wasn't designed for, but where no better guidance exists (area D) 
+6) Links to translations (area E) 
+7) Reassuring language throughout, and reassuring quotes from editors, readers, and authors (e.g., area F) 
+8) Citation metrics (area G) 
+9) An estimation of how long guidance will take to read (area H) 
+10) Advice on how or where to report items so as not to breach word count limits and when RGs do or do not intend to prescribe structure (area I) 
+11) Full guidance (area J, see @fig-item) 
+12) Citation information (area K) 
+13) Information on how the guidance was developed and why it can be trusted (area L) 
 ](figures/rg-after.png){#fig-rg-intro height=200mm}
 
 <!-- ## FIG ITEM AFTER -->
-![A re-designed item from the SRQR reporting guideline. Intervention changes include:<br><br>
-- Content is separated into what to write (area A), why information is important (area B), examples (area C), and any additional background information (not shown).<br>
-- Areas B and C are presented as expandable content, so the only instruction immediately visible is what to write (area A). This means that the guidance is easier to digest and less intimidating.
-- Definitions are presented as pop-ups for technical terms (area D)<br>
-- Quotes provide reassurance and persuasion<br>
-- Language is direct and edited for clarity and brevity<br>
-- Each item has its own discussion page (linked to from the top right of area A)
- ]()
+![A re-designed item from the SRQR reporting guideline. Intervention changes include:  
+1) Content is separated into what to write (area A), why information is important (area B), examples (area C), and any additional background information (not shown). 
+2) Areas B and C are presented as expandable content, so the only instruction immediately visible is what to write (area A). This means that the guidance is easier to digest and less intimidating.
+3) Definitions are presented as pop-ups for technical terms (area D) 
+4) Quotes provide reassurance and persuasion 
+5) Language is direct and edited for clarity and brevity 
+6) Each item has its own discussion page (linked to from the top right of area A)
+ ](figures/item-after.png){#fig-item height=200mm}
 
 <!-- ## FIG-DISCUSSION -->
 ![Intervention discussion page. Every reporting item now has its own discussion page where authors can ask and answer questions, and provide feedback to guideline developers. ](figures/discussion-page.png){#fig-discussion height=150mm}

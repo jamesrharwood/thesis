@@ -1,6 +1,6 @@
 ## Discussion
 
-I have demonstrated how I have used a data-driven approach, guided by behaviour theory, to re-design how reporting guidance is disseminated. I have proposed {{ < var counts.redesign.intervention-components >}} intervention components, addressing {{ < var counts.redesign.barriers-targeted >}} barriers and employing {{ < var counts.redesign.intervention-functions-used >}} intervention functions. By linking components with barriers and functions, I have justified my suggestions using evidence and described how they are theorized to work. I have then created a prototype website to demonstrate how these components could be realised.
+I have demonstrated how I have used a data-driven approach, guided by behaviour theory, to re-design how reporting guidance is disseminated. I have proposed {{< var counts.redesign.intervention-components >}} intervention components, addressing {{< var counts.redesign.barriers-targeted >}} barriers and employing {{< var counts.redesign.intervention-functions-used >}} intervention functions. By linking components with barriers and functions, I have justified my suggestions using evidence and described how they are theorized to work. I have then created a prototype website to demonstrate how these components could be realised.
 
 Together, these changes amount to a complete redesign of two key parts of the existing system through which reporting guidelines are currently disseminated; the guidelines themselves, and the EQUATOR Network website which is visited by almost 1 million authors each year.
 
@@ -30,47 +30,14 @@ These imagination constraints may be a weakness, but they are also al practical.
 
 Our horizons may have also been limited by group-think. If I were to repeat the work, I would have included a small, diverse group of authors to take part in the design process. I would have invited representatives from the publishing industry, funding community, and people more familiar with designing digital behavioural interventions. Including these diverse, informed voices in the design process could have lead to more radical design choices.
 
+I did, however, include guideline developers in the design process. When editing SRQR I made sure to include Bridget O'Reilly, SRQR's lead author, in every step. I explained my process and invited her feedback during and after editing. The experience was very positive. Bridget was supportive of what I was doing and liked the end result. But I acknowledge that other guideline developers may feel protective over their writing, and that many may not have the time nor funding to revise their guidance. I discuss these limitations further in my discussion chapter.
+
+Editing SRQR revealed another limitation: gaps in item description. There was often no guidance of what to write if an item wasn't or couldn't be done. For instance, the target sample size item had no instruction of what to write if you didn't ever have a target in mind. Some items were missing any kind of justification of why the item was important and to whom. Bridget and I both felt that filling these blanks would require time and input from SRQR's development team, and so I left these gaps unfilled for now.
+
 ### Future work
 
-I have partly remedied this limitation by piloting the new website amongst authors, as described in the next chapter. Defining intervention components by their target barriers and intervention functions lends itself nicely to designing a pilot study to gather feedback. Because I knew what each component was supposed to be _doing_ I could design an interview schedule with questions and tasks to specifically explore intervention functions. ~For example, the purpose of the top of the home page is to communicate what reporting guidelines are and how they benefit authors. Instead of asking general questions (like "what do you think of...?"), I decided to ask more specific questions ("What do you think the website is about? How do you think it might influence your work?"). Furthermore, because the purpose was to communicate these things _quickly_, I decided to only give pilot participants 5s before asking these questions.~ Similarly, defining components in this way will facilitate future quantitative work to assess efficacy.
+I anticipate similar gaps for other reporting guidelines, and would seek to work alongside guideline developers to fill them and I upload other popular reporting guidelines and edit items into a consistent structure using the same process as for SRQR. Further development work will be required before the new website can be made live. Some of this work are technical tasks that, although necessary, do not have behavioural impact. For example, I will need to integrate the new website as a subdomain of EQUATOR's existing one, and I will create automated tests that run before each deployment. However, other tasks _do_ appear on the list of intervention ideas, and will affect behaviour. For example, I intend to optimise each guideline page so that it ranks highly in search engines.
 
-After I've done this pilot work and made refinements, further development work will be required before the new website can be made live. Some of this work are technical tasks that, although necessary, do not have behavioural impact. For example, I will need to integrate the new website as a subdomain of EQUATOR's existing one, and I will create automated tests that run before each deployment. However, other tasks _do_ appear on the list of intervention ideas, and will affect behaviour. For example, I intend to optimise each guideline page so that it ranks highly in search engines.
+Beyond the intervention components presented here, the prioritization exercise identified other ideas that EQUATOR would like to implement, but that I chose not to act upon. For example, participants favoured developing training resources specific to individual reporting items, and creation of network of “reporting champions”, akin to the UKRN model. EQUATOR participants liked the idea of lobbying funders to require reporting guidelines be used for applications. The work in this chapter could be used to support funding applications to support these endeavours.
 
-Along with this technical work, I will need to spend time uploading other popular reporting guidelines and editing items into a consistent structure, as I did with SRQR. This process revealed gaps in item description. Most commonly, there was often no guidance of what to write if an item wasn't or couldn't be done. For instance, the target sample size item had no instruction of what to write if you didn't ever have a target in mind. Some items were missing any kind of justification of why the item was important and to whom. I anticipate similar gaps for other reporting guidelines, and would seek to work alongside guideline developers to fill them.
-
-Buy in. 
-- Necessary 
-- Experience positive but engagement limited
-- Will all developers feel similarly?
-- Some may feel protective over their writing. Writing done by committee. But confidence not necessarily justified with evidence from testing. 
-- Hopefully reassured by my structured approach to editing guideline content and by evidence from piloting this new structure with authors.
-- A reporting guidelines for writing reporting guidelines could be useful (and very meta)
-
-Beyond the intervention components presented here, the prioritization exercise identified other ideas that EQUATOR would like to implement, but that I chose not to act upon. For example, participants favoured developing training resources specific to individual reporting items, and creation of network of “reporting champions”, akin to the UKRN model. EQUATOR participants liked the idea of lobbying funders to require reporting guidelines be used for applications. The work in this chapter could be used to support funding applications to support these endeavours. 
-
-### Implications
-
-I talk about broader implications in my final discussion section.  
-
-- Long term implications - a scalable intervention that can be used by reporting guidelines authors off the shelf.
-- Example of consort and prisma websites being down for months
-
-Why didn’t I do an analysis of existing RG system?
-
-Perhaps a GL for RGs would be useful
-
-Next steps - future work, pilot
-
-### For later discussion
-
-### How does my approach compare with the Person Based Approach?
-
-In practice intervention designers may use different frameworks when creating interventions.
-
-For example, @bandInterventionPlanningDigital2017
-
-Describe person based approach steps.
-
-Draw parallels with the steps I took. Say what was different.
-
-Argue why PBA wasn't necessary here.
+I mentioned earlier that one limitation of this study was that authors weren't included in the design process. In the next chapter, I explain how I have addressed this by piloting the website amongst authors.
