@@ -51,6 +51,11 @@ changes = {c.id: c.title for c in CHANGES}
 changes_section_titles = {c.id: c.title.lower().replace(' ', '-') for c in CHANGES}
 barriers = {b.id: b.title for b in BARRIERS}
 barrier_sections = {b.id: b.title.lower().replace(' ', '-') for b in BARRIERS}
+
+with open('chapters.txt', 'r') as file_:
+    chapters = file_.readlines()
+    chapters = {chapter.strip(): idx+1 for idx, chapter in enumerate(chapters)}
+
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)
     file_.seek(0)
@@ -66,5 +71,6 @@ with open(filename, 'r+') as file_:
     variables.update({'IFSecs': changes_section_titles})
     variables.update({'BARRIERS': barriers})
     variables.update({'BARRIER_SECTIONS': barrier_sections})
+    variables.update({'chapters': chapters})
     yaml.dump(variables, file_, width=1000)
     file_.truncate()
