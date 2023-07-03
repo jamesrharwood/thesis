@@ -122,23 +122,21 @@ IFs:
   testimonials: Provide testimonials
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
+appendices:
+  ideas_document: null
 chapters:
-  bcw: 3
-  discussion: 16
-  focus-groups: 12
+  bcw: 7
+  discussion: 12
+  focus-groups: 9
   introduction: 1
-  journal-audit: 9
-  pilot: 15
-  redesign: 14
+  journal-audit: 6
+  pilot: 11
+  redesign: 10
   reflexivity and context: 2
-  review: 7
-  synthesis: 6
-  web-audit: 8
-  workshops: 4
-  workshops-ideas: 11
-  workshops-stage-4: 10
-  workshops-stages-1-3: 5
-  workshops-stages-5-6: 13
+  review: 4
+  synthesis: 3
+  web-audit: 5
+  workshops: 8
 counts:
   EQUATOR_ideas: TODO
   EQUATOR_meetings: 7
@@ -177,5 +175,3 @@ stages:
   planning: Before developing guidance
 website-github-repo-url: https://github.com/jamesrharwood/equator-guidelines-website
 website-url: https://jamesrharwood.github.io/equator-guidelines-website/
-appendices:
-  ideas_document: #TODO
