@@ -1,0 +1,145 @@
+---
+bibliography: ../../references.bib
+csl: ../../springer-vancouver.csl
+output-dir: ../../output
+---
+:::{.callout}
+ Chapter List:
+
+* Introduction
+* Reflexivity and context
+* Identifying factors that may limit the impact of Reporting Guidelines:
+   * Synthesis
+   * Review
+   * Web-audit
+   * Journal-audit
+* (Re)designing the intervention
+    * The Behaviour Change Wheel (where I introduce the behaviour change wheel, COM-B, intervention functions, policy categories. I end by introducing the behaviour change wheel _book_ "The Behaviour Change Wheel - A Guide to Designing Interventions)
+    * **Workshops with EQUATOR staff** (This Chapter)
+    * Focus-groups with stakeholders
+    * Developing the intervention
+* Pilot
+* Discussion
+:::
+
+## Introduction
+
+Having identified factors that may limit the impact of reporting guidelines (see chapters {{< var chapters.synthesis >}} - {{< var chapters.journal-audit >}}) and identified a framework (see chapter {{< var chapters.bcw >}}), my next step was to use the framework to identify how limitations could be addressed.
+
+In "The Behaviour Change Wheel - A Guide To Designing Interventions"@michieBehaviourChangeWheel2014, Michie et al. suggest eight steps to help intervention designers understand the behaviour, and identify intervention options, content, and implementation options (see @fig-bcw-worksheets).
+
+![The three stages and eight steps recommended in _The Behaviour Change Wheel - A Guide To Designing Interventions_ @michieBehaviourChangeWheel2014](bcw-stages.png){#fig-bcw-worksheets}
+
+At this point in my PhD I decided to include other stakeholders from reporting guideline ecosystem. Firstly, I expected that input from experts with intimate knowledge of reporting guidelines would lead to more ideas and, secondly, I expected these ideas to be more likely to gain traction and have impact.
+
+I had to be mindful of how much time I could expect stakeholders to give to my project. The eight stages outlined by Michie et al. would take many hours and require background familiarity with the COM-B model, intervention functions and policy categories. The best place to start was with members of the UK EQUATOR Center, with whom I already had a relationship, and who were already invested in the project. (See chapter {{< var chapters.reflexivity-and-context >}} for an introduction to the EQUATOR Network, and see chapters {{< var chapters.focus-groups >}} and {{< var chapters.pilot >}} for how I sought input from wider stakeholders and authors.)
+
+In this chapter, I describe how I led members of the UK EQUATOR Centre through the eight stages of the intervention design process from the Behaviour Change Wheel, and the outcomes of each stage. 
+
+## Methods and Results
+
+I invited {{< var counts.EQUATOR_staff_invited >}} members of the UK EQUATOR Center to take part in the workshops, of whom {{< var counts.EQUATOR_staff >}} met {{< var counts.EQUATOR_meetings >}} times between December 2021 and May 2022. Each meeting lasted around 2 hours. I took part in the workshops myself because I felt justified drawing on my own experience from my earlier PhD work, as an author, and developer of tools to help authors (see chapter {{< var chapters.reflexivity-and-context >}}).
+
+Thus I took an active role in the workshops, and workshop members completed exercises through discussion. My paradigm was constructivist in that knowledge was "constructed between inquirer and participant through the inquiry process itself"@m.givenSAGEEncyclopediaQualitative2008. Constructivism "rejects the idea that there is objective knowledge in some external reality for the researcher to retrieve mechanistically" and instead, "the researcher's values and dispositions influence the knowledge that is constructed through interaction with the phenomenon and participants in the inquiry"@m.givenSAGEEncyclopediaQualitative2008. 
+
+On one hand this is an asset, as I expected that my experience would contribute to our aim of understanding and addressing the phenomena we were interested in. On the other hand, I wanted to ensure that my opinions didn't bias the group, I wanted us all to remain open-minded, and I wanted to accurately capture the opinions and ideas of other workshop participants. And so I used a number of established techniques to facilitate open and rich discussion and to enhance trustworthiness. 
+
+To encourage discussion, I encouraged participants to rise above their own preconceptions and reassured them that there were no wrong answers (#TODO: name and cite). I used open-ended questioning and left space for participants to talk (#TODO: name and cite). All ideas were considered valid and were documented. The behaviour change wheel encourages rich discussion by breaking up intervention design into stages and by using frameworks, models, and taxonomies. 
+
+To enhance trustworthiness, I used Lincoln and Guba's criteria for trustworthiness @lincolnNaturalisticInquiry1985, which asserts that for for a study to be trustworthy, the researcher must show that the findings are credible ('true'), transferable (applicable to other contexts), dependable (consistent and repeatable), and confirmable (shaped by participants, not by the researcher's bias or motivation). I describe the techniques I used to achieve each criteria in @tbl-trust.
+
+{{< include _trust_table.qmd >}}
+
+We followed the eight steps recommended by Michie et al (@fig-bcw-worksheets) faithfully, with the exception of step 7 (identifying behaviour change techniques), which we modified in order to solicit input from the broader reporting guideline community (see chapter {{< var chapters.focus-groups >}}). I will now summarise each step and our discussions. I purposefully use "we" in this chapter instead of "participants" to reflect that my voice is included.
+
+## 1. Defining the problem in behavioural terms 
+
+The first step is to define _who_ needs to do _what_. Michie et al. suggest describing what the behaviour is, where it occurs, and who performs it. We were all in alignment here: we want researchers to include important details in their articles, in line with the relevant reporting guidelines. This behaviour will occur at the place of work (e.g., University, hospitals, at home) and will be performed by anybody writing about biomedical research.
+
+## 2. Select target behaviour
+
+"Behaviours do not exist in a vacuum but occur within the context of other behaviours of the same or other individuals" write Michie et al. @michieBehaviourChangeWheel2014, when explaining that the desired behaviour needn't be the  behaviour that you target. For instance, if you want a child to eat more fruit (desired behaviour), you may seek to influence what food their parent buys (target behaviour).
+
+Step 2 involves generating a long list of candidate target behaviours that could bring about the desired behaviour. We ended up with 18 ideas, many of which targeted the author directly such as "reading the guidance in full" or "studying guidance (in an abstract sense)". This exercise helped us break down researcher's writing process and consider how they could "use guidance when planning", "drafting", "editing [their own work]", or "checking". We considered how these behaviours required researchers' to be open to assistance and wondered if we could encourage them to "ask for help when writing".
+
+We also considered targeting people other than authors. For instance, "peer reviewers" and "editors" could "check articles against guidelines [and] tell authors what is missing", and supervisors could "encourage" the use of guidelines.
+
+We began to break down what we meant by "guidance" and decided that we wanted people to use the _full_ guidance (often reported in an _Example &Elaboration_ document) and "not just the checklist".
+
+The next step was to select a behaviour from the long list by considering:
+
+1. The expected impact if the behaviour were to be performed
+2. How easy we expected behaviour change to be
+3. The centrality of behaviour - how close it was to our desired behaviour
+4. How easy the behaviour will be to measure
+
+Criteria 2 and 3 lead us to focus on the behaviour of authors above that of editors or peer reviewers. When considering criteria 1, we felt that authors were most likely to act on guidance if they used it early when writing. Just _how_ early depended on the guideline and discipline; for example, protocols are common in some disciplines and some guidelines cater for this (e.g. SPIRIT, PRISMA-P). But other disciplines don't typically have a protocol culture, and some guidelines are harder to use for writing protocols than others. Because we wanted our intervention to be transferable between reporting guidelines, we decided not to specify a stage of work and to use the term "early as possible" instead.
+
+## 3. Specify the target behaviour
+
+Having decided that we wanted "authors to use the full guidance as early as possible" it was time to specify this behaviour in more detail. Michie et al. suggest defining _who_ needs to perform the behaviour, _what_ do they need to do, _when_ will they do it, _where_ will they do it, how _often_ will they do it, and _with whom_?
+
+
+Our final definition of our target behaviour was: **Researchers should use reporting guidance as early as possible in their research pipeline. They will do this for every piece of research, at their place of work, on their own but in the context of collaboration**
+
+Participants broke this key behaviour into two sub behaviours:
+
+1. Engage with reporting guidelines as early as possible (ie access and read them) and,
+2. Apply the guidance to their writing as intended by the guideline developer.
+
+By "research pipeline" we mean the many steps involved in a typical project which may include ideation, obtaining funding and ethics permission, designing, writing a protocol, drafting a manuscript, editing a manuscript, submitting a manuscript. Instead of specifying _which_ stage reporting guidance should be used, we decided to specify that we want authors to use guidance as "early as possible". We did this for a few reasons. Firstly, guidelines differ in how easily they can be used for writing protocols or applications. Secondly, researchers will naturally come across reporting guidelines at different stages of their work. Should a researcher discover a guideline at the point of journal submission, then we would still want them to apply the guidance then, even though this is a relatively late stage. But by specifying "as early as possible", we declare our hope that _next time_ that same researcher may decide to use a guideline at an earlier point. And finally, not all research projects will begin with a written funding application, ethics application, or protocol.
+
+By "apply", we refer to using guidance to plan, write or edit a written description of research (e.g. within a manuscript or application). Applying guidance includes the use of tools like templates or checklists. Participants discussed specifying "completing a reporting checklist" as a target behaviour, but decided against it as previous research showed that authors who complete checklists upon submission don't necessarily edit their manuscript or comply with guidelines. Participants also recognised that focussing on checklists may be problematic because checklists appear administrative, are used _after_ a manuscript has been written, at which point authors are least able or motivated to edit their work. Nevertheless, participants recognised that checklists will continue to be an important part of how reporting guidance are disseminated, and so they are included within the term "apply the guidance", without being named.
+
+We felt it important to specify that guidance should be applied "as intended by the guideline developer" as my previous research showed that sometimes authors who misinterpret guidelines may believe that they are adhering when they are not.
+
+Hence our target behaviour definition specifies the _who_, _what_, _when_, and _where_ but is broad enough to account for differences between researchers' working practices, research projects, and reporting guidelines.
+
+## 4. Identify what needs to change
+
+This step involved identifying what needs to change in the person and/or environment to achieve our target behaviour. Michie et al provide a questionnaire to facilitate this step, called the _COM-B Questionnaire_, which asks you to consider each COM-B domain in turn and to consider 23 items like "To perform the target behaviour, authors would have to know more about why it was important", "know more about how to do it", "have more time to do it", and "have more support from others" etc.
+
+Michie et al. emphasise the importance of evidence in this step, recommending that data should be "collected from as many relevant sources as possible" and "triangulated", as a consistent picture of behaviour from multiple sources will "increase confidence in the analysis"@michieBehaviourChangeWheel2014. Consequently, we included all of the factors that I identified from my previous PhD work (see chapters {{< var chapters.synthesis >}}-{{< var chapters.journal-audit >}}) and labelled each as being driven by capability, opportunity, or motivation. 
+
+The result was a set of {{< var counts.barriers >}} factors that we felt needed to change for our target behaviour to occur. These can be seen in Appendix {{< var appendices.barriers >}}.
+
+## 5 & 6. Identify Intervention Functions and Policy Categories
+
+#TODO: introduce these stages a bit more.
+
+Michie et al. @michieBehaviourChangeWheel2014 recommend using the APEASE criteria to prioritze options, which stands for Affordability, Practicability, Efficacy, Acceptability, Side-effects, and Equity. 
+
+We saw Enablement, Education, Training, Persuasion, Modelling, and Environmental Restructuring as ranking favourably on all APEASE criteria. Of these, Enablement was viewed as a particularly low-hanging fruit that would likely be effective and welcomed by the research community.
+
+We found the remaining intervention functions problematic. Incentivization and restriction (e.g. rewarding guideline adherence with funding or reduced article processing, or punishing non-adherence by withholding these benefits) were seen as inequitable because as long as guideline adherence is harder for some researchers than others, less-experienced, poorly resourced researchers would be at a disadvantage, as would those working in disciplines where reporting guidelines are poorly designed or harder to apply. Conversely, we felt that enablement has potential to reduce existing inequalities. In addition to being inequitable, participants voiced that restriction or punishment would be unacceptable to researchers, as would coercion (the threat of punishment). Furthermore, threats without enforcement could become known as paper tigers, lose effectiveness, and erode trust.
+
+Regarding Policy Categories, we saw environmental planning as the most affordable, effective, acceptable, safe, and equitable. When talking about the _environment_, we were really talking about the _digital_ environment, within which EQUATOR has control over its own website but not websites or digital services run by others. Improving and extending the website was viewed as an affordable investment, that would be welcomed by authors (thus acceptable), and a practical way to increase the proportion of authors engaging with reporting guidelines that would increase equity without side effects.
+
+We recognised communication as a favourable policy category that is already utilised. Communication channels included the website, mailing lists, social media, conferences, and publications. Whilst communication was rated as affordable, practicable, acceptable, safe, and equitable, its effectiveness may be limited. Although communication could promote awareness of reporting guidelines are available, what they are, and how they can be used, EQUATOR members noted that the efficacy of a communications campaign may be undermined if the campaign is directing authors to a website that is difficult to use, or guidelines that are difficult to access or understand. Thus communication on its own might not be sufficient, and members suggested that it should come after improving the digital environment.
+
+Service provision was also favoured, as long as the service was financially sustainable. So too where guidelines, specifically guidance to help reporting guideline developers create and disseminate resources. Participants felt that Legislation, Regulation, and Fiscal Measures would not be acceptable to researchers and were not not practical options for EQUATOR to use.
+
+## 7. Identify behaviour change techniques
+
+#TODO: Explain why I didn't follow the book here. Explain what I did instead. Explain that I opened it up to other stakeholders and to see the next chapter - Focus Groups. Explain that I did the behavioural analysis after the focus groups and point to results in the Redesign chapter.
+
+## 8. Identifying delivery options
+
+I then had to decide how to deliver our favoured intervention functions and policy options. Michie et al.'s guidance for this step is more open ended@michieBehaviourChangeWheel2014; although they offer delivery options for communication as an example intervention function, there is no framework or systematic approach to this step and instead they recommend that designers consider the delivery options that they have at their disposal. For EQUATOR, that meant developing a new service or training programme, running a communication campaign, developing new guidance, or improving their website. It was important that my choice was doable within my funding window, and I wanted it to have a lasting impact after my DPhil was finished.
+
+Creating a new service felt unsustainable as it would likely stop once my funding ran out. Developing training or guidance for guideline developers could be useful and acceptable but not achievable within my time constraint. I could have developed a communications campaign, but EQUATOR members felt this was something they could do independently and that it should be done after addressing other barriers.
+
+Instead, refining and extending the existing EQUATOR website felt like the perfect choice for multiple reasons. Firstly, planning the digital environment was ranked most highly as a policy category. Secondly, the website can be used as a means of delivering many of the highly ranked intervention functions (enablement, education, persuasion, modelling). Thirdly, it spoke to my skills as a software developer and is something that the UK EQUATOR staff could not do on their own. And finally, these changes could be made within the time limit of my PhD and, importantly, the impact would be sustained after I finish.
+
+## Discussion
+
+My EQUATOR colleagues found the exercise incredibly useful and motivating. The process got everybody thinking about reporting guidelines not just as a set of documents or standards, but as a complex behaviour change intervention. It also helped us challenge our preconceptions. One of the most interesting parts of this process was witnessing an unexpected change of opinion amongst EQUATOR staff. Before beginning this study, a common refrain heard around the office was that in order for reporting guidelines to be successful editors had to start enforcing them and refuse to publish research that didn't adhere. So it was fascinating to see that workshop participants unanimously rated restriction and coercion as their least favourite options.
+
+I think two things happened here. Firstly, having discussed the barriers that authors face when trying to use reporting guidelines, participants felt that forcing authors to use them would be unacceptable to authors, impractical for editors, and inequitable as some authors would face larger hurdles than others. Secondly, participants reassessed things they had taken for granted, and realised that there are many low-hanging fruit that could make guidelines easier to find and use, and that these fruit were growing in their own orchard.
+
+#TODO: more discussion!
+
+## References
+
+::: {#refs}
+:::
