@@ -1,7 +1,7 @@
 # Refining the intervention: qualitative pilot with authors
 
-{{ include _background.qmd }}
+{{< include /chapters/11_pilot/_background.qmd >}}
 
-{{ include _methods.qmd }}
+{{< include /chapters/11_pilot/_methods.qmd >}}
 
-{{ include _discussion.qmd }}
+{{< include /chapters/11_pilot/_discussion.qmd >}}

@@ -12,12 +12,12 @@ project:
 ---
 # Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process
 
-{{< include _methods.md >}}
+{{< include /chapters/10_redesign/_methods.md >}}
  
 :::{.column-page-right}
-{{< include _table.qmd >}}
+{{< include /chapters/10_redesign/_table.qmd >}}
 :::
 
-{{< include _figures.qmd >}}
+{{< include /chapters/10_redesign/_figures.qmd >}}
 
-{{< include _discussion.md >}}
+{{< include /chapters/10_redesign/_discussion.md >}}

@@ -124,8 +124,8 @@ IFs:
   value-statement: Describe reporting guidelines where they are encountered
 appendices:
   barriers: A
-  ideas_document: B
   ideas: C
+  ideas_document: B
 chapters:
   bcw: 7
   discussion: 12
@@ -164,6 +164,10 @@ counts:
   jh_ideas_before: TODO
   participants: 16
   publishers: 3
+  redesign:
+    barriers-targeted: TODO
+    intervention-components: TODO
+    intervention-functions-used: TODO
   stakeholders: 10
   sub_items: 136
   sub_items_pre_jh: 128

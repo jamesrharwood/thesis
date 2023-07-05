@@ -14,18 +14,25 @@
 
 # Journal Guideline Audit
 
-# PART 2: Turning reporting guidelines into a behaviour change intervention
+# PART 2: Turning reporting guidelines into a behaviour change intervention {.unnumbered}
 
 # The Behaviour Change Wheel
 
-{{< include chapters/abstract/index.qmd >}}
+{{< include chapters/8_workshops/index.qmd >}}
 
-{{< include chapters/background/index.qmd >}}
+{{< include chapters/9_focus_groups/index.qmd >}}
 
+{{< include chapters/10_redesign/index.qmd >}}
 
-### References
+# Pilot
+
+# Discussion
+
+# References
 
 ::: {#refs}
 :::
 
-{{< include sections/_appendix.qmd >}}
+# Appendices {.unnumbered}
+
+{{< include chapters/appendix/index.qmd >}}

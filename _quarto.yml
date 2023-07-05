@@ -12,6 +12,8 @@ project:
     browser: true
     watch-inputs: true
     navigate: true
+execute:
+  freeze: auto
 format:
   html:
     toc: true

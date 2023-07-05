@@ -24,14 +24,18 @@ counts = dict(
     sub_items_pre_jh = sub_item_count - jh_ideas_count,
     jh_ideas = jh_ideas_count,
     jh_ideas_before = jh_ideas_before,
-    EQUATOR_ideas = 'TODO',
+    EQUATOR_ideas = 'TODO', #TODO
     participants = participants,
     focus_groups = focus_groups,
-    guideline_developers = guideline_developers, 
-    academics = academics, 
+    guideline_developers = guideline_developers,
+    academics = academics,
     publishers = publishers,
+    redesign = {
+        'intervention-components': 'TODO', #TODO
+        'barriers-targeted': 'TODO', #TODO
+        'intervention-functions-used': 'TODO', #TODO
+    },
 )
-
 
 stages_strs = list(STAGES.values())
 stages_strs = [s.lower() for s in stages_strs]
@@ -54,7 +58,9 @@ barrier_sections = {b.id: b.title.lower().replace(' ', '-') for b in BARRIERS}
 
 with open('chapters.txt', 'r') as file_:
     chapters = file_.readlines()
-    chapters = {chapter.strip(): idx+1 for idx, chapter in enumerate(chapters)}
+    chapters = {
+        chapter.strip(): idx+1 for idx, chapter in enumerate(chapters)
+    }
 
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)

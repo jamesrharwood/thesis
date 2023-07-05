@@ -216,7 +216,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         before: Because it wasn't clear how reporting guidelines and checklists should be used, they (especially checklists) could appear as administrative tasks that should be the responsibility of the editor or reviewer. 
         before_example:
         now: Clearer description of how guidelines and tools should be used and who should use them. #DECIDE
-        now_example: See @sec-box-FAQ
+        now_example: See @fig-rg-intro
         BCT: Instruction on how to perform a behaviour #ASK
   feel-not-a-job:
     ingredients:
@@ -587,7 +587,7 @@ Apply reporting guidance to writing:
         before: No advice given
         now: Advice given in FAQ beneath each RG #DECIDE
         before_example:
-        now_example: See @sec-box-FAQ
+        now_example: See @fig-rg-intro
         IF: Education
   need-usable-formats:
     ingredients:

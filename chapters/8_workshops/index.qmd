@@ -1,8 +1,3 @@
----
-bibliography: ../../references.bib
-csl: ../../springer-vancouver.csl
-output-dir: ../../output
----
 :::{.callout}
  Chapter List:
 
@@ -48,7 +43,7 @@ To encourage discussion, I encouraged participants to rise above their own preco
 
 To enhance trustworthiness, I used Lincoln and Guba's criteria for trustworthiness @lincolnNaturalisticInquiry1985, which asserts that for for a study to be trustworthy, the researcher must show that the findings are credible ('true'), transferable (applicable to other contexts), dependable (consistent and repeatable), and confirmable (shaped by participants, not by the researcher's bias or motivation). I describe the techniques I used to achieve each criteria in @tbl-trust.
 
-{{< include _trust_table.qmd >}}
+{{< include /chapters/8_workshops/_table.qmd >}}
 
 We followed the eight steps recommended by Michie et al (@fig-bcw-worksheets) faithfully, with the exception of step 7 (identifying behaviour change techniques), which we modified in order to solicit input from the broader reporting guideline community (see chapter {{< var chapters.focus-groups >}}). I will now summarise each step and our discussions. I purposefully use "we" in this chapter instead of "participants" to reflect that my voice is included.
 
