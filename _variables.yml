@@ -123,7 +123,9 @@ IFs:
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
 appendices:
-  ideas_document: null
+  barriers: A
+  ideas_document: B
+  ideas: C
 chapters:
   bcw: 7
   discussion: 12
@@ -132,7 +134,7 @@ chapters:
   journal-audit: 6
   pilot: 11
   redesign: 10
-  reflexivity and context: 2
+  reflexivity-and-context: 2
   review: 4
   synthesis: 3
   web-audit: 5
@@ -141,6 +143,7 @@ counts:
   EQUATOR_ideas: TODO
   EQUATOR_meetings: 7
   EQUATOR_staff: 6
+  EQUATOR_staff_invited: 7
   academics: 2
   barriers: 32
   changes: 28
