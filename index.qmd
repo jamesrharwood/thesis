@@ -1,16 +1,3 @@
----
-title: |
-    Identifying possible improvements to reporting guideline dissemination: focus groups with guideline experts
-bibliography: references.bib
-format: 
-    docx:
-        from: markdown+grid_tables
-        reference-doc: reference.docx
-    html: 
-        theme: cosmo
-        toc: true
----
-
 # Abstract
 
 # Background

@@ -3,9 +3,10 @@ csl: springer-vancouver.csl
 filters:
   - docx-landscape.lua
 project:
-  title: "BCW-focus-groups"
+  title: "Thesis"
   output-dir: output
   execute-dir: project
+  pre-render: create_variables.py
   preview:
     port: 4200
     browser: true
@@ -19,7 +20,7 @@ format:
   docx:
       from: markdown+grid_tables
       reference-doc: reference.docx
-      toc: false
+      toc: true
       toc-depth: 2
 
 
