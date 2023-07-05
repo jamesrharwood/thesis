@@ -4,12 +4,6 @@ I have demonstrated how I have used a data-driven approach, guided by behaviour 
 
 Together, these changes amount to a complete redesign of two key parts of the existing system through which reporting guidelines are currently disseminated; the guidelines themselves, and the EQUATOR Network website which is visited by almost 1 million authors each year.
 
-### Ranking IFs
-
-One of the most interesting parts of this process was witnessing an unexpected change of opinion amongst EQUATOR staff. Before beginning this study, a common refrain heard around the office was that in order for reporting guidelines to be successful editors had to start enforcing them and refuse to publish research that didn't adhere. So it was fascinating to see that workshop participants unanimously rated restriction and coercion as their least favourite options.
-
-I think two things happened here. Firstly, having discussed the barriers that authors face when trying to use reporting guidelines, participants felt that forcing authors to use them would be unacceptable to authors, impractical for editors, and inequitable as some authors would face larger hurdles than others. Secondly, participants reassessed things they had taken for granted, and realised that there are many low-hanging fruit that could make guidelines easier to find and use, and that these fruit were growing in their own orchard.
-
 ### When comparing current intervention
 
 This reassessment required participants to take a step back and look at the current set-up with fresh eyes. We did this informally. Some participants shared long-standing frustrations with the website or guidelines. One participant shared designs she had created years ago for a redesigned EQUATOR website. Other times, after discussing a barrier or idea, we would go to the guidelines to see how things are  done currently.
