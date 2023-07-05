@@ -1,3 +1,5 @@
+# Ideas to address factors limiting reporting guideline impact: focus groups with developers, publishers, and experts
+
 {{< include _introduction.qmd >}}
 
 {{< include _methods.qmd >}}

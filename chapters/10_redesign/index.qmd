@@ -10,8 +10,9 @@ project:
         port: 4200
         browser: false
 ---
+# Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process
 
-{{< include methods.md >}}
+{{< include _methods.md >}}
  
 :::{.column-page-right}
 {{< include _table.qmd >}}
@@ -19,4 +20,4 @@ project:
 
 {{< include _figures.qmd >}}
 
-{{< include discussion.md >}}
+{{< include _discussion.md >}}
