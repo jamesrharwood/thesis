@@ -1,23 +1,11 @@
----
-format: 
-    html:
-        css:
-            styles.css
-theme: cosmo
-title: (Re)designing the intervention
-project: 
-    preview:
-        port: 4200
-        browser: false
----
 # Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process
 
-{{< include /chapters/10_redesign/_methods.md >}}
+{{< include _methods.qmd >}}
  
 :::{.column-page-right}
-{{< include /chapters/10_redesign/_table.qmd >}}
+{{< include _table.qmd >}}
 :::
 
-{{< include /chapters/10_redesign/_figures.qmd >}}
+{{< include _figures.qmd >}}
 
-{{< include /chapters/10_redesign/_discussion.md >}}
+{{< include _discussion.qmd >}}

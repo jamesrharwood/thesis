@@ -2,27 +2,93 @@ bibliography: references.bib
 csl: springer-vancouver.csl
 filters:
   - docx-landscape.lua
+crossref:
+  sec-prefix: Chapter
 project:
   title: "Thesis"
+  type: website
   output-dir: output
   execute-dir: project
-  pre-render: create_variables.py
+  # pre-render: create_variables.py
   preview:
-    port: 4200
     browser: true
     watch-inputs: true
-    navigate: true
-execute:
-  freeze: auto
+  # render:
+  #   - index.qmd
+  #   - chapters/8_workshops/index.qmd
+  #   - gantt.qmd
+format-links: [docx]
 format:
   html:
     toc: true
+    toc-depth: 4
     theme: cosmo
     smooth-scroll: true
+    downloads: [docx]
   docx:
       from: markdown+grid_tables
       reference-doc: reference.docx
       toc: true
       toc-depth: 2
-
-
+number-depth: 2
+book: 
+  title: "Thesis"
+  downloads: [docx]
+  page-navigation: true
+  chapters: 
+    - index.qmd
+    - part: "(Re)designing the intervention"
+      chapters:
+        - text: "Following the BCW guide: workshops"
+          file: chapters/8_workshops/index.qmd
+        - text: "Soliciting ideas from stakeholders: focus groups"
+          file: chapters/9_focus_groups/index.qmd
+        - text: "Developing the intervention"
+          file: chapters/10_redesign/index.qmd
+    
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Gantt chart"
+        file: gantt.qmd
+  sidebar:
+    search: true
+    contents: 
+      - text: "Abstract (todo)"
+        file: index.qmd
+      - text: "1. Background (todo)"
+        file: ""      
+      - text: "2. Reflexivity and context (todo)"
+        file: ""
+      - section: "Part 1: Identifying limiting factors"
+        contents:
+          - text: "3. Qualitative Evidence Synthesis (todo)"
+            file: ""
+          - text: "4. Survey content review (todo)"
+            file: ""
+          - text: "5. EQUATOR website audit (todo)"
+            file: ""
+          - text: "6. Journal instruction audit (todo)"
+            file: ""
+      - section: "Part 2: Designing the intervention"
+        contents:
+        - text: "8. Workshops"
+          file: chapters/8_workshops/index.qmd
+        - text: "9. Focus Groups"
+          file: chapters/9_focus_groups/index.qmd
+        - text: "10. Development"
+          file: chapters/10_redesign/index.qmd
+      - section: "Part 3: Refining the intervention"
+        contents:
+        - text: "11. Pilot (todo)"
+          file: ""
+      - text: "12. Discussion (todo)"
+        file: ""
+      - section: "Appendix"
+        contents:
+          - data/barriers.md
+          - text: "Workshop outputs (todo)"
+            file: ""
+          - data/iv_changes.md

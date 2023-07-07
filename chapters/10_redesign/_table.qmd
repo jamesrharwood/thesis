@@ -7,9 +7,7 @@
 #| echo: false
 #| output: asis
 import os
-print(os.listdir(os.path.curdir))
 import yaml
-import os
 from IPython.display import Markdown, display
 from tabulate import tabulate
 from data import BARRIERS
@@ -53,6 +51,7 @@ for key_behaviour, barriers in data.items():
                 table.add_row([desc, IF, before, now])
 print(table.draw())
 ```
+
 : Intervention Planning Table. Intervention ingredients labelled with the intervention function (INT. FN) they employ, examples of how they are (or are not) used before this redesign (Before) and, when included, within the redesigned intervention (Now). Components are grouped according to the key behaviours, barriers, and behavioural drivers that they are designed to target. {#tbl-int-plan}
 
 ::: 

@@ -1,8 +1,12 @@
-# Barriers
+# Barriers {.appendix}
 
 {{ include "../../data/barriers.md"}}
 
-# Ideas
+# Workshop outputs {.appendix}
+
+#TODO
+
+# Ideas {.appendix}
 
 {{ include "../../data/iv_changes.md"}}
 

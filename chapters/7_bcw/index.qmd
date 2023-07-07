@@ -11,3 +11,6 @@ Seeking a framework that could help me look at the system as a whole (guidelines
 <!-- #TODO: insert BCW description from transfer. -->
 
 <!-- Think about structure. Maybe focus on BCW first, and then 'other' afterwards. Others include TDF, Person Based Approach, UX stuff -->
+<!-- 
+Use https://research-information.bris.ac.uk/ws/portalfiles/portal/189192935/s40814_019_0425_6.pdf to find and consdier other approaches.  -->
+<!-- Limitations of BCW include needing to understand psychological processes.  -->

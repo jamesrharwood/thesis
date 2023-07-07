@@ -174,6 +174,7 @@ counts:
 descriptions:
   stages: before developing guidance, when developing guidance, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
   stakeholders: funders, ethics committees, institutions, publishers, equator network, guideline developers, registries, preprint servers, conference organisers, and societies
+root: true
 stages:
   creation: When writing guidance down and creating resources
   development: When developing guidance
