@@ -1,0 +1,428 @@
+# How could equator-network.org be improved? Inferences from Google Analytics data.
+
+## Abstract
+
+The UK EQUATOR Centre maintains a website to help authors find and
+access reporting guidelines. Web analytics shine a light on how well the
+website is performing and what could be done to improve it. Here we
+describe some key insights from web analytics. 1) Many users leave the
+site very quickly without interacting with it at all. 2) Guideline views
+are very heavily skewed towards the few guidelines that are featured on
+EQUATOR's home page and on journal instructions to authors. 3) Users
+access checklists more often than the full guidance, perhaps because the
+full guidance is harder to find. 4) EQUATOR could optimize their site
+for search engines. 5) EQUATOR could improve acquisition data by
+updating their links on third party websites and offline documents. 6)
+Some countries with high publication volumes are under-represented
+amongst website visitors. 7) EQUATOR could consider translating parts of
+their website to cater for a global audience.
+
+## Main Body
+
+The EQUATOR Network website \[@EQUATORNetworkEnhancing\] is an important
+resource for authors seeking reporting guidelines. Google Analytics
+\[@AnalyticsToolsSolutions\] is a service that collects anonymised
+visitor data that allows website owners to track performance and collect
+visitor insights. It can be used to assess how successfully EQUATOR's
+website is meeting one of its core goals: to help authors to find and
+use reporting guidelines.
+
+The EQUATOR website and Google Analytics account was developed and
+maintained by the UK EQUATOR Centre, but these data will be useful to
+other EQUATOR centres and particularly for guideline developers looking
+for impact metrics. We have therefore created an interactive, freely
+accessible dashboard where stakeholders can explore the data
+\[@EQUATORNetworkGoogle\]. Below we briefly summarise some observations
+that we feel have important implications for the EQUATOR Network and
+reporting guideline developers and suggest ways to improve the EQUATOR
+Network website.
+
+## Keep visitors engaged
+
+Google Analytics classified almost all users as new, which means they
+had not visited the site within the previous 2 years (the default expiry
+limit for Google Analytics cookies). Most users only visited the site
+once within 2021. Two thirds of sessions lasted less than 10 seconds,
+and over half of sessions ended without the user interacting with the
+site at all. EQUATOR's website holds users' attention for a very short
+amount of time and, currently, a large proportion of users are leaving
+the site without accessing any reporting advice.
+
+A third of sessions begin with users arriving on the home page, where
+almost half of visitors then immediately leave without interacting with
+the website. Google Analytics calls this behaviour bouncing. Many users
+arrive directly on a guideline database page. Some of these pages have
+even higher bounce rates, such as 56% for STROBE and 73% for COREQ.
+
+There are many reasons why a user may abandon a website quickly. In
+autumn 2021, the UK EQUATOR Centre added a popup survey to ask users why
+they were leaving the website. Whilst some answered that they "got what
+\[they\] were looking for," others wrote that "the site is very
+complex," "too big a mess" or that they "could not find what they
+needed." One visitor wrote that they were looking for the formatting
+instructions for their target journal, suggesting that they did not
+understand what EQUATOR was or that they were no longer on the journal's
+website. EQUATOR should continue to research why users leave these pages
+so quickly, why they don't return and how the website could be improved,
+with special attention paid to the home page and guideline pages.
+
+## Help users discover reporting guidelines besides the few that are featured
+
+EQUATOR maintains a database of reporting guidelines. Each database
+entry is viewable as a webpage that displays the name of the guideline,
+bibliographic data, meta data, and links to the associated publications
+and files. Users must navigate this page before accessing the guideline
+or checklist.
+
+There are over 500 reporting guidelines indexed in EQUATOR's database,
+but hardly any are viewed regularly. Only 13 guideline database records
+were viewed in more than 1% of visits, all of which appear in the list
+of "reporting guidelines for main study types" featured on EQUATOR's
+home page and in a side bar on all reporting guideline sub-pages. STROBE
+was the most viewed reporting guideline, with 231,207 unique page views
+in 2021. These numbers dropped rapidly: SQUIRE, the tenth most viewed
+reporting guideline record, was viewed ten times less frequently than
+STROBE. Only 65 reporting guideline pages were viewed in more than 0.1%
+of sessions.
+
+Viewership is thus heavily skewed towards the few guidelines that are
+featured on EQUATOR's home page and journal instruction to author pages.
+We expect some guidelines to be viewed more than others, but this
+distribution seems extreme and suggests that authors are not discovering
+newer or more specific guidelines that might be more applicable to their
+work.
+
+Possible solutions to this would be to make the search function more
+prominent and easier to use, and to better highlight related guidelines
+at the top guideline databases pages, checklists, and guidance articles,
+along with clear instructions of when each reporting guideline should or
+should not be used. Guideline developers should be aware that inclusion
+in EQUATOR's database does not guarantee authors will find and use their
+resources, and so should consider complementary dissemination
+strategies.
+
+## Do users access checklists, articles, or neither?
+
+Checklists are accessed more frequently than the full guidance when they
+are available (Table 3). This ratio is 15:1 for STROBE, 6:1 for CONSORT,
+and 8:1 for STARD. This is probably because EQUATOR links to checklists
+at the very top of the guideline page and links to the full guidance
+appear lower in the page and are harder to find. This has implications
+for guideline developers who should ensure that important information
+about the guideline such as its aim, scope, or how to use it, should be
+placed in the checklist, as should a link to the full guidance.
+Guideline developers should not assume that users will discover the E&E
+document before the checklist or at all.
+
+It is worth noting that many users leave the guideline reporting
+guideline database page without accessing any resources. Even if a
+visitor clicks an outbound link to the full guidance, these links
+generally take visitors to a PubMed record where they must press another
+button to access the full text. There will therefore be additional
+drop-off before visitors reach the full guidance. EQUATOR should improve
+their reporting guideline database pages to make the checklists and full
+guidance easier to discover.
+
+## Search engine optimization to catch naïve authors early in their research
+
+A third of users arrive at the site via a search engine. There are many
+ways EQUATOR could optimize their site for search engines, including
+adding metadata, mobile optimization, and taking advantage of Google
+Search's featured snippets and description features. Keyword rankings
+could also help to drive potential users to the site. For instance,
+Google Search Console is a Google product that allows website owners to
+view how their site performs in Google searches. It shows that when
+users search for "STROBE guidelines," EQUATOR's site appears at the top
+of search results and has a click through rate of 36%. However, if a
+user searches for "how to write an epidemiological report," EQUATOR
+drops to 29^th^ place with a click through rate of 0%. EQUATOR should
+ensure the site is optimized for naïve users at an early stage of
+writing who may not know guideline acronyms.
+
+## Update links on other websites to understand where users are coming from
+
+An eighth of traffic was explicitly labelled as referrals from other
+websites, most commonly Wiley and Elsevier journals and Manuscript
+Central. However, it is likely that much of the traffic from unknown
+source is also referrals from other websites. These unknown sources
+currently account for half of EQUATOR's traffic. Some of this unknown
+traffic may come from links within offline files. It is likely that a
+lot is from journal websites and submission systems that link to EQUATOR
+using links that start with *http* instead of *https*. When a secure
+website with an *https* address links to a less secure site with an
+*http* address, no referral data gets sent. EQUATOR upgraded its website
+to use *https* years ago, but other websites have continued to link
+using *http*. A campaign to have journals and submission platforms use
+*https* links would result in more correct referral data. This would
+tell EQUATOR which journals are successfully recommending reporting
+guidelines and would allow EQUATOR to infer visitors' intentions. For
+example, traffic from submission systems may signify users who have been
+asked to complete a checklist from.
+
+## Target authors from under-represented countries
+
+Over 800,000 users visited the EQUATOR website in 2021 (Table 4),
+150,000 more than the previous year, thus continuing growth seen since
+attracting 20,000 visitors in 2008. A third of users were from the
+United States or United Kingdom. Brazil accounted for the same
+proportion of users as the UK (7%) despite producing far fewer citable,
+medical documents \[@ScimagoJournalCountry\]. Conversely, China produces
+twice as many citable documents as the UK but accounts for only 5% of
+users. These numbers suggest that awareness of EQUATOR is greater in
+some counties than in others. EQUATOR should continue to run awareness
+campaigns and should prioritize countries like China which have high
+publication output but low visitor numbers.
+
+## Consider non-native English speakers
+
+Two fifths of users had their browsers set to a language other than
+English (Table 4), most frequently Portuguese, Chinese, and Spanish.
+Manually translating popular guidelines or website sections may be
+appropriate for frequent languages, but manual translations are
+expensive, difficult to update, and cannot be scaled. Automatic machine
+translation is more scalable, easy to update, and inaccuracies can be
+refined with custom glossaries and language models. EQUATOR and
+guideline developers should also use plain language to help users and
+automatic translators alike.
+
+## Limitations
+
+Google Analytics uses cookies to track users over time. If a user clears
+their cookies between visits or uses multiple devices or browsers, the
+user will appear as multiple users. Cookies expire after 2 years by
+default. The proportion of new vs. returning users is thus an
+overestimation but, nevertheless, is still high.
+
+Although we discuss bounce rates here it is difficult to know what a
+"good" bounce rate would be. E-Commerce websites may hope for a bounce
+rate of around 40%, but newspapers may consider 70% to be good. What is
+important is that EQUATOR now has a baseline against which to measure
+improvement. Ultimately, numbers can only tell you so much. Counting
+bounces is useful, but only qualitative research will explain *why*
+users bounce from the EQUATOR website with the frequency that they do.
+
+## [TODO]{.mark} Definitions
+
+User
+
+Visitor
+
+Session
+
+Bounce
+
+Bounce Rate
+
+STROBE
+
+PRISMA
+
+CONSORT
+
+STARD
+
+SQUIRE
+
+E&E
+
+Google Analytics
+
+Google Search Console
+
+### Table 1 Session information for EQUATOR-Network.org for the year 2021. A session is defined as group of user interactions that take place within a given time frame. If a user visited the site twice within a year, then that would appear as two sessions. A session ends after 30 minutes of inactivity. 
+
+  ------------------------------------------------------------------------
+                                                   Number        Percent
+  ------------------------------------------------ ------------- ---------
+  Number of sessions                               1,209,420     
+
+  Mean number of sessions per user                 1.5           
+
+  Number of sessions originating from...                         
+
+  a referral from another website                  142,158       12%
+
+  a search engine                                  417,671       35%
+
+  unknown sources                                  590,659       49%
+
+  Number of sessions lasting...                                  
+
+  \< 10s                                           760,967       63%
+
+  \< 1 min                                         908,516       75%
+
+  Number of pages viewed within a session                        
+
+  0                                                1,451         0%
+
+  1                                                676,670       56%
+
+  2                                                223,864       19%
+
+  3                                                81,878        7%
+
+  4 or more                                        225,557       19%
+
+  Number of sessions ending without interaction    648,370       54%
+
+  Number of sessions including views of...                       
+
+  reporting guidelines                             605,570       50%
+
+  landing page                                     411,429       34%
+
+  library                                          83,238        7%
+
+  toolkits                                         15,574        1%
+
+  study design info                                15,268        1%
+
+  (All other categories of content were viewed in                
+  less than 1% of sessions)                                      
+  ------------------------------------------------------------------------
+
+### Table 2 Pages where visitors began their session and their bounce rates between 1st of January and 1st of July 2022. Bounces are sessions where a visitor leaves without interacting with the website at all. 
+
+  ------------------------------------------------------------------------
+  Page               Sessions           \% Sessions     Bounce Rate
+  ------------------ ------------------ --------------- ------------------
+  All pages          602,921            100%            53%
+
+  Home page          218,260            36%             45%
+
+  STROBE             68,274             11%             56%
+
+  PRISMA             29,398             5%              60%
+
+  Reporting          27,122             4%              4**0%**
+  guidelines                                            
+
+  CONSORT            24,615             4%              55**%**
+
+  COREQ              19,962             3%              73**%**
+
+  STARD              19,316             3%              57**%**
+
+  SRQR               12,039             2%              65**%**
+
+  CARE               10,759             2%              56**%**
+
+  TRIPOD             10,342             2%              58**%**
+  ------------------------------------------------------------------------
+
+### Table 3 How frequently reporting guideline pages were viewed and resources accessed between the 1^st^ of January 2022 -- 1^st^ of July 2022. Outbound links were mainly links to publications and files were mainly checklists, but a few guidelines also have flow diagrams which were rarely downloaded. The ten most accessed guidelines are shown.
+
+  -------------------------------------------------------------------------
+  Reporting     Sessions                Users that        Users that
+  Guideline     where                   accessed an       accessed a
+                database page           outbound link     checklist
+                was viewed                                
+  ------------- ------------- --------- ----------------- -----------------
+  STROBE                      110,910   2,502             38,780
+
+  PRISMA                      50,146    17,240            15,522
+
+  CONSORT                     45,832    2,465             13,862
+
+  COREQ                       30,487    11,152            \-
+
+  STARD                       27,301    987               7,803
+
+  SRQR                        26,132    10,035            \-
+
+  CARE                        21,892    8,761             8,350
+
+  TRIPOD                      15,240    4,678             3,960
+
+  SPIRIT                      11,108    3,985             3,244
+
+  SQUIRE                      11,061    1,022             3,061
+  -------------------------------------------------------------------------
+
+### Table 4 Google Analytics data for equator-network.org for the year 2021. 
+
+  ------------------------------------------------------------------------
+                                                   Number        Percent
+  ------------------------------------------------ ------------- ---------
+  Number of users                                  830,134       
+
+  Number of users who had not visited before       823,087       99%
+
+  Country (top 10)                                               
+
+  United States                                    195,217       24%
+
+  United Kingdom                                   61,292        7%
+
+  Brazil                                           55,894        7%
+
+  China                                            41,628        5%
+
+  India                                            41,196        5%
+
+  Australia                                        30,647        4%
+
+  Canada                                           29,620        4%
+
+  Netherlands                                      25,426        3%
+
+  Germany                                          24,561        3%
+
+  Spain                                            23,020        3%
+
+  Language (top 10)                                              
+
+  English (United States)                          371,331       45%
+
+  English (Great Britain)                          86,580        10%
+
+  Portuguese (Brazil)                              50,172        6%
+
+  Chinese                                          42,951        5%
+
+  Spanish                                          36,204        4%
+
+  French                                           14,708        2%
+
+  Dutch                                            14,331        2%
+
+  Spanish (Latin America and Caribbean)            14,259        2%
+
+  Japanese                                         13,381        2%
+
+  German                                           12,460        2%
+
+  Users whose browsers are set to English\*        498,286       60%
+
+  Number of sessions that users made within the                  
+  time window                                                    
+
+  1 or more sessions                               818,512       99%
+
+  2 or more sessions                               176,570       21%
+
+  \> 3 sessions                                    72,886        9%
+
+                                                                 
+
+                                                                 
+
+                                                                 
+
+                                                                 
+  ------------------------------------------------------------------------
+
+\* Includes 105 English locales like United States, India, Ireland etc.
+
+# References
+
+{\"Analytics Tools & Solutions for Your Business -- Google Analytics\",
+n.d.}
+
+{\"Scimago Journal & Country Rank\", n.d.}
+
+{\"The EQUATOR Network \| Enhancing the QUAlity and Transparency Of
+Health Research\", n.d.}
+
+{\"The EQUATOR Network Google Analytics\", n.d.}

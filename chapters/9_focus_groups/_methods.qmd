@@ -8,7 +8,7 @@ Before describing my workshop and focus group methods in detail, I will briefly 
 
 I described the workshops I ran with EQUATOR in chapter {{< chapters.workshops >}}, including the techniques I used to encourage rich discussion and to navigate my position as a participating researcher, contributing ideas myself whilst facilitating others' to share their voices. For this particular step, we went through intervention functions in turn and considered ideas that would employ that function. 
 
-After the workshop, I then labelled each idea with the influence(s) it would be addressed. The result was an "ideas document" with two columns: influences were described in the left hand column, and ideas of possible changes in the right hand column. I then invited workshop participants to review and comment on this document. The file can be seen in Appendix {{ var appendices.ideas_document }}. 
+After the workshop, I then labelled each idea with the influence(s) it would be addressed to create an "ideas document" with two columns: influences were described in the left hand column, and ideas of possible changes in the right hand column. I invited workshop participants to review and comment on this document. The file can be seen in Appendix {{ var appendices.ideas_document }}. 
 
 ## Focus groups with external stakeholders
 
@@ -55,7 +55,7 @@ To facilitate discussion, I would ask open ended questions, often drawing on int
 Once participants had discussed all of their own ideas, I would reveal the ideas identified by previous groups by changing the colour of text from white to black. Participants could then edit and extend the text until it reflected all of their thoughts too. Ideas were never removed from the document, but participants could add concerns or disagreements if they wanted to. 
 
 After each focus groups I made notes on how the session went and reflected on what I could have done differently. I made a copy of the ideas document and then turned the text in the ideas column white again, ready for the next group. Taking copies after each group created a paper trail of how the document had evolved after each session, and counted the number of additions so that I could monitor how many new ideas had been added and, therefore, whether I could stop data collection. 
-<!-- #ASK: CA. Do I need to report the number of added ideas from each group? -->
+<!-- #STRETCH: CA. Do I need to report the number of added ideas from each group? -->
 
 ### Data processing and analysis
 
@@ -65,16 +65,15 @@ I imported the final ideas document into NVivo and applied descriptive codes to 
 
 I used qualitative description for my analysis (@bradshawEmployingQualitativeDescription2017; @kimCharacteristicsQualitativeDescriptive2017), which involved aggregating and summarising ideas. I did not interpret data as doing so would erase the views captured during co-production. I grouped ideas inductively in ways that felt cohesive and made the results easy for my intended audience (the reporting guideline community) to understand and act upon. For example, I aggregated "ask authors to cite reporting guidelines" and "display citation metrics on reporting guideline resources" into a group about "Citations", even though they target different barriers (discoverability and perceived trustworthiness) and employ different intervention functions (education and persuasion). 
 <!-- # TODO: ensure wording matches results. -->
+
 I discussed and refined my coding, aggregating and summarising with JdB. I sent the aggregated, summarised ideas to focus group participants and EQUATOR members, inviting them to add more ideas and to check that it reflected their ideas faithfully. I also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
 
 
 ## Reflexivity & Trust
 
-Whereas positivism refers to an objective reality that can be mathematically interpreted and aims to eliminate subjectivity, post-positivists acknowledge that observation is fallible, reality is subjective, and that context and values are necessary to make sense of human experience. My research paradigm was post-positivist, in that I considered that ideas were "out there", but that differences in context, experience, and opinion would affect what I (and participants) observed, understood, and concluded.
-<!-- #ASK CA: why was I not constructivist? Constructivists believe that interactions between people / actions are important.  -->
-Subjectivity is a strength - why am I best placed. Could have come with bias so we did xyz.
+In chapter {{< var chapters.workshops >}} I described my active role within my workshops with EQUATOR. When running focus groups with external stakeholders, I tried to remain more objective and capture the perspectives of participants without influencing them. My research paradigm for the focus groups was post-positivist, in that I considered that ideas were "out there", but that differences in context, experience, and opinion would affect what I (and participants) observed, understood, and concluded.
 
-Having acknowledged this subjectivity, it was important to mitigate against it so that my results could be trusted. Lincoln and Guba @lincolnNaturalisticInquiry1985 argue that for a study to be trustworthy, the researcher must show that the findings are credible ('true'), transferable (applicable to other contexts), dependable (consistent and repeatable), and confirmable (shaped by participants, not by the researcher's bias or motivation). Lincon and Guba propose a number of techniques to achieve these criteria, and I describe the techniques I used in @tbl-trust.
+Whereas I argued in chapter {{< var chapters.workshop >}} that my subjectivity was an asset within the workshops, I still wanted to ensure that my results could be a trusted as an account of all participants' views. Lincoln and Guba @lincolnNaturalisticInquiry1985 argue that for a study to be trustworthy, the researcher must show that the findings are credible ('true'), transferable (applicable to other contexts), dependable (consistent and repeatable), and confirmable (shaped by participants, not by the researcher's bias or motivation). Lincon and Guba propose a number of techniques to achieve these criteria, and I describe the techniques I used in @tbl-trust.
 
 {{< include _table.qmd >}}
 

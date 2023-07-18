@@ -56,7 +56,7 @@ changes_section_titles = {c.id: c.title.lower().replace(' ', '-') for c in CHANG
 barriers = {b.id: b.title for b in BARRIERS}
 barrier_sections = {b.id: b.title.lower().replace(' ', '-') for b in BARRIERS}
 
-with open('chapters.txt', 'r') as file_:
+with open('scripts/chapters.txt', 'r') as file_:
     chapters = file_.readlines()
     chapters = {
         chapter.strip(): idx+1 for idx, chapter in enumerate(chapters)

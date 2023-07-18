@@ -1,30 +1,46 @@
 # Methods
 
-## Qualitative approach and research paradigm
+My objective was to refine the website by identifying parts that may not be functioning as I had intended them to. 
+
+```
+Choosing a guideline
+
+* Editing a guideline was time consuming
+* Not possible nor necessary to do all, only needed one
+* SRQR was good choice because general = large sampling pool, used by academics and non-academics, I was familiar with it
+```
+
+#TODO: ## Qualitative approach and research paradigm
 <!-- Qualitative approach (e.g., ethnography, grounded theory, case study, phenomenology, narrative research) and guiding theory if appropriate; identifying the research paradigm (e.g., postpositivist, constructivist/ interpretivist) is also recommended; rationale** -->
-We took a postpositivist, active research approach, whereby we expected all participants to have some negative responses to the intervention with only partial overlap with each other, and we acknowledged that our backgrounds and bias would affect how we interpreted those responses.
 
-## Researcher characteristics and reflexivity
+#TODO: ## Researcher characteristics and reflexivity
 <!-- Researchers’ characteristics that may influence the research, including personal attributes, qualifications/experience, relationship with participants, assumptions, and/or presuppositions; potential or actual interaction between researchers’ characteristics and the research questions, approach, methods, results, and/or transferability -->
-
-## Context
-<!-- Setting/site and salient contextual factors; rationale** -->
-Interviews took place online. Participants interacted with the website from within their own home or office, using their own computer. This was convenient and also meant we may detect problems with the website rendering on different browsers, screen sizes, and internet connections.
 
 ## Sampling strategy
 <!-- How and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary (e.g., sampling saturation); rationale** -->
-We used purposive sampling, seeking participants that were all (#TODO: doing qualitative research?) but varied in their experience (years doing research), workplace (academia, industry, clinician etc.), english proficiency, geographic location, and stage of writing (drafting vs editing). We chose these (#TODO dimensions) as our previous work identified the barriers encountered differed between these groups. We were prepared to do additional sampling should we discover other dimensions of importance during data collection.
+To be eligible, participants had to be actively engaged in qualitative research and be able to attend an online interview conducted in English. I used purposive sampling, seeking participants that were all doing qualitative research but varied in their experience (years doing research), workplace (academia, industry, clinician etc.), geographic location, and stage of writing (drafting vs editing). I chose these dimensions as my previous work identified that different groups of people encounter different barriers. I was prepared to do additional sampling should I discover other dimensions of importance during data collection. Participants were offered £50 as remuneration for their time as a bank transfer (or Amazon voucher for UK participants).
 
-We used information power to guide our initial sample size. We considered our aim to narrow and sample to be specific but with adequate variation. Our intervention was based on behaviour change theory, we expected our methods to provide ample opportunities for deep discussion. For these reasons, we felt confident recruiting and initial sample of 10 participants. We decided to stop sampling when a) we had not identified any additional dimensions of importance and b) #ASK: once 3 participants in a row elicited fewer than 3 additional problem areas.
+I used information power to guide my initial sample size (see chapter {{< var chapters.focus-groups >}} for an introduction to information power). I considered my aim to be narrow and sample to be specific but with adequate variation. My intervention and analysis was based on a behaviour change framework, and I expected my methods to provide ample opportunities for deep discussion. For these reasons, I felt confident that 10 participants would provide adequate information power whilst also being manageable within the time limit of my DPhil. 
 
-<!-- # DECIDE: remuneration -->
+I recruited participants by a) posting adverts on Twitter which were retweeted by the EQUATOR Network and AuthorAid @AuthorAIDHome (a network for researchers from low and middle income countries); b) emails forwarded by AuthorAid, the African Research Integrity Network @ARINHomePage and 101 Health Research @101HealthResearch (a publication service provider based in the Philippines); and c) a notification to authors using Penelope.ai @PenelopeAi, a free manuscript checking tool used by medical journals.
 
-## Ethical issues pertaining to human subjects
-<!-- Documentation of approval by an appropriate ethics review board and participant consent, or explanation for lack thereof; other confidentiality and data security issues -->
-The study was approved by the Medical Sciences Interdivisional Research Ethics Committee at Oxford University. Participants gave informed consent via a web-form.
 
 ## Data collection methods
 <!-- Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings; rationale** -->
+Defining intervention components by their target barriers and intervention functions lends itself nicely to designing a pilot study to gather feedback. Because I knew what each component was supposed to be _doing_ I could design an interview schedule with questions and tasks to specifically explore intervention functions. 
+
+My interview schedule had 4 parts:
+ 
+1. 5 second test
+2. Think Aloud + Interview
+3. Writing task (at home)
+4. Writing review + interview
+
+## 5 Second Test
+
+GOT TO HERE
+
+~For example, the purpose of the top of the home page is to communicate what reporting guidelines are and how they benefit authors. Instead of asking general questions (like "what do you think of...?"), I decided to ask more specific questions ("What do you think the website is about? How do you think it might influence your work?"). Furthermore, because the purpose was to communicate these things _quickly_, I decided to only give pilot participants 5s before asking these questions.~ Similarly, defining components in this way will facilitate future quantitative work to assess efficacy.
 
 ### Demographics questionnaire
 
@@ -75,7 +91,7 @@ Finally, we asked the participants again for their opinions on the website and g
 ## Data collection instruments and technologies
 
 <!-- Description of instruments (e.g., interview guides, questionnaires) and devices (e.g., audio recorders) used for data collection; if/how the instrument(s) changed over the course of the study -->
-Interviews were conducted over Zoom, using its in-built video and audio recording. We created interview schedules (#REF) and piloted them amongst students in the department. The version of the website tested can be viewed at (#REF).
+Interviews were conducted over Microsoft Teams, using its in-built video and audio recording. We created interview schedules (#REF) and piloted them amongst students in the department. The version of the website tested can be viewed at (#REF).
 
 ## Units of study
 
@@ -99,3 +115,8 @@ We coded positive and negative experiences and grouped them by intervention comp
 * Double checking of coding
 * Member checking
 * Triangulation? Read the paper Charlotte recommended. Perhaps it is about mixed method studies? Perhaps that means I could count errors / number of people that did a task successfully? [https://www.bmj.com/bmj/section-pdf/186156?path=/bmj/341/7783/Research_Methods_Reporting.full.pdf]
+
+
+## Ethical issues pertaining to human subjects
+<!-- Documentation of approval by an appropriate ethics review board and participant consent, or explanation for lack thereof; other confidentiality and data security issues -->
+The study was approved by the Medical Sciences Interdivisional Research Ethics Committee at Oxford University. Participants gave informed consent via a web-form.

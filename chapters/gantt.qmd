@@ -1,0 +1,215 @@
+---
+title: Project Timeline
+subtitle: A page to punish myself with missed deadlines
+format: html
+---
+
+## July 16th
+
+```{mermaid}
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat %-m/%-y
+    title       
+    %% excludes    weekends
+    todayMarker on
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+    section 3. Thematic synthesis
+    Article written    :milestone, done, 2022-12-01, 0d
+    Revise                       :active, ThemSyn, after BCWDraft, 2w
+
+    section 4. Survey review
+    Article written    :milestone, done, 2022-12-01, 0d
+    Revise                       :active, SurveyRev, after BCWDraft, 2w
+
+    section 5. Website review
+    Data analysed & described           :milestone, done, 2022-12-01, 0d
+    Revise                       :active, WebsiteRev, after BCWDraft, 2w
+
+    section 6. Audit
+    Data analysed                       :active, crit, AuditAnalysis, 2022-12-01, 2w
+    Write chapter                       :active, crit, AuditDraft, after AuditAnalysis, 3w
+
+    section 7. BCW 
+    Draft   :done, BCWDraft, 2023-07-01, 17d
+
+    section 8. Workshops
+    Draft   :done, Workshops, 2023-06-14, 4w
+
+    section 9. Focus groups
+    Draft   :done, FocusGroups, 2023-01-04, 6w
+    Revision 1 :done, FocusGroupsRevision, 2023-05-14, 8w
+
+    section 4. Design intervention
+    Beta-version                        :milestone, done, DesignBeta, 2023-02-28, 0d
+    Draft                       :done, DesignDraft, 2023-03-25, 16w
+
+    section 5. Refining intervention
+    Collect data                        :active, PilotData, 2023-04-03, 2023-08-01
+    Analyse data                        :active, PilotAnalysis, after PilotData, 30d
+    Draft                       :active, PilotDraft, after PilotAnalysis, 4w     
+
+    section Introduction
+    Draft                      :active, IntroDraft, after ThemSyn, 30d
+
+    section Discussion
+    Draft                      :active, DiscussionDraft, after ThemSyn, 30d
+
+    section Reflexivity & Context
+    Draft                      :active, ReflexivityDraft, after ThemSyn, 30d
+
+    section Abstract, Appendices, etc., 
+    Draft :active, OtherDraft, after DiscussionDraft, 2w
+
+    section Milestones
+    Complete draft     :milestone, active, CompleteDraft, after OtherDraft, 
+    Revisions   :active, Revisions, after CompleteDraft, 16w
+    Submit thesis          :milestone, active, Submit, after Revisions, 0d
+```
+
+## Feb 1st
+
+```{mermaid}
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat %-m/%-y
+    title       
+    %% excludes    weekends
+    todayMarker off
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+    section 2a. Thematic synthesis
+    Data analysed, article submitted    :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, ThemSyn, after DesignDraft, 3w
+
+    section 2b. Survey review
+    Data analysed, article submitted    :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, SurveyRev, after ThemSyn, 3w
+
+    section 2c. Website review
+    Data analysed & described           :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, WebsiteRev, after SurveyRev, 3w
+
+    section 2d. Audit
+    Data analysed                       :active, crit, AuditAnalysis, 2022-12-01, 2w
+    Write chapter                       :active, crit, AuditDraft, after AuditAnalysis, 3w
+
+    section 3. Focus groups
+    Methods & results written           :milestone, done, 2022-12-01, 0d
+    Write Chapter                       :active, crit, FocusGroups, 2023-01-05, 4w
+
+    section 4. Design intervention
+    Beta-version                        :active, crit, DesignBeta, 2022-12-01, 13w
+    Write chapter                       :active, DesignDraft, after FocusGroups, 4w
+
+    section 5. Refining intervention
+    Protocol                            :milestone, done, 2022-12-01, 0d
+    Collect data                        :active, PilotData, after DesignBeta, 12w
+    Analyse data                        :active, PilotAnalysis, after PilotData, 21d
+    Write chapter                       :active, PilotDraft, after PilotAnalysis, 4w     
+
+    section Intro & Discussion
+    Write chapters                      :active, after PilotDraft, 42d
+
+    section Milestones
+    Outline                             :milestone, done,   2022-11-01, 0d
+    Confirmation                        :milestone, crit, 2023-01-23, 0d
+    Submit thesis                       :milestone, active, 2023-09-01, 0d
+```
+
+
+## Dec 1st
+```{mermaid}
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat %-m/%-y
+    title       
+    %% excludes    weekends
+    todayMarker off
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+    section 2a. Thematic synthesis
+    Data analysed, article submitted    :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, ThemSyn, after DesignDraft, 3w
+
+    section 2b. Survey review
+    Data analysed, article submitted    :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, SurveyRev, after ThemSyn, 3w
+
+    section 2c. Website review
+    Data analysed & described           :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, WebsiteRev, after SurveyRev, 3w
+
+    section 2d. Audit
+    Data analysed                       :active, AuditAnalysis, 2022-12-01, 2w
+    Write chapter                       :active, AuditDraft, after AuditAnalysis, 3w
+
+    section 3. Focus groups
+    Methods & results written           :milestone, done, 2022-12-01, 0d
+    Write Chapter                       :active, FocusGroups, 2023-01-05, 3w
+
+    section 4. Design intervention
+    Beta-version developed              :active, DesignBeta, 2022-12-01, 5w
+    Write chapter                       :active, DesignDraft, after FocusGroups, 4w
+
+    section 5. Refining intervention
+    Protocol                            :milestone, done, 2022-12-01, 0d
+    Collect data                        :active, PilotData, 2023-01-05, 12w
+    Analyse data                        :active, PilotAnalysis, after PilotData, 21d
+    Write chapter                       :active, PilotDraft, after PilotAnalysis, 4w     
+
+    section Intro & Discussion
+    Write chapters                      :active, after PilotDraft, 42d
+
+    section Milestones
+    Outline                             :milestone, done,   2022-11-01, 0d
+    Confirmation                        :milestone, crit, 2023-01-23, 0d
+    Submit thesis                       :milestone, active, 2023-09-01, 0d
+```
+
+## Original 
+
+```{mermaid}
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat %-m/%-y
+    title       
+    %% excludes    weekends
+    todayMarker off
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+    section 2a. Thematic synthesis
+    Data analysed, article submitted    :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, ThemSyn, after s4, 3w
+
+    section 2b. Survey review
+    Data analysed, article submitted    :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, SurveyRev, after ThemSyn, 3w
+
+    section 2c. Website review
+    Data analysed & described           :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, WebsiteRev, after SurveyRev, 3w
+
+    section 2d. Audit
+    Data analysed                       :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, s2d, 2022-12-01, 3w
+
+    section 3. Focus groups
+    Methods & results written           :milestone, done, 2022-12-01, 0d
+    Write Chapter                       :active, FocusGroups, 2023-01-05, 3w
+
+    section 4. Design intervention
+    Beta-version developed              :milestone, done, 2022-12-01, 0d
+    Write chapter                       :active, s4, after FocusGroups, 4w
+
+    section 5. Refining intervention
+    Protocol                            :milestone, done, 2022-12-01, 0d
+    Collect data                        :active, PilotData, 2023-01-05, 12w
+    Analyse data                        :active, PilotAnalysis, after PilotData, 21d
+    Write chapter                       :active, PilotDraft, after PilotAnalysis, 4w     
+
+    section Intro & Discussion
+    Write chapters                      :active, after PilotDraft, 42d
+
+    section Milestones
+    Outline                             :milestone, done,   2022-11-01, 0d
+    Confirmation                        :milestone, crit, 2023-01-23, 0d
+    Submit thesis                       :milestone, active, 2023-09-01, 0d
+```

@@ -4,4 +4,6 @@
 
 {{< include /chapters/11_pilot/_methods.qmd >}}
 
+{{< include /chapters/11_pilot/_results.qmd >}}
+
 {{< include /chapters/11_pilot/_discussion.qmd >}}

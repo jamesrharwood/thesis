@@ -1,22 +1,3 @@
-:::{.callout}
- Chapter List:
-
-* Introduction
-* Reflexivity and context
-* Identifying factors that may limit the impact of Reporting Guidelines:
-   * Synthesis
-   * Review
-   * Web-audit
-   * Journal-audit
-* (Re)designing the intervention
-    * The Behaviour Change Wheel (where I introduce the behaviour change wheel, COM-B, intervention functions, policy categories. I end by introducing the behaviour change wheel _book_ "The Behaviour Change Wheel - A Guide to Designing Interventions)
-    * **Workshops with EQUATOR staff** (This Chapter)
-    * Focus-groups with stakeholders
-    * Developing the intervention
-* Pilot
-* Discussion
-:::
-
 # Following the BCW Guide: Workshops with EQUATOR
 
 ##  Introduction
@@ -129,13 +110,19 @@ The aim of step 7 is to identify possible behaviour change techniques by systema
     * Required understanding and familiarity with BCTs
     * Takes a lot of time (Could cite https://research-information.bris.ac.uk/ws/portalfiles/portal/189192935/s40814_019_0425_6.pdf or @carvalhoParticipatoryDesignBehaviour2020)
 
-In the original BCW paper, Michie writes that "The process of designing behaviour change interventions usually involves first of all determining the broad approach that will be adopted and then working on the specifics of the intervention design. For example, when attempting to reduce excessive antibiotic prescribing one may decide that an educational intervention is the appropriate approach. Alternatively, one may seek to incentivise appropriate prescribing or in some way penalise inappropriate prescribing. Once one has done this, one would decide on the specific intervention components. ". But in our case this wasn't really true. We were already constrained (imanitation wise and practicality wise) but a system that already exists and what parts of that system we could control. Instead of picking a particular "broad approach", we found ourselves considering how we could refine the existing system to utilize multiple approaches. Hence we were immediately (and naturally) talking about intervention components.  Instead, I asked EQUATOR staff to brainstorm ideas more loosely for each intervention function without worrying about a taxonomy. This "ideas generation" step was also an opportunity to solicit feedback from the broader reporting guideline community, which I describe fully in chapter {{< var chapters.focus-groups >}}. My workshops with EQUATOR generated {{< var counts.EQUATOR_ideas >}} which grew to {{< var counts.sub_items_pre_jh >}} ideas after input from stakeholders.
+In the original BCW paper, Michie writes that "The process of designing behaviour change interventions usually involves first of all determining the broad approach that will be adopted and then working on the specifics of the intervention design. For example, when attempting to reduce excessive antibiotic prescribing one may decide that an educational intervention is the appropriate approach. Alternatively, one may seek to incentivise appropriate prescribing or in some way penalise inappropriate prescribing. Once one has done this, one would decide on the specific intervention components. ". But in our case, picking a "broad approach" didn't feel helpful. Given that a system already exists for disseminating reporting guidance, and given that EQUATOR can only control a part of that system, we found ourselves considering how we could use multiple approaches to refine the existing system. Hence we were immediately (and naturally) talking about intervention components. 
 
-I then worked "backwards" to identify what BCTs these components were using. I then performed the step "forwards", as initially intended by Michie et al., by taking IFs in turn, considering all BCTs and especially those not already used in any existing ideas. I added {{< var  counts.jh_ideas >}} extra ideas that occurred to me during this systematic step, leading to {{< var.counts.sub_items >}} in total.
+Consequently, instead of asking EQUATOR staff to consider the behaviour change taxonomy for a single intervention function, I asked them to brainstorm ideas more loosely for each intervention function without worrying about a taxonomy. This "ideas generation" step was also an opportunity to solicit feedback from the broader reporting guideline community, which I describe fully in chapter {{< var chapters.focus-groups >}}. My workshops with EQUATOR generated {{< var counts.EQUATOR_ideas >}} which grew to {{< var counts.sub_items_pre_jh >}} ideas after input from stakeholders.
+
+I then worked "backwards" to identify what BCTs these components were using. See @fig-bcw-stages-modified for how this extra "ideas generation" step fitted into Michie et al's recommended guide. I then performed the step "forwards", as initially intended by Michie et al., by taking IFs in turn, considering all BCTs and especially those not already used in any existing ideas. I added {{< var  counts.jh_ideas >}} extra ideas that occurred to me during this systematic step, leading to {{< var.counts.sub_items >}} in total. 
+
+![I added an extra step into Michie et al's recommended approach to designing interventions. This step drew on the outcomes of steps 4 and 5 and fed into step 7. I report it fully in chapter {{< var chapters.focus-groups >}}](../8_workshops/bcw-stages-modified.png){#fig-bcw-stages-modified}
+
+#TODO: Decide whether to move the intervention component table to here, or whether to add a different table here. Perhaps just 3 cols. Intervention Function; Behaviour Change Technique; Idea? Could label where these ideas came from - workshops / focus groups / me. Or just two columns - IF and BCT. 
 
 #TODO: I might want to strip out "delivery options" from the ideas table as they cannot be labelled with a BCT.
 
-#TODO: Decide whether to move the intervention component table to here, or whether to add a different table here. Perhaps just 3 cols. Intervention Function; Behaviour Change Technique; Idea? Could label where these ideas came from - workshops / focus groups / me. 
+
 
 ### 8. Identifying delivery options
 

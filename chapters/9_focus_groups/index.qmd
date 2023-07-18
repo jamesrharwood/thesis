@@ -1,4 +1,4 @@
-# Ideas to address factors limiting reporting guideline impact: focus groups with developers, publishers, and experts
+# Generating ideas to address factors limiting reporting guideline impact: workshops with EQUATOR and focus groups with developers, publishers, and experts
 
 {{< include _introduction.qmd >}}
 

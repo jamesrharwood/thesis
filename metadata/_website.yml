@@ -1,0 +1,47 @@
+website:
+  navbar:
+    background: light
+    foreground: primary
+    search: true
+    left:
+      - text: "Timeline"
+        file: chapters/gantt.qmd
+  sidebar:
+    search: true
+    contents: 
+      - text: "Abstract*"
+        file: chapters/index.qmd
+      - text: "1. Background*"
+        file: ""      
+      - text: "2. Reflexivity and context*"
+        file: ""
+      - text: "<b>Part 1: Identifying influences</b>"
+        file: ""
+      - text: "3. Qualitative Evidence Synthesis*"
+        file: "chapters/3_synthesis/index.qmd"
+      - text: "4. Survey content review*"
+        file: "chapters/4_survey_content/index.qmd"
+      - text: "5. EQUATOR website audit"
+        file: "chapters/5_website_audit/index.qmd"
+      - text: "6. Journal instruction audit*"
+        file: ""
+      - text: "<b>Part 2: Designing the intervention</b>"
+        file: ""
+      - text: "7. The Behaviour Change Wheel"
+        file: chapters/7_bcw/index.qmd
+      - text: "8. Workshops"
+        file: chapters/8_workshops/index.qmd
+      - text: "9. Focus Groups"
+        file: chapters/9_focus_groups/index.qmd
+      - text: "10. Development"
+        file: chapters/10_redesign/index.qmd
+      - text: "11. Pilot"
+        file: chapters/11_pilot/index.qmd
+      - text: "12. Discussion (todo)"
+        file: ""
+      - section: "Appendix"
+        contents:
+          - data/barriers.md
+          - text: "Workshop outputs (todo)"
+            file: ""
+          - data/iv_changes.md

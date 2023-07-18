@@ -1,0 +1,1958 @@
+---
+title: "What facilitators and barriers might researchers encounter when
+  using reporting guidelines? Part 1: A thematic synthesis"
+---
+
+## Authors
+
+James Harwood^1^, Charlotte V A Albury^2^, Jennifer Anne de Beyer^1^,
+Zhaoxiang Bian^3^, Yuting Duan^3^, Shona Kirtley^1^, Michael
+Schlussel^1^, Lingyun Zhao^3^, Gary S Collins^1,^
+
+Corresponding author: James Harwood, <james.harwood@stx.ox.ac.uk>
+
+^1^UK EQUATOR Centre, Centre for Statistics in Medicine, Nuffield
+Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences,
+University of Oxford, Headington, Oxford, OX3 7LD.
+
+^2^Nuffield Department of Primary Care Health Sciences, University of
+Oxford, Headington, Oxford, OX3 7LD.
+
+^3^Chinese EQUATOR Centre, 307 Room, 3/F, Jockey Club School of Chinese
+Medicine Building, School of Chinese Medicine, Hong Kong Baptist
+University, 7 Baptist University Road, Kowloon Tong, Hong Kong SAR,
+China.
+
+# Abstract
+
+# Background
+
+Despite endorsement by medical journals, reporting guidelines have only
+modestly affected reporting quality. We aimed to identify facilitators
+and barriers that researchers might encounter when using reporting
+guidelines.
+
+# Methods
+
+We searched MEDLINE, Embase, PsychINFO, AMED, WHO Global Index Medicus,
+SciELO, Chinese Biomedical Literature Database, China National Knowledge
+Infrastructure, Wanfang Data, VIP Chinese Medical Journal Database, OSF,
+and MiRoR for research that collected qualitative data to explore
+researchers' experiences of using reporting guidelines, published after
+1996 in English, Chinese, Spanish, or Portuguese. We appraised studies
+using CASP-Qual. For thematic synthesis, we applied descriptive codes to
+all sentences that reported qualitative findings, then aggregated codes
+inductively into descriptive themes that captured the codes' meaning. We
+interpreted and contextualised possible facilitators and barriers from
+these descriptive themes to create analytic themes.
+
+# Results
+
+From 18 eligible studies, we developed 12 analytic themes.
+
+# Discussion
+
+Few reporting guidelines have been evaluated qualitatively. Many studies
+used surveys which resulted in thin data and were subject to recall
+bias. Nevertheless, we identified many potential barriers and
+facilitators. Our findings will help guideline developers and advocates
+improve reporting guidance dissemination.
+
+# Keywords
+
+EQUATOR Network, STROBE, PRISMA, CARE, CONSORT, COREQ, TRIPOD, SRQR,
+STARD, SPIRIT, SQUIRE, MDAR, medical writing; medical research;
+usability
+
+#  
+
+# Background
+
+Reporting guidelines reduce research waste by detailing the minimum
+information needed in a research paper to understand, repeat, or
+synthesise a study. There are hundreds of reporting guidelines indexed
+on the EQUATOR Network website(1). Even though many medical journals
+endorse the use of reporting guidelines(2), reporting completeness
+remains poor in many fields(3,4).
+
+One reason for this continuing poor reporting quality may be that
+researchers encounter barriers when trying to use reporting guidelines.
+Barriers and facilitators could come from any part of the system through
+which reporting guidelines are disseminated, including the guidance
+itself (typically published in an academic article), tools (e.g.,
+checklists), websites (e.g., journal instructions, the EQUATOR Network
+website, guideline-specific websites), and the behaviour of others
+(e.g., editors, peer reviewers, co-authors, colleagues).
+
+Before conducting this review, we were aware of previous research that
+sought researchers' feedback as part of the development(5,6) or
+evaluation(7,8) of a particular reporting guideline document or
+checklist. We were not aware of any studies that looked at the
+dissemination of reporting guidelines *in general*. Because reporting
+guidelines are generally disseminated in similar ways, barriers and
+facilitators identified for one guideline are likely to generalise to
+another. Our objective was to identify possible barriers and
+facilitators that researchers might encounter when using reporting
+guidelines.
+
+# 
+
+# Methods
+
+We performed a thematic synthesis of qualitative research that explored
+researchers' experiences of reporting guidelines. When writing this
+report, we used the ENTREQ guidelines for reporting qualitative evidence
+syntheses and the PRISMA-S guidelines for reporting systematic searches
+(9,10).
+
+## Approach to searching and data sources 
+
+Our search strategy sought all research articles that collected
+qualitative data exploring researchers' experiences of using reporting
+guidelines. We wanted to capture the experiences of researchers from
+around the world, so we included international databases in our
+information sources. All data sources are listed in Table 1.
+
+## Inclusion and exclusion criteria
+
+We included studies that reported researchers' experiences of using
+reporting guidelines derived through qualitative methods. We excluded
+articles written before 1996, the year that the CONSORT statement was
+first published. Any articles not written in English, Chinese, Spanish,
+or Portuguese were excluded during screening.
+
+We included records reporting feedback from researchers as part of
+guideline development. We decided not to include reporting guideline
+development studies where this feedback came exclusively from the
+development group members, as we considered this context to be too
+different to how ordinary researchers experience reporting guidelines.
+
+We found many studies that used a mix of quantitative and qualitative
+questions. We did not consider categorical survey questions with a free
+text option for "other" to be qualitative, but we did include findings
+from free text questions that invited participants to provide context to
+a previous (not qualitative) question. We describe the quantitative
+studies and the kinds of questions they asked in an accompanying
+commentary (in press).
+
+## Electronic search strategy
+
+A search specialist (SK) helped develop the comprehensive search
+strategies, which had a component for reporting guidelines and another
+for qualitative methods. We constructed our reporting guidelines
+component from the acronyms of frequently accessed guidelines (Table 2)
+with generic terms for reporting guidelines to capture guidelines not
+named explicitly. Our qualitative component came from a review of search
+filters(11), which recommended a sensitive qualitative filter for
+systematic reviews(12). We extended the filter to include descriptive
+methods because we knew some of our target records were mixed method
+surveys. We conducted scoping searches, but our search strategies were
+not peer reviewed before execution. Our search strategies are reported
+fully in Appendix A.
+
+## Screening
+
+YD screened Chinese records and asked LZ for second opinions when
+necessary. JH screened all other records, of which MS double-screened a
+random 10% sample and differences were resolved through discussion. YD
+and JH screened titles and abstracts to identify records that explored
+researchers' experiences and then screened full texts to identify
+whether those articles used qualitative methods.
+
+## Describing and appraising records
+
+JH extracted study characteristics and used the Critical Appraisal
+Skills Programme Qualitative (CASP-Qual) checklist (13) to critically
+appraise included studies, which helped him and JdB consider the
+strengths and weaknesses of each study when synthesising them.
+
+## Synthesis methodology
+
+We used thematic synthesis as defined by Thomas and Harden(14) because
+it can handle studies with "thin" descriptions, it allowed us to infer
+facilitators and barriers from research that may not have addressed our
+concern directly, and because we expected its output, grouped by themes,
+to be useful to guideline developers.
+
+JH imported files into NVivo 12.0 for Mac and coded all sentences from
+the results section and relevant supplementary materials that reported
+qualitative findings. JH assigned each sentence one or more descriptive
+codes that sought to distil the essence of what was written, creating
+new codes when necessary and without using a framework. JH then used
+mind-mapping software(15) to visualise similarities and differences
+between codes and aggregate them inductively into descriptive themes
+that captured the meaning of the codes they contained. JH then used our
+research question to infer facilitators and barriers from these
+descriptive themes and to understand the context in which these occur,
+thereby producing analytic themes. JH discussed all steps with JdB,
+resolving conflicts through discussion when necessary.
+
+# Results
+
+## Search
+
+Our search yielded 18 articles (see Figure 1 for full search results).
+JH and MS double-screened 10% of the non-Chinese titles and abstracts
+and agreed on 98.3% of them (170/173). The remaining three were resolved
+after discussion and consensus. All eligible records were written in
+English and included surveys, semi-structured interviews, focus groups,
+and writing tasks.
+
+Only 7 of the 18 records reported where participants came from. Three
+mixed method survey studies (7,16,17) included participants from a wide
+range of countries but it was not possible to tell which participants
+completed the optional qualitative questions. Four interview studies
+(5,8,18,19) included participants who were almost exclusively from North
+America, Europe, and Australia, with one participant from Brazil.
+
+Critical appraisal of the studies using CASP-Qual rated the studies
+ranging from valuable to not very valuable; the less valuable studies
+had few qualitative components or minimal reporting of qualitative
+analysis or findings. Study characteristics are reported in Table 3.
+
+## Synthesis findings
+
+The relationships between our codes, descriptive themes, and analytic
+themes are reported in Table 4. We identified the following analytic
+themes: 1) Researchers may not understand guidance as intended or what
+reporting guidelines are, even if they think they do; 2) Researchers
+report a variety of reasons for using reporting guidelines, and that
+some are more important than others; 3) Researchers report using
+reporting guidelines for different tasks and wanting guidance to be
+delivered in ways that better fit their needs; 4) Using reporting
+guidelines has costs which researchers may feel outweigh benefits; 5)
+Reporting guidelines may need to be revised and updated; 6) Researchers
+may not be able to report all items, which can leave them feeling
+uncertain or worried; 7) Awareness and accessibility may limit reporting
+guideline usage; 8) Reporting guidelines may be more useful to less
+experienced researchers, but these researchers may find them harder to
+use; 9) Researchers want or need design advice, but reporting guidelines
+may not be the right place to find it; 10) Reporting guidelines can be
+harder to use if their scope is too broad, too narrow, or poorly
+defined; 11) Researchers may have to use multiple sets of reporting
+guidelines, multiplying complexity and costs; 12) Researchers may use
+checklists but never read the full guidance.
+
+We identified that 'barriers' and 'facilitators' were not consistent
+experiences. What may be a barrier for one person might be a facilitator
+to others or when occurring in different context, and so we refrained
+from labelling our analytic themes as one or the other.
+
+### 1) Researchers may not understand guidance as intended or what reporting guidelines are, even if they think they do
+
+Researchers commonly stated that they need more information to fully
+understand the intention of the guideline developer. When asked about
+the clarity of guidance, researchers across many studies reported
+difficulty in understanding certain terms, concepts, or checklist items:
+
+> 'outcome': "Does it mean the domain, or does it mean the domain
+> measure, metric, method of aggregation, and time?"(20).
+>
+> "Primary and secondary improvement related question is confusing, what
+> does that mean?... We had a hard time with the \[difference between
+> the\] improvement question and the study question."(19)
+
+A few researchers reported ignoring an item if they could not understand
+it:
+
+> "Only one item was identified as hard to understand by more than one
+> respondent: 'methods employed to ensure completeness of data', which
+> two participants said they left out because of difficulty in
+> comprehending the item"(6)
+
+Some researchers reported feeling that reporting guidelines were "simply
+not comprehensible"(19). Others reported that they had understood, but
+further investigation revealed that their interpretations could be
+"different from that intended by the developers"(6). For example, Davies
+et al. (6) found that one SQUIRE item "was reported as used fully \[in
+the quantitative survey\], but the qualitative analysis revealed that
+its usage was frequently inconsistent with the intention of the
+developers". One reason for this may be because different researchers
+may interpret the guidance in different ways depending on their prior
+experience, the research context, or if the guidance is ambiguous. For
+example, the SQUIRE developers found that the word 'theory' "meant
+different things to different people. For some, the word 'theory' meant
+'mechanism by which an intervention was expected to work', for others it
+meant 'lean or six sigma for example', and for still others it meant
+'logic model'"(19).
+
+Even when researchers reported understanding what an item meant, they
+may not have understood why it is important or who it is important to,
+leading them to remark that an item "seems unnecessary*"*(5). Few
+researchers referenced the needs of evidence synthesizers or patients as
+consumers of research, but more reported considering whether an item
+would be useful to other researchers, editors, and reviewers:
+
+> "the information provided does not matter as the reviewers do not know
+> what to do with it''(7)
+
+In addition to not understanding guidance or who it is important to,
+many researchers expressed difficulty understanding whether an item was
+applicable to their work. Some reporting guidelines specify that not all
+items are compulsory or that some items may only apply to a subset of
+research articles. Researchers highlighted that this may not be obvious,
+especially if this nuance is buried in a long elaboration document. Some
+researchers therefore reported uncertainty over which items applied to
+them:
+
+> "Authors asked for clarification of which items were always required
+> and which were nonessential"(21)
+>
+> "Not always clear what was relevant to their study"(5)
+>
+> "He had realised with experience and re-reading the Guidelines that
+> SQUIRE did not require him to include every item in the
+> manuscript".(19)
+
+This uncertainty may extend to the entire reporting guideline if
+researchers don't know when to use one over another. One researcher
+declared that "PRISMA guidelines can also be used rather than the
+MOOSE"(22), when the two are primarily for reviews of intervention
+studies and observational studies respectively. Sometimes there may not
+be a perfect reporting guideline for a given study, as one researcher
+commented after using ARRIVE (which focusses on experimental research
+involving laboratory animals):
+
+> "Our report was an animal based cadaveric study looking at accuracy of
+> drill guides. We were unsure which category it should fall under."(5)
+
+Even if a researcher understands the guidance, why it is important, and
+why it applies to them, they may not understand how to report it or "how
+much detail to report"(5). Some researchers "used examples \[included in
+the guidance\] to understand what should be reported" because they
+"demonstrate what is meant in practice"(5).
+
+At a more fundamental level, researchers varied in their understanding
+of what reporting guidelines are. Often researchers would talk about
+reporting guidelines as if they were design guidelines, e.g., describing
+STROBE as "woefully deﬁcient in encouraging...use of appropriate data
+analytic approaches"(7). This suggested that the researcher had not
+noticed the stipulation that "these recommendations are not
+prescriptions for designing or conducting studies" included in STROBE's
+explanation and elaboration document(23). Other researchers wrote about
+STARD as is if the guidance was to be used when collecting imaging data:
+
+> "Two comments suggested that reporting quality may be impacted by the
+> physical environment in which \[...\] data are collected. These
+> comments may indicate an incomplete understanding of reporting
+> guidelines which pertain to reporting results during manuscript
+> writing, not the process of imaging acquisition itself."(24)
+
+### 2) Researchers report a variety of reasons for using reporting guidelines, and that some are more important than others
+
+Some researchers listed personal benefits to using reporting guidelines.
+Some described reporting guidelines as a "training tool"(25) for
+personal development, noting that guidance helps "develop a strong
+foundation and habits"(7). Some talked about how guidance made them
+feel: "As a junior scientist it gives me conﬁdence to request the
+reporting of a certain piece of information"(7). Others said that
+reporting guidelines are "a helpful reminder"(25) and that going through
+the checklist "improved their manuscripts"(26). Some saw value in
+fostering a "transparent reporting process"(17) and for making sure your
+"project is written up as rigorously"(19).
+
+A couple of researchers noted altruistic benefits, reporting that
+widespread reporting guideline adherence "helps in standardizing how
+research is reported"(7) and calling "for more scientific reports to be
+published, preferably using a template or guideline to make them
+comparable"(27).
+
+In the absence of anticipated benefits, some researchers said that they
+use reporting guidelines simply because "it was what was implicitly
+expected of them to do"(8), and that these expectations came from
+journals and their peers. Some used "tools promoted by journals, which
+often promised to ease the publishing process"(27) but others wrote that
+they found this to be an empty promise:
+
+> ''I have never had (nor have I heard of) an editor or reviewer pushing
+> back on a claim that all STROBE criteria were met. Therefore, when a
+> STROBE checklist is required for manuscript submission, it seems to
+> turn into a\[n\] exercise in additional administrative busywork
+> without really improving the research.''(7)
+
+A few researchers reported being more likely to comply with journal
+requirements if they thought the journal was likely to enforce them:
+"Does the journal only suggest or actually require submission of a
+reporting guideline checklist?"(8). Some said they were more likely to
+comply if "it was a high impact factor journal and I thought that I
+would only get one crack at it"(8).
+
+A few researchers compared different motivations for using reporting
+guidance, noting that personal, guaranteed, and immediate benefits were
+more motivating than hypothetical benefits or benefits to others:
+
+> "I suppose you are looking for short-term gain, short-term benefits as
+> a writer of a report"(27)
+>
+> "it can be difﬁcult to put the energy into using STROBE (or any other)
+> one a priori since ultimately, it depends on the journal submitted to
+> and accepted to"(7)
+>
+> "All the researchers wanted more homogenous reporting but emphasized
+> that: "As an individual reporter, one is prone to choose the easiest
+> and most accessible one.""(27)
+
+### 3) Researchers report using reporting guidelines for different tasks and wanting guidance to be delivered in ways that better fit their needs
+
+Although reporting guidelines were designed to help researchers draft
+and check their manuscripts, many researchers mentioned using reporting
+guidelines for other tasks including designing research, planning,
+peer-reviewing, and educating. A few researchers suggested different
+ways that the guidance could be delivered to make their task easier. For
+example, some "thought \[the\] order of items should reflect \[the\]
+order considered when designing the experiment"(5). Others wanted "a
+manuscript template"(17) to make writing easier. Some suggested that
+"online form\[s\]"(16) or software to "mark in the text what corresponds
+to each item in the list"(22) would make it easier to complete a
+reporting checklist as part of journal submission.
+
+### 4) Using reporting guidelines has costs which researchers may feel outweigh benefits
+
+Researchers noted that some items require extra work, either to collect
+the necessary information or just to think about and report, and that
+sometimes this workload felt overly burdensome:
+
+> "If we put the onus on everybody out there who's trying to improve
+> care to deal with that sophisticated question \[...\], I just think we
+> are putting a barrier in place that is going to be a mountain"(6)
+
+This work requires time, and "the length of time it would take to
+consider the items"(25) was cited by many researchers as a cost, with
+some asking themselves whether "sufﬁcient time \[was\] available to
+comply with \[the\] reporting guideline"(8).
+
+Researchers noted that a reporting guideline's "length and content is a
+key factor inﬂuencing the time needed to complete it."(7). Some found
+checklists to be "very complete, but to follow every single point is
+overwhelming"(26). As a solution, many wanted to "simplify" or "shorten
+the checklists"(22). A few researchers wanted a "hierarchy" to know
+which items were most "important to include"(6). Another suggested that
+checklists presented as online forms could include "logic for irrelevant
+\[items\]"(16) so that the users are presented with only items that
+apply to them.
+
+Complexity was sometimes mentioned alongside time: "As the research
+often was performed out of work hours, the required time and complexity
+of the guidelines or templates may have played a crucial role \[in
+deciding whether to use a reporting guideline\]"(27). Researchers had
+conflicting opinions about whether itemization reduces perceived
+complexity. Proponents noted that the "Checklist is a very helpful
+summary of sometimes confusing guidelines"(17) and that itemization made
+guidance "easier to follow" and "more approachable"(20). But a few said
+that presenting guidance in small pieces made it difficult to "get the
+whole picture of what you are supposed to be doing"(19) and that
+itemization makes "the checklist appear more daunting for users: "If you
+make the checklist too long people will see it as too complicated and
+then won't use it""(20).
+
+Another concern cited by many researchers was that following a reporting
+guideline can result in long reports:
+
+> "We use SQUIRE a lot for planning---we complete the sections up
+> through the methods at the time we design the study...\[but\] SQUIRE
+> creates sort of long reports if followed exactly."(19)
+>
+> "the document you create if you use SQUIRE exactly as written is
+> unintelligible"(19)
+>
+> "this \[item\] would require another paper"(26)
+
+This problem was exacerbated by journal word limits:
+
+> "We believe it is a useful instrument but it is unrealistic to assume
+> that every single suggestion can be detailed in a 6000-words
+> manuscript."(26)
+>
+> "two remarked that word limitations has necessitated removal of many
+> items"(21)
+
+Although a handful of researchers noted that "the relaxation of word
+limits"(8) would help, many researchers objected to long articles
+because they were bloated, harder to read, or simply
+"unintelligible"(19) and requested strategies to "enhance readability"
+regardless of journal policies. Some wondered where they could place
+this information besides the article body, such as "in an appendix", an
+"online supplement or repository", or a figure(20). Some researchers
+preferred to report information in the checklist instead of the article
+body because of "space restrictions, because \[it was\] a minor
+component of the study, because they considered the information to be
+obvious, or because they were unsure of how to incorporate it in the
+manuscript."(5). Some used this strategy to report items that had "not
+been used or observed during the study, for example that no inclusion or
+exclusion criteria had been set, no data had been excluded,
+randomisation and blinding had not been used..."(5) although it was not
+clear whether this was motivated by a desire for a concise article or a
+concern about highlighting potential weaknesses.
+
+Faced with the costs of time, work and article length, some researchers
+explicitly weighed perceived benefits against costs and disagreed about
+the balance:
+
+> "The manuscript has improved. However, we felt that the amount of
+> effort was considerably greater than the degree of improvement."(26)
+>
+> "it also adds to the time required to put together a manuscript, and I
+> am not sure how much it improves the chances of a manuscript being
+> published"(7)
+>
+> "it does increase the quality of the articles, it is clearly worth the
+> time"(7)
+
+The balance of costs versus benefits may be most favourable when
+guidance is used early in the research workflow. Researchers who used
+reporting guidelines earlier in their workflow (e.g., for planning
+research or drafting) used language that implied it was something they
+did regularly (e.g., "We use SQUIRE a lot for planning"(19)). Some
+reported that they had come to this habit by their own initiative and
+that reporting guideline developers should "encourage people to use the
+criteria early in the writing process (I have, which probably is why I
+only changed one thing \[at the point of submission\])"(22). One
+researcher suggested that "policy that focuses on a front end approach
+would be helpful"(7), noting that "To fully apply the criteria, I would
+need to systematically apply the STROBE criteria on the front end design
+of a project, grant, etc. rather than at the time of writing a
+project"(7).
+
+Conversely, many authors who completed a checklist during manuscript
+submission, very late in their in workflow, emphasised the costs, using
+words like "arduous"(7) and expressing negative opinions of this process
+(see *Researchers may use the checklist but never read the full
+guidance*). This may be because researchers lack the motivation, time,
+or ability to edit their manuscripts at this point.
+
+### 5) Reporting guidelines may need to be revised and updated for different reasons
+
+Researchers in most studies had opinions on how guidance could be
+improved through clarifying, reorganising, splitting, merging, adding,
+or deleting items, and sometimes these views fed into the revision of
+reporting guidelines(5,6,20). This feedback may be useful for reporting
+guideline developers. Even if a reporting guideline was considered
+perfect at one point in time, researchers noted that guidance must be
+kept up to date in response to changes in the field and broader
+scientific ecosystem:
+
+> "The evolution of the healthcare improvement scholarly literature in
+> the intervening years since the publication of the SQUIRE Guidelines
+> has led to the development of concepts that were not fully anticipated
+> at the time of initial release"(19).
+
+Updates to one reporting guideline may necessitate the update of
+another. For instance, as PRISMA was being updated, a few researchers
+"supported referring to PRISMA for Abstracts, but suggested it also
+needs updating" to reflect updates being made to PRISMA(20).
+
+### 6) Researchers may not be able to report all items, which can leave them feeling uncertain or worried
+
+Some researchers described being unable to report items because of
+external factors, including intellectual property or data rules,
+disagreement between co-authors, or because "peer reviewers or editors
+had suggested editing out much of their \[reporting guideline\]-specific
+text"(21). Others reported feeling unable to report an item because they
+did not do it, whether on purpose, due to an oversight, or because
+requirements had changed since the study began:
+
+> "\[This item was\] not part of the study objectives"(26)
+>
+> "This \[item\] is a good idea, but we did not do this."(26)
+>
+> "The RCT was initiated before trial registration became customary in
+> Norway, and therefore does not have a Trial ID number."(26)
+
+This left some researchers fearing that "an ''incomplete'' checklist
+\[gave\] the impression that their study is ''less than 'perfect'.''(7).
+Some expressed concern that strict wording that assumed something was
+done may "force people to lie/mislead by asking a question they cannot
+answer"(20) and suggested that guidance should instead use more agnostic
+language and specify what to do if an item were not addressed, such as
+"If no publicly accessible protocol is available, please state
+this"(20).
+
+### 7) Awareness and accessibility may limit reporting guideline usage
+
+Researchers may not know what guidance exists and may be more likely to
+use whatever is most accessible and discoverable:
+
+> "Several of the researchers did not have extensive knowledge about the
+> different reporting tools, so the accessibility of the guideline or
+> template was often a decisive factor."(27)
+
+One researcher wrote that "poor dissemination strategy by authors of
+reporting guidelines had inhibited uptake"(8), and others recognised
+that reporting guidelines could be "better highlighted"(17) by journals
+or advertised on "social media platforms"(22).
+
+### 8) Reporting guidelines may be more useful to less experienced researchers, but these researchers may find them harder to use
+
+Some researchers reported that they didn't need the guidance as they
+were experienced enough to know what they were doing:
+
+> "One of the most prevalent themes was the expression of
+> self-assuredness. ''\[I\] follow the STROBE guidelines in my reporting
+> reasonably well without actually referring to them or using a
+> checklist'' (group 3, ID1) and ''\[I\] already apply the STROBE
+> recommendations despite not having heard of it until today''"(7)
+
+Sometimes this was accompanied by an acknowledgement that reporting
+guidance may be more beneficial to less experienced researchers:
+
+> "Despite experienced researchers generally not seeing a beneﬁt to
+> personally using STROBE, there were strong feelings that it is
+> valuable to early-career researchers"(7)
+>
+> "Helpful at beginning of career, but not at later stage"(17)
+>
+> "this exercise might be good for college students but is insulting for
+> professionals"(26)
+
+However, less experienced researchers often reported finding "reporting
+guidelines being difficult to use initially"(8), or that reporting
+guidelines became easier with experience in medical writing in general,
+and with experience in using other reporting guidelines. For instance,
+"Participants with less experience in scholarly medical writing found
+the SQUIRE Guidelines harder"(19).
+
+### 9) Researchers want or need design advice, but reporting guidelines may not be the right place
+
+Many researchers reported wanting advice on design choices but disagreed
+on where that design guidance should go. Some researchers suggested
+referring researchers to other design resources through hyperlinks or
+citations. Others explicitly wanted design guidance to be written into
+reporting guidelines so that others would read it. Some went as far as
+calling for reporting guidelines to express an opinion and encourage one
+technique over another. One researcher objected to a "neutral tone"(20)
+in a reporting guideline that may give the impression that a design
+choice (that they disapproved of) was reasonable practice.
+
+However, other researchers objected to reporting guidelines that were
+opinionated about design choices. One user described STROBE as a
+"procedural straightjacket"(7), suggesting that it dictates how studies
+should be conducted. Users who encounter the guidance late in writing
+may be unable to act on any design recommendations and consequently may
+feel fearful of reporting transparently if their design choices deviate
+from what the guideline recommends as best practice (see *Researchers
+may not be able to report all items, which can leave them feeling
+uncertain or worried*).
+
+Perhaps with these concerns in mind, one wrote that "we need to make
+sure that the language around this elaboration gives \[researchers\]
+some flexibility"(20), with another noting that "I am OK with the idea
+of emphasizing the value of \[this design choice\], but we cannot
+mandate it"(20).
+
+### 10) Reporting guidelines can be harder to use if their scope is too broad, too narrow, or poorly defined
+
+Reporting guideline developers may narrow the scope of their guidance by
+limiting it to certain design choices or research contexts. This
+frustrated some researchers, who noted that narrow "checklists cannot
+fit all types of research"(17) and "cautioned that ''that balance
+between freedom and structure is important to consider'' \[...\] and
+that it is ''important to recognise that each study/analysis is unique
+and doesn't always ﬁt with the recommendations''.(7)
+
+This narrowing of scope may have been a conscious decision, as requested
+by this researcher giving feedback on a proposed update of the PRISMA
+guideline: "We need an agreement on whether PRISMA is to be only for
+intervention studies (as implied by the proposed modification above) or
+more general."(20) However, scope may not always be clearly
+communicated: another PRISMA user "opined that "the assessment of risk
+of bias, statement of risk ratio and explaining additional analyses
+depend on the study design ... \[For\] a systematic review of
+cross-sectional surveys or a meta-synthesis I do not need this
+information""(28), suggesting they were unaware of PRISMA's focus on
+interventional studies or that MOOSE and ENTREQ would be more
+appropriate for these kinds of studies (see previous themes for further
+discussion of awareness and understanding the applicability of reporting
+guidelines).
+
+Researchers noted that scope could be made broader by removing items or,
+more commonly, by extending items with more options and examples:
+
+> "omit "(benefits or harms)" from the checklist item to be more
+> inclusive of reviews that do not examine effects of interventions"(20)
+>
+> "If the new PRISMA will more explicitly embrace topics other than
+> interventions (which I think it should), then some additional examples
+> could be added to the parenthesis (e.g. sensitivity and specificity,
+> disease prevalence, regression coefficient)"(20)
+
+However, extending guidance with options can make the guidance appear
+longer and means researchers must work out which parts apply to them.
+
+### 11) Researchers may have to use multiple sets of reporting guidelines, multiplying complexity and costs
+
+There are now over 500 reporting guidelines indexed on the EQUATOR
+Network website, with more added each year as reporting guideline
+developers seek to cover more and more use cases. Researchers may be
+expected to use one reporting guideline instead of another. Other times
+they may be expected to use a second or third reporting guideline *in
+addition* to the original one. Some researchers "pointed out that these
+extensions have created needless complexity and ''additional confusion
+in reporting of observational studies'' \[...\] and that the ''number of
+extensions has become excessive, especially given that multiple
+extensions may apply to a single study''"(7).
+
+One researcher wrote: "it would be good to have better connection
+between different checklists (perhaps using digital linking,
+decision-trees, etc.)"(20). Some showed concern that hyperlinks will go
+unused and so developers should "incorporate all relevant details in the
+\[...\] checklist and elaboration (in case authors don't read the
+extension)"(20). When writing about PRISMA, one researcher noted that
+"it would be wise to limit the number of additional documents to look
+up. This is only item 7, and I have already been referred to PRISMA for
+Abstracts and PRISMA for Searches. As a systematic review author,
+reviewer, or editor, I would be unlikely to go to several sources for
+reporting guidance"(20).
+
+A few researchers wrote that related reporting guidelines should be
+mutually updated to keep in sync with each other before linking or
+embedding them. Researchers wanted the instruction, terminology, and
+structure of different sets of reporting guidelines to be coherent,
+suggesting, for example, that the updated PRISMA should be structured to
+be "in line with PRISMA-P"(20).
+
+In addition to reconciling multiple reporting guidelines, researchers
+must also comply with journal, funder, and other scientific guidelines
+and expressed frustration when instructions contradicted each other. For
+example, some reporting guidelines specify subheadings for abstracts and
+one researcher pointed out that a "major issue is that journals wildly
+differ in requirements/what is allowed in abstracts"(20).
+
+### 12) Researchers may use checklists but never read the full guidance
+
+Reporting guidelines typically consist of the guidance itself and a
+checklist that serves as a summary of the guidance and a tool to
+demonstrate compliance. Sometimes the document containing the full
+guidance is called the Explanation and Elaboration (or E&E for short).
+When talking about a reporting guideline, it was often unclear whether
+the researcher was talking about the checklist or the E&E.
+
+Some researchers implied that their only experience with reporting
+guidelines was completing a checklist as part of submission. We noticed
+that many negative statements were directed specifically at this
+process, describing checklists as "painful"(17), "pedantic",
+"annoying"(7), or a "stupid exercise"(26).
+
+One study explored researchers' use of checklists and E&E documents,
+noting that "Participants used the guidelines and the E&E in different
+ways. Some did not read the E&E and used only the checklist, others read
+the E&E first and then used the checklist and a further group used the
+checklist and referred to the E&E for help with specific items."(5). One
+researcher even went as far as to say that the "E&E appeared to be
+redundant"(5).
+
+If some researchers only use checklists, which typically lack any nuance
+included in the E&E, this may explain why some described reporting
+guidance as inflexible and prescriptive, warning that "Blind checklists
+are not relevant to most work"(22) or that "Authors may ''fear the
+'Checklist Manifesto' becoming a rigid bureaucracy, and also becoming
+contrived''"(7).
+
+# Discussion
+
+Researchers face many challenges when trying to use reporting guidelines
+and have many questions, opinions, and suggestions that could be useful
+for reporting guideline developers. These findings could help increase
+the impact of reporting guidelines if taken into consideration during
+their development, dissemination, and implementation phases.
+
+The reporting guideline development community has typically relied on
+journals to promote their resources and have called on editors to better
+enforce reporting guideline adherence(29). However, the results
+presented here suggest that focusing solely on enforcement may be short
+sighted and that guideline developers have the power to address the
+usage barriers identified here themselves, at least in part. Doing so
+may in turn make it easier for journals and funders to enforce reporting
+guidelines. For example, it is difficult to enforce a reporting
+guideline that is difficult to understand or if the guideline's
+applicability criteria are unclear.
+
+Qualitative methods uncovered issues that may be masked by quantitative
+surveys. For example, Davies et al. (6) found that one SQUIRE item "was
+reported as used fully \[in the quantitative survey\], but the
+qualitative analysis revealed that its usage was frequently inconsistent
+with the intention of the developers". Most studies used mixed method
+surveys and often the qualitative component was small, perhaps limited
+to a single question like "Please add your comments and suggestions in
+the free text below"(17) or "Any other feedback?"(16), and consequently
+resulted in thin data. Future studies seeking richer qualitative data
+should consider using interviews and focus groups above surveys.
+
+Despite there being hundreds of reporting guidelines, our search found
+only 18 studies that collected qualitative data, covering 12 reporting
+guidelines in total, and only six of the 15 reporting guidelines listed
+on the EQUATOR Network's homepage. One noticeable absence was the COREQ
+guidelines for reporting qualitative interviews and focus groups, the
+third most frequently accessed reporting guideline on EQUATOR website.
+Given that qualitative research differs from quantitative research in
+terms of its ontologies, epistemologies, and how it considers
+replicability and best practice, it would be interesting to know whether
+qualitative researchers face additional hurdles not covered here.
+
+Reporting guideline developers may lack the funds, time, motivation, or
+expertise to design user-friendly resources or effectively evaluate
+them. The EQUATOR Network guidance for reporting guideline
+developers(30), published in 2010, covers steps from inception to
+dissemination but largely neglects user experience or user testing. Only
+two short sections, totalling eight sentences of an eight-page document,
+address the importance of gathering user feedback, but the guidance
+offers no instruction on how to do this. Nor does the guidance advise on
+usability best-practices. Reporting guideline developers may benefit
+from advice on how to evaluate their resources and from infrastructure
+to collect feedback from researchers, such as a commenting system on the
+EQUATOR Network website.
+
+Beyond these suggestions we will refrain from proposing solutions to the
+barriers identified in this review. Improvements to reporting guideline
+dissemination should be explored thoroughly through consultation with
+reporting guideline developers, editors, researchers, and other relevant
+stakeholders. This will be the focus of upcoming work.
+
+## Limitations
+
+We were limited by the availability of literature and the relative
+thinness of some studies' qualitative analysis. Most studies relied on
+participants recalling what they had done or thought in the past, and so
+may be subject to recall bias. Future studies could consider using 'in
+the moment' methods like think aloud tasks.
+
+Surveys could be subject to question order bias. Often the qualitative
+question appeared at the end of a survey, and so participants' responses
+could have been influenced by the proceeding quantitative questions. In
+our accompanying commentary (in press) we describe how most of the
+concepts covered by the quantitative survey questions also appeared in
+the qualitative data and some of these quantitative questions were
+phrased leadingly. However, the qualitative data contained many
+additional themes that did not appear in the quantitative questions.
+
+We tried to capture the experience of a diverse range of researchers,
+but most participants of the reviewed studies were from western
+countries. Our Chinese database searches yielded no relevant studies.
+Likewise, we found no studies on this topic published in Spanish or
+Portuguese. Around a quarter of visitors to the EQUATOR Network's
+website have their browser set to a language other than English (in
+press), and it is likely that researchers who are not native English
+speakers face additional challenges not covered here. As all of the
+qualitative research we found was conducted in English, it is
+unsurprising that language barriers did not appear as a theme, despite
+being identified as a potential issue in quantitative surveys(24).
+
+We considered including grey literature, commentaries, and opinion
+pieces. These may have contributed themes to our analysis but finding
+these pieces (many of which may have been on private blog posts not
+indexed by search tools), and the extra work of synthesising primary and
+secondary order constructs was not feasible. We also considered
+synthesising quantitative survey data, most of which collected ordinal
+or categorical data. We decided that synthesising these quantitatively
+would not add value to our analysis. However, we have categorised the
+kinds of quantitative questions asked and compared them with the themes
+identified here in an accompanying commentary (in press).
+
+We did not distinguish between different guidelines and expect that the
+themes we found may apply to reporting guidelines to different degrees.
+We also expected code frequency to be biased by the questions asked in
+each study. We therefore decided not to prioritise themes by importance
+or frequency.
+
+## Implications for future research
+
+Addressing the issues identified here may make reporting guidelines
+easier to use and increase their impact, thereby improving the quality
+of published research. Although a lot of consideration has been given to
+how reporting guidelines should be developed, the way in which that
+guidance is evaluated and disseminated also deserves to be studied and
+optimised. The results of this study will inform our future work to
+improve the dissemination of reporting guidelines.
+
+## Conclusions
+
+Researchers encounter many barriers and facilitators when using
+reporting guidelines. Future research could use our findings to improve
+how reporting guidelines are developed, evaluated, and disseminated.
+Reporting guideline developers should consider using qualitative methods
+when piloting and refining their resources.
+
+# Declarations
+
+## Ethics approval and consent to participate
+
+Not applicable
+
+## Consent for publication
+
+Not applicable
+
+## Availability of data and materials
+
+Data and materials are available on the project's OSF page(31).
+
+## Funding
+
+JH, JdB, MS, GSC, and SK are supported by Cancer Research UK
+(C49297/A29084). GSC is supported by the NIHR Biomedical Research
+Centre, Oxford. ZB, YD, and LZ are supported by the National Key R&D
+Program of China (2019YFC1710400; 2019YFC1710403). CA is supported by a
+Mildred Blaxter Fellowship from the Foundation for the Sociology of
+Health and Illness.
+
+## Competing interests
+
+As thematic synthesis involves subjective interpretation, we reflected
+on the opinions, beliefs, and experiences of the authors as potential
+sources of conflicts of interest.
+
+All authors except CA are affiliated with the EQUATOR Network, which
+promotes reporting guidelines. All authors consider incomplete research
+reporting to be a common and important problem and believe reporting
+guidelines and checklists to be useful tools. GSC is Director of the UK
+EQUATOR Centre and an author of the TRIPOD guidelines for clinical
+prediction models, GATHER statement for global health estimates, AGReMA
+for mediation analyses, TIDieR-placebo for placebo-controlled trials,
+RIPL checklist for patent landscapes, and member of the MISTIC,
+STARD-AI, TRIPOD-AI, DECIDE-AI, CONSORT-AI, SPIRIT-AI,
+CONSORT-Surrogate, and REMARK, CONSORT and SPIRIT update working groups,
+and SK is an author of the PRISMA-S guidelines for reporting systematic
+review literature searches. ZB is Director of the Chinese EQUATOR
+Centre. ZB and YD have helped develop reporting guidelines for Chinese
+medicine and have translated existing guidelines into Chinese, including
+nine CONSORT extensions, the ARRIVE guidelines, and the SPIRIT extension
+for patient-reported outcomes. MMS is leading studies that assess
+reporting completeness in health research based on the contents of
+several reporting guidelines checklists, the robustness of reporting
+guidelines development methods, and the consolidation of different
+reporting guidelines for the reporting of studies of nutritional
+interventions. JH is the creator of an automated manuscript checker(32)
+that recommends guidelines to authors, but had not used a guideline
+before writing this article. His experience in software development led
+him to question the usability of reporting guidelines and the ways in
+which authors discover and apply them.
+
+## Authors' contributions
+
+JH: Conceptualization, methodology, investigation, writing -- original
+draft
+
+CA: Methodology, writing -- review and editing, supervision
+
+JdB: Conceptualization, methodology, investigation, writing -- review
+and editing, supervision, funding acquisition
+
+ZB: Methodology, writing -- review and editing, supervision
+
+YD: Methodology, investigation, writing -- review and editing
+
+SK: Methodology, writing -- review and editing
+
+MS: Conceptualization, methodology, writing -- review and editing,
+supervision, funding acquisition
+
+LZ: Methodology, investigation, writing -- review and editing
+
+GC: Conceptualization, methodology, writing -- review and editing,
+supervision, funding acquisition
+
+# List of abbreviations
+
+See Table 2 for definitions of reporting guideline acronyms not listed
+here.
+
+CASP: Critical Appraisal Skills Programme
+
+ENTREQ: Enhancing Transparency in Reporting the Synthesis of Qualitative
+Research statement
+
+EQUATOR: Enhancing the QUAlity and Transparency Of health Research
+
+GIM: Global Index Medicus
+
+OSF: Open Science Framework
+
+PRISMA-P: Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses Protocols
+
+PRISMA-S: Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses Searches
+
+PRISMA Equity: Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses with a Focus on Health Equity
+
+SciELO: Scientific Electronic Library
+
+# References
+
+1\. The EQUATOR Network \| Enhancing the QUAlity and Transparency Of
+Health Research \[Internet\]. \[cited 2020 Feb 14\]. Available from:
+https://www.equator-network.org/
+
+2\. Malički M, Jerončić A, Aalbersberg IjJ, Bouter L, ter Riet G.
+Systematic review and meta-analyses of studies analysing instructions to
+authors from 1987 to 2017. Nat Commun. 2021 Oct 5;12(1):5840.
+
+3\. Jin Y, Sanger N, Shams I, Luo C, Shahid H, Li G, et al. Does the
+medical literature remain inadequately described despite having
+reporting guidelines for 21 years? -- A systematic review of reviews: an
+update. J Multidiscip Healthc. 2018 Sep 27;11:495--510.
+
+4\. Glasziou P, Altman DG, Bossuyt P, Boutron I, Clarke M, Julious S, et
+al. Reducing waste from incomplete or unusable reports of biomedical
+research. Lancet. 2014 Jan 18;383(9913):267--76.
+
+5\. du Sert N.P., Hurst V., Ahluwalia A., Alam S., Avey M.T., Baker M.,
+et al. The arrive guidelines 2.0: Updated guidelines for reporting
+animal research. PloS Biol. 2020;18(7):3000410.
+
+6\. Davies L, Donnelly KZ, Goodman DJ, Ogrinc G. Findings from a novel
+approach to publication guideline revision: user road testing of a draft
+version of SQUIRE 2.0. BMJ Qual Saf. 2016 Apr;25(4):265--72.
+
+7\. Sharp MK, Glonti K, Hren D. Online survey about the STROBE statement
+highlighted diverging views about its content, purpose, and value. J
+Clin Epidemiol. 2020;123:100--6.
+
+8\. Fuller T, Pearson M, Peters J, Anderson R. What affects authors' and
+editors' use of reporting guidelines? Findings from an online survey and
+qualitative interviews. PLoS ONE. 2015 Jan 1;10(4):e0121585.
+
+9\. Tong A, Flemming K, McInnes E, Oliver S, Craig J. Enhancing
+transparency in reporting the synthesis of qualitative research: ENTREQ.
+BMC Med Res Methodol. 2012 Nov 27;12(1):181.
+
+10\. Rethlefsen ML, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page
+MJ, et al. PRISMA-S: an extension to the PRISMA statement for reporting
+literature searches in systematic reviews. Syst Rev. 2021 Jan
+26;10(1):39.
+
+11\. Rosumeck S, Wagner M, Wallraf S, Euler U. A validation study
+revealed differences in design and performance of search filters for
+qualitative research in PsycINFO and CINAHL. J Clin Epidemiol. 2020 Dec
+1;128:101--8.
+
+12\. Rogers M, Bethel A, Abbott R. Locating qualitative studies in
+dementia on MEDLINE, EMBASE, CINAHL, and PsycINFO: A comparison of
+search strategies. Res Synth Methods. 2018;9(4):579--86.
+
+13\. Critical Appraisal Skills Programme. CASP Qualitative Checklist
+\[Internet\]. CASP - Critical Appraisal Skills Programme. 2018 \[cited
+2022 May 5\]. Available from: https://casp-uk.net/casp-tools-checklists/
+
+14\. Thomas J, Harden A. Methods for the thematic synthesis of
+qualitative research in systematic reviews. BMC Med Res Methodol. 2008
+Jul 10;8(1):45.
+
+15\. Bierner M. Markdown Preview Mermaid Support \[Internet\]. 2022
+\[cited 2022 Apr 13\]. Available from:
+https://github.com/mjbvz/vscode-markdown-mermaid
+
+16\. Macleod M, Collings AM, Graf C, Kiermer V, Mellor D, Swaminathan S,
+et al. The MDAR (Materials Design Analysis Reporting) Framework for
+transparent reporting in the life sciences. PNAS. 2021 Apr
+27;118(17):e2103238118.
+
+17\. Dewey M, Levine D, Bossuyt PM, Kressel HY. Impact and perceived
+value of journal reporting guidelines among Radiology authors and
+reviewers. Eur Radiol. 2019 Aug 1;29(8):3986--95.
+
+18\. Korevaar DA, Cohen JF, Reitsma JB, Bruns DE, Gatsonis CA, Glasziou
+PP, et al. Updating standards for reporting diagnostic accuracy: the
+development of STARD 2015. Res Integ Peer Rev. 2016;1(101676020):7.
+
+19\. Davies L, Batalden P, Davidoff F, Stevens D, Ogrinc G. The SQUIRE
+Guidelines: an evaluation from the field, 5 years post release. BMJ Qual
+Saf. 2015 Dec;24(12):769--75.
+
+20\. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow
+CD, et al. Updating guidance for reporting systematic reviews:
+development of the PRISMA 2020 statement. J Clin Epidemiol. 2021 Jun
+1;134:103--12.
+
+21\. Prady SL, MacPherson H. Assessing the utility of the standards for
+reporting trials of acupuncture (STRICTA): A survey of authors. J Altern
+Complement Med. 2007 Nov;13(9):939--43.
+
+22\. Struthers C, Harwood J, de Beyer JA, Dhiman P, Logullo P, Schlüssel
+M. GoodReports: developing a website to help health researchers find and
+use reporting guidelines. BMC Med Res Methodol. 2021 Oct 17;21(1):217.
+
+23\. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC,
+Vandenbroucke JP. Strengthening the reporting of observational studies
+in epidemiology (STROBE) statement: guidelines for reporting
+observational studies. BMJ. 2007 Oct 20;335(7624):806--8.
+
+24\. Prager R, Gagnon L, Bowdridge J, Unni RR, McGrath TA, Cobey K, et
+al. Barriers to reporting guideline adherence in point-of-care
+ultrasound research: a cross-sectional survey of authors and journal
+editors. BMJ EBM. 2021 Jan 22;bmjebm-2020-111604.
+
+25\. Burford BJ, Welch V, Waters E, Tugwell P, Moher D, O'Neill J, et
+al. Testing the PRISMA-Equity 2012 reporting guideline: the perspectives
+of systematic review authors. PloS one. 2013;8(10):e75122.
+
+26\. Eysenbach G. CONSORT-EHEALTH: implementation of a checklist for
+authors and editors to improve reporting of web-based and mobile
+randomized controlled trials. Stud Health Technol Inform.
+2013;192:657--61.
+
+27\. Svensøy JN, Nilsson H, Rimstad R. A qualitative study on
+researchers' experiences after publishing scientific reports on major
+incidents, mass-casualty incidents, and disasters. Prehosp Disaster Med.
+2021 Oct;36(5):536--42.
+
+28\. Tam WWS, Tang A, Woo B, Goh SYS. Perception of the Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)
+statement of authors publishing reviews in nursing journals: a
+cross-sectional online survey. BMJ Open. 2019 Apr 1;9(4):e026271.
+
+29\. Moher D, Weeks L, Ocampo M, Seely D, Sampson M, Altman DG, et al.
+Describing reporting guidelines for health research: a systematic
+review. J Clin Epidemiol. 2011 Jul 1;64(7):718--42.
+
+30\. Moher D, Schulz KF, Simera I, Altman DG. Guidance for developers of
+health research reporting guidelines. PLOS Medicine. 2010 Feb
+16;7(2):e1000217.
+
+31\. Harwood J, Beyer JA de, Schlussel M, Kirtley S, Duan Y, Zhao L, et
+al. Authors' experiences of biomedical reporting guidelines: a
+systematic review and thematic synthesis protocol and pilot. 2021 Aug 5
+\[cited 2021 Aug 19\]; Available from:
+https://dx.doi.org/10.17605/OSF.IO/8F63V
+
+32\. Penelope.ai \[Internet\]. Penelope.ai. \[cited 2020 Feb 14\].
+Available from: https://www.penelope.ai
+
+33\. Chinese Biomedical Literature Database \[Internet\]. \[cited 2021
+Mar 1\]. Available from: https://www.imicams.ac.cn/
+
+34\. SinoMed \[Internet\]. \[cited 2021 Mar 5\]. Available from:
+http://www.sinomed.ac.cn/
+
+35\. China National Knowledge Infrastructure \[Internet\]. \[cited 2021
+Mar 1\]. Available from: https://www.cnki.net/
+
+36\. Wanfang Data - A Leading Provider of Electronic Resources for China
+Studies \[Internet\]. \[cited 2021 Mar 1\]. Available from:
+http://www.wanfangdata.com/
+
+37\. VIP Chinese Medical Journal Database \[Internet\]. \[cited 2021 Mar
+1\]. Available from: http://www.cqvip.com/
+
+38\. AUTHOR. \| LILACS \[Internet\]. \[cited 2021 Feb 19\]. Available
+from: https://lilacs.bvsalud.org/en/
+
+39\. Alves B/ O/ OM. Global Index Medicus -- World Health Organization
+\[Internet\]. \[cited 2021 Feb 19\]. Available from:
+https://www.globalindexmedicus.net/
+
+40\. Health and Medical Articles Database - African Index Medicus
+\[Internet\]. \[cited 2021 Mar 1\]. Available from:
+https://indexmedicus.afro.who.int/
+
+41\. Western Pacific Region Index Medicus \[Internet\]. \[cited 2021 Mar
+1\]. Available from: http://www.wprim.org/
+
+42\. IMSEAR at SEARO: Home \[Internet\]. \[cited 2021 Mar 1\]. Available
+from: https://imsear.searo.who.int/
+
+43\. WHO EMRO \| IMEMR \| Library \[Internet\]. \[cited 2021 Mar 1\].
+Available from: http://www.emro.who.int/e-library/imemr/index.html
+
+44\. About SciELO \[Internet\]. \[cited 2021 Feb 19\]. Available from:
+https://scielo.org/en/about-scielo
+
+45\. Projet MiRoR \[Internet\]. Projet MiRoR. \[cited 2021 Feb 6\].
+Available from: http://miror-ejd.eu/
+
+46\. de Vries RBM, Hooijmans CR, Langendam MW, van Luijk J, Leenaars M,
+Ritskes-Hoitinga M, et al. A protocol format for the preparation,
+registration and publication of systematic reviews of animal
+intervention studies. Evid-based Preclin Med. 2015;2(1):e00007.
+
+47\. Rader T., Mann M., Stansfield C., Cooper C., Sampson M. Methods for
+documenting systematic review searches: a discussion of common issues.
+Res Synth Methods. 2014;5(2):98--115.
+
+48\. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow
+CD, et al. The PRISMA 2020 statement: an updated guideline for reporting
+systematic reviews. BMJ. 2021 Mar 29;372:n71.
+
+# Tables
+
+### Table 1: Information sources and record management
+
+  -------------------------------------------------------------------------------------
+  Source               Search platform                     Date         Record
+                                                           searched     management
+  -------------------- ----------------------------------- ------------ ---------------
+  Chinese Biomedical   Chinese Biomedical Literature       25/10/2021   YD used Zotero
+  Literature           Service System(34)                               to manage,
+  Database(33)                                                          deduplicate and
+                                                                        screen records.
+
+  China National       https://www.cnki.net/               25/10/2021   
+  Knowledge                                                             
+  Infrastructure(35)                                                    
+
+  Wanfang Data(36)     http://www.wanfangdata.com/                      
+
+  VIP Chinese Medical  http://www.cqvip.com/                            
+  Journal Database(37)                                                  
+
+  Medline              Ovid                                08/12/2021   JH used Zotero
+                                                                        to manage and
+                                                                        deduplicate
+                                                                        records. He
+                                                                        used Rayyan to
+                                                                        do a second
+                                                                        deduplication
+                                                                        and screen
+                                                                        records.
+
+  Embase                                                                
+
+  Allied Complementary                                                  
+  Medicine Database                                                     
+  (AMED)                                                                
+
+  PsycInfo                                                              
+
+  Latin American and   WHO Global Index Medicus (GIM)(39)  08/12/2021   
+  Caribbean Health                                                      
+  Sciences                                                              
+  Literature(38)                                                        
+
+  African Index                                                         
+  Medicus(40)                                                           
+
+  Western Pacific                                                       
+  Region Index                                                          
+  Medicus(41)                                                           
+
+  Index Medicus for                                                     
+  South-East Asia                                                       
+  region(42)                                                            
+
+  Index Medicus for                                                     
+  the Eastern                                                           
+  Mediterranean                                                         
+  Region(43)                                                            
+
+  Scientific           https://scielo.org/en/              08/12/2021   
+  Electronic Library                                                    
+  Online(44)                                                            
+
+  Open Science         https://osf.io/                     15/12/2021   
+  Framework (OSF)                                                       
+
+  Methods in Research  http://miror-ejd.eu/publications/   14/12/2021   
+  on Research website                                                   
+  (45)                                                                  
+
+  Emailing developers  n/a                                 08/01/2022   
+  of guidelines listed                                                  
+  in Table 2                                                            
+  -------------------------------------------------------------------------------------
+
+### Table 2: Reporting guidelines featured on the EQUATOR Network's home page
+
+  -----------------------------------------------------------------------
+  Name       Full name
+  ---------- ------------------------------------------------------------
+  CONSORT    Consolidated Standards of Reporting Trials
+
+  STROBE     Strengthening the Reporting of Observational Studies in
+             Epidemiology
+
+  PRISMA     Preferred Reporting Items for Systematic Reviews and
+             Meta-Analyses
+
+  PRISMA-P   PRISMA for systematic review protocols
+
+  SPIRIT     Standard Protocol Items: Recommendations for Interventional
+             Trials
+
+  STARD      STAndards for Reporting Diagnostic accuracy studies
+
+  TRIPOD     Transparent Reporting of a multivariable prediction model
+             for Individual Prognosis Or Diagnosis
+
+  CARE       guidelines for CAse REports
+
+  AGREE      Appraisal of Guidelines, REsearch and Evaluation
+
+  RIGHT      Reporting Items for practice Guidelines in HealThcare
+
+  SRQR       Standards for Reporting Qualitative Research
+
+  COREQ      COnsolidated criteria for REporting Qualitative research
+
+  ARRIVE     Animal Research: Reporting of In Vivo Experiments
+
+  SQUIRE     Standards for QUality Improvement Reporting Excellence
+
+  CHEERS     Consolidated Health Economic Evaluation Reporting Standards
+  -----------------------------------------------------------------------
+
+## Table 3: Study characteristics
+
+  --------------------------------------------------------------------------------------------------------------
+  **Authors**   **Participants**   **Participant's   **Guideline(s)   **Methods**   **Phenomena of    **CASP
+                                   country**         considered**                   interest**        rating**
+  ------------- ------------------ ----------------- ---------------- ------------- ----------------- ----------
+  Burford et    151 systematic     Not reported      PRISMA Equity    Mixed methods Perceived         Fairly
+  al., 2013     review authors                                        survey        utility,          valuable
+  (25)                                                                              facilitators, and 
+                                                                                    barriers          
+
+  Davies et     18 experts and 29  USA, Canada,      SQUIRE           Focus groups  Experiences with  Valuable
+  al., 2015     end users          Sweden, the UK,                    and           and impressions   
+  (19)                             and Norway                         interviews    of the SQUIRE     
+                                                                                    Guidelines        
+
+  Davies et     44 graduates       Not reported      SQUIRE           Mixed methods "whether SQUIRE   Valuable
+  al., 2016 (6) faculty, and                                          survey and    1.6 was           
+                directors of                                          written       understood and    
+                healthcare                                            exercise      implemented as    
+                                                                                    intended by the   
+                                                                                    developers"       
+
+  De Vries et   7 researchers      Not reported      Systematic                     Feedback on       Not very
+  al. 2015 (46)                                      review protocols               usability,        valuable
+                                                     of animal                      missing items,    
+                                                     intervention                   possibilities for 
+                                                     studies                        improvement and   
+                                                                                    clarity           
+
+  Dewey et al., 74 out of 831      The full survey   CONSORT, STROBE, Mixed methods \"(1) When and    Fairly
+  2019 (17)     survey respondents was answered by   PRISMA, STARD    survey        how are reporting valuable
+                that provided      respondents in                                   guidelines and    
+                (optional) free    the USA, Canada,                                 checklists used   
+                text comments      China, South                                     by authors and    
+                                   Korea, Japan,                                    reviewers? (2)    
+                                   Germany, France,                                 What is their     
+                                   Italy, UK, Other                                 impact on the     
+                                   European                                         content of final  
+                                   countries, Middle                                manuscript drafts 
+                                   East, Latin                                      according to      
+                                   America, Other.                                  authors? and (3)  
+                                   It\'s unclear                                    How do authors    
+                                   where respondents                                and reviewers     
+                                   for the free text                                perceive the      
+                                   answers came                                     value of          
+                                   from.                                            reporting         
+                                                                                    guidelines and    
+                                                                                    related           
+                                                                                    checklists?\"     
+
+  Eysenbach     61 authors         Not reported      CONSORT Ehealth  Mixed methods Views on          Fairly
+  2013 (26)                                                           survey        completing the    valuable
+                                                                                    checklist as part 
+                                                                                    of submission     
+
+  Fuller et     5 authors          USA and Australia TREND and        Semi          Factors that      Valuable
+  al., 2015 (8)                                      Reporting        structured    affected authors' 
+                                                     Guidelines in    interviews    use of TREND and  
+                                                     general                        other reporting   
+                                                                                    guidelines        
+
+  Korevaar et   4 radiology        Radiology         STARD            Interview     To identify items Fairly
+  al., 2016     residents, 8       residents were                     (residents)   that were vague,  valuable
+  (18)          laboratory         from the                           and mixed     ambiguous,        
+                medicine experts   Netherlands. No                    methods       difficult to      
+                                   geographical                       survey        interpret, or     
+                                   details provided                   (experts)     missing           
+                                   for experts                                                        
+
+  Macleod et    211 authors, but   The full survey   Materials Design Mixed methods Whether the       Fairly
+  al., 2021     only some answered was answered by   Analysis         survey        checklist was     valuable
+  (16)          the free text      participants in   Reporting                      clear and useful  
+                question           the USA, China,   framework                                        
+                                   Japan, Germany,                                                    
+                                   EU, and "Other"                                                    
+                                   areas. It is                                                       
+                                   unclear who                                                        
+                                   answered the free                                                  
+                                   text question.                                                     
+
+  Page et al.,  110 systematic     Not reported      PRISMA           Mixed methods Opinions on       Valuable
+  2021 (20)     review authors and                                    survey        PRISMA and        
+                experts                                                             proposed changes  
+
+  Prady et al., 40 authors         Not reported      Standards for    Mixed methods Experiences using Fairly
+  2007 (21)                                          Reporting        survey        PRISMA            valuable
+                                                     Interventions in                                 
+                                                     Controlled                                       
+                                                     Trials of                                        
+                                                     Acupuncture                                      
+
+  Prager et     5 of 18 survey     Not reported      STARD            Mixed methods Barriers to STARD Fairly
+  al., 2021     respondents that                                      survey        2015 adherence    valuable
+  (24)          answered the free                                                                     
+                text question                                                                         
+
+  Rader et al., 263 systematic     Not reported      PRISMA           Mixed methods Barriers or       Fairly
+  2014 (47)     reviewers                                             survey        difficulties in   valuable
+                                                                                    meeting more      
+                                                                                    detailed          
+                                                                                    reporting         
+                                                                                    standards in      
+                                                                                    PRISMA            
+
+  du Sert et    11 authors         UK, USA, Belgium, ARRIVE           Interview and Authors'          Fairly
+  al., 2020 (5)                    Brazil                             writing task  opinions,         valuable
+                                                                                    interpretation,   
+                                                                                    and experiences   
+                                                                                    of updated ARRIVE 
+                                                                                    guidelines        
+
+  Sharp et al., 203 of 1015        The full survey   STROBE           Mixed methods Experiences and   Valuable
+  2020 (7)      researchers that   was answered by                    survey        attitudes towards 
+                answered free text participants in                                  STROBE            
+                questions          Africa, Asia,                                                      
+                                   Europe, North and                                                  
+                                   South America,                                                     
+                                   Middle East, and                                                   
+                                   Pacific Region.                                                    
+                                   It is unclear who                                                  
+                                   answered the free                                                  
+                                   text question.                                                     
+
+  Struthers et  623 authors, 274   Not reported      Reporting        Mixed methods The question      Fairly
+  al., 2021     of whom answered                     guidelines in    survey        asked, "What      valuable
+  (22)          free the text                        general                        could we do to    
+                question                                                            improve the       
+                                                                                    guideline?"       
+
+  Svensøy et    10 authors         Not reported      Not specified    Semi          Experiences using Valuable
+  al., 2021                                                           structured    guidelines or     
+  (27)                                                                interviews    templates         
+
+  Tam et al.,   230 authors, 62 of Not reported      PRISMA           Mixed methods Opinions on       Fairly
+  2019 (28)     whom answered the                                     survey        PRISMA            valuable
+                open-ended                                                                            
+                questions                                                                             
+  --------------------------------------------------------------------------------------------------------------
+
+## Table 4: Codes, descriptive themes, and analytic themes
+
++-----------------------+-----------------------+-----------------------+
+|                       |                       | Analytic theme        |
++=======================+=======================+=======================+
+| What does this term   | What does this mean?  | Researchers may not   |
+| mean? (6,18--20,22)   |                       | understand the        |
+|                       | Why is this item      | guidance as intended, |
+| What does this item   | important?            | or what reporting     |
+| mean? (5,6,18--22)    |                       | guidelines are, even  |
+|                       | Does this apply to    | if they think they do |
+| How are these items   | me?                   |                       |
+| di                    |                       |                       |
+| fferent?(5,19--21,26) | I don't understand    |                       |
+|                       | what reporting        |                       |
+| Have I understood     | guidelines are        |                       |
+| this as intended?     |                       |                       |
+| (6,19)                |                       |                       |
+|                       |                       |                       |
+| Examples help me      |                       |                       |
+| understand items      |                       |                       |
+| (5,20,46)             |                       |                       |
+|                       |                       |                       |
+| Why is this item      |                       |                       |
+| important?            |                       |                       |
+| (5,18--20,28)         |                       |                       |
+|                       |                       |                       |
+| Who is this item      |                       |                       |
+| important to?         |                       |                       |
+| (7,19,20)             |                       |                       |
+|                       |                       |                       |
+| Have I understood the |                       |                       |
+| guideline's scope as  |                       |                       |
+| intended? (20,22)     |                       |                       |
+|                       |                       |                       |
+| Does this item apply  |                       |                       |
+| to me? (5,19--22,26)  |                       |                       |
+|                       |                       |                       |
+| Is this item          |                       |                       |
+| optional? (19,21)     |                       |                       |
+|                       |                       |                       |
+| What are reporting    |                       |                       |
+| guidelines? (7,24)    |                       |                       |
+|                       |                       |                       |
+| How should I use a    |                       |                       |
+| reporting guideline?  |                       |                       |
+| (8)                   |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I find guidelines     | Guidelines benefit me | Researchers report a  |
+| useful in general     |                       | variety of reasons    |
+| (5,17,22)             | I use guidelines      | for using reporting   |
+|                       | because of other      | guidelines, and that  |
+| Guidelines make me    | people                | some are more         |
+| feel confident (7)    |                       | important than others |
+|                       | Guidelines benefit    |                       |
+| Guidelines help me    | others                |                       |
+| develop as a          |                       |                       |
+| researcher (5,7,25)   | Some benefits are     |                       |
+|                       | more important than   |                       |
+| Guidelines may help   | others                |                       |
+| me improve my         |                       |                       |
+| manuscript            |                       |                       |
+| (7,17,19,25,26)       |                       |                       |
+|                       |                       |                       |
+| I believe guidelines  |                       |                       |
+| may help me publish   |                       |                       |
+| more easily (27)      |                       |                       |
+|                       |                       |                       |
+| I may use guidelines  |                       |                       |
+| because journals and  |                       |                       |
+| editors tell me to    |                       |                       |
+| (7,8,25,27)           |                       |                       |
+|                       |                       |                       |
+| I may use guidelines  |                       |                       |
+| because other         |                       |                       |
+| researchers expect it |                       |                       |
+| (8,27)                |                       |                       |
+|                       |                       |                       |
+| Standardized          |                       |                       |
+| reporting benefits    |                       |                       |
+| the community         |                       |                       |
+| (7,27,48)             |                       |                       |
+|                       |                       |                       |
+| Immediate benefits    |                       |                       |
+| are more important    |                       |                       |
+| than hypothetical     |                       |                       |
+| ones (7,27)           |                       |                       |
+|                       |                       |                       |
+| Personal benefits are |                       |                       |
+| more important than   |                       |                       |
+| benefits to others    |                       |                       |
+| (27)                  |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I use reporting       | Researchers use       | Researchers report    |
+| guidelines for        | reporting guidelines  | using reporting       |
+| planning research     | for different tasks   | guidelines for        |
+| (7,19)                |                       | different tasks and   |
+|                       | I want guidance       | wanting guidance to   |
+| I use reporting       | presented in formats  | be delivered in ways  |
+| guidelines for        | that are better       | that better fit their |
+| designing research    | suited to the task I  | needs                 |
+| (5,7,17,21,24)        | am doing              |                       |
+|                       |                       |                       |
+| I use reporting       |                       |                       |
+| guidelines for        |                       |                       |
+| writing               |                       |                       |
+| (5,7,17,19,21)        |                       |                       |
+|                       |                       |                       |
+| I use reporting       |                       |                       |
+| guidelines for        |                       |                       |
+| checking my own or    |                       |                       |
+| other people's        |                       |                       |
+| writing (7,24)        |                       |                       |
+|                       |                       |                       |
+| I use reporting       |                       |                       |
+| guidelines to         |                       |                       |
+| appraise the quality  |                       |                       |
+| of other people's     |                       |                       |
+| reporting (18)        |                       |                       |
+|                       |                       |                       |
+| I use reporting       |                       |                       |
+| guidelines for peer   |                       |                       |
+| reviewing (7)         |                       |                       |
+|                       |                       |                       |
+| I want items          |                       |                       |
+| presented in the      |                       |                       |
+| order in which I must |                       |                       |
+| do them (5,46,48)     |                       |                       |
+|                       |                       |                       |
+| I want design or      |                       |                       |
+| methods advice        |                       |                       |
+| (7,19,20)             |                       |                       |
+|                       |                       |                       |
+| I want templates for  |                       |                       |
+| writing (17)          |                       |                       |
+|                       |                       |                       |
+| I want checklists     |                       |                       |
+| that are easy to fill |                       |                       |
+| in (16,22)            |                       |                       |
+|                       |                       |                       |
+| I want checklists     |                       |                       |
+| embedded into journal |                       |                       |
+| submission workflows  |                       |                       |
+| (17)                  |                       |                       |
+|                       |                       |                       |
+| I want items embedded |                       |                       |
+| into data collection  |                       |                       |
+| tools (25)            |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Guidelines take time  | Guidelines take time  | Using reporting       |
+| to read, understand   |                       | guidelines has costs, |
+| and apply (8,25,27)   | Itemization may       | and researchers may   |
+|                       | decrease costs        | not feel that         |
+| Some items require    |                       | benefits outweigh the |
+| extra work which      | Itemization may       | costs                 |
+| takes time and effort | increase perceived    |                       |
+| (6,19,47)             | costs                 |                       |
+|                       |                       |                       |
+| I want an indication  | I think guidelines    |                       |
+| of which items to     | make my manuscripts   |                       |
+| prioritize (19,21)    | long and bloated      |                       |
+|                       |                       |                       |
+| Perceived complexity  | The benefits of using |                       |
+| (16,17,19,27)         | a reporting guideline |                       |
+|                       | may not outweigh the  |                       |
+| Long guidelines are   | costs                 |                       |
+| off-putting           |                       |                       |
+| (7,22,25,26)          | The balance of        |                       |
+|                       | benefits vs costs may |                       |
+| Itemization helps me  | be more favourable    |                       |
+| navigate guidance(20) | when guidelines are   |                       |
+|                       | used early            |                       |
+| Itemization           |                       |                       |
+| summarizes the        |                       |                       |
+| guidance(17)          |                       |                       |
+|                       |                       |                       |
+| Itemization makes     |                       |                       |
+| guidance appear       |                       |                       |
+| longer(20)            |                       |                       |
+|                       |                       |                       |
+| Itemization blocks    |                       |                       |
+| the bigger            |                       |                       |
+| picture(19)           |                       |                       |
+|                       |                       |                       |
+| Following reporting   |                       |                       |
+| guidance can result   |                       |                       |
+| in long, bloated      |                       |                       |
+| articles              |                       |                       |
+| (19,21,25,26)         |                       |                       |
+|                       |                       |                       |
+| Long, bloated         |                       |                       |
+| articles may exceed   |                       |                       |
+| journal word limits   |                       |                       |
+| (8,16,21,26)          |                       |                       |
+|                       |                       |                       |
+| I want options for    |                       |                       |
+| where to report this  |                       |                       |
+| item (5--8,19,20,26)  |                       |                       |
+|                       |                       |                       |
+| The benefits of using |                       |                       |
+| a reporting guideline |                       |                       |
+| may not outweigh the  |                       |                       |
+| costs (7,8,26)        |                       |                       |
+|                       |                       |                       |
+| Guidelines are more   |                       |                       |
+| valuable when used    |                       |                       |
+| early (7,17,19,22)    |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I would clarify this  | I think the guidance  | Reporting guidelines  |
+| item (20,21)          | could be improved     | may need to be        |
+|                       |                       | revised and updated   |
+| I would move this     | Guidelines need to be | for different reasons |
+| item (6,19)           | kept updated          |                       |
+|                       |                       |                       |
+| I would split this    |                       |                       |
+| item into two         |                       |                       |
+| (5,19,20,46)          |                       |                       |
+|                       |                       |                       |
+| I would add or remove |                       |                       |
+| items from this       |                       |                       |
+| guideline (5,18--21)  |                       |                       |
+|                       |                       |                       |
+| I would add or remove |                       |                       |
+| requirements from     |                       |                       |
+| this item             |                       |                       |
+| (5,7,20,21,28)        |                       |                       |
+|                       |                       |                       |
+| Guidelines can become |                       |                       |
+| out of date (19)      |                       |                       |
+|                       |                       |                       |
+| Guidelines need to be |                       |                       |
+| updated (20)          |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I cannot report this  | I feel unable to      | Researchers may not   |
+| because I didn't do   | report this           | be able to report all |
+| it                    |                       | items which can leave |
+|                       | I feel nervous or     | them feeling          |
+| (19--21,26)           | uncertain if I am     | uncertain or worried  |
+|                       | unable to report an   |                       |
+| I cannot report this  | item                  |                       |
+| because of            |                       |                       |
+| intellectual property |                       |                       |
+| issues                |                       |                       |
+|                       |                       |                       |
+| \(26\)                |                       |                       |
+|                       |                       |                       |
+| I cannot report this  |                       |                       |
+| because it clashes    |                       |                       |
+| with journal          |                       |                       |
+| guidelines (20)       |                       |                       |
+|                       |                       |                       |
+| I cannot report this  |                       |                       |
+| because data was      |                       |                       |
+| missing from my       |                       |                       |
+| primary studies (25)  |                       |                       |
+|                       |                       |                       |
+| Editors, reviewers or |                       |                       |
+| co-authors asked me   |                       |                       |
+| to remove this item   |                       |                       |
+| (21,47)               |                       |                       |
+|                       |                       |                       |
+| I feel uncertain      |                       |                       |
+| because I don't know  |                       |                       |
+| how to say that I     |                       |                       |
+| didn't do it (20)     |                       |                       |
+|                       |                       |                       |
+| I feel worried that I |                       |                       |
+| will be judged for    |                       |                       |
+| transparently         |                       |                       |
+| reporting something I |                       |                       |
+| didn't do (7,20)      |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I may not know that   | I can only use what I | Awareness and         |
+| reporting guidelines  | know about and have   | accessibility may     |
+| exist, or what        |                       | limit reporting       |
+| guidance exists       |                       | guideline usage       |
+| (8,17,18,22,27)       |                       |                       |
+|                       |                       |                       |
+| I may not be able to  |                       |                       |
+| easily access         |                       |                       |
+| guidance (22,27)      |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Reporting guidelines  | Reporting guidelines  | Reporting guidelines  |
+| may be less valuable  | are more valuable to  | may be more useful to |
+| to experienced        | inexperienced         | less experienced      |
+| researchers (7,17,26) | researchers           | researchers, but less |
+|                       |                       | experienced           |
+| Experienced           | Reporting guidelines  | researchers may find  |
+| researchers feel that | can be hard to use at | them harder to use    |
+| they already know how | first but get easier  |                       |
+| to report (7,17,19)   | with experience       |                       |
+|                       |                       |                       |
+| Experienced           |                       |                       |
+| researchers find      |                       |                       |
+| guidance patronizing  |                       |                       |
+| and feel untrusted    |                       |                       |
+| (8,16,20,26)          |                       |                       |
+|                       |                       |                       |
+| Reporting guidelines  |                       |                       |
+| can be hard to use at |                       |                       |
+| first but get easier  |                       |                       |
+| with experience       |                       |                       |
+| (8,19,27)             |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I want design or      | I want or need design | Researchers want or   |
+| methodological advice | advice                | need design advice,   |
+| (7,16,20)             |                       | but reporting         |
+|                       | I think this guidance | guidelines may not be |
+| I don't know how to   | prescribes how        | the right place       |
+| do this item (19--21) | research should be    |                       |
+|                       | designed              |                       |
+| Guidelines are        |                       |                       |
+| procedural            |                       |                       |
+| straightjackets (7)   |                       |                       |
+|                       |                       |                       |
+| This guideline is too |                       |                       |
+| prescriptive          |                       |                       |
+| (7,20,28)             |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| The guideline's       | A guideline's scope   | Reporting guidelines  |
+| applicability         | can be unclear        | can be harder to use  |
+| criteria are not      |                       | if their scope is too |
+| clear (17,18,22)      | A guideline can be    | broad, too narrow, or |
+|                       | too narrow            | poorly defined        |
+| This guideline isn't  |                       |                       |
+| a perfect fit for me  | A guideline's scope   |                       |
+| (22)                  | can be too broad      |                       |
+|                       |                       |                       |
+| This guideline        |                       |                       |
+| doesn't generalise    |                       |                       |
+| (7,16,17,20,28)       |                       |                       |
+|                       |                       |                       |
+| This guideline is too |                       |                       |
+| prescriptive          |                       |                       |
+| (7,20,28)             |                       |                       |
+|                       |                       |                       |
+| I don't want to see   |                       |                       |
+| optional items that   |                       |                       |
+| only apply to other   |                       |                       |
+| types of study        |                       |                       |
+| (21,22)               |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I need to adhere to   | Authors often need to | Researchers may have  |
+| journal guidelines or | adhere to multiple    | to use multiple sets  |
+| other research        | sets of guidance      | of reporting          |
+| guidelines            |                       | guidelines,           |
+| (8,17,20,21)          | I want guidelines to  | multiplying           |
+|                       | harmonize             | complexity and costs  |
+| I might need to use   |                       |                       |
+| multiple reporting    |                       |                       |
+| guidelines (7)        |                       |                       |
+|                       |                       |                       |
+| I want reporting      |                       |                       |
+| guidelines to be      |                       |                       |
+| linked or embedded    |                       |                       |
+| (18,20)               |                       |                       |
+|                       |                       |                       |
+| I want reporting      |                       |                       |
+| guidelines to use     |                       |                       |
+| similar structure     |                       |                       |
+| (20)                  |                       |                       |
+|                       |                       |                       |
+| I want reporting      |                       |                       |
+| guidelines to use     |                       |                       |
+| similar terms (20)    |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| I don't like          | I experience          | Researchers may use   |
+| c                     | reporting guidelines  | checklists but never  |
+| hecklists(7,17,22,26) | primarily as, or      | read the full         |
+|                       | through, checklists   | guidance              |
+| I may use the         |                       |                       |
+| checklist instead of  |                       |                       |
+| the full guidance (5) |                       |                       |
+|                       |                       |                       |
+| I may use the         |                       |                       |
+| checklist before I    |                       |                       |
+| read the full         |                       |                       |
+| guidance (5)          |                       |                       |
++-----------------------+-----------------------+-----------------------+
+
+# Appendix
+
+## Appendix A: Search strategies
+
+We did not seek any external peer review of our search. We did not
+record the database versions at the time of searching due to an
+oversight. We performed forward and backwards citation searching but
+found no additional records. We did not set up email alerts.
+
+### Ovid search strategy
+
+Databases: Medline, Embase, AMED, PsycINFO.
+
+Search date: 08/12/2021
+
+We used a federated search. The *kw* field does not exist in PsycINFO or
+AMED and so was ignored by these databases. The *tw* field does not
+exist in AMED either and was mapped to *af* instead.
+
+1.  ((reporting or writ\$ or author\$) adj2 (checklist\$ or statement\$
+    or guid\$ or template\$ or standard\$ or recommendation\$)).ti,kw.
+
+2.  ((consort\$ or strobe\$ or stard\$ or prisma\$ or moose\$ or
+    squire\$ or arrive\$ or remark\$ or tripod\$ or cheers\$ or spirit\$
+    or srqr\$ or coreq\$) adj3 (guid\$ or statement\$ or
+    checklist\$)).ti,kw.
+
+3.  (experience\$ or interview\$ or survey\$ or questionnaire\$ or
+    \"focus group\$\" or facilitat\$ or barrier\$).af.
+
+4.  qualitative.tw.
+
+5.  1 or 2
+
+6.  3 or 4
+
+7.  5 and 6
+
+Platform-specific filter applied: 1996 -- current year
+
+### Global Index Medicus & SciELO search strategy
+
+Databases: Latin American and Caribbean Health Sciences Literature,
+African Index Medicus, Western Pacific Region Index Medicus, Index
+Medicus for South-East Asia Region, and Index Medicus for the Eastern
+Mediterranean Region, searched using Global Index Medicus
+(https://www.globalindexmedicus.net/); Scientific Electronic Library
+Online (<https://scielo.org/en/>).
+
+Search date: 08/12/2021
+
+ti:(((reporting OR writ\* OR author\*) AND (checklist\* OR statement\*
+OR guid\* OR template\* OR standard\* OR recommendation\* OR
+experience\* OR interview\* OR survey\* OR questionnaire\* OR \"focus
+group\*\" OR facilitat\* OR barrier\* OR qualitative\*)))
+
+Platform-specific filter applied: 1996 -- current year
+
+### Chinese Biomedical Literature Database
+
+Database URL: <https://www.imicams.ac.cn/>
+
+Search Date: 25/10/2021
+
+1\. 报告 OR 撰写 OR 作者
+
+2\. 清单 OR 声明 OR 指导 OR 规范 OR 指南 OR 共识 OR 模板 OR 标准 OR
+推荐意见
+
+3\. CONSORT OR PRISMA OR STROBE OR SPIRIT OR STARD OR SRQR OR ARRIVE OR
+SQUIRE OR CHEERS OR TRIPOD OR COREQ
+
+4\. 经历 OR 体验 OR 访谈OR 调查 OR 问卷调查 OR 焦点小组 OR 焦点群众
+
+5\. 促进 OR 阻碍
+
+6\. 质性研究 OR 定性研究
+
+7\. (#2) AND (#1)
+
+8\. (#7) OR (#3)
+
+9\. (#6) OR (#5) OR (#4)
+
+10\. (#9) AND (#8)
+
+11\. ((#9) AND (#8)) AND (\"循证文献\"\[文献类型\] OR
+\"临床试验\"\[文献类型\])
+
+### China National Knowledge Infrastructure
+
+Database URL: <https://www.cnki.net/>
+
+Search Date: 25/10/2021
+
+( ( ( TI = \'报告\' OR TI = \'撰写\' OR TI = \'作者\') AND (TI =
+\'清单\' OR TI = \'声明\' OR TI = \'指导\' OR TI = \'规范\' OR TI =
+\'指南\' OR TI = \'共识\' OR TI = \'模板\' OR TI = \'标准\' OR TI =
+\'推荐意见\' ) ) OR ( TI = \'CONSORT\' OR TI = \'STROBE\' OR TI =
+\'PRISMA\' OR TI = \'SPIRIT\' OR TI = \'STARD\' OR TI = \'SRQR\' OR TI =
+\'ARRIVE\' OR TI = \'SQUIRE\' OR TI = \'CHEERS\' OR TI = \'TRIPOD\' OR
+TI = \'COREQ\' ) ) AND (TI = \'经历\' OR TI = \'体验\' OR TI = \'访谈\'
+OR TI = \'调查\' OR TI = \'问卷调查\' OR TI = \'焦点群众\' OR TI =
+\'焦点小组\' OR TI = \'促进\' OR TI = \'阻碍\' OR TI = \'质性研究\' OR
+TI = \'定性研究\' )
+
+### Wanfang Data
+
+Database URL: http://www.wanfangdata.com/
+
+(((题名或关键词:(报告 or 撰写 or 作者)) and (题名或关键词:(清单 or 声明
+or 指导 or 规范 or 指南 or 共识 or 模板 or 标准 or 推荐意见))) or
+(题名或关键词:(CONSORT or STROBE or STARD or PRISMA or MOOSE or SQUIRE
+or ARRIVE or REMARK or TRIPOD or CHEERS or SPIRIT or SRQR or COREQ)))
+and (题名或关键词:(经历 or 体验 or 访谈 or 访问 or 采访 or 调查 or
+问卷调查 or 焦点小组 or 焦点群众 or 促进 or 阻碍 or 质性研究 or
+定性研究))
+
+### VIP Chinese Medical Journal Database
+
+Database URL: http://www.cqvip.com/
+
+(((M=(报告 OR 撰写 OR 作者)) AND (M=(清单 OR 声明 OR 指导 OR 规范 OR
+指南 OR 共识 OR 模板 OR 标准 OR 推荐意见))) OR (M=(CONSORT OR PRISMA OR
+STROBE OR SPIRIT OR STARD OR SRQR OR ARRIVE OR SQUIRE OR CHEERS OR
+TRIPOD OR COREQ))) AND (M=(体验 OR 访谈 OR 调查 OR 问卷调查 OR 焦点群众
+OR 焦点小组 OR 质性研究 OR 定性研究))
+
+### OSF
+
+URL: <https://osf.io/>
+
+Search Date: 15/12/2021
+
+title:(((reporting OR writ\* OR author\*) AND (checklist\* OR
+statement\* OR guid\* OR template\* OR standard\* OR recommendation\* OR
+experience\* OR interview\* OR survey\* OR questionnaire\* OR \"focus
+group\*\" OR facilitat\* OR barrier\* OR qualitative\*)))
+
+### Methods in Research on Research 
+
+URL: http://miror-ejd.eu/publications/
+
+Search Date: 14/12/2021
+
+JH manually searched the list of publications.
