@@ -3,6 +3,7 @@ csl: springer-vancouver.csl
 filters:
   - filters/docx-landscape.lua
   - filters/replace_todo.lua
+  # - filters/wordcount.lua
 crossref:
   sec-prefix: Chapter
 project:

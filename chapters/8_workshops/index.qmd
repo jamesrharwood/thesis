@@ -101,18 +101,24 @@ Service provision was also favoured, as long as the service was financially sust
 
 ### 7. Identify behaviour change techniques
 
-The aim of step 7 is to identify possible behaviour change techniques by systematically considering items from a taxonomy of 93 techniques for each intervention function. Asking this of EQUATOR was impractical; it was too time consuming to do as a group and EQUATOR staff did not have time to become familiar with the taxonomy.
+The aim of step 7 is to identify possible behaviour change techniques by systematically considering items from a taxonomy of 93 techniques for each intervention function chosen in step 5. Michie et al suggest doing it this way because "the process of designing behaviour change interventions usually involves first of all determining the broad approach that will be adopted and then working on the specifics of the intervention design. For example, when attempting to reduce excessive antibiotic prescribing one may decide that an educational intervention is the appropriate approach. Alternatively, one may seek to incentivise appropriate prescribing or in some way penalise inappropriate prescribing. Once one has done this, one would decide on the specific intervention components.". So Michie et al. suggest that intervention designers will select only one or two intervention functions, and then consider all behaviour change techniques relevant to that function.
 
-#TODO: Is this different to how Michie recommends? I think she says that for each IF consider BCTs. If I had done it that way around, I would *still* have needed an ideas generation step. It's OK to decide in favour of a BCT for a particular IF in abstract, but what does that mean in practice? Still have to make content decisions. 
+But in our case, picking a "broad approach" didn't feel helpful. Given that a system already exists for disseminating reporting guidance, and we found ourselves considering how we could use multiple intervention functions to refine the existing system. Asking EQUATOR to consider the full behaviour change technique taxonomy for multiple intervention functions was impractical. As other have also found (e.g., @carvalhoParticipatoryDesignBehaviour2020), this task was too time consuming to do as a group and EQUATOR staff did not have time to become familiar with the taxonomy.
 
-#Consider replacing "It was too time consuming to do as a group..." above with something like:
-* Michie's recommended step was impractical because:
-    * Required understanding and familiarity with BCTs
-    * Takes a lot of time (Could cite https://research-information.bris.ac.uk/ws/portalfiles/portal/189192935/s40814_019_0425_6.pdf or @carvalhoParticipatoryDesignBehaviour2020)
+Instead, I did this step on my own. I went through each intervention function that the group had favoured in step 5 (Enablement, Education, Training, Persuasion, Modelling, and Environmental Restructuring) and considered all relevant behaviour change techniques. 
 
-In the original BCW paper, Michie writes that "The process of designing behaviour change interventions usually involves first of all determining the broad approach that will be adopted and then working on the specifics of the intervention design. For example, when attempting to reduce excessive antibiotic prescribing one may decide that an educational intervention is the appropriate approach. Alternatively, one may seek to incentivise appropriate prescribing or in some way penalise inappropriate prescribing. Once one has done this, one would decide on the specific intervention components. ". But in our case, picking a "broad approach" didn't feel helpful. Given that a system already exists for disseminating reporting guidance, and given that EQUATOR can only control a part of that system, we found ourselves considering how we could use multiple approaches to refine the existing system. Hence we were immediately (and naturally) talking about intervention components. 
+#TODO: I could better explain that this was iterative. I did it before the focus groups and then again afterwards where I went "backwards" from ideas back to BCTs.
 
-Consequently, instead of asking EQUATOR staff to consider the behaviour change taxonomy for a single intervention function, I asked them to brainstorm ideas more loosely for each intervention function without worrying about a taxonomy. This "ideas generation" step was also an opportunity to solicit feedback from the broader reporting guideline community, which I describe fully in chapter {{< var chapters.focus-groups >}}. My workshops with EQUATOR generated {{< var counts.EQUATOR_ideas >}} which grew to {{< var counts.sub_items_pre_jh >}} ideas after input from stakeholders.
+Intervention Function | Selected Behaviour Change Techniques
+---|---
+Enablement|todo...
+Education|
+Training|
+Persuasion|
+Modelling|
+Environmental Restructuring|
+
+<!-- Consequently, instead of asking EQUATOR staff to consider the behaviour change taxonomy for a single intervention function, I asked them to brainstorm ideas more loosely for each intervention function without worrying about a taxonomy. This "ideas generation" step was also an opportunity to solicit feedback from the broader reporting guideline community, which I describe fully in chapter {{< var chapters.focus-groups >}}. My workshops with EQUATOR generated {{< var counts.EQUATOR_ideas >}} which grew to {{< var counts.sub_items_pre_jh >}} ideas after input from stakeholders.
 
 I then worked "backwards" to identify what BCTs these components were using. See @fig-bcw-stages-modified for how this extra "ideas generation" step fitted into Michie et al's recommended guide. I then performed the step "forwards", as initially intended by Michie et al., by taking IFs in turn, considering all BCTs and especially those not already used in any existing ideas. I added {{< var  counts.jh_ideas >}} extra ideas that occurred to me during this systematic step, leading to {{< var.counts.sub_items >}} in total. 
 
@@ -120,9 +126,7 @@ I then worked "backwards" to identify what BCTs these components were using. See
 
 #TODO: Decide whether to move the intervention component table to here, or whether to add a different table here. Perhaps just 3 cols. Intervention Function; Behaviour Change Technique; Idea? Could label where these ideas came from - workshops / focus groups / me. Or just two columns - IF and BCT. 
 
-#TODO: I might want to strip out "delivery options" from the ideas table as they cannot be labelled with a BCT.
-
-
+#TODO: I might want to strip out "delivery options" from the ideas table as they cannot be labelled with a BCT. -->
 
 ### 8. Identifying delivery options
 
@@ -134,21 +138,21 @@ Instead, refining and extending the existing EQUATOR website felt like the perfe
 
 ##  Discussion
 
-#TODO: summarize main outcomes 
+Following Michie et al.'s guide helped us to specify our target behaviour, understand the behavioural drivers behind {{< var counts.barriers >}} barriers to our target behaviour, select intervention functions, policy categories, behaviour change techniques, and delivery options. 
 
-My EQUATOR colleagues found the exercise incredibly useful and motivating. The process got everybody thinking about reporting guidelines not just as a set of documents or standards, but as a complex behaviour change intervention. It also helped us challenge our preconceptions. One of the most interesting parts of this process was witnessing an unexpected change of opinion amongst EQUATOR staff. Before beginning this study, a common refrain heard around the office was that in order for reporting guidelines to be successful editors had to start enforcing them and refuse to publish research that didn't adhere. So it was fascinating to see that workshop participants unanimously rated restriction and coercion as their least favourite options.
+More fundamentally, the process helped the workshop participants to begin thinking about reporting guidelines as a behaviour change intervention. The process helped us break down the differences between tasks (e.g., writing vs. editing vs. reviewing research articles), users (e.g., inexperienced vs. experienced researchers, editors, reviewers), resources (e.g., example and elaboration documents vs. checklists). It helped workshops participants to look at the current system objectively and it helped us challenge our preconceptions.
+
+One of the most interesting parts of this process was witnessing an unexpected change of opinion amongst EQUATOR staff. Before beginning this study, a common refrain heard around the office was that in order for reporting guidelines to be successful editors had to start enforcing them and refuse to publish research that didn't adhere. So it was fascinating to see that workshop participants unanimously rated restriction and coercion as their least favourite options.
 
 I think two things happened here. Firstly, having discussed the barriers that authors face when trying to use reporting guidelines, participants felt that forcing authors to use them would be unacceptable to authors, impractical for editors, and inequitable as some authors would face larger hurdles than others. Secondly, participants reassessed things they had taken for granted, and realised that there are many low-hanging fruit that could make guidelines easier to find and use, and that these fruit were growing in their own orchard.
 
-#TODO: more discussion!
+Sometimes it was difficult to get participants to think "outside of the box". The default was to think about how the existing system could be improved, and it was difficult to imagine a world where we could be starting from scratch. In one sense this was an opportunity, as improving a system that already exists is easier than creating something totally new. But it could also be seen as a limitation, as our imagination may have been limited by what already exists. 
 
-Limitations:
+We may also have been limited by group-think #REF. All workshop participants had worked for the EQUATOR Center for many years and had many shared opinions and experiences. Including other stakeholders would have helped address this but would have been impractical to coordinate. In chapters {{< var chapters.focus-groups >}} and {{< var chapters.pilot >}} I describe how I sought input from guideline developers, publishers, and authors.
 
-* Homogenous group. Would have benefited from other stakeholders & authors but I try to make up for this. 
-* Would have been better if all participants had been familiar with BCW before hand
+<!-- * Would have been better if all participants had been familiar with BCW before hand
 * Group dynamics - some may have held their tongue?
-* It was difficult to think blue sky. Our thinking was clouded by what already exists. 
-* I could have recorded each session and analysed transcripts. Perhaps I missed some things that were discussed but not added to the document? No recollection of that happening though. 
+* I could have recorded each session and analysed transcripts. Perhaps I missed some things that were discussed but not added to the document? No recollection of that happening though.  -->
 
 <!-- #ASK: Integration with prior work, implications, transferability, and contribution(s) to the field. Seems unnecessary for this chapter? -->
 
