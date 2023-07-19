@@ -10,7 +10,7 @@ format:
     html: 
         theme: cosmo
 filters:
-  - docx-landscape.lua
+  - filters/docx-landscape.lua
 ---
 
 
