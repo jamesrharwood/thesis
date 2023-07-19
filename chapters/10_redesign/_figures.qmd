@@ -8,10 +8,10 @@ format:
 <!-- JOURNEYS -->
 
 <!-- Journey before -->
-![The layout of the existing EQUATOR Network website, as of the 5th of April, 2023. Users must navigate through up to 5 different web pages to reach reporting guidance. The proportion of users navigating between each step is shown in the width of the links. Links in grey are estimated proportions.](chapters/10_redesign/figures/sankey-before.png){#fig-sankey-b4 width=100%}
+![The layout of the existing EQUATOR Network website, as of the 5th of April, 2023. Users must navigate through up to 5 different web pages to reach reporting guidance. The proportion of users navigating between each step is shown in the width of the links. Links in grey are estimated proportions.](figures/sankey-before.png){#fig-sankey-b4 width=100%}
 
 <!-- Journey after -->
-![The layout of the new web-intervention. Users must now only need to navigate to 2 pages to access reporting guidance. The proportion of users navigating between each step is shown in the width of the links. All links in are estimated proportions, based on a realistic aim to reduce the exit rate from the home page and database page by 50%.](chapters/10_redesign/figures/sankey-after.png){#fig-sankey-after width=100%}
+![The layout of the new web-intervention. Users must now only need to navigate to 2 pages to access reporting guidance. The proportion of users navigating between each step is shown in the width of the links. All links in are estimated proportions, based on a realistic aim to reduce the exit rate from the home page and database page by 50%.](figures/sankey-after.png){#fig-sankey-after width=100%}
 
 <!-- BEFORE -->
 
@@ -26,7 +26,7 @@ format:
 7) There was little description of benefits of using a reporting guideline besides the mention of 'quality' and 'transparency' in the definition of EQUATOR, reference to 'high-impact research', 'improve your writing', and 'enhance your peer review' in the header. 
 8) No reassurance that most research has limitations 
 9) Frequently accessed guidelines are fairly easy to find (area C). 
-](chapters/10_redesign/figures/www.equator-network.org_.png){#fig-home-b4 height=200mm}
+](figures/www.equator-network.org_.png){#fig-home-b4 height=200mm}
 
 <!-- ## FIG-DB-B4 -->
 ![The existing EQUATOR page for SRQR, as captured on 5th April, 2023. Limitations include:  
@@ -35,7 +35,7 @@ format:
 3) Links to related guidelines that are hard to find or, for SRQR, absent 
 4) No metrics around how many authors use this RG (e.g. citation counts) 
 5) The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance. 
-](chapters/10_redesign/figures/db_page_b4.png){#fig-db-b4 height=200mm}
+](figures/db_page_b4.png){#fig-db-b4 height=200mm}
 
 <!-- ## FIG-RG-INTRO-B4 -->
 ![The SRQR publication, captured on the 5th April, 2023. Limitations of reporting guideline publications may include:  
@@ -48,7 +48,7 @@ format:
 7) Instructions on whether a RG intends to be a strict standard vs. 'just' a guideline may be hard to find (see area D) or missing. 
 8) Links to related resources only include those that were created before the RG was published. Some guidelines don't include any links.  
 9) No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists. 
-](chapters/10_redesign/figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm}
+](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm}
 
 <!-- ## FIG-ITEM-B4 -->
 ![An example item from the SRQR guideline. Limitations may include:  
@@ -58,7 +58,7 @@ format:
 4) Terms aren't always defined
 5) Not all reporting items are justified
 6) Not all items include instruction of what to write if the item could not/was not done.
-](chapters/10_redesign/figures/item-b4.png){#fig-item-b4 height=150mm}
+](figures/item-b4.png){#fig-item-b4 height=150mm}
 
 <!-- ## FIG-CHECKLIST-B4 -->
 ![The SRQR checklist. Limitations of RG checklists may include:  
@@ -67,13 +67,13 @@ format:
 3) Checklists may not include instruction of how to complete them. 
 4) Checklists may not link to the underlying guidance, or other related resources. 
 5) Content may lack nuance of full guidance and may appear dictatorial and administrative
-](chapters/10_redesign/figures/checklist-b4.jpeg){#fig-checklist-b4 height=200mm}
+](figures/checklist-b4.jpeg){#fig-checklist-b4 height=200mm}
 
 <!-- ## FIG-JOURNAL-INSTRUCTIONS -->
 ![Author instructions for BMJ Open, a typical journal, captured on 5th April, 2023. Limitations of Journal instruction to authors may include:  
 1) Instructions advise authors to use RGs, but don't define what RGs are, what they can be used for, or the benefits or using them. 
 2) Advice regarding reporting guidelines may be hard to find amongst lengthy instruction pages (see area A) 
-](chapters/10_redesign/figures/journal-instructions.png){#fig-journal-instructions height=200mm}
+](figures/journal-instructions.png){#fig-journal-instructions height=200mm}
 
 <!-- AFTER -->
 <!-- ## FIG Home -->
@@ -84,7 +84,7 @@ format:
 4) Search and browse buttons are easy to find (area C) 
 5) Frequently accessed guidelines are still easy to find (area D) 
 6) The site describes what tasks RGs can be used for, and differentiates tools by task (area E)
-](chapters/10_redesign/figures/home.png){#fig-home height=200mm}
+](figures/home.png){#fig-home height=200mm}
 
 <!-- ## FIG-RG -->
 ![Intervention reporting guideline page. Intervention changes made to RG introductions include:  
@@ -101,7 +101,7 @@ format:
 11) Full guidance (area J, see @fig-item) 
 12) Citation information (area K) 
 13) Information on how the guidance was developed and why it can be trusted (area L) 
-](chapters/10_redesign/figures/rg-after.png){#fig-rg-intro height=200mm}
+](figures/rg-after.png){#fig-rg-intro height=200mm}
 
 <!-- ## FIG ITEM AFTER -->
 ![A re-designed item from the SRQR reporting guideline. Intervention changes include:  
@@ -111,7 +111,7 @@ format:
 4) Quotes provide reassurance and persuasion 
 5) Language is direct and edited for clarity and brevity 
 6) Each item has its own discussion page (linked to from the top right of area A)
- ](chapters/10_redesign/figures/item-after.png){#fig-item height=200mm}
+ ](figures/item-after.png){#fig-item height=200mm}
 
 <!-- ## FIG-DISCUSSION -->
-![Intervention discussion page. Every reporting item now has its own discussion page where authors can ask and answer questions, and provide feedback to guideline developers. ](chapters/10_redesign/figures/discussion-page.png){#fig-discussion height=150mm}
+![Intervention discussion page. Every reporting item now has its own discussion page where authors can ask and answer questions, and provide feedback to guideline developers. ](figures/discussion-page.png){#fig-discussion height=150mm}
