@@ -5,8 +5,7 @@ render: add_footer
 	@quarto render
 
 check_commit:
-	@git diff-index --quiet HEAD -- || (echo "There are unstaged commits"; exit 1)
-	@echo "All changes are committed"
+	@git diff-index --quiet HEAD -- || (echo "There are uncommitted edits"; exit 1)
 
 commitID = $(shell git rev-parse --short --verify HEAD)
 date = $(shell date)
