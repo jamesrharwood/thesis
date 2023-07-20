@@ -12,4 +12,4 @@ date = $(shell date)
 file_ = metadata/_footer.yml
 add_footer: check_commit
 	@echo 'website:\n  page-footer:\n    center: "Created: $(date) - Commit ID: $(commitID)"' > $(file_)
-	@echo 'format:\n  docx:\n    date: "$(date) - Commit ID: $(commitID)"' >> $(file_)
+	@echo 'format:\n  docx:\n    date: "$(date)"' >> $(file_)

@@ -21,12 +21,11 @@ format:
     toc-depth: 4
     theme: cerulean
     smooth-scroll: true
-    #downloads: [docx]
+    downloads: [docx]
   docx:
       from: markdown+grid_tables
       reference-doc: reference.docx
-      toc: true
-      toc-depth: 4
+      toc: false
 number-depth: 2
 
 metadata-files:
