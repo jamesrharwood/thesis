@@ -22,13 +22,15 @@ An intervention may have multiple functions. For example, a television advert ab
 
 Having decided what functions your intervention needs, the guide helps you decide how to implement them with policy categories including communication/marketing, guidelines, regulation, and service provision. Policy categories are defined in @tbl-policy-categories.
 
+Recognizing that intervention designers come from various disciplines and places of work, Michie et al. published a book to help designers apply the BCW. This book contains suggested steps, exercises, and worksheets. In the next chapter, I describe how I guided members of the UK EQUATOR Centre through this process.
+
 {{< include _com-b.md >}}
 
 {{< include _intervention-functions.md >}}
 
 {{< include _policy-categories.md >}}
 
-Recognizing that intervention designers come from various disciplines and places of work, Michie et al. published a book to help designers apply the BCW. This book contains suggested steps, exercises, and worksheets. In the next chapter, I describe how I guided members of the UK EQUATOR Centre through this process.
+
 
 <!-- 
 Use https://research-information.bris.ac.uk/ws/portalfiles/portal/189192935/s40814_019_0425_6.pdf to find and consdier other approaches.  -->

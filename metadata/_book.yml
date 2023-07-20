@@ -4,11 +4,37 @@ book:
   page-navigation: true
   chapters: 
     - index.qmd
+    - text: "Abstract*"
+      file: "chapters/abstract.qmd"
+    - text: "1. Background*"
+      file: chapters/1_introduction/index.qmd      
+    - text: "2. Reflexivity and context*"
+      file: chapters/2_reflexivity/index.qmd
+    - part: "Identifying influences"
+      chapters: 
+        - text: "3. Qualitative Evidence Synthesis*"
+          file: "chapters/3_synthesis/index.qmd"
+        - text: "4. Survey content review*"
+          file: "chapters/4_survey_content/index.qmd"
+        - text: "5. EQUATOR website audit"
+          file: "chapters/5_website_audit/index.qmd"
+        - text: "6. Journal instruction audit*"
+          file: chapters/6_journal_audit/index.qmd
     - part: "(Re)designing the intervention"
       chapters:
-        - text: "Following the BCW guide: workshops"
+        - text: "7. The Behaviour Change Wheel"
+          file: chapters/7_bcw/index.qmd
+        - text: "8. Workshops"
           file: chapters/8_workshops/index.qmd
-        - text: "Soliciting ideas from stakeholders: focus groups"
+        - text: "9. focus groups"
           file: chapters/9_focus_groups/index.qmd
-        - text: "Developing the intervention"
+        - text: "10. Development"
           file: chapters/10_redesign/index.qmd
+        - text: "11. Pilot"
+          file: chapters/11_pilot/index.qmd
+    - text: "12. Discussion (todo)"
+      file: chapters/discussion/index.qmd
+    - part: "Appendix"
+      chapters:
+        - data/barriers.md
+        - data/iv_changes.md
