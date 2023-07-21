@@ -20,7 +20,7 @@ format:
   html:
     toc: true
     toc-depth: 4
-    theme: cerulean
+    theme: [cosmo, theme.scss]
     smooth-scroll: true
     downloads: [docx]
     highlight-style: github
