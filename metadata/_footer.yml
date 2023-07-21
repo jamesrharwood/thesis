@@ -1,6 +1,7 @@
 website:
   page-footer:
-    center: "Created: Thu Jul 20 17:22:20 BST 2023 - Commit ID: fe1c327"
+    center: "Created: Thu Jul 20 19:38:25 BST 2023 - Commit ID: fcabd31"
 format:
   docx:
-    date: "Thu Jul 20 17:22:20 BST 2023 - Commit ID: fe1c327"
+    date: now
+    author: Something

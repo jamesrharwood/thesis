@@ -22,10 +22,12 @@ format:
     theme: cerulean
     smooth-scroll: true
     downloads: [docx]
+    highlight-style: github
   docx:
       from: markdown+grid_tables
       reference-doc: reference.docx
       toc: false
+      highlight-style: github
 number-depth: 2
 
 metadata-files:
