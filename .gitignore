@@ -10,6 +10,7 @@ venv/
 *.code-workspace
 output/
 *.docx
+*.ipynb
 output/
 _freeze/*
 /.luarc.json
