@@ -10,7 +10,7 @@ website:
     search: true
     contents: 
       - text: "<span class='text-muted'>Abstract</span>"
-        file: chapters/index.qmd
+        file: index.qmd
       - text: '<span class="text-muted">1. Background</span>'
         file: ""      
       - text: "<span class='text-muted'>2. Reflexivity and context</span>"
@@ -21,7 +21,7 @@ website:
         file: "chapters/3_synthesis/index.qmd"
       - text: "4. Survey content review"
         file: "chapters/4_survey_content/index.qmd"
-      - text: "5. EQUATOR website audit"
+      - text: "<span class='text-warning'>5. EQUATOR website audit</span>"
         file: "chapters/5_website_audit/index.qmd"
       - text: "<span class='text-muted'>6. Journal instruction audit</span>"
         file: ""
@@ -39,7 +39,7 @@ website:
         file: chapters/11_pilot/index.qmd
       - text: "<span class='text-muted'>12. Discussion</span>"
         file: ""
-      - section: "Appendix"
+      - section: "<span class='text-warning'>Appendix</span>"
         contents:
           - data/barriers.md
           - text: "Workshop outputs (todo)"

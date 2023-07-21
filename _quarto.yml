@@ -15,7 +15,6 @@ project:
   preview:
     browser: true
     watch-inputs: true
-#format-links: [docx]
 format:
   html:
     toc: true
@@ -24,6 +23,7 @@ format:
     smooth-scroll: true
     downloads: [docx]
     highlight-style: github
+    include-in-header: metadata/noindex.html
   docx:
       from: markdown+grid_tables
       reference-doc: reference.docx
