@@ -9,21 +9,21 @@ website:
   sidebar:
     search: true
     contents: 
-      - text: "Abstract*"
+      - text: "<span class='text-muted'>Abstract</span>"
         file: chapters/index.qmd
-      - text: "1. Background*"
+      - text: '<span class="text-muted">1. Background</span>'
         file: ""      
-      - text: "2. Reflexivity and context*"
+      - text: "<span class='text-muted'>2. Reflexivity and context</span>"
         file: ""
       - text: "<b>Part 1: Identifying influences</b>"
         file: ""
       - text: "3. Qualitative Evidence Synthesis"
         file: "chapters/3_synthesis/index.qmd"
-      - text: "4. Survey content review*"
+      - text: "4. Survey content review"
         file: "chapters/4_survey_content/index.qmd"
       - text: "5. EQUATOR website audit"
         file: "chapters/5_website_audit/index.qmd"
-      - text: "6. Journal instruction audit*"
+      - text: "<span class='text-muted'>6. Journal instruction audit</span>"
         file: ""
       - text: "<b>Part 2: Designing the intervention</b>"
         file: ""
@@ -35,9 +35,9 @@ website:
         file: chapters/9_focus_groups/index.qmd
       - text: "10. Development"
         file: chapters/10_redesign/index.qmd
-      - text: "11. Pilot"
+      - text: "<span class='text-warning'>11. Pilot</span>"
         file: chapters/11_pilot/index.qmd
-      - text: "12. Discussion (todo)"
+      - text: "<span class='text-muted'>12. Discussion</span>"
         file: ""
       - section: "Appendix"
         contents:
