@@ -1,4 +1,11 @@
-# Behaviour Change Wheel
+---
+title: Selecting the Behaviour Change Wheel framework
+format: 
+    html:
+        output-file: index.html
+    docx:
+        output-file: JH-chapter-bcw.docx
+---
 
 In my introductory chapter I presented how I view reporting guidelines to be part of a complex behaviour change intervention. But that isn't how I have always viewed them. In fact, when I began my PhD I had never heard of the term. I thought of reporting guidelines as similar sets of recommendations that authors should adhere to. I _didn't_ think about how guidance was communicated, whether through publications, example & elaboration documents, or checklists, and the differences between those resources. I didn't think about the websites authors used to find those resources. I didn't think about _how_ or _when_ authors used guidance.
 

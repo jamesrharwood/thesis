@@ -10,6 +10,6 @@ check_commit:
 commitID = $(shell git rev-parse --short --verify HEAD)
 date = $(shell date)
 file_ = metadata/_footer.yml
-add_footer: check_commit
+add_footer: 
 	@echo 'website:\n  page-footer:\n    center: "Created: $(date) - Commit ID: $(commitID)"' > $(file_)
-	@echo 'format:\n  docx:\n    date: now\n    author: Commit ID: $(commitID)' >> $(file_)
+	@echo 'format:\n  docx:\n    date: now\n    author: "Commit ID: $(commitID)"' >> $(file_)

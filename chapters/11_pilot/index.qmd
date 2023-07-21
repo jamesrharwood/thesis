@@ -1,4 +1,11 @@
-# Refining the intervention: qualitative pilot with authors
+---
+title: "Refining the intervention: qualitative pilot with authors"
+format: 
+    html:
+        output-file: index.html
+    docx:
+        output-file: JH-chapter-pilot.docx
+---
 
 {{< include /chapters/11_pilot/_background.qmd >}}
 

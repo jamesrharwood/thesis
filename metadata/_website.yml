@@ -17,7 +17,7 @@ website:
         file: ""
       - text: "<b>Part 1: Identifying influences</b>"
         file: ""
-      - text: "3. Qualitative Evidence Synthesis*"
+      - text: "3. Qualitative Evidence Synthesis"
         file: "chapters/3_synthesis/index.qmd"
       - text: "4. Survey content review*"
         file: "chapters/4_survey_content/index.qmd"

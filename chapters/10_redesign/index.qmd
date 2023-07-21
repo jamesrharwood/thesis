@@ -1,4 +1,11 @@
-# Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process
+---
+title: "Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process"
+format: 
+    html:
+        output-file: index.html
+    docx:
+        output-file: JH-chapter-redesign.docx
+---
 
 {{< include _methods.qmd >}}
  

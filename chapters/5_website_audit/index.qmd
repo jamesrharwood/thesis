@@ -1,4 +1,11 @@
-# How could equator-network.org be improved? Inferences from Google Analytics data.
+---
+title: "How could equator-network.org be improved? Inferences from Google Analytics data."
+format: 
+    html:
+        output-file: index.html
+    docx:
+        output-file: JH-chapter-website-audit.docx
+---
 
 ## Abstract
 
@@ -6,9 +13,9 @@ The UK EQUATOR Centre maintains a website to help authors find and access report
 
 ## Main Body
 
-The EQUATOR Network website \[@EQUATORNetworkEnhancing\] is an important resource for authors seeking reporting guidelines. Google Analytics \[@AnalyticsToolsSolutions\] is a service that collects anonymised visitor data that allows website owners to track performance and collect visitor insights. It can be used to assess how successfully EQUATOR's website is meeting one of its core goals: to help authors to find and use reporting guidelines.
+The EQUATOR Network website @EQUATORNetworkEnhancing is an important resource for authors seeking reporting guidelines. Google Analytics @AnalyticsToolsSolutions is a service that collects anonymised visitor data that allows website owners to track performance and collect visitor insights. It can be used to assess how successfully EQUATOR's website is meeting one of its core goals: to help authors to find and use reporting guidelines.
 
-The EQUATOR website and Google Analytics account was developed and maintained by the UK EQUATOR Centre, but these data will be useful to other EQUATOR centres and particularly for guideline developers looking for impact metrics. We have therefore created an interactive, freely accessible dashboard where stakeholders can explore the data \[@EQUATORNetworkGoogle\]. Below we briefly summarise some observations that we feel have important implications for the EQUATOR Network and reporting guideline developers and suggest ways to improve the EQUATOR Network website.
+The EQUATOR website and Google Analytics account was developed and maintained by the UK EQUATOR Centre, but these data will be useful to other EQUATOR centres and particularly for guideline developers looking for impact metrics. We have therefore created an interactive, freely accessible dashboard where stakeholders can explore the data @EQUATORNetworkGoogle. Below we briefly summarise some observations that we feel have important implications for the EQUATOR Network and reporting guideline developers and suggest ways to improve the EQUATOR Network website.
 
 ## Keep visitors engaged
 
@@ -16,7 +23,7 @@ Google Analytics classified almost all users as new, which means they had not vi
 
 A third of sessions begin with users arriving on the home page, where almost half of visitors then immediately leave without interacting with the website. Google Analytics calls this behaviour bouncing. Many users arrive directly on a guideline database page. Some of these pages have even higher bounce rates, such as 56% for STROBE and 73% for COREQ.
 
-There are many reasons why a user may abandon a website quickly. In autumn 2021, the UK EQUATOR Centre added a popup survey to ask users why they were leaving the website. Whilst some answered that they "got what \[they\] were looking for," others wrote that "the site is very complex," "too big a mess" or that they "could not find what they needed." One visitor wrote that they were looking for the formatting instructions for their target journal, suggesting that they did not understand what EQUATOR was or that they were no longer on the journal's website. EQUATOR should continue to research why users leave these pages so quickly, why they don't return and how the website could be improved, with special attention paid to the home page and guideline pages.
+There are many reasons why a user may abandon a website quickly. In autumn 2021, the UK EQUATOR Centre added a popup survey to ask users why they were leaving the website. Whilst some answered that they "got what they were looking for," others wrote that "the site is very complex," "too big a mess" or that they "could not find what they needed." One visitor wrote that they were looking for the formatting instructions for their target journal, suggesting that they did not understand what EQUATOR was or that they were no longer on the journal's website. EQUATOR should continue to research why users leave these pages so quickly, why they don't return and how the website could be improved, with special attention paid to the home page and guideline pages.
 
 ## Help users discover reporting guidelines besides the few that are featured
 
@@ -44,7 +51,7 @@ An eighth of traffic was explicitly labelled as referrals from other websites, m
 
 ## Target authors from under-represented countries
 
-Over 800,000 users visited the EQUATOR website in 2021 (Table 4), 150,000 more than the previous year, thus continuing growth seen since attracting 20,000 visitors in 2008. A third of users were from the United States or United Kingdom. Brazil accounted for the same proportion of users as the UK (7%) despite producing far fewer citable, medical documents \[@ScimagoJournalCountry\]. Conversely, China produces twice as many citable documents as the UK but accounts for only 5% of users. These numbers suggest that awareness of EQUATOR is greater in some counties than in others. EQUATOR should continue to run awareness campaigns and should prioritize countries like China which have high publication output but low visitor numbers.
+Over 800,000 users visited the EQUATOR website in 2021 (Table 4), 150,000 more than the previous year, thus continuing growth seen since attracting 20,000 visitors in 2008. A third of users were from the United States or United Kingdom. Brazil accounted for the same proportion of users as the UK (7%) despite producing far fewer citable, medical documents @ScimagoJournalCountry. Conversely, China produces twice as many citable documents as the UK but accounts for only 5% of users. These numbers suggest that awareness of EQUATOR is greater in some counties than in others. EQUATOR should continue to run awareness campaigns and should prioritize countries like China which have high publication output but low visitor numbers.
 
 ## Consider non-native English speakers
 
@@ -273,5 +280,3 @@ Google Search Console
 {\"The EQUATOR Network \| Enhancing the QUAlity and Transparency Of Health Research\", n.d.}
 
 {\"The EQUATOR Network Google Analytics\", n.d.}
-
-{{< pagebreak >}}

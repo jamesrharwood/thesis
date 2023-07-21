@@ -1,4 +1,11 @@
-# Following the BCW Guide: Workshops with EQUATOR
+---
+title: "Following the BCW Guide: Workshops with EQUATOR"
+format: 
+    html:
+        output-file: index.html
+    docx:
+        output-file: JH-chapter-workshops.docx
+---
 
 ##  Introduction
 

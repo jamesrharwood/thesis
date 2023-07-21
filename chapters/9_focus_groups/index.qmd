@@ -1,4 +1,11 @@
-# Generating ideas to address factors limiting reporting guideline impact: workshops with EQUATOR and focus groups with developers, publishers, and experts
+---
+title: "Generating ideas to address factors limiting reporting guideline impact: workshops with EQUATOR and focus groups with developers, publishers, and experts"
+format: 
+    html:
+        output-file: index.html
+    docx:
+        output-file: JH-chapter-focus-groups.docx
+---
 
 {{< include _introduction.qmd >}}
 
