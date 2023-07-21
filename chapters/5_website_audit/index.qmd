@@ -7,6 +7,11 @@ format:
         output-file: JH-chapter-website-audit.docx
 ---
 
+::: {.callout}
+This is the same as the article I drafted a year or so ago. Gary had suggestions about how to reframe it but I've not edited it at all yet.
+:::
+
+
 ## Abstract
 
 The UK EQUATOR Centre maintains a website to help authors find and access reporting guidelines. Web analytics shine a light on how well the website is performing and what could be done to improve it. Here we describe some key insights from web analytics. 1) Many users leave the site very quickly without interacting with it at all. 2) Guideline views are very heavily skewed towards the few guidelines that are featured on EQUATOR's home page and on journal instructions to authors. 3) Users access checklists more often than the full guidance, perhaps because the full guidance is harder to find. 4) EQUATOR could optimize their site for search engines. 5) EQUATOR could improve acquisition data by updating their links on third party websites and offline documents. 6) Some countries with high publication volumes are under-represented amongst website visitors. 7) EQUATOR could consider translating parts of their website to cater for a global audience.

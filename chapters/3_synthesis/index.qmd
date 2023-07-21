@@ -4,7 +4,7 @@ format:
     html:
         output-file: index.html
     docx:
-        output-file: I-chapter-synthesis.docx
+        output-file: JH-chapter-synthesis.docx
 ---
 
 ::: {.callout}
@@ -13,9 +13,11 @@ I've reworked my thematic synthesis article into a chapter.
 Known todos:
 
 * Table 4 needs formatting
+* Re-add PRISMA flow diagram
 * End of discussion section needs to be reworked so it links to next chapter. 
 * Appendix will come out and become a thesis appendix
 * Can move acronyms and definitions into a thesis appendix 
+
 :::
 
 # Introduction
@@ -24,7 +26,7 @@ In chapter {{< var chapters.introduction >}} I described a number of studies tha
 
 Researcher's behaviour may be influenced by any part of the reporting guideline system, including the guidance itself (typically published in an academic article), tools (e.g., checklists), websites (e.g., journal instructions, the EQUATOR Network website, guideline-specific websites), and the behaviour of others (e.g., editors, peer reviewers, co-authors, colleagues). Because reporting guidelines are generally disseminated in similar ways, barriers and facilitators identified for one guideline are likely to generalise to another. 
 
-In this chapter, I explain how I synthesised qualitative studies exploring authors' experiences of reporting guidelines in order to identify behavioural influences.
+In this chapter, I explain how I synthesised qualitative studies exploring authors' experiences of reporting guidelines in order to identify behavioural influences that may affect whether an author adheres to reporting guidelines.
 
 # Methods
 

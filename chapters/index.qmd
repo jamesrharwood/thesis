@@ -1,10 +1,12 @@
 ---
-title: Increasing the impact of reporting guidelines as a behaviour change intervention
+title: Transforming reporting guidelines into a behaviour change intervention with a view to increasing their impact
 ---
 
+:::{.callout}
 Here is the working version of my thesis. 
 
 You'll find chapters on the left, and can download Word files for each chapter on the right. 
 
-Sections that I've not done (including this one) are marked with an asterisk.
+Chapters that I've not done (including this one) are [this colour]{.text-muted}. Chapters in [this colour]{.text-warning} are a works-in-progress. 
+:::
 
