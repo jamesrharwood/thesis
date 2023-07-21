@@ -273,3 +273,5 @@ Google Search Console
 {\"The EQUATOR Network \| Enhancing the QUAlity and Transparency Of Health Research\", n.d.}
 
 {\"The EQUATOR Network Google Analytics\", n.d.}
+
+{{< pagebreak >}}

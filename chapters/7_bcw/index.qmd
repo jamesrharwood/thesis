@@ -30,11 +30,11 @@ Recognizing that intervention designers come from various disciplines and places
 
 {{< include _policy-categories.md >}}
 
-
-
 <!-- 
 Use https://research-information.bris.ac.uk/ws/portalfiles/portal/189192935/s40814_019_0425_6.pdf to find and consdier other approaches.  -->
 
 <!-- Limitations of BCW include needing to understand psychological processes.  -->
 
 <!-- #TODO: consider moving this paragraph to the design chapter? Initially, and probably because of my background in software development, I looked at user experience literature (e.g., @experienceGuideUsingUserExperience) but quickly realised that heuristics for creating easy-to-use websites don't really generalise to long-form instructional text. Thinking of comparable documents, I then looked into user testing instruction manuals (@mollerUsabilityTestingUser2013) but found that focusing on the document alone neglected other parts of the intervention, like the impact of journal policies or the behaviour of peer reviewers. A conversation with a professor of Human-Computer Interaction was interesting but focussing on information technology design seemed, again, to only cover part of the problem. -->
+
+{{< pagebreak >}}
