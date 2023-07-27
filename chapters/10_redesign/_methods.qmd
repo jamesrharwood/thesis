@@ -1,6 +1,34 @@
 ## Introduction
 
-The output of my focus groups was a long list of ideas. This list included ideas from all stakeholders, including myself, and fed into step 7 of Michie et al.'s guide to applying the Behaviour Change Wheel @michieBehaviourChangeWheel2014. In chapter (see {{< var chapters.workshops >}}) I explained why I expanded on this step. In this chapter I describe my process in more detail by explaining how I used behavioural analysis to identify behaviour change techniques. I then describe how I turned ideas into intervention components and developed these components into an intervention prototype. By intervention component, I mean a designed element that uses one or more behaviour change technique, which is theorized to work through one or more intervention functions to target one or more behavioural drivers. An intervention _change_ is the addition or removal of an element. Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.
+The output of the workshops was:
+
+* a target behaviour and sub-behaviours
+* a prioritized list of intervention functions and policy categories that we wanted to pursue (because they met APEASE?)
+* a decision on how to deliver the new intervention (website)
+
+The output of the focus groups was a list of ideas. 
+
+* mix of stakeholders
+* conflated function and category
+* not all relevant to us
+* not defined as BCT components. 
+
+By intervention component, I mean:
+
+1. a designed element that uses one or more behaviour change technique,
+2. which is theorized to work through one or more intervention functions 3. to target one or more behavioural drivers. 
+
+An intervention _change_ is the addition or removal of an intervention component. 
+
+Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.
+
+What remained was to analyse the ideas, separate out functions from policies/delivery options and select those I wanted to act on and turn them into behavioural components. 
+
+I then had to design and build these components into a prototype that could be piloted amongst authors. 
+
+#ASK: separate out into 2 chapters? Maybe not as it's nice to have table linking to figures. 
+
+I then describe how I turned ideas into intervention components and developed these components into an intervention prototype. 
 
 ## Behavioural Analysis
 

@@ -1,0 +1,7 @@
+* Describe how RG system evolved organically. 
+    * This is fairly common in efforts to change behaviour, and is sometimes referred to as the "It seemed like a good idea at the time" method, or "ISLAGIATT" which Michie et al. say was coined by professor Martin Eccles, or "SLAGIATT" which my my 10 year old niece would recognize from a Horrible Histories chapter on dodgy interventions. 
+* Justify why it is worth turning RGs into a behaviour change intervention
+    * Increase efficacy, acceptability, reduce side effects
+    * Theorise how it is working & therefore how a process evaluation could be designed
+
+
