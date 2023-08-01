@@ -41,7 +41,10 @@ website:
         file: ""
       - section: "<span class='text-warning'>Appendix</span>"
         contents:
-          - data/barriers.md
-          - text: "Workshop outputs (todo)"
-            file: ""
-          - data/iv_changes.md
+          - section: <span class='text-warning'>Workshop outputs</span>
+            contents: 
+            - text: "Barriers"
+              file: chapters/appendix/barriers.qmd
+          - text: "Ideas generated from workshops and focus groups"
+            file: "chapters/appendix/ideas.qmd"
+          
