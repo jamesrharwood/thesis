@@ -13,9 +13,9 @@ from tabulate import tabulate
 from data import BARRIERS
 import texttable
 
-COLS = ['INTERVENTION INGREDIENT', 'INT. FN', 'BEFORE', 'NOW']
+COLS = ['INTERVENTION INGREDIENT', 'INT. FN', 'BEFORE', 'NOW', "BEHAVIOUR CHANGE TECHNIQUE"]
 COL_RANGE = range(len(COLS))
-WIDTHS = [500, 100, 500, 500]
+WIDTHS = [500, 100, 500, 500, 200]
 ALIGNMENTS = ['l' for _ in COL_RANGE]
 DIR = os.getcwd()
 FP = os.path.join(DIR, 'chapters', '10_redesign', 'planning_table.yaml')
@@ -26,13 +26,13 @@ table.header(COLS)
 table.set_cols_width(WIDTHS)
 table.set_header_align(ALIGNMENTS)
 for key_behaviour, barriers in data.items():
-    table.add_row([f'[**Key Behaviour: {key_behaviour}**]{{.nowrap .text-info}}', '', '', ''])
+    table.add_row([f'[**Key Behaviour: {key_behaviour}**]{{.nowrap .text-info}}', '', '', '', ''])
     for barrier, details in barriers.items():
         target = BARRIERS[barrier].driver.title
         text = f'[**Targeted barrier: {BARRIERS[barrier].title}**]{{.nowrap}}'
         text += '\n\n'
         text += f'[**Behavioural driver: {target}**]{{.nowrap}}'
-        table.add_row([text, '', '', ''])
+        table.add_row([text, '', '', '', ''])
         ingredients = details['ingredients']
         if type(ingredients)==dict:
             for desc, values in ingredients.items():
@@ -45,14 +45,16 @@ for key_behaviour, barriers in data.items():
                     examples = values["now_example"]
                     if examples: 
                         now += f'\n\nExample: {examples}'
+                    BCT = values['BCT'] or 'See above'
                 except Exception as e:
+                    print(values)
                     raise Exception(desc)
                 IF = values.get('IF', 'See above')
-                table.add_row([desc, IF, before, now])
+                table.add_row([desc, IF, before, now, BCT])
 print(table.draw())
 ```
 
-: Intervention Planning Table. Intervention ingredients labelled with the intervention function (INT. FN) they employ, examples of how they are (or are not) used before this redesign (Before) and, when included, within the redesigned intervention (Now). Components are grouped according to the key behaviours, barriers, and behavioural drivers that they are designed to target. {#tbl-int-plan}
+: Intervention Planning Table. Intervention ingredients labelled with the intervention function (INT. FN) and behaviour change technique(s) they employ, examples of how they are (or are not) used before this redesign (Before) and, when included, within the redesigned intervention (Now). Components are grouped according to the key behaviours, barriers, and behavioural drivers that they are designed to target. {#tbl-int-plan}
 
 ::: 
 <!-- end of landcape -->
