@@ -9,14 +9,14 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-home, @fig-rg-intro
         future: Advise stakeholders on how to introduce RGs.^*^
         IF: Education
-        BCT: Instruction on how to perform the behavior #ASK
+        BCT: #ASK
       Differentiate resources and advice aimed at different tasks (writing vs designing vs appraising):
         before: No clear instruction on what tasks RGs can and cannot be used for.
         before_example: See @fig-home-b4, @fig-db-b4, @fig-rg-intro-b4
         now: Clear instruction and differentiation of resources
         now_example: See @fig-home, @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior #ASK
+        BCT: #ASK
   what-rgs-exist:
     ingredients:
       Instruct authors to cite reporting guidelines:
@@ -25,31 +25,31 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Consistent instruction to cite reporting guidelines
         now_example:
         IF: Education
-        BCT: Instruction on how to perform the behavior #ASK
-      # Encourage journals, ethics committees, funders, and other stakeholders to endorse reporting guidelines:
-      #   before: Many journals endorsed reporting guidelines
-      #   before_example:
-      #   now: No change
-      #   now_example:
-      #   future: Encourage other funders, ethics committees and other stakeholders to adopt reporting guideline policies.^*^
-      #   IF: Education
-      #   BCT: social/material Incentive/reward depending on policy
-      # Encourage all stakeholders to promote reporting guidelines:
-      #   before: Few stakeholders run promotional campaigns to promote RGs (other than endorsing/enforcing them)
-      #   before_example:
-      #   now: No change
-      #   now_example:
-      #   hypothetical: All stakeholders could run promotional campaigns
-      #   IF: Education
-      #   BCT: #ASK not a BCT? Could include multiple bcts
-      # Install reporting champions; individuals that promote reporting guidelines within their organisation or peer group:
-      #   before: Champions may exist informally
-      #   before_example:
-      #   now: No change
-      #   now_example:
-      #   hypothetical: Create a formal champion / ambassador network
-      #   IF: Education
-      #   BCT: same as above. This is a delivery option?
+        BCT: #ASK
+      Encourage journals, ethics committees, funders, and other stakeholders to endorse reporting guidelines:
+        before: Many journals endorsed reporting guidelines
+        before_example:
+        now: No change
+        now_example:
+        future: Encourage other funders, ethics committees and other stakeholders to adopt reporting guideline policies.^*^
+        IF: Education
+        BCT: social/material Incentive/reward depending on policy
+      Encourage all stakeholders to promote reporting guidelines:
+        before: Few stakeholders run promotional campaigns to promote RGs (other than endorsing/enforcing them)
+        before_example:
+        now: No change
+        now_example:
+        hypothetical: All stakeholders could run promotional campaigns
+        IF: Education
+        BCT: #ASK not a BCT? Could include multiple bcts
+      Install reporting champions; individuals that promote reporting guidelines within their organisation or peer group:
+        before: Champions may exist informally
+        before_example:
+        now: No change
+        now_example:
+        hypothetical: Create a formal champion / ambassador network
+        IF: Education
+        BCT: same as above. This is a delivery option?
       Decision tools for discovering resources:
         before: We previously made a "reporting guideline wizard" but it was difficult to find.
         before_example: see @fig-home-b4
@@ -57,7 +57,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: Reintroduce tool, extend and improve it.
         IF: Enablement
-        BCT: Instruction on how to perform the behaviour #ASK
+        BCT: Instruct on how to perform the behaviour
       Collections of related reporting guidelines:
         before: Collections exist on EQUATOR site but are difficult to find
         before_example: See @fig-home-b4
@@ -65,7 +65,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-home
         future:  Create more collection pages, link to them from home page table
         IF: Environmental Restructuring
-        BCT: Instruction on how to perform the behavior #ASK
+        BCT:
       Links between related guidelines:
         before: E&E articles may reference guidelines published previously, but these references can be buried in text, and E&Es are not updated to reference guidelines published subsequently. EQUATOR website guideline pages feature links to extensions, but these are hard to find. Checklists do not link to related resources.
         before_example: See @fig-db-b4, @fig-rg-intro-b4
@@ -73,7 +73,6 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-rg-intro
         future: Checklists, Templates, and all other resources will link to related guidelines.
         IF: Environmental Restructuring
-        BCT: Restructuring the physical environment
       embed reporting guidelines that "fit together":
         before: Checklists and their extensions are published separately. The best example of modular guidance is perhaps the JARS guidelines, but even these are published as separate documents.
         before_example:
@@ -81,7 +80,6 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: Allow extensions to be embedded within parent guidelines
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
   need-findable:
     ingredients:
       Centralised hosting:
@@ -91,7 +89,6 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: Extend the web intervention to include more reporting guidelines.
         IF: Enablement
-        BCT: Restructuring the physical environment
       Search function on website:
         before: EQUATOR's search function was difficult to find.
         before_example:
@@ -99,15 +96,13 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: Improve search functionality^*^
         IF: Enablement
-        BCT: Restructuring the physical environment
       Search Engine Optimization:
         before: EQUATOR's website did not make use of some commonly used search optimization heuristics. It ranked well for guideline acronyms (like STROBE) but not for general terms that naive authors may use, like "observational epidemiology".
-        before_example: (Not visible)
+        before_example:
         now: Site has meta data required by search engines
-        now_example: (Not visible)
-        future: 
+        now_example:
+        future: Optimize the site for search engines
         IF: Enablement
-        BCT: Adding objects to the environment
       Permanent links (DOIs):
         before: Although guideline publications have DOIs, tools (commonly hosted on guideline developer's websites) do not. EQUATOR's website does not use document object identifiers. If resources move (e.g. a website is reorganised or depreciated) then links can "die".
         before_example:
@@ -115,27 +110,24 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: All guidelines and related tools could have version-specific permanent identifiers
         IF: Enablement
-        BCT: Restructuring the physical environment
-  # need-accessible:
-  #   ingredients:
-  #     Ensure guidelines and tools are open access:
-  #       before: Some guidelines are published behind paywalls
-  #       before_example:
-  #       now: No change
-  #       now_example:
-  #       hypothetical: EQUATOR could paywalled guidance to become open, and can advise all future guidance to be open.
-  #       IF: Enablement
-  #       BCT: Restructuring the physical environment
+  need-accessible:
+    ingredients:
+      Ensure guidelines and tools are open access:
+        before: Some guidelines are published behind paywalls
+        before_example:
+        now: No change
+        now_example:
+        hypothetical: EQUATOR could paywalled guidance to become open, and can advise all future guidance to be open.
+        IF: Enablement
   scope:
     ingredients:
       Describe the scope of a reporting guideline at the top of every resource:
         before: Some reporting guidelines may describe their scope within their E&E. Others might not, or may only describe their scope broadly without fully explaining the design assumptions within the guidance. Guidelines would not explain circumstances where the guidance should not be used. Checklists rarely define intended scope beyond the title of the guideline.
         before_example:
-        now: The intended scope of a guideline is clearly & prominently described. This definition includes contexts in which the guidance should not be used.
+        now: The intended scope of a guideline is clearly & prominently described. This definition includes contexts in which the guidance should not be used. #TODO
         now_example:
         future: Checklists, templates and other tools will include scope descriptions.
         IF: Education
-        BCT: Instruction on how to perform the behavior
   best-fit:
     ingredients:
       Use if-then rules to direct authors to more appropriate guidance when available:
@@ -144,19 +136,17 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Reporting guidelines clearly and consistently point authors to more appropriate guidance when appropriate, using if-then rules.  
         now_example:
         IF: Education
-        BCT: Instruction on how to perform the behavior
       Explicitly state when no better guidance exists for a particular use case: 
         before: Guideline E&Es do not consistently explain what to do when no better guidance exists for their use case
         before_example: See @fig-rg-intro-b4
         now: Guidelines warn authors when no better guidance exists for a use case, and how the current guidance can be adapted instead
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
-      # Decision tools (see above):
-      #   before:
-      #   before_example:
-      #   now:
-      #   now_example:
+      Decision tools (see above):
+        before:
+        before_example:
+        now:
+        now_example:
   need-translations:
     ingredients:
       provide translations of resources:
@@ -166,7 +156,6 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-rg-intro
         future: List translations on checklists and templates
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
   believed-costs:
     ingredients:
       Make guidance appear shorter by removing superfluous parts, hiding optional content, splitting long guidelines, using concise language, and separating design advice:
@@ -177,7 +166,6 @@ Engage with (read) appropriate reporting guidance as early as possible:
         # TODO make sure now only refers to SRQR. Put all other guidelines into future
         future:
         IF: Environmental restructuring
-        BCT: Restructuring the physical environment
       Cater to different kinds of user (readers vs dippers) by structuring guidance with headings, itemisation, hyperlinking to particular sections, and with dynamic content:
         before: Besides being split into items, reporting guidance is largely unstructured, and different items can be structured in different ways. Checklist items do not link to items within the E&E.
         before_example: See @fig-item-b4
@@ -185,23 +173,22 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-item
         future: Checklists, templates, and other tools link to full guidance items.
         IF: Environmental restructuring
-        BCT: Restructuring the physical environment
       Include testimonials from researchers who were nervous about being punished for reporting transparently:
         before: No such testimonials exist
         before_example:
-        now: Quotes included alongside guideline
-        now_example:  see @fig-item
+        now: No change #DECIDE Guidelines include mockup (dummy) quotes and testimonials for the purpose of piloting SRQR. 
+        now_example:
+        #TODO mock quotes for SRQR
         future: Collect testimonials
         IF: Persuasion
-        BCT: Social support (practical & emotional) #ASK
       Decrease fear of judgement by making reporting guidelines design agnostic:
         before: Reporting guidelines may conflate reporting advice with design advice or design assumptions. The justification for why an item is important to describe is frequently presented in terms of good and bad design.
         before_example:
-        now: SRQR explicitly states that it makes no assumptions about design. Where design advice was given, this has been moved.
+        now: SRQR explicitly states that it makes no assumptions about design. Where design advice was given, this has been moved to a separate page.
         now_example:
         future: Repeat with other reporting guidelines.
         IF: Coercion (Removal of)
-        BCT: Remove aversive stimulus #ASK
+        # TODO need to remove design advice
       Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape:
         before: EQUATOR's website looked cluttered and visually unappealing. Guidance published in articles can look unappealing, depending on the publisher. Reporting guidance made frequent reference to waste, (lack of) transparency, bias, and poor design. 
         before_example: See @fig-home-b4 #TODO judgemental quote 
@@ -209,14 +196,12 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-home #TODO reassuring quote
         future: Further work on tone of voice
         IF: Coercion (Removal of)
-        BCT: Remove aversive stimulus #ASK
       Reassure that all research has limitations and encourage explanation over perfection:
         before: Few guidelines would include this kind of reassurance
         before_example: See @fig-rg-intro-b4
         now: This reassurance appears on the home page and all guidance pages
         now_example: See @fig-rg-intro
         IF: Persuasion
-        BCT: Social support (unspecified) #ASK
   feel-not-my-job:
     ingredients:
       Address communications to authors:
@@ -230,7 +215,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
       Communicate why reporting is the responsibility of the author and not an editor or reviewer:
         before: Because it wasn't clear how reporting guidelines and checklists should be used, they (especially checklists) could appear as administrative tasks that should be the responsibility of the editor or reviewer. 
         before_example:
-        now: Clearer description of how guidelines and tools should be used and who should use them. 
+        now: Clearer description of how guidelines and tools should be used and who should use them. #DECIDE
         now_example: See @fig-rg-intro
         BCT: Instruction on how to perform a behaviour #ASK
   feel-not-a-job:
@@ -238,7 +223,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
       Educate about writing as a process:
         before: EQUATOR provided education about how to write
         before_example:
-        now: Guidelines link to this education
+        now: Guidelines link to this education #DECIDE
         now_example: See @fig-item
         IF: Education
         future: Deliver education to a wider audience. Influence curricula of other education programmes
@@ -248,7 +233,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         before: EQUATOR provided training about how to write
         before_example:
         now: Guidelines link to this training
-        now_example: See @fig-item
+        now_example: See @fig-item #DECIDE
         future: Deliver training to a wider audience. Influence curricula of other training programmes
         BCT: Instruction on how to perform a behaviour
         IF: Training
@@ -262,7 +247,6 @@ Apply reporting guidance to writing:
         now_example: See @fig-rg-intro
         future: All tools to link back to guidance on an item-by-item basis.
         IF: Environmental restructuring
-        BCT: Restructuring the physical environment
   benefits:
     ingredients:
       Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications):
@@ -271,65 +255,57 @@ Apply reporting guidance to writing:
         now: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritize personal benefits to the authors above hypothetical benefits to others.
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Information about emotional consequences, Information about others' approval, Information about social and environmental consequences
   believed-benefits:
     ingredients:
       Gather and communicate evidence for benefits:
         before: Benefits often presented without evidence (if at all)
-        before_example: 
-        now: Dummy quotes provides evidence for experienced benefits.
-        now_example: See @fig-item
+        before_example: #TODO quote from EQUATOR Network?
+        now: A dummy quote provides evidence for experienced benefits.
+        now_example: #TODO quote
         future: Collect real testimonials and quotes
         hypothetical: Collect real data regarding quantifiable benefits.
         IF: Persuasion
-        BCT: Information about emotional consequences, Information about others' approval, Information about social and environmental consequences
       Display citation metrics:
         before: Citation metrics are available for guideline publications, but are not displayed on the EQUATOR website or within the guidance or checklists themselves.
         before_example: See @fig-db-b4
         now: Citation metrics are presented at the top of each reporting guideline.
         now_example: See @fig-rg-intro
         IF: Persuasion
-        BCT: Information about emotional consequences, Information about others' approval, Information about social and environmental consequences
       Create spaces for authors to see other authors using reporting guidelines:
         before: There were no official on or offline spaces for authors to witness other users discussing guidelines.
         before_example:
         now: Each reporting item has a discussion board.
         now_example: See @fig-discussion
         IF: Persuasion
-        BCT: Information about emotional consequences, Information about others' approval, Information about social and environmental consequences
       Use language to communicate personal benefits; confidence and simplicity:
         before: Guidance text made little use of a reassuring tone or words. The EQUATOR website and guideline articles looked dense and complex.
         before_example: See @fig-home-b4 and @fig-rg-intro-b4
         now: A clean, simple interface for the home page and guidance pages. Text uses phrases like "confidence", "quick", "maximum impact".
         now_example: See @fig-home and @fig-rg-intro
         IF: Persuasion
-        BCT: Remove aversive stimulus, Information about others' approval #ASK
   care-about-benefits:
     ingredients:
-      # Create new benefits that are more meaningful e.g., by offering recognition of good reporting through a certification service:
-      #   before: Benefits to the scientific community were often described. Personal benefits were rarely described, suggesting they aren't always considered by developers.
-      #   before_example: #TODO quote
-      #   now: No new benefits created
-      #   now_example:
-      #   hypothetical: EQUATOR could run a certification service. Certified articles could be attractive to journals, or could be used as examples of good reporting (and therefore attract attention)
-      #   IF: Incentivization
-      #   BCT:  Incentive and Reward (outcome) 
+      Create new benefits that are more meaningful e.g., by offering recognition of good reporting through a certification service:
+        before: Benefits to the scientific community were often described. Personal benefits were rarely described, suggesting they aren't always considered by developers.
+        before_example: #TODO quote
+        now: No new benefits created
+        now_example:
+        hypothetical: EQUATOR could run a certification service. Certified articles could be attractive to journals, or could be used as examples of good reporting (and therefore attract attention)
+        IF: Incentivization
       Include testimonials from research users who benefit from complete reporting:
         before: Testimonials not included in reporting guidelines.
         before_example:
         now: SRQR includes dummy testimonials and quotes from research users
-        now_example: See @fig-item
+        now_example: #TODO quote
         future: Collect real testimonials and quotes
         IF: Persuasion
-        BCT: Salience of consequence
-      # Create training that helps students experience, first hand, the benefits of RGs and consequence of poor reporting:
-      #   before: Although many students are tasked with undertaking a systematic review, the primary focus of this is generally not to consider (in)complete reporting.
-      #   before_example:
-      #   now: No changes made
-      #   now_example:
-      #   hypothetical: EQUATOR could create resources (e.g. lesson plans / project plans) for educators/trainers, so that their students can experience the consequences of incomplete reporting when attempting a systematic review or replication study.
-      #   IF: Training
-      #   BCT: Behavioral practice/rehearsal
+      Create training that helps students experience, first hand, the benefits of RGs and consequence of poor reporting:
+        before: Although many students are tasked with undertaking a systematic review, the primary focus of this is generally not to consider (in)complete reporting.
+        before_example:
+        now: No changes made
+        now_example:
+        hypothetical: EQUATOR could create resources (e.g. lesson plans / project plans) for educators/trainers, so that their students can experience the consequences of incomplete reporting when attempting a systematic review or replication study.
+        IF: Training
   understanding:
     ingredients:
       use plain language:
@@ -339,7 +315,6 @@ Apply reporting guidance to writing:
         now_example: #TODO quote
         future: Continue to make language easier and easier to understand.
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
       define key terms:
         before: Few guidelines came with a glossary. Some key terms may be defined within the guideline text. Including definitions this way makes them hard to find and elongates the guidance.
         before_example:
@@ -347,7 +322,6 @@ Apply reporting guidance to writing:
         now_example: See @fig-item
         future: Add glossaries to all other guidelines.
         IF: Education
-        BCT: Instruction on how to perform the behavior
       use consistent terms:
         before: Guidelines may use different terms to refer to the same thing. A single guideline may do this too.
         before_example: #TODO example?
@@ -355,7 +329,6 @@ Apply reporting guidance to writing:
         now_example: #TODO example?
         future: Repeat for other reporting guidelines.
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
       provide translations:
         before: Some guidelines have been translated, but many haven't. The EQUATOR website uses an automatic translation tool, but this doesn't cover the guidance itself. Translations aren't always easy to find.
         before_example: SRQR was available in French but the translation wasn't advertised on the main guidance.
@@ -363,39 +336,34 @@ Apply reporting guidance to writing:
         now_example: See @fig-rg-intro
         hypothetical: EQUATOR could arrange for key guidelines to be translated into popular languages.
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
       provide channels for feedback and support (see above):
         before:
         before_example:
         now:
         now_example:
         IF: 
-        BCT: 
   importance:
     ingredients:
       For each item, explain why the *information* is important and to whom (regardless of whether a particular design choice is important):
         before: Sometimes there was no explanation as to why an item should be reported. Other times the justification would be about why a particular design choice was important.
         before_example: See @fig-item-b4
-        now: Information added
+        now: Informaiton added
         now_example: See @fig-item
         hypothetical: Repeat for other reporting guidelines
         IF: Education
-        BCT: Information about social and environmental consequences
-      # For each item, indicate any conditions which modify importance:
-      #   before: It might not always be made clear when an item is only applicable in certain circumstances
-      #   before_example:
-      #   now: No changes made
-      #   now_example:
-      #   hypothetical: Add information for all reporting guidelines
-      #   IF: Education
-      #   BCT: Instruction on how to perform the behavior
+      For each item, indicate any conditions which modify importance:
+        before: It might not always be made clear when an item is only applicable in certain circumstances
+        before_example:
+        now: No changes made
+        now_example:
+        hypothetical: Add information for all reporting guidelines
+        IF: Education
       Explain importance of complete reporting to the scientific community:
         before: EQUATOR and most RGs do this already
         before_example:
         now: Continue to do this
         now_example:
         IF: Education
-        BCT: Information about social and environmental consequences
   how-to-do:
     ingredients:
       Provide links to other resources that explain how an item can be done:
@@ -403,7 +371,6 @@ Apply reporting guidance to writing:
         before_example:
         now: Links included when relevant.
         now_example: See @fig-item
-        BCT: Instruction on how to perform the behavior
   how-to-report:
     ingredients:
       For each item, provide clear instruction of what needs to be described:
@@ -412,22 +379,18 @@ Apply reporting guidance to writing:
         before_example:
         now_example: See @fig-item
         IF: Education
-        BCT: Instruction on how to perform the behavior
       For each item, provide examples of reporting in different contexts:
         before: Not all RGs provide examples. Examples may not cover different contexts.
-        now: SRQR already had some examples. No examples added
+        now: Additional examples #DECIDE
         before_example:
         now_example: See @fig-item
-        future: Add more examples
         IF: modelling
-        BCT: Demonstration of the behavior
       Discussion spaces (see above):
         before: No formal discussion spaces existed. Authors may use platforms like Twitter.
         now: Each item is linked to its own discussion board.
         before_example:
         now_example: See @fig-discussion
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
   how-to-report-not-done:
     ingredients:
       Provide clear instruction of what needs to be described when an item was not done, could not be done, or does not apply:
@@ -436,7 +399,6 @@ Apply reporting guidance to writing:
         before_example: See @fig-item-b4
         now_example: See @fig-item
         IF: Education
-        BCT: Instruction on how to perform the behavior
       Provide examples of reporting "imperfect" items:
         before: Examples not provided
         now: No changes made
@@ -444,46 +406,39 @@ Apply reporting guidance to writing:
         now_example: 
         future: Add more examples
         IF: Modelling
-        BCT: Demonstration of the behavior
   need-enough-time:
     ingredients:
       Ensure resources (checklists and templates) are in ready-to-use formats:
         before: Some checklists not in immediately usable formats e.g., PDFs
-        now: No changes made
+        now: No changes made #DECIDE
         future: Each RG should have resources that can be used immediately
         before_example:
         now_example:
         IF: Enablement
-        BCT: Adding objects to the environment
       Structure guidance to make it quicker to digest (see above):
         before: E&E documents not structured below the item level
         now: Items have consistent structure
-        before_example: See @fig-item-b4
-        now_example: See @fig-item
+        before_example: See [box @fig-item-b4]
+        now_example: See [box @fig-item]
         IF: Enablement
-        BCT: Restructuring the physical environment
-      # Indicate priority of items for authors that are short on time:
-      #   before: ARRIVE indicates priority, other RGs including SRQR do not.
-      #   now: No changes made
-      #   before_example:
-      #   now_example:
-      #   IF: Enablement
-      #   BCT: Instruction on how to perform the behavior
+      Indicate priority of items for authors that are short on time:
+        before: ARRIVE indicates priority, other RGs including SRQR do not.
+        now: No changes made
+        before_example:
+        now_example:
+        IF: Enablement
       Tell authors how long the guidance will take to read:
         before: Estimated reading time not given
         now: Estimated reading time given
         before_example:
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
       Tell authors how long guidance will take to apply:
         before: No advice given
         now: No changes made
-        future: Add this information
         before_example:
         now_example: No changes made
         IF: Education
-        BCT: Instruction on how to perform the behavior
   when-to-use:
     ingredients:
       Tell authors when to use RGs, or that RGs are best used as early as possible:
@@ -492,39 +447,35 @@ Apply reporting guidance to writing:
         before_example:
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
       Differentiate resources by task on website:
         before: Resources not explicitly linked to tasks
         now: Resources presented alongside the tasks they are intended for
         before_example:
         now_example: See @fig-rg-intro
         IF: Enablement
-        BCT: Restructuring the physical environment
   need-right-time:
     ingredients:
       Optimize websites for search terms aimed at early use like "how to write", or "funding application".:
         before: Not done
-        now: No changes made
+        now: No changes made #DECIDE
         before_example:
         now_example:
         future: Optimize for search engines
         IF: Enablement
-        BCT: Restructuring the physical environment
-      # Promote RGs in writing clubs or writing training:
-      #   before: Done in some training courses
-      #   now: No changes made
-      #   future: Encourage training courses and writing clubs to include RGs.
-      #   before_example:
-      #   now_example:
-      #   IF: Education
-      Create prompts / communication campaigns to target authors early in their research:
-        before: EQUATOR has no way to do this
+      Promote RGs in writing clubs or writing training:
+        before: Done in some training courses
         now: No changes made
+        future: Encourage training courses and writing clubs to include RGs.
+        before_example:
+        now_example:
+        IF: Education
+      Create prompts / communication campaigns authors early in their research:
+        before: EQUATOR has no way to do this
+        now: No changes made #DECIDE
         future: Allow EQUATOR website visitors to sign up for a reminder email^*^. Work with other stakeholders to run communication campaigns.
         before_example:
         now_example:
         IF: Enablement
-        BCT: Prompts/cues
       Create tools to be used for early writing tasks:
         before: Most RGs come with a checklist and some kind of E&E. Few guidelines cater to protocols.
         now: No changes made
@@ -532,7 +483,6 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF: Enablement
-        BCT: Adding objects to the environment
   need-concise-writing:
     ingredients:
       Provide instruction as to how information can be reported without breaching word count limits or making articles bloated.:
@@ -541,7 +491,6 @@ Apply reporting guidance to writing:
         before_example:
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
       Provide examples of concise reporting:
         before: No examples specifically to display concise reporting
         now: No changes made
@@ -549,7 +498,6 @@ Apply reporting guidance to writing:
         now_example: 
         future: Wordy items could include examples of concise reporting
         IF: Modelling
-        BCT: Demonstration of the behavior
   need-tools:
     ingredients:
       Create planning-points; discussion points for planning research in the order decisions are made (see above):
@@ -557,19 +505,16 @@ Apply reporting guidance to writing:
         now:
         before_example:
         now_example:
-        BCT: 
       Create to-do lists in the order research is conducted, to help authors collect information they will need to report (see above):
-        before: 
-        now: 
+        before: (see above)
+        now: (see above)
         before_example:
         now_example:
-        BCT: 
       Create templates for drafting (see above):
         before:
         now:
         before_example:
         now_example:
-        BCT:
       Create tools to facilitate checklist completion:
         before: Updating page numbers in a checklist is time consuming. It takes editors time to double check page numbers and content. Checklists may not include instructions of how to complete them.
         now: No changes made
@@ -577,7 +522,6 @@ Apply reporting guidance to writing:
         before_example: See @fig-checklist-b4
         now_example:
         IF: Enablement
-        BCT: Adding objects to the environment
       Create tools to facilitate particular reporting items:
         before: Some tools exist (e.g., PRISMA flow chart diagram maker, COBWEB)
         now: No changes made
@@ -585,7 +529,6 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF: Enablement
-        BCT: Adding objects to the environment
       Create tools to help collaborators check each other's work:
         before: Checklists exist but aren't specifically designed for collaborators
         now: No changes made
@@ -593,7 +536,6 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF: Enablement
-        BCT: Adding objects to the environment
       Create tools to help peer reviewers check reporting and request missing information:
         before: Checklists are RGs are not specifically aimed at peer reviewers
         now: No changes made
@@ -601,7 +543,6 @@ Apply reporting guidance to writing:
         now_example:
         future: Design tools for peer reviewers^*^
         IF: Enablement
-        BCT: Adding objects to the environment
   need-up-to-date-guidance:
     ingredients:
       Provide feedback channels to help developers keep guidance updated (see Discussion spaces above):
@@ -610,7 +551,6 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF:
-        BCT:
       Create a system so that guideline developers can make small edits without publishing new articles:
         before: Developers would have to publish a new article
         now: Developers can make small updates any time
@@ -618,7 +558,6 @@ Apply reporting guidance to writing:
         now_example:
         future: Integrate with a DOI provider so versions can be cited
         IF: Enablement
-        BCT: Restructuring the physical environment
   need-to-reconcile:
     ingredients:
       Explain when RGs do not intended to prescribe structure:
@@ -628,7 +567,6 @@ Apply reporting guidance to writing:
         now_example: see @fig-rg-intro
         future:
         IF: Education
-        BCT: Instruction on how to perform the behavior
       Provide options for where items can be reported (see above): #TODO replace all see above with specific item numbers or text
         before:
         now:
@@ -636,7 +574,6 @@ Apply reporting guidance to writing:
         now_example:
         future:
         IF:
-        BCT: 
       Create a system whereby guidelines can be embedded into each other (see above):
         before: 
         now: 
@@ -644,16 +581,14 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF:
-        BCT: 
   need-to-remove:
     ingredients:
       Provide advice regarding how to respond if asked to remove reporting guideline content by a colleague, editor, or reviewer:
         before: No advice given
-        now: Advice given in FAQ beneath each RG 
+        now: Advice given in FAQ beneath each RG #DECIDE
         before_example:
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Problem solving
   need-usable-formats:
     ingredients:
       Ensure resources (checklists and templates) are in ready-to-use formats (see above):
@@ -662,7 +597,6 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF:
-        BCT:
   feel-transparent:
     ingredients:
       Present design advice separately to reporting advice:
@@ -672,21 +606,18 @@ Apply reporting guidance to writing:
         now_example: 
         future: Present design advice separately
         IF: Coercion (removal of)
-        BCT: Restructuring the physical environment
       Make reporting guidelines agnostic to design choices:
         before: Some RGs make implicit assumptions about design choices
         now: No changes made to SRQR
         before_example:
         now_example:
         IF: Coercion (removal of)
-        BCT: Remove aversive stimulus
       Encourage explanation even when choices are unusual or not optimal:
         before: Not always present
         now: Added to items
         before_example: See @fig-item-b4
         now_example: See @fig-item
         IF: Education
-        BCT: Instruction on how to perform the behavior
       Reassure authors that all research has limitations:
         before: Not always present
         now: Present on home page and RG page
@@ -694,14 +625,12 @@ Apply reporting guidance to writing:
         now_example: See @fig-home, @fig-rg-intro
         future:
         IF: Persuasion
-        BCT: Social support
       Include testimonials from authors who were nervous about reporting transparently:
         before: Not present
-        now: Quotes added
+        now: No changes made #DECIDE
         before_example:
-        now_example: 
+        now_example:
         IF: Persuasion
-        BCT: Social support
   feel-restricted:
     ingredients:
       Present design advice separately and remain design agnostic (see above):
@@ -710,14 +639,12 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF:
-        BCT:
       Reassure when guidelines are _just_ guidelines:
         before: Not always present or prominent
         now: Prominently displayed at top of RG
         before_example: See @fig-rg-intro-b4
         now_example: See @fig-rg-intro
         IF: Persuasion
-        BCT: Social support
   feel-patronized:
     ingredients:
       Create discussion spaces for authors to voice disagreements and contribute to revisions (see above):
@@ -726,21 +653,18 @@ Apply reporting guidance to writing:
         before_example:
         now_example:
         IF: Persuasion
-        BCT: 
       Avoid patronizing language:
         before: Although authors may feel patronized when asked to adhere to a RG, RGs themselves rarely use patronizing language
         now: Continue to avoid using patronizing language
         before_example:
         now_example:
         IF: Persuasion
-        BCT: Remove aversive stimulus
       Explain how the guidance was developed and why it can be trusted:
         before: Most RGs explain this in a published article. Checklists do not
         now: Brief description included on home page and at top of RG, links to full to development information
         before_example: See @fig-rg-intro-b4
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Credible source
 Repeat engagement with reporting guidelines for subsequent studies:
   need-prompts:
     ingredients:
@@ -750,4 +674,3 @@ Repeat engagement with reporting guidelines for subsequent studies:
         before_example:
         now_example:
         IF:
-        BCT: 
