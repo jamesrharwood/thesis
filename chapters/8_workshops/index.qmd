@@ -130,12 +130,12 @@ Instead, I did this step on my own. I was well placed to do this because I was f
 
 #TODO: I could better explain that this was iterative. I did it before the focus groups and then again afterwards where I went "backwards" from ideas back to BCTs.
 
-Intervention Function | Selected Behaviour Change Techniques
+Intervention Function | Possible Behaviour Change Techniques
 -|---
 Enablement|Social support (practical)<br>Adding objects to the environment<br>Restructuring the physical environment (which I took to include the digital environment)<br>Reduce negative emotions<br>Self-monitoring of outcome(s) of behaviour<br>Framing/reframing<br>Identification of self as role model<br>Salience of consequences<br>Anticipated regret<br>Vicarious consequences
 Education|Information about social and environmental consequences<br>Information about health consequences (which I took to mean _other_ people's health)<br>Feedback on behaviour (e.g. feedback on guideline use)<br>Feedback on outcomes of the behaviour (e.g. feedback regarding quality of reporting from editors, reviewers, or colleagues)<br>Self monitoring of outcome(s) of behaviour (e.g. checking one's own work against guidance)<br>Information about emotional consequences (e.g. telling authors they how they will feel)<br>Information about others' approval
 Training|Instruction on how to perform the behaviour<br>Demonstration of the behaviour<br>Feedback on the behaviour<br>Feedback on the outcome(s) of the behaviour<br>Self-monitoring of outcome(s) of the behaviour
-Persuasion|Credible source<br>Information about social and environmental consequences<br>Information about health consequences<br>Feedback on behaviour<br>Feedback on outcome(s) of the behaviour<br>Monitoring outcome(s) of behaviour by others without feedback<br>Identification as self as role model<br>Information about emotional consequences<br>Salience of consequences<br>Information about others' approval<br>Social comparison<br>Framing/reframing
+Persuasion|Credible source<br>Information about social and environmental consequences<br>Information about health consequences<br>Feedback on behaviour<br>Feedback on outcome(s) of the behaviour<br>Monitoring outcome(s) of behaviour by others without feedback<br>Identification as self as role model<br>Information about emotional consequences<br>Salience of consequences<br>Information about others' approval<br>Social comparison<br>Framing/reframing<br>Remove aversive stimulus
 Modelling|Demonstration of the behaviour
 Environmental Restructuring|Adding objects to the environment<br>Prompts/cues<br>Restructuring physical environment
 
