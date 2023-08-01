@@ -1,0 +1,10 @@
+# Barriers {.appendix}
+
+```{python}
+#| output: asis
+#| echo: false
+
+from data.create_table import create_barriers_text
+
+print(create_barriers_text())
+```
