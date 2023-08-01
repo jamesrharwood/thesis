@@ -11,7 +11,7 @@ commitID = $(shell git rev-parse --short --verify HEAD)
 date = $(shell date)
 file_ = metadata/_footer.yml
 add_footer: check_commit
-	@echo 'website:\n  page-footer:\n    center: "Created: $(date) - Commit ID: $(commitID)"' > $(file_)
+	@echo 'website:\n  page-footer:\n    center: "Updated: $(date) - Commit ID: $(commitID)"' > $(file_)
 	@echo 'format:\n  docx:\n    date: now\n    author: "Commit ID: $(commitID)"' >> $(file_)
 
 check_commit: create_vars
