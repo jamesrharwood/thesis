@@ -20,26 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -217,19 +198,27 @@ div.csl-indent {
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
+ <span class="menu-text"><span class="text-warning">Workshop outputs</span></span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../data/barriers.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">driver_id: capability</span></a>
+  <a href="../../chapters/appendix/barriers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Barriers</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
- <span class="menu-text">Workshop outputs (todo)</span>
+      </ul>
   </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../data/iv_changes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Describe each reporting guideline fully</span></a>
+  <a href="../../chapters/appendix/ideas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ideas generated from workshops and focus groups</span></a>
   </div>
 </li>
       </ul>
@@ -287,7 +276,17 @@ div.csl-indent {
 
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>The output of my focus groups was a long list of ideas. This list included ideas from all stakeholders, including myself, and fed into step 7 of Michie et al.’s guide to applying the Behaviour Change Wheel <span class="citation" data-cites="michieBehaviourChangeWheel2014">[<a href="#ref-michieBehaviourChangeWheel2014" role="doc-biblioref">1</a>]</span>. In chapter (see 8) I explained why I expanded on this step. In this chapter I describe my process in more detail by explaining how I used behavioural analysis to identify behaviour change techniques. I then describe how I turned ideas into intervention components and developed these components into an intervention prototype. By intervention component, I mean a designed element that uses one or more behaviour change technique, which is theorized to work through one or more intervention functions to target one or more behavioural drivers. An intervention <em>change</em> is the addition or removal of an element. Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.</p>
+<p>In chapter 8 I describe how I followed the Behaviour Change Wheel guide through running workshops with staff members from the UK EQUATOR Centre. By the end of these workshops we had defined our target behaviour, identified what needed to change for this behaviour to occur, prioritized intervention functions and policy categories that we wanted to pursue, identified possible behaviour change techniques that we might use, and decided that we could deliver this new intervention by improving and extending the EQUATOR website.</p>
+<p>Prioritizing abstract intervention options was useful but I still had to decide how our chosen options could be actualized. To facilitate this ideation step (and to seek input from a broader range of stakeholders) I ran focus groups, as described in the previous chapter. These focus groups produced ideas. These ideas were relevant to a range of stakeholders and often conflated intervention function with policy categories.</p>
+<p>My next step was to turn these ideas into intervention components and decide which ideas to act on.</p>
+<p>What remained was to select which ideas I wanted to act on, and to turn them into intervention components. By intervention component, I mean:</p>
+<ol type="1">
+<li>a designed element that uses one or more behaviour change technique,</li>
+<li>which is theorized to work through one or more intervention functions</li>
+<li>to target one or more behavioural drivers.</li>
+</ol>
+<p>In this chapter I describe how I turned <em>ideas</em> into <em>components</em> by coding them against the barriers they address and the functions and behaviour change techniques they are employing. Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.</p>
+<p>I then describe how I designed and built these components into a prototype that could be piloted amongst authors.</p>
 </section>
 <section id="behavioural-analysis" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="behavioural-analysis">Behavioural Analysis</h2>
@@ -342,12 +341,13 @@ div.csl-indent {
 <div class="landscape">
 <div id="tbl-int-plan" class="anchored">
 <table class="table">
-<caption>Table&nbsp;1: Intervention Planning Table. Intervention ingredients labelled with the intervention function (INT. FN) they employ, examples of how they are (or are not) used before this redesign (Before) and, when included, within the redesigned intervention (Now). Components are grouped according to the key behaviours, barriers, and behavioural drivers that they are designed to target.</caption>
+<caption>Table&nbsp;1: Intervention Planning Table. Intervention ingredients labelled with the intervention function (INT. FN) and behaviour change technique(s) they employ, examples of how they are (or are not) used before this redesign (Before) and, when included, within the redesigned intervention (Now). Components are grouped according to the key behaviours, barriers, and behavioural drivers that they are designed to target.</caption>
 <colgroup>
-<col style="width: 31%">
-<col style="width: 6%">
-<col style="width: 31%">
-<col style="width: 31%">
+<col style="width: 27%">
+<col style="width: 5%">
+<col style="width: 27%">
+<col style="width: 27%">
+<col style="width: 11%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -355,6 +355,7 @@ div.csl-indent {
 <th>INT. FN</th>
 <th>BEFORE</th>
 <th>NOW</th>
+<th>BEHAVIOUR CHANGE TECHNIQUE</th>
 </tr>
 </thead>
 <tbody>
@@ -363,10 +364,12 @@ div.csl-indent {
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know what RGs are</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -378,6 +381,7 @@ div.csl-indent {
 <p>Example: See <a href="#fig-home-b4">Figure&nbsp;3</a>, <a href="#fig-rg-intro-b4">Figure&nbsp;5</a>, <a href="#fig-checklist-b4">Figure&nbsp;7</a>, <a href="#fig-journal-instructions">Figure&nbsp;8</a></p></td>
 <td><p>Prominent definition on home page and guideline page.</p>
 <p>Example: See <a href="#fig-home">Figure&nbsp;9</a>, <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="even">
 <td>Differentiate resources and advice aimed at different tasks (writing vs designing vs appraising)</td>
@@ -386,10 +390,12 @@ div.csl-indent {
 <p>Example: See <a href="#fig-home-b4">Figure&nbsp;3</a>, <a href="#fig-db-b4">Figure&nbsp;4</a>, <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>Clear instruction and differentiation of resources</p>
 <p>Example: See <a href="#fig-home">Figure&nbsp;9</a>, <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know what RGs exist</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -399,141 +405,122 @@ div.csl-indent {
 <td>Education</td>
 <td>No consistent instruction to cite reporting guidelines</td>
 <td>Consistent instruction to cite reporting guidelines</td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
-<td>Encourage journals, ethics committees, funders, and other stakeholders to endorse reporting guidelines</td>
-<td>Education</td>
-<td>Many journals endorsed reporting guidelines</td>
-<td>No change</td>
-</tr>
-<tr class="even">
-<td>Encourage all stakeholders to promote reporting guidelines</td>
-<td>Education</td>
-<td>Few stakeholders run promotional campaigns to promote RGs (other than endorsing/enforcing them)</td>
-<td>No change</td>
-</tr>
-<tr class="odd">
-<td>Install reporting champions; individuals that promote reporting guidelines within their organisation or peer group</td>
-<td>Education</td>
-<td>Champions may exist informally</td>
-<td>No change</td>
-</tr>
-<tr class="even">
 <td>Decision tools for discovering resources</td>
 <td>Enablement</td>
 <td><p>We previously made a “reporting guideline wizard” but it was difficult to find.</p>
 <p>Example: see <a href="#fig-home-b4">Figure&nbsp;3</a></p></td>
 <td>Not included yet</td>
+<td>Instruction on how to perform the behaviour</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Collections of related reporting guidelines</td>
 <td>Environmental Restructuring</td>
 <td><p>Collections exist on EQUATOR site but are difficult to find</p>
 <p>Example: See <a href="#fig-home-b4">Figure&nbsp;3</a></p></td>
 <td><p>Home page includes a small table of collections</p>
 <p>Example: See <a href="#fig-home">Figure&nbsp;9</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Links between related guidelines</td>
 <td>Environmental Restructuring</td>
 <td><p>E&amp;E articles may reference guidelines published previously, but these references can be buried in text, and E&amp;Es are not updated to reference guidelines published subsequently. EQUATOR website guideline pages feature links to extensions, but these are hard to find. Checklists do not link to related resources.</p>
 <p>Example: See <a href="#fig-db-b4">Figure&nbsp;4</a>, <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>Guidelines prominently link to other relevant guidelines and explain when they should be used.</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Restructuring the physical environment</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>embed reporting guidelines that “fit together”</td>
 <td>Enablement</td>
 <td>Checklists and their extensions are published separately. The best example of modular guidance is perhaps the JARS guidelines, but even these are published as separate documents.</td>
 <td>No change</td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Guidance may be difficult to find</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Centralised hosting</td>
 <td>Enablement</td>
 <td>EQUATOR maintained a database of reporting guideline meta-data, but the guidance and checklists were published and hosted in different locations and in different ways.</td>
 <td>A core set of frequently accessed guidelines are now presented on a single website in a consistent structure and format, alongside all of their checklists, templates, and other tools.</td>
+<td>Restructuring the physical environment</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Search function on website</td>
 <td>Enablement</td>
 <td>EQUATOR’s search function was difficult to find.</td>
 <td>Search function is easier to find. A recognizable icon appears in the navigation bar of every page, and the home page includes additional ways to access search functionality.</td>
-</tr>
-<tr class="odd">
-<td>Search Engine Optimization</td>
-<td>Enablement</td>
-<td>EQUATOR’s website did not make use of some commonly used search optimization heuristics. It ranked well for guideline acronyms (like STROBE) but not for general terms that naive authors may use, like “observational epidemiology”.</td>
-<td>Site has meta data required by search engines</td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="even">
+<td>Search Engine Optimization</td>
+<td>Enablement</td>
+<td><p>EQUATOR’s website did not make use of some commonly used search optimization heuristics. It ranked well for guideline acronyms (like STROBE) but not for general terms that naive authors may use, like “observational epidemiology”.</p>
+<p>Example: (Not visible)</p></td>
+<td><p>Site has meta data required by search engines</p>
+<p>Example: (Not visible)</p></td>
+<td>Adding objects to the environment</td>
+</tr>
+<tr class="odd">
 <td>Permanent links (DOIs)</td>
 <td>Enablement</td>
 <td>Although guideline publications have DOIs, tools (commonly hosted on guideline developer’s websites) do not. EQUATOR’s website does not use document object identifiers. If resources move (e.g.&nbsp;a website is reorganised or depreciated) then links can “die”.</td>
 <td>No change</td>
-</tr>
-<tr class="odd">
-<td><p><span class="nowrap"><strong>Targeted barrier: RGs may be difficult to access</strong></span></p>
-<p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="even">
-<td>Ensure guidelines and tools are open access</td>
-<td>Enablement</td>
-<td>Some guidelines are published behind paywalls</td>
-<td>No change</td>
-</tr>
-<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know whether a RG applies to them</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Describe the scope of a reporting guideline at the top of every resource</td>
 <td>Education</td>
 <td>Some reporting guidelines may describe their scope within their E&amp;E. Others might not, or may only describe their scope broadly without fully explaining the design assumptions within the guidance. Guidelines would not explain circumstances where the guidance should not be used. Checklists rarely define intended scope beyond the title of the guideline.</td>
 <td>The intended scope of a guideline is clearly &amp; prominently described. This definition includes contexts in which the guidance should not be used.</td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know what RG is their best fit</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Use if-then rules to direct authors to more appropriate guidance when available</td>
 <td>Education</td>
 <td>Reporting guidelines do not consistently point authors towards related resources that might be better fits. If a reporting guideline E&amp;E <em>does</em> do this, this advice becomes out of date as and when new guidelines are published.</td>
 <td>Reporting guidelines clearly and consistently point authors to more appropriate guidance when appropriate, using if-then rules.</td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Explicitly state when no better guidance exists for a particular use case</td>
 <td>Education</td>
 <td><p>Guideline E&amp;Es do not consistently explain what to do when no better guidance exists for their use case</p>
 <p>Example: See <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>Guidelines warn authors when no better guidance exists for a use case, and how the current guidance can be adapted instead</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
-</tr>
-<tr class="even">
-<td>Decision tools (see above)</td>
-<td>See above</td>
-<td>See above</td>
-<td>See above</td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not understand the language</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -545,10 +532,12 @@ div.csl-indent {
 <p>Example: See <a href="#fig-db-b4">Figure&nbsp;4</a></p></td>
 <td><p>Translations are prominently listed above the guidance</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may expect the costs to outweigh benefits</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Motivation</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -560,6 +549,7 @@ div.csl-indent {
 <p>Example: See <a href="#fig-item-b4">Figure&nbsp;6</a></p></td>
 <td><p>The only information presented immediately is what to describe. Additional information is hidden at first and can be expanded. Text is shortened through editing and by using active voice. Overall, this reduces the text length by 60%.</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="odd">
 <td>Cater to different kinds of user (readers vs dippers) by structuring guidance with headings, itemisation, hyperlinking to particular sections, and with dynamic content</td>
@@ -568,18 +558,22 @@ div.csl-indent {
 <p>Example: See <a href="#fig-item-b4">Figure&nbsp;6</a></p></td>
 <td><p>SRQR items are structured consistently, making information easier to find.</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="even">
 <td>Include testimonials from researchers who were nervous about being punished for reporting transparently</td>
 <td>Persuasion</td>
 <td>No such testimonials exist</td>
-<td>No change</td>
+<td><p>Quotes included alongside guideline</p>
+<p>Example: see <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Social support (practical &amp; emotional)</td>
 </tr>
 <tr class="odd">
 <td>Decrease fear of judgement by making reporting guidelines design agnostic</td>
 <td>Coercion (Removal of)</td>
 <td>Reporting guidelines may conflate reporting advice with design advice or design assumptions. The justification for why an item is important to describe is frequently presented in terms of good and bad design.</td>
-<td>SRQR explicitly states that it makes no assumptions about design. Where design advice was given, this has been moved to a separate page.</td>
+<td>SRQR explicitly states that it makes no assumptions about design. Where design advice was given, this has been moved.</td>
+<td>Remove aversive stimulus</td>
 </tr>
 <tr class="even">
 <td>Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape</td>
@@ -588,6 +582,7 @@ div.csl-indent {
 <p>Example: See <a href="#fig-home-b4">Figure&nbsp;3</a></p></td>
 <td><p>A clean, simple interface for the home page and guidance pages. Text makes less use of to judgemental phrases.</p>
 <p>Example: See <a href="#fig-home">Figure&nbsp;9</a></p></td>
+<td>Remove aversive stimulus</td>
 </tr>
 <tr class="odd">
 <td>Reassure that all research has limitations and encourage explanation over perfection</td>
@@ -596,10 +591,12 @@ div.csl-indent {
 <p>Example: See <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>This reassurance appears on the home page and all guidance pages</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Social support (unspecified)</td>
 </tr>
 <tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may feel that checking reporting is someone else’s job.</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Motivation</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -609,6 +606,7 @@ div.csl-indent {
 <td>Persuasion</td>
 <td>It wasn’t immediately clear whether the EQUATOR guideline website was aimed at authors, editors, reviewers, or all. Guidance was written in third person and would generally be worded as “authors should describe how…”, but it wouldn’t always be clear who was expected to use a checklist.</td>
 <td>All resources and website copy are directed predominantly at authors.</td>
+<td>Instruction on how to perform a behaviour</td>
 </tr>
 <tr class="even">
 <td>Communicate why reporting is the responsibility of the author and not an editor or reviewer</td>
@@ -616,10 +614,12 @@ div.csl-indent {
 <td>Because it wasn’t clear how reporting guidelines and checklists should be used, they (especially checklists) could appear as administrative tasks that should be the responsibility of the editor or reviewer.</td>
 <td><p>Clearer description of how guidelines and tools should be used and who should use them.</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform a behaviour</td>
 </tr>
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not consider writing as reporting</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Motivation</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -630,6 +630,7 @@ div.csl-indent {
 <td>EQUATOR provided education about how to write</td>
 <td><p>Guidelines link to this education</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Instruction on how to perform a behaviour</td>
 </tr>
 <tr class="odd">
 <td>Provide training and education about writing as a process</td>
@@ -637,9 +638,11 @@ div.csl-indent {
 <td>EQUATOR provided training about how to write</td>
 <td><p>Guidelines link to this training</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Instruction on how to perform a behaviour</td>
 </tr>
 <tr class="even">
 <td><span class="nowrap text-info"><strong>Key Behaviour: Apply reporting guidance to writing</strong></span></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -647,6 +650,7 @@ div.csl-indent {
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know what resources exist for a RG</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -658,10 +662,12 @@ div.csl-indent {
 <p>Example: See <a href="#fig-checklist-b4">Figure&nbsp;7</a></p></td>
 <td><p>Guidance links to all tools and development article</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know what benefits to expect</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -673,10 +679,12 @@ div.csl-indent {
 <p>Example: See <a href="#fig-home-b4">Figure&nbsp;3</a></p></td>
 <td><p>Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritize personal benefits to the authors above hypothetical benefits to others.</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Information about emotional consequences, Information about others’ approval, Information about social and environmental consequences</td>
 </tr>
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not believe stated benefits</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Motivation</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -685,7 +693,9 @@ div.csl-indent {
 <td>Gather and communicate evidence for benefits</td>
 <td>Persuasion</td>
 <td>Benefits often presented without evidence (if at all)</td>
-<td>A dummy quote provides evidence for experienced benefits.</td>
+<td><p>Dummy quotes provides evidence for experienced benefits.</p>
+<p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Information about emotional consequences, Information about others’ approval, Information about social and environmental consequences</td>
 </tr>
 <tr class="odd">
 <td>Display citation metrics</td>
@@ -694,6 +704,7 @@ div.csl-indent {
 <p>Example: See <a href="#fig-db-b4">Figure&nbsp;4</a></p></td>
 <td><p>Citation metrics are presented at the top of each reporting guideline.</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Information about emotional consequences, Information about others’ approval, Information about social and environmental consequences</td>
 </tr>
 <tr class="even">
 <td>Create spaces for authors to see other authors using reporting guidelines</td>
@@ -701,6 +712,7 @@ div.csl-indent {
 <td>There were no official on or offline spaces for authors to witness other users discussing guidelines.</td>
 <td><p>Each reporting item has a discussion board.</p>
 <p>Example: See <a href="#fig-discussion">Figure&nbsp;12</a></p></td>
+<td>Information about emotional consequences, Information about others’ approval, Information about social and environmental consequences</td>
 </tr>
 <tr class="odd">
 <td>Use language to communicate personal benefits; confidence and simplicity</td>
@@ -709,6 +721,7 @@ div.csl-indent {
 <p>Example: See <a href="#fig-home-b4">Figure&nbsp;3</a> and <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>A clean, simple interface for the home page and guidance pages. Text uses phrases like “confidence”, “quick”, “maximum impact”.</p>
 <p>Example: See <a href="#fig-home">Figure&nbsp;9</a> and <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Remove aversive stimulus, Information about others’ approval</td>
 </tr>
 <tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not care about the benefits of using a RG</strong></span></p>
@@ -716,28 +729,20 @@ div.csl-indent {
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td>Create new benefits that are more meaningful e.g., by offering recognition of good reporting through a certification service</td>
-<td>Incentivization</td>
-<td>Benefits to the scientific community were often described. Personal benefits were rarely described, suggesting they aren’t always considered by developers.</td>
-<td>No new benefits created</td>
-</tr>
-<tr class="even">
 <td>Include testimonials from research users who benefit from complete reporting</td>
 <td>Persuasion</td>
 <td>Testimonials not included in reporting guidelines.</td>
-<td>SRQR includes dummy testimonials and quotes from research users</td>
-</tr>
-<tr class="odd">
-<td>Create training that helps students experience, first hand, the benefits of RGs and consequence of poor reporting</td>
-<td>Training</td>
-<td>Although many students are tasked with undertaking a systematic review, the primary focus of this is generally not to consider (in)complete reporting.</td>
-<td>No changes made</td>
+<td><p>SRQR includes dummy testimonials and quotes from research users</p>
+<p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Salience of consequence</td>
 </tr>
 <tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may misunderstand</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -747,6 +752,7 @@ div.csl-indent {
 <td>Enablement</td>
 <td>Although developers aspire to write clearly, authors may misinterpret guidance or fail to understand it completely.</td>
 <td>SRQR is edited to use plainer language.</td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="even">
 <td>define key terms</td>
@@ -754,12 +760,14 @@ div.csl-indent {
 <td>Few guidelines came with a glossary. Some key terms may be defined within the guideline text. Including definitions this way makes them hard to find and elongates the guidance.</td>
 <td><p>SRQR now has a glossary, and text is marked-up with definitions that appear upon click.</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
 <td>use consistent terms</td>
 <td>Enablement</td>
 <td>Guidelines may use different terms to refer to the same thing. A single guideline may do this too.</td>
 <td>SRQR uses consistent terms across items.</td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="even">
 <td>provide translations</td>
@@ -768,10 +776,12 @@ div.csl-indent {
 <p>Example: SRQR was available in French but the translation wasn’t advertised on the main guidance.</p></td>
 <td><p>Translations are linked at the top of the guidance.</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
 <td>provide channels for feedback and support (see above)</td>
 <td>None</td>
+<td>See above</td>
 <td>See above</td>
 <td>See above</td>
 </tr>
@@ -781,116 +791,119 @@ div.csl-indent {
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>For each item, explain why the <em>information</em> is important and to whom (regardless of whether a particular design choice is important)</td>
 <td>Education</td>
 <td><p>Sometimes there was no explanation as to why an item should be reported. Other times the justification would be about why a particular design choice was important.</p>
 <p>Example: See <a href="#fig-item-b4">Figure&nbsp;6</a></p></td>
-<td><p>Informaiton added</p>
+<td><p>Information added</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Information about social and environmental consequences</td>
 </tr>
 <tr class="even">
-<td>For each item, indicate any conditions which modify importance</td>
-<td>Education</td>
-<td>It might not always be made clear when an item is only applicable in certain circumstances</td>
-<td>No changes made</td>
-</tr>
-<tr class="odd">
 <td>Explain importance of complete reporting to the scientific community</td>
 <td>Education</td>
 <td>EQUATOR and most RGs do this already</td>
 <td>Continue to do this</td>
+<td>Information about social and environmental consequences</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know how to do an item</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Provide links to other resources that explain how an item can be done</td>
 <td>See above</td>
 <td>Some RG E&amp;Es include instruction in text but many don’t. SRQR did not.</td>
 <td><p>Links included when relevant.</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know how to report an item in practice</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>For each item, provide clear instruction of what needs to be described</td>
 <td>Education</td>
 <td>Writing instructions are often mixed in with other explanation and context.</td>
 <td><p>Writing instruction occurs first for each item.</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>For each item, provide examples of reporting in different contexts</td>
 <td>modelling</td>
 <td>Not all RGs provide examples. Examples may not cover different contexts.</td>
-<td><p>Additional examples</p>
+<td><p>SRQR already had some examples. No examples added</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Demonstration of the behavior</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Discussion spaces (see above)</td>
 <td>Enablement</td>
 <td>No formal discussion spaces existed. Authors may use platforms like Twitter.</td>
 <td><p>Each item is linked to its own discussion board.</p>
 <p>Example: See <a href="#fig-discussion">Figure&nbsp;12</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know what to write when they cannot report an item</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Provide clear instruction of what needs to be described when an item was not done, could not be done, or does not apply</td>
 <td>Education</td>
 <td><p>Rarely instructed</p>
 <p>Example: See <a href="#fig-item-b4">Figure&nbsp;6</a></p></td>
 <td><p>Instructed where relevant</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Provide examples of reporting “imperfect” items</td>
 <td>Modelling</td>
 <td>Examples not provided</td>
 <td>No changes made</td>
+<td>Demonstration of the behavior</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers have limited time</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Ensure resources (checklists and templates) are in ready-to-use formats</td>
 <td>Enablement</td>
 <td>Some checklists not in immediately usable formats e.g., PDFs</td>
 <td>No changes made</td>
+<td>Adding objects to the environment</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Structure guidance to make it quicker to digest (see above)</td>
 <td>Enablement</td>
 <td><p>E&amp;E documents not structured below the item level</p>
-<p>Example: See <a href="#fig-item-b4">box&nbsp;6</a></p></td>
+<p>Example: See <a href="#fig-item-b4">Figure&nbsp;6</a></p></td>
 <td><p>Items have consistent structure</p>
-<p>Example: See <a href="#fig-item">box&nbsp;11</a></p></td>
-</tr>
-<tr class="even">
-<td>Indicate priority of items for authors that are short on time</td>
-<td>Enablement</td>
-<td>ARRIVE indicates priority, other RGs including SRQR do not.</td>
-<td>No changes made</td>
+<p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="odd">
 <td>Tell authors how long the guidance will take to read</td>
@@ -898,6 +911,7 @@ div.csl-indent {
 <td>Estimated reading time not given</td>
 <td><p>Estimated reading time given</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="even">
 <td>Tell authors how long guidance will take to apply</td>
@@ -905,10 +919,12 @@ div.csl-indent {
 <td>No advice given</td>
 <td><p>No changes made</p>
 <p>Example: No changes made</p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not know when RGs should be used</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Capability</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -919,6 +935,7 @@ div.csl-indent {
 <td>Rarely stated prominently</td>
 <td><p>Stated prominently</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
 <tr class="odd">
 <td>Differentiate resources by task on website</td>
@@ -926,10 +943,12 @@ div.csl-indent {
 <td>Resources not explicitly linked to tasks</td>
 <td><p>Resources presented alongside the tasks they are intended for</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not encounter RGs early enough to act on them</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -939,273 +958,308 @@ div.csl-indent {
 <td>Enablement</td>
 <td>Not done</td>
 <td>No changes made</td>
+<td>Restructuring the physical environment</td>
 </tr>
 <tr class="even">
-<td>Promote RGs in writing clubs or writing training</td>
-<td>Education</td>
-<td>Done in some training courses</td>
-<td>No changes made</td>
-</tr>
-<tr class="odd">
-<td>Create prompts / communication campaigns authors early in their research</td>
+<td>Create prompts / communication campaigns to target authors early in their research</td>
 <td>Enablement</td>
 <td>EQUATOR has no way to do this</td>
 <td>No changes made</td>
+<td>Prompts/cues</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Create tools to be used for early writing tasks</td>
 <td>Enablement</td>
 <td>Most RGs come with a checklist and some kind of E&amp;E. Few guidelines cater to protocols.</td>
 <td>No changes made</td>
+<td>Adding objects to the environment</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may struggle to keep writing concise</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Provide instruction as to how information can be reported without breaching word count limits or making articles bloated.</td>
 <td>Education</td>
 <td>Few RGs or RG items include this information</td>
 <td><p>Instruction at top of RG and in some items where most useful</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Provide examples of concise reporting</td>
 <td>Modelling</td>
 <td>No examples specifically to display concise reporting</td>
 <td>No changes made</td>
+<td>Demonstration of the behavior</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may not have tools for the job at hand</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Create planning-points; discussion points for planning research in the order decisions are made (see above)</td>
 <td>See above</td>
 <td>See above</td>
 <td>See above</td>
-</tr>
-<tr class="even">
-<td>Create to-do lists in the order research is conducted, to help authors collect information they will need to report (see above)</td>
 <td>See above</td>
-<td>(see above)</td>
-<td>(see above)</td>
 </tr>
 <tr class="odd">
+<td>Create to-do lists in the order research is conducted, to help authors collect information they will need to report (see above)</td>
+<td>See above</td>
+<td>See above</td>
+<td>See above</td>
+<td>See above</td>
+</tr>
+<tr class="even">
 <td>Create templates for drafting (see above)</td>
 <td>See above</td>
 <td>See above</td>
 <td>See above</td>
+<td>See above</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Create tools to facilitate checklist completion</td>
 <td>Enablement</td>
 <td><p>Updating page numbers in a checklist is time consuming. It takes editors time to double check page numbers and content. Checklists may not include instructions of how to complete them.</p>
 <p>Example: See <a href="#fig-checklist-b4">Figure&nbsp;7</a></p></td>
 <td>No changes made</td>
+<td>Adding objects to the environment</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Create tools to facilitate particular reporting items</td>
 <td>Enablement</td>
 <td>Some tools exist (e.g., PRISMA flow chart diagram maker, COBWEB)</td>
 <td>No changes made</td>
+<td>Adding objects to the environment</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Create tools to help collaborators check each other’s work</td>
 <td>Enablement</td>
 <td>Checklists exist but aren’t specifically designed for collaborators</td>
 <td>No changes made</td>
+<td>Adding objects to the environment</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Create tools to help peer reviewers check reporting and request missing information</td>
 <td>Enablement</td>
 <td>Checklists are RGs are not specifically aimed at peer reviewers</td>
 <td>No changes made</td>
+<td>Adding objects to the environment</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: RGs can become outdated</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Provide feedback channels to help developers keep guidance updated (see Discussion spaces above)</td>
 <td>None</td>
 <td>See above</td>
 <td>See above</td>
+<td>See above</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Create a system so that guideline developers can make small edits without publishing new articles</td>
 <td>Enablement</td>
 <td>Developers would have to publish a new article</td>
 <td>Developers can make small updates any time</td>
+<td>Restructuring the physical environment</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may struggle to reconcile multiple sets of guidance</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Explain when RGs do not intended to prescribe structure</td>
 <td>Education</td>
 <td><p>Not always stated. Not always prominent</p>
 <p>Example: see <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>Explained at top of guidance</p>
 <p>Example: see <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Provide options for where items can be reported (see above)</td>
 <td>None</td>
 <td>See above</td>
 <td>See above</td>
+<td>See above</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Create a system whereby guidelines can be embedded into each other (see above)</td>
 <td>None</td>
 <td>See above</td>
 <td>See above</td>
+<td>See above</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may be asked to remove RG content</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Provide advice regarding how to respond if asked to remove reporting guideline content by a colleague, editor, or reviewer</td>
 <td>Education</td>
 <td>No advice given</td>
 <td><p>Advice given in FAQ beneath each RG</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Problem solving</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: RG resources may not be in usable formats</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Ensure resources (checklists and templates) are in ready-to-use formats (see above)</td>
 <td>None</td>
 <td>See above</td>
 <td>See above</td>
+<td>See above</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may feel afraid to report transparently</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Motivation</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Present design advice separately to reporting advice</td>
 <td>Coercion (removal of)</td>
 <td>Some RG E&amp;Es include design advice</td>
 <td>No changes made</td>
+<td>Restructuring the physical environment</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Make reporting guidelines agnostic to design choices</td>
 <td>Coercion (removal of)</td>
 <td>Some RGs make implicit assumptions about design choices</td>
 <td>No changes made to SRQR</td>
+<td>Remove aversive stimulus</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Encourage explanation even when choices are unusual or not optimal</td>
 <td>Education</td>
 <td><p>Not always present</p>
 <p>Example: See <a href="#fig-item-b4">Figure&nbsp;6</a></p></td>
 <td><p>Added to items</p>
 <p>Example: See <a href="#fig-item">Figure&nbsp;11</a></p></td>
+<td>Instruction on how to perform the behavior</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Reassure authors that all research has limitations</td>
 <td>Persuasion</td>
 <td><p>Not always present</p>
 <p>Example: See <a href="#fig-home-b4">Figure&nbsp;3</a>, <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>Present on home page and RG page</p>
 <p>Example: See <a href="#fig-home">Figure&nbsp;9</a>, <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Social support</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Include testimonials from authors who were nervous about reporting transparently</td>
 <td>Persuasion</td>
 <td>Not present</td>
-<td>No changes made</td>
+<td>Quotes added</td>
+<td>Social support</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may feel restricted if RGs prescribe design</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Motivation</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Present design advice separately and remain design agnostic (see above)</td>
 <td>None</td>
 <td>See above</td>
 <td>See above</td>
+<td>See above</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Reassure when guidelines are <em>just</em> guidelines</td>
 <td>Persuasion</td>
 <td><p>Not always present or prominent</p>
 <p>Example: See <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>Prominently displayed at top of RG</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Social support</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may feel patronized</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Motivation</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Create discussion spaces for authors to voice disagreements and contribute to revisions (see above)</td>
 <td>Persuasion</td>
 <td>See above</td>
 <td>See above</td>
+<td>See above</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Avoid patronizing language</td>
 <td>Persuasion</td>
 <td>Although authors may feel patronized when asked to adhere to a RG, RGs themselves rarely use patronizing language</td>
 <td>Continue to avoid using patronizing language</td>
+<td>Remove aversive stimulus</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Explain how the guidance was developed and why it can be trusted</td>
 <td>Education</td>
 <td><p>Most RGs explain this in a published article. Checklists do not</p>
 <p>Example: See <a href="#fig-rg-intro-b4">Figure&nbsp;5</a></p></td>
 <td><p>Brief description included on home page and at top of RG, links to full to development information</p>
 <p>Example: See <a href="#fig-rg-intro">Figure&nbsp;10</a></p></td>
+<td>Credible source</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><span class="nowrap text-info"><strong>Key Behaviour: Repeat engagement with reporting guidelines for subsequent studies</strong></span></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><span class="nowrap"><strong>Targeted barrier: Researchers may forget to use RGs at earlier research stages</strong></span></p>
 <p><span class="nowrap"><strong>Behavioural driver: Opportunity</strong></span></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Create prompts / communication campaigns (see above)</td>
 <td>None</td>
+<td>See above</td>
 <td>See above</td>
 <td>See above</td>
 </tr>
@@ -1348,11 +1402,6 @@ div.csl-indent {
 <div style="page-break-after: always;"></div>
 
 
-<div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-michieBehaviourChangeWheel2014" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Michie S, Atkins L, West R (2014) The <span>Behaviour Change Wheel</span>: <span>A Guide</span> to <span>Designing Interventions</span>. <span>Silverback Publishing</span>, <span>London</span></div>
-</div>
-</div>
 </section>
 </section>
 
@@ -1596,7 +1645,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">Created: Fri Jul 21 21:56:20 BST 2023 - Commit ID: b2b401e</div>
+    <div class="nav-footer-center">Created: Tue Aug 1 10:16:04 BST 2023 - Commit ID: 79f515b</div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
