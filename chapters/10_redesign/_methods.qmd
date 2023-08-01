@@ -1,34 +1,20 @@
 ## Introduction
 
-The output of the workshops was:
+In chapter {{< var chapters.workshops >}} I describe how I followed the Behaviour Change Wheel guide through running workshops with staff members from the UK EQUATOR Centre. By the end of these workshops we had defined our target behaviour, identified what needed to change for this behaviour to occur, prioritized intervention functions and policy categories that we wanted to pursue, identified possible behaviour change techniques that we might use, and decided that we could deliver this new intervention by improving and extending the EQUATOR website. 
 
-* a target behaviour and sub-behaviours
-* a prioritized list of intervention functions and policy categories that we wanted to pursue (because they met APEASE?)
-* a decision on how to deliver the new intervention (website)
+Prioritizing abstract intervention options was useful but I still had to decide how our chosen options could be actualized. To facilitate this ideation step (and to seek input from a broader range of stakeholders) I ran focus groups, as described in the previous chapter. These focus groups produced {{< counts.ideas_pre_jh >}} ideas. These ideas were relevant to a range of stakeholders and often conflated intervention function with policy categories.
 
-The output of the focus groups was a list of ideas. 
+My next step was to turn these ideas into intervention components and decide which ideas to act on. 
 
-* mix of stakeholders
-* conflated function and category
-* not all relevant to us
-* not defined as BCT components. 
-
-By intervention component, I mean:
+What remained was to select which ideas I wanted to act on, and to turn them into intervention components. By intervention component, I mean:
 
 1. a designed element that uses one or more behaviour change technique,
-2. which is theorized to work through one or more intervention functions 3. to target one or more behavioural drivers. 
+2. which is theorized to work through one or more intervention functions 
+3. to target one or more behavioural drivers. 
 
-An intervention _change_ is the addition or removal of an intervention component. 
+In this chapter I describe how I turned _ideas_ into  _components_ by coding them against the barriers they address and the functions and behaviour change techniques they are employing. Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.
 
-Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.
-
-What remained was to analyse the ideas, separate out functions from policies/delivery options and select those I wanted to act on and turn them into behavioural components. 
-
-I then had to design and build these components into a prototype that could be piloted amongst authors. 
-
-#ASK: separate out into 2 chapters? Maybe not as it's nice to have table linking to figures. 
-
-I then describe how I turned ideas into intervention components and developed these components into an intervention prototype. 
+I then describe how I designed and built these components into a prototype that could be piloted amongst authors. 
 
 ## Behavioural Analysis
 
