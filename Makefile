@@ -2,7 +2,7 @@ preview:
 	@quarto preview
 
 publish: render
-	quarto publish gh-pages --no-render
+	@quarto publish gh-pages --no-render
 
 render: add_footer
 	@quarto render
@@ -18,4 +18,4 @@ check_commit: create_vars
 	@git diff-index --quiet HEAD -- || (echo "There are uncommitted edits"; exit 1)
 
 create_vars:
-	@python scripts/create_variables.py
+	@python create_variables.py
