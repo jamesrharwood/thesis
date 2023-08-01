@@ -15,8 +15,8 @@ add_footer: check_commit
 	@echo 'format:\n  docx:\n    date: now\n    author: "Commit ID: $(commitID)"' >> $(file_)
 
 check_commit: create_vars
-	# @git diff-index --quiet HEAD -- || (echo "There are uncommitted edits"; exit 1)
-	@git status --porcelain
+	@git update-index --refresh
+	@git diff-index --quiet HEAD -- || (echo "There are uncommitted edits"; exit 1)
 
 create_vars:
 	@python create_variables.py
