@@ -16,11 +16,48 @@ This is the same as the article I drafted a year or so ago. Gary had suggestions
 
 The UK EQUATOR Centre maintains a website to help authors find and access reporting guidelines. Web analytics shine a light on how well the website is performing and what could be done to improve it. Here we describe some key insights from web analytics. 1) Many users leave the site very quickly without interacting with it at all. 2) Guideline views are very heavily skewed towards the few guidelines that are featured on EQUATOR's home page and on journal instructions to authors. 3) Users access checklists more often than the full guidance, perhaps because the full guidance is harder to find. 4) EQUATOR could optimize their site for search engines. 5) EQUATOR could improve acquisition data by updating their links on third party websites and offline documents. 6) Some countries with high publication volumes are under-represented amongst website visitors. 7) EQUATOR could consider translating parts of their website to cater for a global audience.
 
-## Main Body
+## Introduction
 
-The EQUATOR Network website @EQUATORNetworkEnhancing is an important resource for authors seeking reporting guidelines. Google Analytics @AnalyticsToolsSolutions is a service that collects anonymised visitor data that allows website owners to track performance and collect visitor insights. It can be used to assess how successfully EQUATOR's website is meeting one of its core goals: to help authors to find and use reporting guidelines.
+In chapter {{< var chapters.survey_content >}} I found two studies that exploring authors' awareness of EQUATOR as an organisation (@fullerWhatAffectsAuthors2015; @girayAssessmentKnowledgeAwareness2020a). Although some authors will know EQUATOR from their training programmes or publications, most will know EQUATOR from its website. Despite running on a shoestring budget and without any in-house expertise in software, design, or user experience, the website's traffic has increased from 100,000 users to almost 1 million over the last 10 years, attracting visitors from all around the world. For context, around 4.3 million authors published 2.4 million academic articles in 2014 @plumePublishPerishRise2014, and the STM association estimated that 11 million people working in research and development in 2018 @stmassociationSTMGlobalBrief. Whilst these numbers will have grown since, they suggest that EQUATOR's website traffic numbers are within a single order of magnitude of its potential audience size. 
 
-The EQUATOR website and Google Analytics account was developed and maintained by the UK EQUATOR Centre, but these data will be useful to other EQUATOR centres and particularly for guideline developers looking for impact metrics. We have therefore created an interactive, freely accessible dashboard where stakeholders can explore the data @EQUATORNetworkGoogle. Below we briefly summarise some observations that we feel have important implications for the EQUATOR Network and reporting guideline developers and suggest ways to improve the EQUATOR Network website.
+#STRETCH These numbers are for research in general. I haven't found numbers specific to medicine yet.
+
+Hence what started as a research-group's attempt to catalogue reporting guidelines has become a significant part of the academic eco-system. And yet, EQUATOR has never formally considered how successfully their website is performing, or how it could be improved. 
+
+In this chapter I describe how I worked with EQUATOR to identify key metrics of success and how I used web analytics to describe those metrics. In the discussion section, I infer how the website may need improving.
+ 
+#TODO: dashboard no longer works
+
+## Methods 
+
+Google Analytics @AnalyticsToolsSolutions is a web analytics service that helps website owners track and understand users' activity. Used by 85% of websites globally, it is the most popular web analytics service by far @UsageStatisticsMarket. EQUATOR has used Google Analytics to collect data since creating their website. Mostly they use the data to report high level impact metrics to funders (such as number of visitors) but they have never used it to evaluate their site in depth.
+
+When evaluating a website, there are a huge number of metrics you can consider; Google Analytics collects over 50 by default @GA4AutomaticallyCollected; @GA4PredefinedUser, and Google Tag Manager @WebMobileTag allows you to collect additional custom metrics (see @tbl-ga for definitions of Google Analytics terms and metrics). With so many options, the first step of evaluation is to decide what metrics are most important for your website's objectives. 
+
+I met with three members of the UK EQUATOR Centre in October 2021. When I asked what the main purposes of their website @EQUATORNetworkEnhancing was, I received many answers. EQUATOR has content aimed at authors, editors, peer reviewers, educators, librarians, and guideline developers. There are web pages promoting training courses, toolkits for writing and reviewing research, newsletters, and blogs highlighting work done by EQUATOR and guideline developers. 
+
+However, at its core, the EQUATOR staff I spoke to agreed that the purpose of the website is to help the global research community learn about and access reporting guidelines. They want website visitors to access the guidance that is right for them and come back to the website whenever they need guidance.
+
+To explore how far reality meets this vision, I used Google Analytics to answer the following questions:
+
+* How many people visit the website each year? 
+* Where (in the world) are visitors from?
+* How often do visitors come back?
+* How do visitors get to the website?
+* How many visitors access guidance?
+* What guidelines do visitors access?
+* How many visitors access publications or checklists?
+
+The last two questions could not be answered by Google Analytics' default configuration; it recorded which database records visitors looked at, but not how many people went on to view guidance on third party websites, or whether visitors were viewing checklists or full guidance. Therefore I used Google Tag Manager to create two custom metrics: one which counted when visitors downloaded a reporting checklist file, and another which counted when visitors accessed a third party website. 
+
+#STRETCH could elaborate on these but my gut is to keep chapter short.
+
+EQUATOR staff felt it was important that website users were able to access the _right_ resource. Although Google Analytics could tell us _what_ pages visitors access, it can't tell us what they _needed_, or _why_. To answer this, I used PopupSmart @PopupBuilderThat to create a single-question exit survey that asked "What were you looking for today?". I used a single, open ended question to maximize my response rate. 
+
+#TODO name and reference technique 
+
+
+## Results
 
 ## Keep visitors engaged
 
@@ -61,6 +98,18 @@ Over 800,000 users visited the EQUATOR website in 2021 (Table 4), 150,000 more t
 ## Consider non-native English speakers
 
 Two fifths of users had their browsers set to a language other than English (Table 4), most frequently Portuguese, Chinese, and Spanish. Manually translating popular guidelines or website sections may be appropriate for frequent languages, but manual translations are expensive, difficult to update, and cannot be scaled. Automatic machine translation is more scalable, easy to update, and inaccuracies can be refined with custom glossaries and language models. EQUATOR and guideline developers should also use plain language to help users and automatic translators alike.
+
+### Survey data suggest some visitors may not understand what the website is about, and may not find it useful
+
+I let the survey run for 2 weeks before deciding to take it down. 
+
+The response rate was poor - 
+
+The responses that we received were rarely insightful. Only three visitors answered the question. One wanted "to get reporting guidelines" another wanted "a tool called standard for reporting qualitative research", and a third "could not find any reporting guidelines for reporting guidelines (specifically, abstracts for reporting guidelines)". Two others hinted at what they wanted but weren't explicit, "qualitative", or "word format would be more easy to fulfil" (presumably referring to reporting checklists). A handful of users didn't specify what they were looking for, but stated whether they had found it (e.g. "got what I was looking for!", "found what I needed!", "Could not find what I needed", "I cannot find the guidance that I seek", "I don't see what I want").
+
+But the majority of responses did not help answer our question. Some visitors seemed to be in the wrong place: one was looking for a "quality of life questionnaire", another for "scientific research". Two authors seemed to be looking for requirements for specific journals: one wrote "format for paper submission to Hindawi", and another wrote "awful site.  I just want to know the requirements in terms of number of words and format for a submission and cannot seem to find this anywhere". Other visitors also seemed frustrated with the website ("i did not under stand any thing", "The site is very complex", "Too big a mess") and the popup itself ("You might want to do something about your annoying popup!", "don't ask that"). 
+
+Some user's responses made no sense at all. One wrote "ALGERIA", another "Germany". 
 
 ## Limitations
 
