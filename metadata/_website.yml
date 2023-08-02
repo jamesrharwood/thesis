@@ -21,7 +21,7 @@ website:
         file: "chapters/3_synthesis/index.qmd"
       - text: "4. Survey content review"
         file: "chapters/4_survey_content/index.qmd"
-      - text: "<span class='text-warning'>5. EQUATOR website evaluation</span>"
+      - text: "5. EQUATOR website evaluation"
         file: "chapters/5_website_audit/index.qmd"
       - text: "<span class='text-muted'>6. Journal instruction audit</span>"
         file: ""

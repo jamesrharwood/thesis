@@ -33,7 +33,7 @@ book:
         - text: "11. Pilot"
           file: chapters/11_pilot/index.qmd
     - text: "12. Discussion (todo)"
-      file: chapters/discussion/index.qmd
+      file: chapters/12_discussion/index.qmd
     - part: "Appendix"
       chapters:
         - data/barriers.md
