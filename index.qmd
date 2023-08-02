@@ -14,3 +14,8 @@ If you see anything like "\@something", "\{\{< var something >\}\}", or "#TODO" 
 Some of the tables and figures aren't rendering nicely yet, especially in Word format. You can ignore that too. 
 :::
 
+## Word Count Tallies: 
+
+Actual word counts will be lower. These numbers include the tables and references for each chapter. 
+
+{{< include metadata/_wordcounts.qmd >}}
