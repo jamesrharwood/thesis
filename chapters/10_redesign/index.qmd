@@ -3,15 +3,12 @@ title: "Turning reporting guidelines into a behaviour change intervention: Behav
 format: 
     html:
         output-file: index.html
+        css: styles.css
     docx:
         output-file: JH-chapter-redesign.docx
 ---
 
-{{< include _methods.qmd >}}
- 
-:::{.column-page-right}
-{{< include _table.qmd >}}
-:::
+{{< include _methods.qmd >}} 
 
 {{< include _figures.qmd >}}
 

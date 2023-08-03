@@ -13,9 +13,9 @@ from tabulate import tabulate
 from data import BARRIERS
 import texttable
 
-COLS = ['INTERVENTION INGREDIENT', 'INT. FN', 'BEFORE', 'NOW', "BEHAVIOUR CHANGE TECHNIQUE"]
+COLS = ['Intervention Ingredient', "Behaviour Change Technique", 'Intervention Function', 'Before', 'Now', ]
 COL_RANGE = range(len(COLS))
-WIDTHS = [500, 100, 500, 500, 200]
+WIDTHS = [400, 200, 200, 400, 400]
 ALIGNMENTS = ['l' for _ in COL_RANGE]
 DIR = os.getcwd()
 FP = os.path.join(DIR, 'chapters', '10_redesign', 'planning_table.yaml')
@@ -50,7 +50,7 @@ for key_behaviour, barriers in data.items():
                     print(values)
                     raise Exception(desc)
                 IF = values.get('IF', 'See above')
-                table.add_row([desc, IF, before, now, BCT])
+                table.add_row([desc, BCT, IF, before, now])
 print(table.draw())
 ```
 

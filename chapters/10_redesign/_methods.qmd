@@ -1,10 +1,8 @@
 ## Introduction
 
-In chapter {{< var chapters.workshops >}} I describe how I followed the Behaviour Change Wheel guide through running workshops with staff members from the UK EQUATOR Centre. By the end of these workshops we had defined our target behaviour, identified what needed to change for this behaviour to occur, prioritized intervention functions and policy categories that we wanted to pursue, identified possible behaviour change techniques that we might use, and decided that we could deliver this new intervention by improving and extending the EQUATOR website. 
+In chapter {{< var chapters.workshops >}} I described how I used the Behaviour Change Wheel guide to run workshops with staff members from the UK EQUATOR Centre. By the end of these workshops we had defined our target behaviour, identified what needed to change for this behaviour to occur, prioritized intervention functions and policy categories that we wanted to pursue, identified possible behaviour change techniques that we might use, and decided that we could deliver this new intervention by improving and extending the EQUATOR website. 
 
-Prioritizing abstract intervention options was useful but I still had to decide how our chosen options could be actualized. To facilitate this ideation step (and to seek input from a broader range of stakeholders) I ran focus groups, as described in the previous chapter. These focus groups produced {{< counts.ideas_pre_jh >}} ideas. These ideas were relevant to a range of stakeholders and often conflated intervention function with policy categories.
-
-My next step was to turn these ideas into intervention components and decide which ideas to act on. 
+Prioritizing abstract intervention options was useful but I still had to decide how our chosen options could be actualized. To facilitate ideation (and to seek input from a broader range of stakeholders) I ran focus groups, as described in the previous chapter. These focus groups produced {{< counts.ideas_pre_jh >}} ideas relevant to a range of stakeholders. Not all ideas aligned with the priorities EQUATOR and I had set during the workshops and some ideas conflated intervention function with policy categories.
 
 What remained was to select which ideas I wanted to act on, and to turn them into intervention components. By intervention component, I mean:
 
@@ -12,33 +10,35 @@ What remained was to select which ideas I wanted to act on, and to turn them int
 2. which is theorized to work through one or more intervention functions 
 3. to target one or more behavioural drivers. 
 
-In this chapter I describe how I turned _ideas_ into  _components_ by coding them against the barriers they address and the functions and behaviour change techniques they are employing. Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.
+Defining intervention content in this way is useful because it helps intervention developers to understand why the component has been added (or removed), how it is theorised to be working and, therefore, how its effectiveness may be tested.
 
-I then describe how I designed and built these components into a prototype that could be piloted amongst authors. 
+In this chapter I describe how I turned _ideas_ into  _components_ by coding them against the barriers they address and the functions and behaviour change techniques they are employing. I then describe how I designed and built these components into a prototype that could be piloted amongst authors. 
 
 ## Behavioural Analysis
 
-#### Methods
+### Methods
 
-For every idea generated from the workshops and focus groups, I labelled which barriers it was addressing, which behavioural drivers it was targeting, and which intervention functions it was employing to do so. This list was data driven, in that it was based upon the ideas and barriers generated from previous research (see chapters {{< var chapters.synthesis >}}, {{< var chapters.review >}}, {{< var chapters.web-audit >}}, {{< var chapters.journal-audit >}}, {{< var chapters.workshops >}} and {{< var chapters.focus-groups >}}). To give structure and context to this list, I grouped ideas according to the sub-behaviours they targeted: 1) engaging with guidance and 2) applying it (see section on identifying the target behaviour in chapter {{< var chapters.workshops >}}).
+The output of my focus groups with stakeholders (chapter {{< var chapters.focus-groups >}}) was a list of {{< var.counts.sub_ideas-Pre_jh >}} ideas which I then grouped inductively into {{< var counts.ideas >}} broader ideas to make them easier to describe and digest. However, my starting point for the behabvioural analysis was the _unaggregated_ list ({{< var.counts.sub_ideas-Pre_jh >}} ideas). Whilst analysing and writing-up my focus group chapter, more ideas occured to me, so this list became very slightly longer ({{< var.counts.sub_ideas >}} ideas).
 
-Once all ideas were coded, I selected ideas to implement by considering a) whether they could be incorporated into a web-based intervention, b) the priority of the intervention function (determined in objective 2), and c) whether I could feasibly deliver the idea within the time constraints of my DPhil.
+I then took each of these ideas in turn and considered a) whether it could be implemented by modifying the EQUATOR website, b) whether it aligned with the intervention options EQUATOR and c) whether it was feasible for me to create within the constraints of my DPhil. I had prioritised during our workshops (chapter {{< var chapters.workshops >}}). For each selected idea, I turned it into an intervention component by labelling which barriers it was addressing, which behavioural drivers it was targeting, and which intervention functions it was employing to do so. The resulting list of intervention components was data driven, in that it was based upon the ideas and barriers generated from previous research (see chapters {{< var chapters.synthesis >}}, {{< var chapters.review >}}, {{< var chapters.web-audit >}}, {{< var chapters.journal-audit >}}, {{< var chapters.workshops >}} and {{< var chapters.focus-groups >}}). 
 
-#TODO: my results table currently includes _all_ ideas at the moment. But some of these ideas aren't actually intervention components (some are modes of delivery e.g. "provide training" or "networks of champions"). And I've not included all of the ideas in my intervention. Given that I already report all "ideas" in the appendix (and results section of the focus group chapter), I think it might be more useful to just report the intervention components that I've taken forward into the pilot or _could_ include in the website going forward.
+To give structure and context to this list of intervention components, I grouped them according to the sub-behaviours they targeted: 1) engaging with guidance and 2) applying it (see section on identifying the target behaviour in chapter {{< var chapters.workshops >}}).
 
-#### Results
+### Results
 
-See table @tbl-int-plan for all {{< var counts.ideas >}} ideas, labelled with the barriers they address, the drivers they target, the intervention functions they use, and whether I could implement them.
+See table @tbl-int-plan for all {{< var counts.redesign.intervention-components >}} intervention components, labelled with the barriers they address, the intervention functions they work through, and the behaviour change technique they employ.
 
-### Building the intervention
+:::{.column-page-right}
+{{< include _table.qmd >}}
+:::
 
-#### Purpose
+## Building the intervention
 
 The result of my behavioural analysis was a list of components that were abstract. “Reassuring language” or “design that communicates simplicity” could be realised in many different ways. To build a working prototype that could be piloted I had to make these real.
 
-#### Methods and Results
+### Methods
 
-##### Designing the intervention
+#### Designing
 
 I began by describing how each intervention component could be realised and how this compared to the existing system (see #tab-int-plan). In doing these comparisons, I looked at how the EQUATOR website is currently, and I made generalisation about how popular reporting guidelines are disseminated, and the content of their Example and Elaboration documents and checklists.
 
@@ -65,7 +65,7 @@ I rearranged conditional sub-items so that they read "If X, then describe Y", ra
 
 After development, I double checked the intervention against the initial list of intervention components to ensure I had covered all of them. I consulted with EQUATOR members to verify that the components were realised as expected and invited another round of feedback.
 
-##### System architecture
+#### System architecture
 
 When considering architecture options I prioritized technology that could feasibly be maintained by EQUATOR staff or a future PhD student. I looked for tools that would be familiar to early career researchers. I considered DIY website builders (like Wix or Squarespace) but these services can be expensive. Most offer a 'drag and drop' building experience which, although easy to use, is a laborious way of uploading and formatting large amounts of content. Should EQUATOR want to change how an item is presented, they would have to manually edit each item for each reporting guideline. Additionally, our intended intervention changes required custom functionality that wasn't offered by these services (e.g. integration with a DOI minting service, glossary definitions, discussion boards).
 
@@ -74,5 +74,7 @@ Although coding languages like `html` or `javascript` are used by many software 
 Many researchers write reproducible manuscripts in markdown using tools like RStudio or Quarto. Quarto can turn markdown into many different file formats including docx, pdf, and html (a website). Quarto documents can be further customised using programming languages commonly used in research, like Ruby or Python. Quarto requires no technical knowledge, is easy to learn, has great documentation, and is open source.
 
 The website is served using Github Pages which is free, beginner friendly, configurable, and integrates (almost) seamlessly with Github's version control system which will already be familiar to many researchers. I wanted EQUATOR to have ultimate control over the website. I also wanted guideline developers to have selective access to edit their own guideline content but not to other guidelines. I have built the website such that each reporting guideline is stored in its own repository on Github, accessible only to its developers. These guideline repositories are then "pulled in" to the main EQUATOR repository, so EQUATOR can double check changes that developers make before allowing them to go live on the site.
+
+### Results 
 
 The website source code can be viewed at {{< var website-github-repo-url >}} and the website can be viewed at {{< var website-url >}}.
