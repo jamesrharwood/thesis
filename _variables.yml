@@ -2,68 +2,68 @@ BARRIERS:
   believed-benefits: Researchers may not believe stated benefits
   believed-costs: Researchers may expect the costs to outweigh benefits
   benefits: Researchers may not know what benefits to expect
-  best-fit: Researchers may not know what RG is their best fit
-  care-about-benefits: Researchers may not care about the benefits of using a RG
+  best-fit: Researchers may not know what reporting guideline is their best fit
+  care-about-benefits: Researchers may not care about the benefits of using a reporting guideline
   feel-not-a-job: Researchers may not consider writing as reporting
   feel-not-my-job: Researchers may feel that checking reporting is someone else's job.
   feel-patronized: Researchers may feel patronized
-  feel-restricted: Researchers may feel restricted if RGs prescribe design
+  feel-restricted: Researchers may feel restricted if reporting guidelines prescribe design
   feel-transparent: Researchers may feel afraid to report transparently
   how-to-do: Researchers may not know how to do an item
   how-to-report: Researchers may not know how to report an item in practice
   how-to-report-not-done: Researchers may not know what to write when they cannot report an item
   importance: Researchers may not know why items are important
-  need-accessible: RGs may be difficult to access
+  need-accessible: reporting guidelines may be difficult to access
   need-concise-writing: Researchers may struggle to keep writing concise
   need-enough-time: Researchers have limited time
   need-findable: Guidance may be difficult to find
-  need-prompts: Researchers may forget to use RGs at earlier research stages
-  need-right-time: Researchers may not encounter RGs early enough to act on them
+  need-prompts: Researchers may forget to use reporting guidelines at earlier research stages
+  need-right-time: Researchers may not encounter reporting guidelines early enough to act on them
   need-to-reconcile: Researchers may struggle to reconcile multiple sets of guidance
-  need-to-remove: Researchers may be asked to remove RG content
+  need-to-remove: Researchers may be asked to remove reporting guideline content
   need-tools: Researchers may not have tools for the job at hand
   need-translations: Researchers may not understand the language
-  need-up-to-date-guidance: RGs can become outdated
-  need-usable-formats: RG resources may not be in usable formats
-  scope: Researchers may not know whether a RG applies to them
+  need-up-to-date-guidance: reporting guidelines can become outdated
+  need-usable-formats: reporting guideline resources may not be in usable formats
+  scope: Researchers may not know whether a reporting guideline applies to them
   understanding: Researchers may misunderstand
-  what-are-rgs: Researchers may not know what RGs are
-  what-resources-exist: Researchers may not know what resources exist for a RG
-  what-rgs-exist: Researchers may not know what RGs exist
-  when-to-use: Researchers may not know when RGs should be used
+  what-are-rgs: Researchers may not know what reporting guidelines are
+  what-resources-exist: Researchers may not know what resources exist for a reporting guideline
+  what-rgs-exist: Researchers may not know what reporting guidelines exist
+  when-to-use: Researchers may not know when reporting guidelines should be used
 BARRIER_SECTIONS:
   believed-benefits: researchers-may-not-believe-stated-benefits
   believed-costs: researchers-may-expect-the-costs-to-outweigh-benefits
   benefits: researchers-may-not-know-what-benefits-to-expect
-  best-fit: researchers-may-not-know-what-rg-is-their-best-fit
-  care-about-benefits: researchers-may-not-care-about-the-benefits-of-using-a-rg
+  best-fit: researchers-may-not-know-what-reporting-guideline-is-their-best-fit
+  care-about-benefits: researchers-may-not-care-about-the-benefits-of-using-a-reporting-guideline
   feel-not-a-job: researchers-may-not-consider-writing-as-reporting
   feel-not-my-job: researchers-may-feel-that-checking-reporting-is-someone-else's-job.
   feel-patronized: researchers-may-feel-patronized
-  feel-restricted: researchers-may-feel-restricted-if-rgs-prescribe-design
+  feel-restricted: researchers-may-feel-restricted-if-reporting-guidelines-prescribe-design
   feel-transparent: researchers-may-feel-afraid-to-report-transparently
   how-to-do: researchers-may-not-know-how-to-do-an-item
   how-to-report: researchers-may-not-know-how-to-report-an-item-in-practice
   how-to-report-not-done: researchers-may-not-know-what-to-write-when-they-cannot-report-an-item
   importance: researchers-may-not-know-why-items-are-important
-  need-accessible: rgs-may-be-difficult-to-access
+  need-accessible: reporting-guidelines-may-be-difficult-to-access
   need-concise-writing: researchers-may-struggle-to-keep-writing-concise
   need-enough-time: researchers-have-limited-time
   need-findable: guidance-may-be-difficult-to-find
-  need-prompts: researchers-may-forget-to-use-rgs-at-earlier-research-stages
-  need-right-time: researchers-may-not-encounter-rgs-early-enough-to-act-on-them
+  need-prompts: researchers-may-forget-to-use-reporting-guidelines-at-earlier-research-stages
+  need-right-time: researchers-may-not-encounter-reporting-guidelines-early-enough-to-act-on-them
   need-to-reconcile: researchers-may-struggle-to-reconcile-multiple-sets-of-guidance
-  need-to-remove: researchers-may-be-asked-to-remove-rg-content
+  need-to-remove: researchers-may-be-asked-to-remove-reporting-guideline-content
   need-tools: researchers-may-not-have-tools-for-the-job-at-hand
   need-translations: researchers-may-not-understand-the-language
-  need-up-to-date-guidance: rgs-can-become-outdated
-  need-usable-formats: rg-resources-may-not-be-in-usable-formats
-  scope: researchers-may-not-know-whether-a-rg-applies-to-them
+  need-up-to-date-guidance: reporting-guidelines-can-become-outdated
+  need-usable-formats: reporting-guideline-resources-may-not-be-in-usable-formats
+  scope: researchers-may-not-know-whether-a-reporting-guideline-applies-to-them
   understanding: researchers-may-misunderstand
-  what-are-rgs: researchers-may-not-know-what-rgs-are
-  what-resources-exist: researchers-may-not-know-what-resources-exist-for-a-rg
-  what-rgs-exist: researchers-may-not-know-what-rgs-exist
-  when-to-use: researchers-may-not-know-when-rgs-should-be-used
+  what-are-rgs: researchers-may-not-know-what-reporting-guidelines-are
+  what-resources-exist: researchers-may-not-know-what-resources-exist-for-a-reporting-guideline
+  what-rgs-exist: researchers-may-not-know-what-reporting-guidelines-exist
+  when-to-use: researchers-may-not-know-when-reporting-guidelines-should-be-used
 IFSecs:
   accessible: make-resources-accessible
   apparent-priority: make-reporting-guidelines-appear-as-a-priority
@@ -165,10 +165,17 @@ counts:
   participants: 16
   publishers: 3
   redesign:
-    barriers-targeted: TODO
-    intervention-components: TODO
-    intervention-functions-used: TODO
+    barriers-targeted: 32
+    bcts-used: 18
+    intervention-components:
+      included: 60
+      included_unique: 48
+      total: 81
+      unique: 63
+    intervention-functions-used: 6
   stakeholders: 10
+  sub_ideas: 136
+  sub_ideas_pre_jh: 128
   sub_items: 136
   sub_items_pre_jh: 128
 descriptions:

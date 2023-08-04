@@ -1,4 +1,4 @@
-import yaml
+import yaml, os
 
 from data import BARRIERS, CHANGES, STAKEHOLDERS, STAGES
 
@@ -8,20 +8,62 @@ guideline_developers = 11 #TODO
 publishers = 3 #TODO
 academics = 2 #TODO
 
-sub_item_count = 0
+sub_idea_count = 0
 jh_ideas_count = 0
 jh_ideas_before = 'TODO'
 
 for change in CHANGES:
-    sub_item_count += change.idea_count
+    sub_idea_count += change.idea_count
     jh_ideas_count += change.content.count('^JH^')
+
+## Intervention components count
+DIR = os.getcwd()
+FP = os.path.join(DIR, 'chapters', '10_redesign', 'planning_table.yaml')
+ICs_TOTAL = 0
+ICs_INCLUDED = 0
+ICs_UNIQUE = 0
+ICs_INCLUDED_UNIQUE = 0
+IC_BARRIERS = set()
+IC_INTERVENTION_FUNCTIONS = set()
+IC_BCTs = set()
+
+with open(FP, 'r') as f:
+    data = yaml.safe_load(f)
+    for key_behaviour in data.keys():
+        for barrier in data[key_behaviour].keys():
+            IC_BARRIERS.add(barrier)
+            for ingredient in data[key_behaviour][barrier]['ingredients'].values():
+                if type(ingredient) is not dict:
+                    print (data[key_behaviour][barrier])
+                ICs_TOTAL += 1
+                is_unique = not(ingredient.get('duplicate', False))
+                if is_unique:
+                    ICs_UNIQUE += 1
+                    IC_INTERVENTION_FUNCTIONS.add(ingredient['IF'])
+                    for bct in ingredient['BCT'].split(','):
+                        IC_BCTs.add(bct.strip()) #TODO some components have multiple BCTs listed. Either reduce to only one, or split on comma
+                if ingredient['done']:
+                    ICs_INCLUDED += 1
+                    if is_unique:
+                        ICs_INCLUDED_UNIQUE += 1
+INTERVENTION_COMPONENTS = {
+    'total': ICs_TOTAL,
+    'unique': ICs_UNIQUE,
+    'included': ICs_INCLUDED,
+    'included_unique': ICs_INCLUDED_UNIQUE,
+}
+IC_BARRIERS = set([b.lower() for b in IC_BARRIERS if b])
+IC_INTERVENTION_FUNCTIONS = set([i.lower() for i in IC_INTERVENTION_FUNCTIONS if i])
+IC_BCTs = set(bct.lower() for bct in IC_BCTs if bct)
+
+
 
 counts = dict(
     barriers = len(BARRIERS.values()),
     stakeholders = len(STAKEHOLDERS.values()),
     changes = len(CHANGES.values()),
-    sub_items = sub_item_count,
-    sub_items_pre_jh = sub_item_count - jh_ideas_count,
+    sub_ideas = sub_idea_count,
+    sub_ideas_pre_jh = sub_idea_count - jh_ideas_count,
     jh_ideas = jh_ideas_count,
     jh_ideas_before = jh_ideas_before,
     EQUATOR_ideas = 'TODO', #TODO
@@ -31,9 +73,10 @@ counts = dict(
     academics = academics,
     publishers = publishers,
     redesign = {
-        'intervention-components': 'TODO', #TODO
-        'barriers-targeted': 'TODO', #TODO
-        'intervention-functions-used': 'TODO', #TODO
+        'intervention-components': INTERVENTION_COMPONENTS,
+        'barriers-targeted': len(IC_BARRIERS),
+        'intervention-functions-used': len(IC_INTERVENTION_FUNCTIONS),
+        'bcts-used': len(IC_BCTs),
     },
 )
 

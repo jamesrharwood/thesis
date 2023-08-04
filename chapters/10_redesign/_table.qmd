@@ -13,6 +13,8 @@ from tabulate import tabulate
 from data import BARRIERS
 import texttable
 
+SEE_ABOVE = ""
+
 COLS = ['Intervention Ingredient', "Behaviour Change Technique", 'Intervention Function', 'Before', 'Now', ]
 COL_RANGE = range(len(COLS))
 WIDTHS = [400, 200, 200, 400, 400]
@@ -37,15 +39,19 @@ for key_behaviour, barriers in data.items():
         if type(ingredients)==dict:
             for desc, values in ingredients.items():
                 try:
-                    before = f'{values["before"] or "See above"}'
+                    before = f'{values["before"] or SEE_ABOVE}'
                     examples = values["before_example"]
                     if examples: 
                         before += f'\n\nExample: {examples}'
-                    now = f'{values["now"] or "See above"}'
+                    now = f'{values["now"] or SEE_ABOVE}'
                     examples = values["now_example"]
                     if examples: 
                         now += f'\n\nExample: {examples}'
                     BCT = values['BCT'] or 'See above'
+                    done = values['done']
+                    assert type(done) is bool
+                    if not done:
+                        desc += "*"
                 except Exception as e:
                     print(values)
                     raise Exception(desc)
@@ -54,7 +60,7 @@ for key_behaviour, barriers in data.items():
 print(table.draw())
 ```
 
-: Intervention Planning Table. Intervention ingredients labelled with the intervention function (INT. FN) and behaviour change technique(s) they employ, examples of how they are (or are not) used before this redesign (Before) and, when included, within the redesigned intervention (Now). Components are grouped according to the key behaviours, barriers, and behavioural drivers that they are designed to target. {#tbl-int-plan}
+: Intervention Planning Table. Intervention components labelled with the behaviour change techniques and intervention functions they employ, and grouped according to the key behaviours, barriers, and behavioural drivers that they aim to target. Where possible, examples demonstrate how components were (or were not) used originally (Before) and, how they are included within the redesigned intervention (Now). {#tbl-int-plan}
 
 ::: 
 <!-- end of landcape -->
