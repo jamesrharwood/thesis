@@ -1,0 +1,45 @@
+# List of abbreviations
+
+## Reporting guidelines {#sec-rg-abbreviations}
+
+Name|Full name
+:-|:----
+AGREE |  Appraisal of Guidelines, REsearch and Evaluation
+ARRIVE | Animal Research: Reporting of In Vivo Experiments
+CARE | guidelines for CAse REports
+CHEERS | Consolidated Health Economic Evaluation Reporting Standards
+COGS | Conference on Guideline Standardization
+CONSORT | Consolidated Standards of Reporting Trials
+COREQ |  COnsolidated criteria for REporting Qualitative research
+ENTREQ | Enhancing Transparency in Reporting the Synthesis of Qualitative Research statement
+GREET | Guideline for Reporting Evidence-based practice Educational interventions and Teaching
+GRRAS | Guidelines for Reporting Reliability and Agreement Studies
+MDAR | Materials Design Analysis Reporting
+ORION | Outbreak Reports and Intervention Studies Of Nonsocomial infection
+PRISMA | Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+PRISMA Equity | Preferred Reporting Items for Systematic Reviews and Meta-Analyses with a Focus on Health Equity
+PRISMA-P | Preferred Reporting Items for Systematic Reviews and Meta-Analyses Protocols
+PRISMA-S | Preferred Reporting Items for Systematic Reviews and Meta-Analyses Searches
+RIGHT |  Reporting Items for practice Guidelines in HealThcare
+SAMPL | Statistical Analyses and Methods in the Published Literature
+SPIRIT | Standard Protocol Items: Recommendations for Interventional Trials
+SQUIRE | Standards for QUality Improvement Reporting Excellence
+SRQR | Standards for Reporting Qualitative Research
+STARD |  STAndards for Reporting Diagnostic accuracy studies
+STREGA | STrengthening the REporting of Genetic Association Studies
+STRICTA | STandards for Reporting Interventions in Clinical Trials of Acupuncture
+STROBE | Strengthening the Reporting of Observational Studies in Epidemiology
+TREND | Transparent Reporting of Evaluations with Nonrandomized Designs
+TRIPOD | Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis
+
+
+
+## Other Abbreviations {#sec-abbreviations}
+
+|
+:-|:----
+CASP | Critical Appraisal Skills Programme
+EQUATOR | Enhancing the QUAlity and Transparency Of health Research
+GIM | Global Index Medicus
+OSF | Open Science Framework
+SciELO | Scientific Electronic Library

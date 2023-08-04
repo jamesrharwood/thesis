@@ -31,7 +31,7 @@ My qualitative synthesis included a systematic search that sought to capture all
 
 ### What reporting guidelines were studied?
 
-Between the 22 studies 25 reporting guidelines were mentioned, most frequently PRISMA (n=6), STARD (n=6), CONSORT (n=6) and ARRIVE (n=5) (see @tbl-abbreviations for abbreviation definitions). Thus, only a small proportion of the reporting guidelines indexed in EQUATOR's database [@EQUATORNetworkEnhancing] have been evaluated with quantitative questions. Fourteen studies focussed on a single guideline (n=14), with others asking questions about multiple guidelines (e.g. "which reporting guidelines [participants] had known"[@girayAssessmentKnowledgeAwareness2020a]) or guidelines in general (e.g., "whether they had used reporting guidelines in their publications"[@karadagoncelKnowledgeAwarenessOptimal2018a]). Most studies included participants from the USA, Europe, and Canada and only a few studies conducted elsewhere (e.g., China and Turkey) (see @tbl-study-list).
+Between the 22 studies 25 reporting guidelines were mentioned, most frequently PRISMA (n=6), STARD (n=6), CONSORT (n=6) and ARRIVE (n=5) (see my [List of Abbreviations](/chapters/abbreviations.qmd) for the full titles of each reporting guideline). Thus, only a small proportion of the reporting guidelines indexed in EQUATOR's database [@EQUATORNetworkEnhancing] have been evaluated with quantitative questions. Fourteen studies focussed on a single guideline (n=14), with others asking questions about multiple guidelines (e.g. "which reporting guidelines [participants] had known"[@girayAssessmentKnowledgeAwareness2020a]) or guidelines in general (e.g., "whether they had used reporting guidelines in their publications"[@karadagoncelKnowledgeAwarenessOptimal2018a]). Most studies included participants from the USA, Europe, and Canada and only a few studies conducted elsewhere (e.g., China and Turkey) (see @tbl-study-list).
 
 In comparison, my thematic synthesis (chapter {{< var chapters.synthesis >}}) identified 18 studies that collected qualitative data. These studies covered only 12 reporting guidelines and were all conducted in western countries, hence were slightly less diverse than the quantitative survey studies.
 
@@ -83,60 +83,6 @@ Two studies asked participants whether they had heard of the EQUATOR Network, no
 In the next chapter I describe EQUATOR's website and key characteristics of its web traffic, before discussing how well it is helping authors find reporting guidance and what may be limiting its success.
 
 # Tables
-
-  ---------------------------------------------------------------------------------------------------------------
-  **Acronym**   **Full name**
-  ------------- -------------------------------------------------------------------------------------------------
-  AGREE         Appraisal of Guidelines, REsearch and Evaluation
-
-  ARRIVE        Animal Research: Reporting of In Vivo Experiments
-
-  CARE          guidelines for CAse REports
-
-  CHEERS        Consolidated Health Economic Evaluation Reporting Standards
-
-  COGS          Conference on Guideline Standardization
-
-  CONSORT       Consolidated Standards of Reporting Trials
-
-  COREQ         COnsolidated criteria for REporting Qualitative research
-
-  GREET         Guideline for Reporting Evidence-based practice Educational interventions and Teaching
-
-  GRRAS         Guidelines for Reporting Reliability and Agreement Studies
-
-  MDAR          Materials Design Analysis Reporting
-
-  ORION         Outbreak Reports and Intervention Studies Of Nosocomial infection
-
-  PRISMA        Preferred Reporting Items for Systematic Reviews and Meta-Analyses
-
-  PRISMA-P      PRISMA for systematic review protocols
-
-  RIGHT         Reporting Items for practice Guidelines in HealThcare
-
-  SAMPL         Statistical Analyses and Methods in the Published Literature
-
-  SPIRIT        Standard Protocol Items: Recommendations for Interventional Trials
-
-  SQUIRE        Standards for QUality Improvement Reporting Excellence
-
-  SRQR          Standards for Reporting Qualitative Research
-
-  STARD         STAndards for Reporting Diagnostic accuracy studies
-
-  STREGA        STrengthening the REporting of Genetic Association Studies
-
-  STRICTA       STandards for Reporting Interventions in Clinical Trials of Acupuncture
-
-  STROBE        Strengthening the Reporting of Observational Studies in Epidemiology
-
-  TREND         Transparent Reporting of Evaluations with Nonrandomized Designs
-
-  TRIPOD        Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis
-  ---------------------------------------------------------------------------------------------------------------
-
-: List of Abbreviations {#tbl-abbreviations}
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Citation**                                                                               **Title**                                                                                                                                                                                    **Guidelines studied**                                                                                                                                                                                                                **Sample geographics**                                                                                                                                                               **Sample size**   **Quantitative or mixed methods**

@@ -153,10 +153,4 @@ This chapter presents a first step in evaluating the EQUATOR Network's website. 
 
 # References
 
-{\"Analytics Tools & Solutions for Your Business -- Google Analytics\", n.d.}
 
-{\"Scimago Journal & Country Rank\", n.d.}
-
-{\"The EQUATOR Network \| Enhancing the QUAlity and Transparency Of Health Research\", n.d.}
-
-{\"The EQUATOR Network Google Analytics\", n.d.}
