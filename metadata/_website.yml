@@ -9,6 +9,8 @@ website:
   sidebar:
     search: true
     contents: 
+      - text: "List of Abbreviations"
+        file: "chapters/abbreviations.qmd"
       - text: "<span class='text-muted'>Abstract</span>"
         file: index.qmd
       - text: '<span class="text-muted">1. Background</span>'
@@ -39,12 +41,15 @@ website:
         file: chapters/11_pilot/index.qmd
       - text: "<span class='text-muted'>12. Discussion</span>"
         file: ""
-      - section: "<span class='text-warning'>Appendix</span>"
+      - section: "Appendix"
         contents:
-          - section: <span class='text-warning'>Workshop outputs</span>
+          - text: "Search Strategies"
+            file: "chapters/appendix/synthesis_search_strategies.qmd"
+          - section: Workshop outputs
             contents: 
             - text: "Barriers"
               file: chapters/appendix/barriers.qmd
+            - text: <span class="text-muted">Worksheets</span>
           - text: "Ideas generated from workshops and focus groups"
             file: "chapters/appendix/ideas.qmd"
           

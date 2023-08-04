@@ -4,6 +4,8 @@ book:
   page-navigation: true
   chapters: 
     - index.qmd
+    - text: "List of Abbreviations"
+      file: "chapters/abbreviations.qmd"
     - text: "Abstract*"
       file: "chapters/abstract.qmd"
     - text: "1. Background*"
@@ -36,5 +38,7 @@ book:
       file: chapters/12_discussion/index.qmd
     - part: "Appendix"
       chapters:
+        - text: "Synthesis search strategies"
+          file: "chapters/appendix/synthesis_search_strategies.qmd"
         - data/barriers.md
         - data/iv_changes.md

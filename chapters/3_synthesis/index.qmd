@@ -12,11 +12,7 @@ I've reworked my thematic synthesis article into a chapter.
 
 Known todos:
 
-* Table 4 needs formatting
-* Re-add PRISMA flow diagram
-* End of discussion section needs to be reworked so it links to next chapter. 
-* Appendix will come out and become a thesis appendix
-* Can move acronyms and definitions into a thesis appendix 
+* Table 4 needs formatting 
 
 :::
 
@@ -68,7 +64,9 @@ I imported files into NVivo 12.0 for Mac and coded all sentences from the result
 
 ## Search
 
-My search yielded 18 articles (see Figure 1 for full search results). I and MS double-screened 10% of the non-Chinese titles and abstracts and agreed on 98.3% of them (170/173). The remaining three were resolved after discussion and consensus. All eligible records were written in English and included surveys, semi-structured interviews, focus groups, and writing tasks.
+My search yielded 18 articles (see @fig-prisma-flow-diagram for full search results). I and MS double-screened 10% of the non-Chinese titles and abstracts and agreed on 98.3% of them (170/173). The remaining three were resolved after discussion and consensus. All eligible records were written in English and included surveys, semi-structured interviews, focus groups, and writing tasks.
+
+![PRISMA flow diagram](prisma-flow-diagram.png){#fig-prisma-flow-diagram}
 
 Only 7 of the 18 records reported where participants came from. Three mixed method survey studies [@deweyImpactPerceivedValue2019; @macleodMDARMaterialsDesign2021; @sharpOnlineSurveySTROBE2020] included participants from a wide range of countries but it was not possible to tell which participants completed the optional qualitative questions. Four interview studies [@daviesSQUIREGuidelinesEvaluation2015; @fullerWhatAffectsAuthors2015; @korevaarUpdatingStandardsReporting2016] included participants who were almost exclusively from North America, Europe, and Australia, with one participant from Brazil.
 
@@ -278,8 +276,6 @@ Despite there being hundreds of reporting guidelines, my search found only 18 st
 
 Reporting guideline developers may lack the funds, time, motivation, or expertise to design user-friendly resources or effectively evaluate them. The EQUATOR Network guidance for reporting guideline developers[@moherGuidanceDevelopersHealth2010], published in 2010, covers steps from inception to dissemination but largely neglects user experience or user testing. Only two short sections, totalling eight sentences of an eight-page document, address the importance of gathering user feedback, but the guidance offers no instruction on how to do this. Nor does the guidance advise on usability best-practices. Reporting guideline developers may benefit from advice on how to evaluate their resources and from infrastructure to collect feedback from researchers, such as a commenting system on the EQUATOR Network website.
 
-Beyond these suggestions I will refrain from proposing solutions to the barriers identified in this review. Improvements to reporting guideline dissemination should be explored thoroughly through consultation with reporting guideline developers, editors, researchers, and other relevant stakeholders. This will be the focus of upcoming work.
-
 ## Limitations
 
 I were limited by the availability of literature and the relative thinness of some studies' qualitative analysis. Most studies relied on participants recalling what they had done or thought in the past, and so may be subject to recall bias. Future studies could consider using 'in the moment' methods like think aloud tasks.
@@ -300,29 +296,8 @@ Addressing the issues identified here may make reporting guidelines easier to us
 
 ## Conclusions
 
-Researchers encounter many barriers and facilitators when using reporting guidelines. Future research could use my findings to improve how reporting guidelines are developed, evaluated, and disseminated. Reporting guideline developers should consider using qualitative methods when piloting and refining their resources.
+Researchers encounter many barriers and facilitators when using reporting guidelines. In chapters {{< var chapters.workshops >}}-{{< var chapters.redesign >}} I describe how I identified ways to address these influences. Reporting guideline developers should consider using qualitative methods when piloting and refining their resources. In chapter {{< var chapters.pilot >}} I describe how I used interviews, observation, think-aloud tasks, and writing tasks to explore authors' experiences of a redesigned reporting guideline. Developers could consider using methods like these over and above surveys and questionnaires. Most of the studies included in this review were surveys, and during my search I found other (quantitative) surveys. In the next chapter, I explain why and how I explored the questions contained in these surveys.
 
-# List of abbreviations
-
-See @tbl-rgs for definitions of reporting guideline acronyms not listed here.
-
-CASP: Critical Appraisal Skills Programme
-
-ENTREQ: Enhancing Transparency in Reporting the Synthesis of Qualitative Research statement
-
-EQUATOR: Enhancing the QUAlity and Transparency Of health Research
-
-GIM: Global Index Medicus
-
-OSF: Open Science Framework
-
-PRISMA-P: Preferred Reporting Items for Systematic Reviews and Meta-Analyses Protocols
-
-PRISMA-S: Preferred Reporting Items for Systematic Reviews and Meta-Analyses Searches
-
-PRISMA Equity: Preferred Reporting Items for Systematic Reviews and Meta-Analyses with a Focus on Health Equity
-
-SciELO: Scientific Electronic Library
 
 # Tables
 
@@ -608,107 +583,3 @@ Emailing developers of guidelines listed in Table 2|n/a|08/01/2022|\"
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Codes, descriptive themes, and analytic themes {#tbl-codes}
-
-# Appendix
-
-## Search strategies {.appendix #app-search-strategies}
-
-I did not seek any external peer review of my search. I did not record the database versions at the time of searching due to an oversight. I performed forward and backwards citation searching but found no additional records. I did not set up email alerts.
-
-### Ovid search strategy
-
-Databases: Medline, Embase, AMED, PsycINFO.
-
-Search date: 08/12/2021
-
-I used a federated search. The *kw* field does not exist in PsycINFO or AMED and so was ignored by these databases. The *tw* field does not exist in AMED either and was mapped to *af* instead.
-
-1.  ((reporting or writ\$ or author\$) adj2 (checklist\$ or statement\$ or guid\$ or template\$ or standard\$ or recommendation\$)).ti,kw.
-
-2.  ((consort\$ or strobe\$ or stard\$ or prisma\$ or moose\$ or squire\$ or arrive\$ or remark\$ or tripod\$ or cheers\$ or spirit\$ or srqr\$ or coreq\$) adj3 (guid\$ or statement\$ or checklist\$)).ti,kw.
-
-3.  (experience\$ or interview\$ or survey\$ or questionnaire\$ or \"focus group\$\" or facilitat\$ or barrier\$).af.
-
-4.  qualitative.tw.
-
-5.  1 or 2
-
-6.  3 or 4
-
-7.  5 and 6
-
-Platform-specific filter applied: 1996 -- current year
-
-### Global Index Medicus & SciELO search strategy
-
-Databases: Latin American and Caribbean Health Sciences Literature, African Index Medicus, Western Pacific Region Index Medicus, Index Medicus for South-East Asia Region, and Index Medicus for the Eastern Mediterranean Region, searched using Global Index Medicus (https://www.globalindexmedicus.net/); Scientific Electronic Library Online (<https://scielo.org/en/>).
-
-Search date: 08/12/2021
-
-ti:(((reporting OR writ\* OR author\*) AND (checklist\* OR statement\* OR guid\* OR template\* OR standard\* OR recommendation\* OR experience\* OR interview\* OR survey\* OR questionnaire\* OR \"focus group\*\" OR facilitat\* OR barrier\* OR qualitative\*)))
-
-Platform-specific filter applied: 1996 -- current year
-
-### Chinese Biomedical Literature Database
-
-Database URL: <https://www.imicams.ac.cn/>
-
-Search Date: 25/10/2021
-
-1\. 报告 OR 撰写 OR 作者
-
-2\. 清单 OR 声明 OR 指导 OR 规范 OR 指南 OR 共识 OR 模板 OR 标准 OR 推荐意见
-
-3\. CONSORT OR PRISMA OR STROBE OR SPIRIT OR STARD OR SRQR OR ARRIVE OR SQUIRE OR CHEERS OR TRIPOD OR COREQ
-
-4\. 经历 OR 体验 OR 访谈OR 调查 OR 问卷调查 OR 焦点小组 OR 焦点群众
-
-5\. 促进 OR 阻碍
-
-6\. 质性研究 OR 定性研究
-
-7\. (#2) AND (#1)
-
-8\. (#7) OR (#3)
-
-9\. (#6) OR (#5) OR (#4)
-
-10\. (#9) AND (#8)
-
-11\. ((#9) AND (#8)) AND (\"循证文献\"[文献类型] OR \"临床试验\"[文献类型])
-
-### China National Knowledge Infrastructure
-
-Database URL: <https://www.cnki.net/>
-
-Search Date: 25/10/2021
-
-( ( ( TI = \'报告\' OR TI = \'撰写\' OR TI = \'作者\') AND (TI = \'清单\' OR TI = \'声明\' OR TI = \'指导\' OR TI = \'规范\' OR TI = \'指南\' OR TI = \'共识\' OR TI = \'模板\' OR TI = \'标准\' OR TI = \'推荐意见\' ) ) OR ( TI = \'CONSORT\' OR TI = \'STROBE\' OR TI = \'PRISMA\' OR TI = \'SPIRIT\' OR TI = \'STARD\' OR TI = \'SRQR\' OR TI = \'ARRIVE\' OR TI = \'SQUIRE\' OR TI = \'CHEERS\' OR TI = \'TRIPOD\' OR TI = \'COREQ\' ) ) AND (TI = \'经历\' OR TI = \'体验\' OR TI = \'访谈\' OR TI = \'调查\' OR TI = \'问卷调查\' OR TI = \'焦点群众\' OR TI = \'焦点小组\' OR TI = \'促进\' OR TI = \'阻碍\' OR TI = \'质性研究\' OR TI = \'定性研究\' )
-
-### Wanfang Data
-
-Database URL: http://www.wanfangdata.com/
-
-(((题名或关键词:(报告 or 撰写 or 作者)) and (题名或关键词:(清单 or 声明 or 指导 or 规范 or 指南 or 共识 or 模板 or 标准 or 推荐意见))) or (题名或关键词:(CONSORT or STROBE or STARD or PRISMA or MOOSE or SQUIRE or ARRIVE or REMARK or TRIPOD or CHEERS or SPIRIT or SRQR or COREQ))) and (题名或关键词:(经历 or 体验 or 访谈 or 访问 or 采访 or 调查 or 问卷调查 or 焦点小组 or 焦点群众 or 促进 or 阻碍 or 质性研究 or 定性研究))
-
-### VIP Chinese Medical Journal Database
-
-Database URL: http://www.cqvip.com/
-
-(((M=(报告 OR 撰写 OR 作者)) AND (M=(清单 OR 声明 OR 指导 OR 规范 OR 指南 OR 共识 OR 模板 OR 标准 OR 推荐意见))) OR (M=(CONSORT OR PRISMA OR STROBE OR SPIRIT OR STARD OR SRQR OR ARRIVE OR SQUIRE OR CHEERS OR TRIPOD OR COREQ))) AND (M=(体验 OR 访谈 OR 调查 OR 问卷调查 OR 焦点群众 OR 焦点小组 OR 质性研究 OR 定性研究))
-
-### OSF
-
-URL: <https://osf.io/>
-
-Search Date: 15/12/2021
-
-title:(((reporting OR writ\* OR author\*) AND (checklist\* OR statement\* OR guid\* OR template\* OR standard\* OR recommendation\* OR experience\* OR interview\* OR survey\* OR questionnaire\* OR \"focus group\*\" OR facilitat\* OR barrier\* OR qualitative\*)))
-
-### Methods in Research on Research 
-
-URL: http://miror-ejd.eu/publications/
-
-Search Date: 14/12/2021
-
-I manually searched the list of publications.
