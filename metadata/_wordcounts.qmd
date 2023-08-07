@@ -1,11 +1,11 @@
 
-* synthesis: 10269
+* synthesis: 9523
 * survey-content: 5237
 * website-audit: 4877
 * bcw: 1841
 * workshops: 4652
-* focus-groups: 9191
-* redesign: 8129
+* focus-groups: 9134
+* redesign: 8397
 * pilot: 1665
 
-**TOTAL: 45861**
+**TOTAL: 45326**
