@@ -66,7 +66,14 @@ I imported files into NVivo 12.0 for Mac and coded all sentences from the result
 
 My search yielded 18 articles (see @fig-prisma-flow-diagram for full search results). I and MS double-screened 10% of the non-Chinese titles and abstracts and agreed on 98.3% of them (170/173). The remaining three were resolved after discussion and consensus. All eligible records were written in English and included surveys, semi-structured interviews, focus groups, and writing tasks.
 
+{{< pagebreak >}}
+
+::: {.landscape}
+
 ![PRISMA flow diagram](prisma-flow-diagram.png){#fig-prisma-flow-diagram}
+
+::: 
+<!-- end of landcape -->
 
 Only 7 of the 18 records reported where participants came from. Three mixed method survey studies [@deweyImpactPerceivedValue2019; @macleodMDARMaterialsDesign2021; @sharpOnlineSurveySTROBE2020] included participants from a wide range of countries but it was not possible to tell which participants completed the optional qualitative questions. Four interview studies [@daviesSQUIREGuidelinesEvaluation2015; @fullerWhatAffectsAuthors2015; @korevaarUpdatingStandardsReporting2016] included participants who were almost exclusively from North America, Europe, and Australia, with one participant from Brazil.
 
