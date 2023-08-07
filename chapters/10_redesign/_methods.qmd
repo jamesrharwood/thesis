@@ -79,6 +79,8 @@ After development, I double checked the intervention against my intervention com
 
 #### System architecture
 
+#Consider introducing GoodReports. I could have redesigned GRs and linked it up with EQUATOR instead of re-creating it from scratch. 
+
 When considering architecture options I prioritized technology that could feasibly be maintained by EQUATOR staff or a future PhD student. I looked for tools that would be familiar to early career researchers. I considered DIY website builders (like Wix @YourWebsiteYour or Squarespace @WebsiteBuilderCreate) but these services can be expensive. Most offer a 'drag and drop' building experience which, although easy to use, is a laborious way of uploading and formatting large amounts of content. Should EQUATOR want to change how reporting items are presented, they would have to manually edit each item for each reporting guideline. Additionally, our intended intervention changes required custom functionality that wasn't offered by these services (e.g. glossary definitions, discussion boards).
 
 Although coding languages like `html` or `javascript` are used by many software developers to create websites, few early career researchers are familiar with them. In contrast, many researchers write reproducible manuscripts in markdown using tools like RStudio @positRStudioIntegratedDevelopment or Quarto @QuartoOpenSource, and use languages like Python for data analysis.
@@ -88,6 +90,8 @@ I decided to use Quarto, which can turn markdown into many different file format
 The website is served using Github Pages @GitHubPages which is free, beginner friendly, configurable, and integrates (almost) seamlessly with Github's version control system which will already be familiar to many researchers. 
 
 I wanted EQUATOR to have ultimate control over the website. I also wanted guideline developers to have selective access to edit their own guideline content but not to other guidelines. I have built the website such that each reporting guideline is stored in its own repository on Github, accessible only to its developers. These guideline repositories are then "pulled in" to the main EQUATOR repository, so EQUATOR can double check changes that developers make before allowing them to go live on the site.
+
+#TODO explain why I have created a home page on a test site, instead of editing EQUATOR's actual home page. Explain intention. 
 
 ### Results 
 

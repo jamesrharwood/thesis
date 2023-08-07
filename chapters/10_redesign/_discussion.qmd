@@ -35,3 +35,5 @@ I anticipate similar gaps for other reporting guidelines, and would seek to work
 Beyond the intervention components presented here, the prioritization exercise identified other ideas that EQUATOR would like to implement, but that I chose not to act upon. For example, participants favoured developing training resources specific to individual reporting items, and creation of network of “reporting champions”, akin to the UKRN model. EQUATOR participants liked the idea of lobbying funders to require reporting guidelines be used for applications. The work in this chapter could be used to support funding applications to support these endeavours.
 
 I mentioned earlier that one limitation of this study was that authors weren't included in the design process. In the next chapter, I explain how I have addressed this by piloting the website amongst authors.
+
+#TODO perhaps here I could explain how this new site differs to GRs.

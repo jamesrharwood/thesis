@@ -1,0 +1,30 @@
+In chapter {{< var chapters.introduction >}} I gave a brief introduction to reporting guidelines. In this chapter I reflect on my own experiences with reporting guidelines, and the experience of my supervisors.
+
+Why do I do this?
+
+My own experience.
+
+* Interest sparked by personal events 
+* Began by thinking automation was the key, as an aid to enforcement
+* Introduction to EQUATOR (what they do)
+* Got to know Iveta, Caroline, and Jen when Doug worked there
+* Worked with them to create wizard
+* Worked with Caroline to build GoodReports
+* 2018 evaluation with BMJ Open
+    * Surprised that checklist submission didn't mean improved reporting
+    * Realised that, for many journals, checklist enforcement was already beyond their expertise as an editor, even for a subset of checklists.
+
+Caroline and I attributed this failure to two things: 
+
+* GLs not being used early enough. Which we thought we could tackle with templates. Sorted. That left...
+* Guideline reconciliation 
+
+At the time, I felt like the big problem was the sheer number of requirements authors had to adhere to. Author instructions, possibly multiple reporting guidelines, funder requirements, institutional requirements. 
+
+I interviewed adamant that I wanted to build a "requirements engine" that would be able to reconcile multiple sets of guidelines into a single, "personalised" guideline, checklist, or template.
+
+As you'll discover, my position changed as I began to better understand authors' experiences and challenges of using guidelines. Point to discussion?
+
+Introduce GC, JdB, and MS. 
+
+Identified need for qualitative expertise. Introduce CA. 

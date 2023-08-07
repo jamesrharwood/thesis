@@ -52,12 +52,12 @@ format:
 
 <!-- ## FIG-ITEM-B4 -->
 ![An example item from the SRQR guideline. Limitations may include:  
-1) Text is unstructured, so it is difficult to immediately identify what needs to be written.
-2) Text uses verbose, passive language
-3) The text appears long and difficult to digest
-4) Terms aren't always defined
-5) Not all reporting items are justified
-6) Not all items include instruction of what to write if the item could not/was not done.
+1) Text is unstructured, so it is difficult to immediately identify what needs to be written.  
+2) Text uses verbose, passive language  
+3) The text appears long and difficult to digest  
+4) Terms aren't always defined  
+5) Not all reporting items are justified  
+6) Not all items include instruction of what to write if the item could not/was not done.  
 ](figures/item-b4.png){#fig-item-b4 height=150mm}
 
 <!-- ## FIG-CHECKLIST-B4 -->
