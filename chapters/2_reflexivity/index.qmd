@@ -1,30 +1,39 @@
-In chapter {{< var chapters.introduction >}} I gave a brief introduction to reporting guidelines. In this chapter I reflect on my own experiences with reporting guidelines, and the experience of my supervisors.
+In chapter {{< var chapters.introduction >}} I gave a brief introduction to reporting guidelines. In this chapter I reflect on my own experiences with reporting guidelines, and the experience of my supervisors. This reflection is important because my research was largely qualitative, and so reflecting on prior held opinions is an important step towards acknowledging and mitigating bias. 
 
-Why do I do this?
+#TODO reference?
 
-My own experience.
+I'll begin with a bit of background about myself. This may seem self-indulgent, but I think it's relevant as this thesis marks the ten year anniversary of my attempts to improve research reporting. The objectives I set, the approaches I chose, my interpretation of qualitative data, have inescapably been influenced by my previous endeavours. 
 
-* Interest sparked by personal events 
-* Began by thinking automation was the key, as an aid to enforcement
-* Introduction to EQUATOR (what they do)
-* Got to know Iveta, Caroline, and Jen when Doug worked there
-* Worked with them to create wizard
-* Worked with Caroline to build GoodReports
-* 2018 evaluation with BMJ Open
-    * Surprised that checklist submission didn't mean improved reporting
-    * Realised that, for many journals, checklist enforcement was already beyond their expertise as an editor, even for a subset of checklists.
+My interest in research integrity exploded in 2012 when I was working in a psychology lab in Berlin. It was a formative year, where I learnt first-hand that everyone is mortal, research isn't always useful, and that publishing can be painful.
 
-Caroline and I attributed this failure to two things: 
+I read the Lancet series on research waste @macleodBiomedicalResearchIncreasing2014, and was most stuck by the article on incomplete or unusable research reports @glasziouReducingWasteIncomplete2014. In that paper, one of the key takeaways was that "although reporting guidelines are important, major improvements need active enforcement" by editors or reviewers. At that moment in time I was also getting frustrated with how complicated journal instructions to authors were, and the work required to alter a manuscript to a journals' recommendations. I set about writing software to automatically check manuscripts which, I assumed, would help journals actively encourage the use of reporting checklists whilst also making life easier for authors.
 
-* GLs not being used early enough. Which we thought we could tackle with templates. Sorted. That left...
-* Guideline reconciliation 
+#TODO introduce EQUATOR in Introduction
 
-At the time, I felt like the big problem was the sheer number of requirements authors had to adhere to. Author instructions, possibly multiple reporting guidelines, funder requirements, institutional requirements. 
+In 2014 I approached EQUATOR and we collaborated on two projects. First, having identified that authors found it hard to work out which guideline to use, EQUATOR asked me to help make a questionnaire that would help authors to self "diagnose" their manuscript and find the correct guidance. Second, because some guidelines don't have checklists in usable formats, we made www.GoodReports.org where authors could read and complete reporting checklists online.
 
-I interviewed adamant that I wanted to build a "requirements engine" that would be able to reconcile multiple sets of guidelines into a single, "personalised" guideline, checklist, or template.
+#TODO: if I describe the BMJ Open study in intro I can signpost to there instead
 
-As you'll discover, my position changed as I began to better understand authors' experiences and challenges of using guidelines. Point to discussion?
+In 2018 we put these three things together; my manuscript checker guided authors through EQUATOR's questionnaire and, when appropriate, instructed them to complete checklist on GoodReports.org. We tested it in collaboration with BMJ Open by comparing #TODO submitting authors who chose to use the tool with #TODO who didn't. We found that prompting authors to complete a reporting checklist was associated with more checklists being submitted. However, although authors did act on some of the automated feedback from my manuscript checker - such as fixing their abstract structure, adding missing declarations or legends - authors that completed a reporting checklist upon submission did _not_ add reporting guidance content. 
 
-Introduce GC, JdB, and MS. 
+I was demoralized. After five years of work, I found no evidence that what we had built was helping authors adhere to reporting guidance. Perhaps I didn't understand authors as much as I thought I did. Perhaps what I'd built was hard to use. Perhaps _guidelines_ were hard to use. When this PhD position appeared, I saw it as an opportunity to continue this work. 
 
-Identified need for qualitative expertise. Introduce CA. 
+Hence, at the start of this project my opinion was that poor reporting is a source of waste, reporting guidelines can help reduce this waste, but that journal enforcement is difficult and (possibly) not very effective, so should not be the only strategy to promote guideline usage.
+
+Of course my supervisors have their own backstories. Jen, Michael, and Gary are affiliated with the EQUATOR Network. Gary is Director of the UK EQUATOR Centre and an author of the TRIPOD guidelines for clinical prediction models, GATHER statement for global health estimates, AGReMA for mediation analyses, TIDieR-placebo for placebo-controlled trials, RIPL checklist for patent landscapes, and member of the MISTIC, STARD-AI, TRIPOD-AI, DECIDE-AI, CONSORT-AI, SPIRIT-AI, CONSORT-Surrogate, and REMARK, CONSORT and SPIRIT update working groups. Michael studies reporting completeness, the robustness of reporting guidelines development methods, and the consolidation of different reporting guidelines for the reporting of studies of nutritional interventions. Jen is involved in many studies investigating reporting and reporting guidelines, and runs training on writing and reporting guidelines.
+
+Charlotte joined my supervision team in my second year, once we realised that my thesis was taking a sharp and unexpected turn towards qualitative methods. Charlotte has a lot of experience in qualitative research and behaviour change theory, both from her own research and from leading the Oxford course on qualitative methods. However, she had never studied reporting guidelines before, nor any other meta-research phenomenon. Charlotte has published a suggested amendment to a reporting guideline that she uses in her own work @alburyGenderConsolidatedCriteria2021. Whereas Jen, Michael, and Gary can be described as reporting guideline advocates, Charlotte...#TODO
+
+#ASK: Charlotte, can you sum up how you felt about RGs before joining my supervision team?
+
+At the start of my project, UK EQUATOR staff had never considered reporting guidelines as a behaviour change intervention. Many staff members felt frustrated that journals weren't doing a better job at enforcing guidelines, and frustrated at authors for not adhering to guidance. 
+
+I _also_ had never heard of behaviour change theory, and I didn't come to my PhD knowing that was the direction I would take (in face, when interviewing, I was adamant that I wanted to pursue a completely different idea). As I read throughout my first year I began to see the reporting guidelines as more than just "a thing". I elaborate on this in chapter {{ var chapters.bcw }} but, briefly, I began to see the interconnected; checklists, example and elaboration documents, guideline publications, journal author guidelines, publishing policies, the EQUATOR website. I saw how authors are influenced by editors and peer reviewers, and I began to think as "writing" as a multi-step process.
+
+Hence, when starting this project, I nor my supervision team considered it to be a behaviour change project. I had to explain to my colleagues as my thinking evolved, and sometimes this was difficult as, at first, I didn't have the right vocabulary or framework to talk about my ideas. Before CA joined by supervision team, none of us had much experience with qualitative methods. Consequently, it took some time to determine where my thesis "fitted in", what my approach was, and what process and methods I should be using.
+
+In summary, at the onset of this project although I and 3 of my supervisors were "reporting guideline advocates", we had never thought about reporting guidelines in the way that this thesis presents them. And although CA had experience with qualitative research she had never before applied it to reporting guidelines or meta-research. Hence, the approach described in this thesis is uncharted territory for EQUATOR, and territory that I hope will prove fertile. 
+
+Having set the scene, I'll begin where I began: by trying to understand the problem I was interested in. In chapter {{< var chapters.introduction >}} I described the evidence that reporting guidelines have had little effect on reporting quality, but I wanted to know _why_. Why don't authors adhere to reporting guidelines? Chapters {{< var chapters.synthesis >}} - {{< var chapters.journal-audit >}} describe my mixed method approach to finding possible answers to this question. In the next chapter, I describe how my first step was to seek and synthesise all available qualitative data that explored this question. 
+
+#COULD Situate my work in context of general open science movement. But I think that's getting a bit too far away from the point. 

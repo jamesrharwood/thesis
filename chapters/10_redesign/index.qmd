@@ -12,6 +12,6 @@ format:
 
 {{< include _figures.qmd >}}
 
-{{< include _discussion.qmd >}}
+{{< include _discussion.qmd >}} 
 
 {{< pagebreak >}}
