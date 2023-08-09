@@ -16,7 +16,7 @@ website:
       - text: '<span class="text-muted">1. Background</span>'
         file: ""      
       - text: "<span class='text-muted'>2. Reflexivity and context</span>"
-        file: ""
+        file: "chapters/2_reflexivity/index.qmd"
       - text: "<b>Part 1: Identifying influences</b>"
         file: ""
       - text: "3. Qualitative Evidence Synthesis"
