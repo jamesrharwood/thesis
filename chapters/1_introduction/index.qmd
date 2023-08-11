@@ -1,7 +1,67 @@
+Signposting for chapter
+
+Problem: poor reporting
+
+* Lang and Secic 2006 "The problem of poor research documentation and statistical reporting in the biomedical literature is long-standing, worldwide, pervasive, potentially serious, and not at all apparent to many readers". 
+* Carp 2012 (Nature) found that 241 functional MRI studies often omitted key information required for replication including the parameters used, data acquisition methods, and preprocessing and analysis methods. 
+* https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01501-9 Ziemann et al 2022. Systematic review of 147 observational clinical studies of COVID-19 treatments. Most studies adequately reported their outcome data (95%), statistical methods (90%), additional analyses (95%) and sensitivity analysis (94%). However, very few studies reported their methods to reduce bias (1%), limitations (3%), eligibility criteria, sources, and methods of participant's selection (6%). More fundamentally, only 47% of studies described themselves using an easily recognizable term like "retrospective cohort study" in its title or abstract, making them difficult for others to find. 
+
+
+Impact: on researchers, evidence synthesisers, patients
+* Taking Carp 2012 as an example, "More than a third of studies did not describe the number of examinations, examination duration, and the range and distribution of intertrial intervals, and less than half reported the resolution, coverage, and slice order of images. These deficits make interpretation risky, and replication—an essential element of scientific progress—nearly impossible."
+
+* On clinicians: "First, if clinicians are to be expected to implement treatments that have been shown in research to be useful, they need adequate descriptions of the interventions assessed, especially when these are non-drug interventions, such as setting up a stroke unit, oﬀ ering a low fat diet, or giving smoking cessation advice. Adequate information on interventions is available in around 60% of reports of clinical trials;22 yet, by checking references, contacting authors, and doing additional searches, it is possible to increase to 90% the proportion of trials for which adequate information could be made available.22" from Chalmers and Glasziou 2009, referencing Glasziou et al 2008 https://www.bmj.com/content/336/7659/1472
+
+
+
+Reporting Guidelines:
+
+* What they are 
+* What they typically consist of:
+    * How made
+    * Resources
+    * EQUATOR website
+    * Journals 
+
+Modest effect on reporting quality, if any
+
+* CONSORT intervention study 
+* GoodReports study
+* Templates?
+* ARRIVE study
+* Lots of timeseries studies looking at reporting quality over time. E.g. Lin review. 
+* https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01363-1 Qualitative reviews have improved since publication of COREQ, but not since ENTREQ.  Not sure why this study included COREQ when it's a guideline for interviews and focus groups. 
+* There have been many studies looking into reporting guideline adherance. Systematic reviews 
+
+Santo et al 2023 systematically reviewed meta-research studies on adherence to reporting guidelines. Of 148 studies published from 2020 - 2022, almost all found reporting to be suboptimal. But more notably, and ironic, was that very few of the included meta-research studies were themselves reported in sufficient detail for verification or replication. Only 14 (10%) explained how they coded adherance in sufficient detail for replication, and only 49 (33%) provided results for all included studies. 
+
+These 148 studies included in Sanot's review were written by meta-researchers who clearly know about reporting guidelines and, presumably, care about reporting quality. The fact that these authors still produced manuscripts that were poorly reported suggests problems beyond lack of awareness or lack of trying. 
+
+This brings me to the evidence gap that my thesis tries to address. Although we know that reporting guidelines' impact has been limited, we don't know _why_. 
+
+Evidence gap: We don't know why
+
+Summary
+
+* I didn't always _know_ this was going to be a behaviour change project
+* In chapter {{< var chapters.reflexivity >}} I reflect on my prior help opinions of reporting guidelines to try and "set the scene" for how this project began.
+* etc.
+
+Thesis Aims
+
+* Aim
+* Objectives
+
+Thesis Structure (small paragraph per chapter)
+
+
+
 * Describe how RG system evolved organically. 
     * This is fairly common in efforts to change behaviour, and is sometimes referred to as the "It seemed like a good idea at the time" method, or "ISLAGIATT" which Michie et al. say was coined by professor Martin Eccles, or "SLAGIATT" which my my 10 year old niece would recognize from a Horrible Histories chapter on dodgy interventions. 
 * Justify why it is worth turning RGs into a behaviour change intervention
     * Increase efficacy, acceptability, reduce side effects
     * Theorise how it is working & therefore how a process evaluation could be designed
+
+
 
 
