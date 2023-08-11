@@ -9,10 +9,18 @@ website:
   sidebar:
     search: true
     contents: 
-      - text: "List of Abbreviations"
-        file: "chapters/abbreviations.qmd"
       - text: "<span class='text-muted'>Abstract</span>"
         file: index.qmd
+      - text: "Acknowledgements"
+        file: ""
+      - text: "Glossary of key terms"
+        file: ""
+      - text: "List of Abbreviations"
+        file: "chapters/abbreviations.qmd"
+      - text: "List of tables"
+        file: ""
+      - text: "List of Figures"
+        file: ""
       - text: '<span class="text-muted">1. Background</span>'
         file: ""      
       - text: "<span class='text-muted'>2. Reflexivity and context</span>"
