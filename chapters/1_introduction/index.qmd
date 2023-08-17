@@ -1,67 +1,142 @@
-Signposting for chapter
 
-Problem: poor reporting
+# Introduction
 
-* Lang and Secic 2006 "The problem of poor research documentation and statistical reporting in the biomedical literature is long-standing, worldwide, pervasive, potentially serious, and not at all apparent to many readers". 
-* Carp 2012 (Nature) found that 241 functional MRI studies often omitted key information required for replication including the parameters used, data acquisition methods, and preprocessing and analysis methods. 
-* https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01501-9 Ziemann et al 2022. Systematic review of 147 observational clinical studies of COVID-19 treatments. Most studies adequately reported their outcome data (95%), statistical methods (90%), additional analyses (95%) and sensitivity analysis (94%). However, very few studies reported their methods to reduce bias (1%), limitations (3%), eligibility criteria, sources, and methods of participant's selection (6%). More fundamentally, only 47% of studies described themselves using an easily recognizable term like "retrospective cohort study" in its title or abstract, making them difficult for others to find. 
+In this chapter I introduce the evidence gap my thesis addresses, and I outline the approach I have taken to address that gap. I begin by describing the prevalence and consequences of poorly reported medical research. I then introduce reporting guidelines and the EQUATOR Network, which, sadly, have only had a modest impact on reporting quality. 
+
+I then introduce the evidence gap: that although we know that reporting quality remains low and that reporting guidelines have only had only a modest effect, we don't know _why_ or _how_ reporting guidelines could be improved.
+
+I explain how reporting guidelines are an example of a complex behaviour change intervention, but one that grew organically. I then justify using behaviour change theory to improve reporting guidelines, before outlining my aims and objectives, and thesis structure.
+
+## The problem of poor reporting in health research
+
+My mother never really understood what my PhD is about until she was diagnosed with two, unrelated cancers in 2021. Decisions about her treatment were rarely clear cut, and we often consulted doctors, NICE guidance, and medical literature. Often she was met with "well, there have been studies, but from reading the reports we can't tell whether it's a good choice for you". When considering radiation options, the NICE's recommendation had low confidence because studies hadn't described their participant demographics very well. Once in remission, she suffered side effects from her treatment which hadn't always been reported in the literature. To relieve these side-effects, she tried multiple procedures which, although they appear in case reports, were so poorly described that her consultant had to guess at the appropriate dosing regimen.
+
+The silver-lining of my mother's ordeal (for me, at least), is that she finally understood the problem that my thesis tries to address: when medical research is poorly documented, other people can't understand, replicate, or use it. It was galling to know that research _had_ been done, but because it hadn't been described fully, it wasn't helping her as much as it could be.
+
+The problem is common. It was first identified by systematic reviewers who were frustrated that the data they needed was often missing from trial reports (#REF). From RCTs, the spotlight then began to broaden. In 2008, Glasziou et al. found that only 60% of clinical trials describe the intervention in sufficient detail for clinicians to replicate it (Glasziou et al 2008 https://www.bmj.com/content/336/7659/1472). In a 2012 Nature article, over a third of 241 fMRI studies missed information that is key for interpretation and replication, such as the number of examinations, examination duration, and the resolution of images (Carp 2012 (Nature)). More recently, a review of 147 observational COVID-19 studies found that only 1% described any efforts to reduce bias, and only 6% described their eligibility criteria, sources, and methods of participant's selection. 
+
+There are many studies like this. A 2023 systematic review found 148 studies published between 2020-2022 alone @santoMethodsResultsStudies2023. All investigated reporting quality in different kinds of medical research, and _almost_ all concluded that reporting in health research is sub-optimal. Although first identified in clinical trials, poor reporting is a problem for most health research disciplines.
+
+## Reporting guidelines to the rescue
+
+Stories have heroes, and sometimes those heroes are created by those who need them. In the Marvel universe, the US army creates a super soldier- Captain America, to help fight the Nazis. In The Avengers, Captain America is joined by other heroes (Black Widow, Iron Man e.t.c.). 
+
+Our story begins with a group of concerned researchers and editors creating their own hero: the CONsolidated Standards of Reporting Trials (CONSORT) statement. CONSORT is a set of recommendations detailing what information authors should include in clinical trial reports. CONSORT was followed by guidelines developed by separate groups of concerned researchers for other study types, such as STARD for diagnostic accuracy studies @bossuytSTARDStatementReporting2003, STROBE for observational epidemiology @vonelmStrengtheningReportingObservational2007, PRISMA for systemati reviews @liberatiPRISMAStatementReporting2009, REMARK for tumour marker prognostic studies @altmanReportingRecommendationsTumor2012, and TRIPOD for prognositc studies @collinsTransparentReportingMultivariable2015). (See @altmanHistoryEvolutionGuidelines2016 for a more complete history of reporting guidelines, including CONSORT's predecessors, SORT @ProposalStructuredReporting1994 and Asilomar @CallCommentsProposal1994).
+
+Superheroes have things in common. Most fight for good, have catchy names, and recognizable outfits. But they differ too. Each has their own backstory, their own strengths and weaknesses, and their own personal motivation. 
+
+The same can be said of reporting guidelines. Most have snazzy acronym names (CONSORT, ROSES, CARE). The best-established (e.g. CONSORT) typically have a publication explaining how they were developed (e.g. #REF), a separate publication detailing the guidance in full (sometimes called an Explanation and Elaboration document, or E&E, #REF), and checklist document (#REF). Sometimes these are combined into a single publication; for example SRQR has a single publication detailing its development, with the checklist as a figure, and the E&E as a supplementary file (#REF). Other times parts may be missing (#TODO example of a guideline without an E&E or without a checklist). 
+
+Each guideline has its own origin story. Each is developed by different groups (which may include methodologists, editors, clinicians etc) and in different ways (some by delphi consensus). Although on the surface all reporting guidelines seek to influence _what_ researchers write, guidelines differ in the forcefulness of their recommendation and the degree to which they also seek to influence design. For example (#TODO...). 
+
+The best-known guidelines rely on journals as their "route to market". The idea is that journals will recommend that authors adhere to reporting guidelines (known as endorsement). Some journals will go beyond this, and ask that authors demonstrate compliance by submitting a reporting checklist. Some editors or peer reviewers may even check submissions adhere to reporting guidelines themselves.
+
+So the movement that started with CONSORT has inspired a large family now containing more than 500 reporting guidelines. The most popular are endorsed by many medical journals, the International Committee of Medical Journal Editors, and are amongst the 1% most highly cited publications indexed by Web of Science (https://www-sciencedirect-com.ezproxy-prd.bodleian.ox.ac.uk/science/article/pii/S0895435619311084). 
+
+## EQUATOR: uniting the reporting guideline movement
+
+In 2006, as the problem of poor reporting became more well recognised, and as the number of reporting guidelines began to grow, Doug Altman saw the need to catalogue reporting guidelines and form relationships with the key individuals working in the area. He united academics from around the world to form The EQUATOR Network, often simply called EQUATOR, which stands for Enhancing the QUAlity and Transparency Of health Research. 
+
+The EQUATOR Network's main office is in Oxford, UK, which is where I am doing my PhD. They have other academic centers in China, Canada, Australia, and France. Originally, their core objective was to bring all reporting guidelines into one place to make them easy for people to find. This database of reporting guidelines is known as the EQUATOR Library, which can be searched on the EQUATOR Network Website. EQUATOR's activities extend to promoting guidelines, providing training, and conducting their own meta-research. 
+
+## Ineffectual heroes: reporting quality remains low
+
+I've used Marvel as an analogy to bring life to reporting guidelines, but I don't actually like superhero films. In real life, solutions to problems are often complicated and require collective action, not a knight in shining armour. Despite their promise, reporting guidelines, haven't turned out to be the silver bullet that their creators had hoped. 
+
+In a recent study @kilicogluMethodologyReportingImproved2023, Kilicoglu et al. used a machine learning model to analyze 176,620 randomized trial reports published between 1966 and 2018. The model classified sentences as to whether they pertained to one of the CONSORT methodology items. They considered an item to be "reported" if at least one sentence had been classified as pertaining to that item. They found that reporting quality improved over time. Articles published before 1990 reported, on average, only 24% of CONSORT items, whereas articles published between 2010-2018 reported 48% of items.
+
+This result mirrors similar, manual, efforts to monitor reporting quality over time. In Cochrane systematic reviews, review authors score trials' risk of bias according to how the trial dealt with randomization, blinding, and incomplete outcome data. If study reports don't describe this information, the reviewer will score that study's risk of bias as "unclear". Dechartres et al. @dechartresEvolutionPoorReporting2017 looked at 20,920 trial reports included in 2001 Cochrane reviews, and found that the number of reports with an "unclear" risk of bias decreased over time. For example, information on sequence generation was missing from 69% of articles published between 1986-1990, but only 31% of articles published between 2011-2014. The proportion of articles missing information on allocation concealment fell from 70% to 45% over the same periods. 
+
+Both of these examples focus on clinical trials, but modest improvements have been seen in other kinds of research too. De Jong et al. @dejongMetareviewDemonstratesImproved2021 reviewed 284 qualitative evidence syntheses that had used COREQ (a reporting guidelines for qualitative research) to appraise the reporting quality of the primary studies included in those reviews, which amounted to 2,775 studies. When they compared adherence to COREQ in studies published _before_ and _after_ the COREQ guidelines came out, they found that adhereance to COREQ increased from, on average, 16 to 18 out of 32 items. Similarly, when comparing the reporting quality of genetic association studies, Nedovic et al. @nedovicEvaluationEndorsementSTrengthening2016 found that reporting quality was better in articles published _after_ journals began endorsing STREGA (63% vs 49% showing full adherence). 
+
+However, not all studies have found such a relationship. For example, Howell et al. found that poor reporting quality amongst quality improvement studies did not improve following the publication of the SQUIRE guidelines @howellEffectSQUIREStandards2015. Similarly, Pouwels et al. found no improvement following the publication of the STROBE guidelines @pouwelsQualityReportingConfounding2016.
+
+If reporting _has_ improved, is this because of reporting guidelines, or might it reflect general improvements in academic practice? A couple of these studies support the former. For example, in Nedovic's STREGA study, they only saw improvements amongst journals that endorsed STREGA. Articles published in journals that _didn't_ endorse STREGA saw no improvement. And in Kilicoglu's machine learning study, the largest improvement was seen in the years immediately after the publication of CONSORT. But other studies muddy the picture. For example, in a time series analysis of 456 observational epidemiology @bastuji-garinImpactSTROBEStatement2013, the authors found that although reporting quality improved over time _before_ the publication of STROBE (a reporting guideline for observational studies), there was no further improvement after the guidance was published.
+
+Some studies have tried to isolate the effect of asking authors to complete reporting checklists. In 2015 PLOS One randomly allocated 1689 incoming submissions reporting _in vivo_ animal research manuscripts to either a) requested completion of the relevant reporting checklist (ARRIVE) or b) usual practice @hairRandomisedControlledTrial2019. No article achieved full compliance with ARRIVE, and only one sub item (details of animal husbandry) showed improvement between groups. 
+
+In another study @barnesImpactOnlineWriting2015, 197 authors submitting to 46 participating journals were randomly allocated to receive either a) access to an online tool (called WebCONSORT) to generate customised reporting checklists and flow diagrams based on CONSORT and its extensions or b) just a standard CONSORT flow diagram generator without any reporting checklist. Overall, there was no difference in reporting quality between groups: authors only reported ~50% of required items. 
+
+In 2018, before my PhD, I collaborated with EQUATOR and BMJ Open to compare manuscript versions before and after authors were prompted to complete a reporting guideline checklist. We found that authors made very few edits to their work. Of 20 included studies, three authors added information for a single reporting item, one author added information for two items, and one added information for six items. The remaining 15 authors made no changes.  On average, manuscripts described 57% of necessary reporting items before the author completed the checklist and 60% afterwards. No manuscript fully described all reporting items. 
+
+Together, these studies paint a mixed picture. At-best, reporting guidelines may have led to modest improvements in reporting quality. But standards remain low overall, and there is huge room for improvement. In a systematic review of 124 studies assessing adherence to one of eight reporting guidelines, Jin et al @jinDoesMedicalLiterature2018 found that 88% of studies reported suboptimal adherence to reporting guidelines. In a similar review, Dal Santo et al @santoResearchWastePoor2022 found that nearly all studies on reporting quality found reporting to be suboptimal. Ironically, the same review found that studies on reporting quality were _themselves_ poorly reported: only 14 (10%) explained how they coded adherence in sufficient detail for replication, and only 49 (33%) provided data for all included studies. 
+
+The 148 studies included in Santo's review were written by meta-researchers who clearly know about reporting guidelines and, presumably, care about reporting quality. The fact that these authors still produced manuscripts that were poorly reported suggests difficulties beyond lack of awareness or lack of trying. 
+
+This brings me to the evidence gap that my thesis tries to address. Although we know that reporting guidelines' impact has been limited, we don't know _why_, or _how_ they could be improved. 
 
 
-Impact: on researchers, evidence synthesisers, patients
-* Taking Carp 2012 as an example, "More than a third of studies did not describe the number of examinations, examination duration, and the range and distribution of intertrial intervals, and less than half reported the resolution, coverage, and slice order of images. These deficits make interpretation risky, and replication—an essential element of scientific progress—nearly impossible."
+## How behaviour change theory can help bridge the evidence gap
 
-* On clinicians: "First, if clinicians are to be expected to implement treatments that have been shown in research to be useful, they need adequate descriptions of the interventions assessed, especially when these are non-drug interventions, such as setting up a stroke unit, oﬀ ering a low fat diet, or giving smoking cessation advice. Adequate information on interventions is available in around 60% of reports of clinical trials;22 yet, by checking references, contacting authors, and doing additional searches, it is possible to increase to 90% the proportion of trials for which adequate information could be made available.22" from Chalmers and Glasziou 2009, referencing Glasziou et al 2008 https://www.bmj.com/content/336/7659/1472
+Many of the articles I've cited end with some thoughts on next steps. Some suggest that reporting guidelines should be part of training (#REF), others call for journals to do a better job at enforcing guidelines (#REF), or for strategies besides reporting guidelines (#REF). Some make unspecific pleas for more research into dissemination strategies, without suggesting any ideas as to how that could be done. Others offer concrete suggestions. (For example, #REF (allergy STROBE study) suggested that reporting guidelines would be easier to enforce if editors just checked for the presence of the least-often reported items). No study has taken a thorough approach to improving reporting guidelines. 
 
+At the start of this chapter I illustrated how reporting guidelines came into being. The process was slow, grass-roots, and it was driven by lots of groups of people doing what they felt was sensible. This movement has generated guidance publications, checklists, websites, training; it has influenced editors, peer reviewers, and journal policies. The effectiveness of reporting guidelines rests on more that just the individual sets of guidance. It rests on the entirity of this system. All the different parts. 
 
+What do these parts have in common? All of them - the guidelines, the checklists, peer reviewer feedback, editorial checks, websites - they all ultimately seek to influence what and how authors write. The reporting guideline community has created something that in health care would be called a complex behaviour change intervention. That's why I have chosen to use a behaviour change approach. 
 
-Reporting Guidelines:
+## Summary 
 
-* What they are 
-* What they typically consist of:
-    * How made
-    * Resources
-    * EQUATOR website
-    * Journals 
+In summary, I've explained that a lot of medical research is poorly reported, and that this makes it difficult for other researchers to understand, appraise, synthesize, or replicate studies. This, in turn, makes research less useful to patients. 
 
-Modest effect on reporting quality, if any
+I've introduced reporting guidelines, which were created by the research community in the hopes that they would improve reporting quality, and I've revealed that, sadly, these guidelines have had only a modest effect on reporting quality, at best. 
 
-* CONSORT intervention study 
-* GoodReports study
-* Templates?
-* ARRIVE study
-* Lots of timeseries studies looking at reporting quality over time. E.g. Lin review. 
-* https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01363-1 Qualitative reviews have improved since publication of COREQ, but not since ENTREQ.  Not sure why this study included COREQ when it's a guideline for interviews and focus groups. 
-* There have been many studies looking into reporting guideline adherance. Systematic reviews 
+I've argued that reporting guidelines and the system of tools, publications, websites, and people that disseminate them, are a complex behaviour change intervention, with the ultimate goal of altering what authors write. 
 
-Santo et al 2023 systematically reviewed meta-research studies on adherence to reporting guidelines. Of 148 studies published from 2020 - 2022, almost all found reporting to be suboptimal. But more notably, and ironic, was that very few of the included meta-research studies were themselves reported in sufficient detail for verification or replication. Only 14 (10%) explained how they coded adherance in sufficient detail for replication, and only 49 (33%) provided results for all included studies. 
+And I've explained how behaviour change theory may help bridge the evidence gap: that although we know reporting guidelines haven't fixed reporting quality, we don't know _why_ their effect is limited, or _how_ they could be improved. 
 
-These 148 studies included in Sanot's review were written by meta-researchers who clearly know about reporting guidelines and, presumably, care about reporting quality. The fact that these authors still produced manuscripts that were poorly reported suggests problems beyond lack of awareness or lack of trying. 
+## Aims and Objectives
 
-This brings me to the evidence gap that my thesis tries to address. Although we know that reporting guidelines' impact has been limited, we don't know _why_. 
+My aim, therefore, is to understand why reporting guidelines haven't had a bigger impact on reporting quality, and to address these issues. 
 
-Evidence gap: We don't know why
+My specific objectives are:
+
+* To identify factors that may limit reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters {{< var chapters.synthesis >}}-{{< var chapters.website >}})
+* To work with key stakeholders to identify intervention changes to address these limiting factors (addressed in chapters {{< var chapters.bcw >}}-{{< var chapters.behavioural-analysis >}})
+* To implement these changes (described in {{< var chapters.development >}})
+* To refine the new intervention in response to feedback from authors (addressed in chapter {{< var chapters.pilot >}})
+
+#COULD could write something like "to change RGs from an intervention that "seemed like a good idea at the time" into an intervention that is defined and supported by behaviour change theory".
+
+## Thesis structure
 
 Summary
 
-* I didn't always _know_ this was going to be a behaviour change project
-* In chapter {{< var chapters.reflexivity >}} I reflect on my prior help opinions of reporting guidelines to try and "set the scene" for how this project began.
-* etc.
+### Chapter {{< var chapters.reflexivity >}} - Reflexivity and context
 
-Thesis Aims
+I reflect on my background and my prior held opinions, and those of my supervision team, and how these may have influenced the direction of this thesis. 
 
-* Aim
-* Objectives
+### Chapter {{< var chapters.synthesis >}} - {{< var titles.synthesis >}}
 
-Thesis Structure (small paragraph per chapter)
+The next three chapters pertain to my first objective - to identify possible reasons as to why reporting guidelines have had only a limited impact on reporting quality. This chapter describes a thematic synthesis of studies that qualitatively explored authors' experiences of using reporting guidelines, where I sought to identify what may influence whether an author successfully adheres to reporting guidance. 
 
+### Chapter {{< var chapters.review >}} - {{< var titles.review >}}
 
+This chapter builds on the previous one by identifying additional possible influences from the content of quantitative survey questions. 
 
-* Describe how RG system evolved organically. 
-    * This is fairly common in efforts to change behaviour, and is sometimes referred to as the "It seemed like a good idea at the time" method, or "ISLAGIATT" which Michie et al. say was coined by professor Martin Eccles, or "SLAGIATT" which my my 10 year old niece would recognize from a Horrible Histories chapter on dodgy interventions. 
-* Justify why it is worth turning RGs into a behaviour change intervention
-    * Increase efficacy, acceptability, reduce side effects
-    * Theorise how it is working & therefore how a process evaluation could be designed
+### Chapter {{< var chapters.website >}} - {{< var titles.website >}}
 
+This chapter describes a service evaluation of the EQUATOR Network website which, although an important piece of the reporting guideline infrastructure, was rarely explored by studies reviewed in the previous two chapters. From this evaluation, I then infer possible barriers that authors may encounter when trying to find and access reporting guidelines from EQUATOR's website.
 
+### Chapter {{< var chapters.bcw >}} - {{< var titles.bcw >}}
 
+The next 4 chapters pertain to my second objective - identifying intervention changes. This chapter introduces the Behaviour Change Wheel, which is a framework for designing and defining behaviour change interventions. 
 
+### Chapter {{< var chapters.workshops >}} - {{< var titles.workshops >}}
+
+This chapter describes how I lead workshops with members of the UK EQUATOR center to identify intervention options using Behaviour Change Wheel framework.
+
+### Chapter {{< var chapters.focus-groups >}} - {{< var titles.focus-groups >}}
+
+This chapter reports focus groups where I collected ideas on how intervention options could be realised. 
+
+### Chapter {{< var chapters.behavioural-analysis >}} - {{< var titles.behavioural-analysis >}}
+
+In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components and logic model. 
+
+### Chapter {{< var chapters.development >}} - {{< var titles.development >}}
+
+This chapter concerns my third objective, implementing the intervention changes by redesigning a reporting guidelines (SRQR) and the EQUATOR Network website's home page.
+
+### Chapter {{< var chapters.pilot >}} - {{< var titles.pilot >}}
+
+In this chapter I address my final objective, which was to refine the intervention in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors. 
