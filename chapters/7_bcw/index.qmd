@@ -7,6 +7,10 @@ format:
         output-file: JH-chapter-bcw.docx
 ---
 
+<!-- Introduce MRC guidance more. Explain how I have tried to align with values. 
+
+Admit I did not know about PBA. Explain what it is. Explain how my approach overlaps with it, and sign post to discussion. -->
+
 In my introductory chapter I presented how I view reporting guidelines to be part of a complex behaviour change intervention. But that isn't how I have always viewed them. When I began my PhD, I didn't think about how guidance was communicated, whether through publications, example & elaboration documents, or checklists, and the differences between those resources. I didn't think about the websites authors used to find those resources. I didn't think about _how_ or _when_ authors used guidance. I merely thought of reporting guidelines as similar sets of recommendations that authors should adhere to. 
 
 But after reading accounts of authors struggling with the guidance content, access, formats, workflows, confidence, and the behaviour of others, I began to think beyond the guidance text, and more about the system. I began to recognize the complexity that came from the number of different stakeholders involved, differences between guidelines, the skills and prior knowledge an author must have to act on the guidance, and the broad variation in _how_, _when_, and _why_ guidelines are used.
