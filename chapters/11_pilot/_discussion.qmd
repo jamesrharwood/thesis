@@ -9,3 +9,10 @@ So when one participant suggested that "What are RGs" should come above the Freq
 Therefore, need a real world evaluation.
 
 All could speak English = bias
+
+Not all intervention components explored directly. E.g. the think aloud was good at detecting things that were salient (good or bad). Not good at detecting neutral things. 
+
+Task based protocol or navigation task might have been better. E.g. "look for french version" or "imagine you needed to cite this, where would you look" - which I did kinda do as an interview question.
+
+The problem of finding the right guideline still deserves exploration. Need the other guidelines to be up, and would need to either give tasks or recruit people differently (not by the kind of research they were doing). 
+

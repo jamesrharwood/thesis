@@ -36,6 +36,8 @@ My interview schedule had 4 parts:
 3. Writing task (at home)
 4. Writing review + interview
 
+{{< include _table.qmd >}}
+
 ## 5 Second Test
 
 GOT TO HERE
@@ -59,6 +61,14 @@ If the participant mentioned the term "reporting guidelines", we asked "What do 
 "What would make you want to learn more about the website?"
 
 "What impact do you expect the website to have on your job as a researcher?"
+
+Wanted to know whether:
+
+* the participants realised the website was about guidance to help you *write-up* (as opposed to design or conduct) research
+* the ppt realised the guidance should be used during writing (as opposed to editing)
+* the ppt realised the guidance should help *them* in some way (as opposed to other people), e.g. quicker, confidence. 
+
+Testing the written content and design. 
 
 ### User protocols / think aloud tasks
 
