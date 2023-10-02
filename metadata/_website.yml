@@ -33,16 +33,16 @@ website:
         file: "chapters/4_survey_content/index.qmd"
       - text: "5. EQUATOR website evaluation"
         file: "chapters/5_website_audit/index.qmd"
-      - text: "<span class='text-muted'>6. Journal instruction audit</span>"
-        file: ""
       - text: "<b>Part 2: Designing the intervention</b>"
         file: ""
-      - text: "7. The Behaviour Change Wheel"
-        file: chapters/7_bcw/index.qmd
-      - text: "8. Workshops"
-        file: chapters/8_workshops/index.qmd
-      - text: "9. Focus Groups"
-        file: chapters/9_focus_groups/index.qmd
+      - text: "6. The Behaviour Change Wheel"
+        file: chapters/6_bcw/index.qmd
+      - text: "7. Workshops"
+        file: chapters/7_workshops/index.qmd
+      - text: "8. Focus Groups"
+        file: chapters/8_focus_groups/index.qmd
+      - text: "9. Defining intervention content"
+        file: chapters/9_defining_content/index.qmd
       - text: "10. Development"
         file: chapters/10_redesign/index.qmd
       - text: "<span class='text-warning'>11. Pilot</span>"
