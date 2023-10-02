@@ -107,8 +107,8 @@ format:
 ![A re-designed item from the SRQR reporting guideline. Intervention changes include:  
 1) Content is separated into what to write (area A), why information is important (area B), examples (area C), and any additional background information (not shown). 
 2) Areas B and C are presented as expandable content, so the only instruction immediately visible is what to write (area A). This means that the guidance is easier to digest and less intimidating.
-3) Definitions are presented as pop-ups for technical terms (area D) 
-4) Quotes provide reassurance and persuasion 
+3) Definitions are presented as pop-ups for technical terms
+4) Quotes provide reassurance and persuasion (area D) 
 5) Language is direct and edited for clarity and brevity 
 6) Each item has its own discussion page (linked to from the top right of area A)
  ](figures/item-after.png){#fig-item height=200mm}
