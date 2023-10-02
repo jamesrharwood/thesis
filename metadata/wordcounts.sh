@@ -3,7 +3,7 @@ echo "" > $OUTPUT_FP
 total=0
 
 FILEPATHS=(
-    #"output/chapters/1_introduction"
+    "output/chapters/1_introduction"
     "output/chapters/2_reflexivity"
     "output/chapters/3_synthesis"
     "output/chapters/4_survey_content"
