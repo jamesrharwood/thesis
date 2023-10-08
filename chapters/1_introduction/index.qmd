@@ -67,9 +67,18 @@ Many articles end their discussion section with a rallying cry for better enforc
 
 Some articles end with no conjecture on why they saw little effect, or how guidelines could be improved. @howellEffectSQUIREStandards2015
 
-Most made no attempt to collect data from authors or editors to give context to their findings. 
+Most made no attempt to collect feedback from authors or editors. 
 
 <!-- Many of the articles I've cited end with some thoughts on next steps. Some suggest that reporting guidelines should be part of training (#REF), others call for journals to do a better job at enforcing guidelines (#REF), or for strategies besides reporting guidelines (#REF). Some make unspecific pleas for more research into dissemination strategies, without suggesting any ideas as to how that could be done. Others offer concrete suggestions. (For example, #REF (allergy STROBE study) suggested that reporting guidelines would be easier to enforce if editors just checked for the presence of the least-often reported items). No study has taken a thorough approach to improving reporting guidelines.  -->
+
+Some researchers have tried to innovate to make guidelines more usable, but these innovations are not based on evidence or theory. For example, Hopewell et al. created WebCONSORT because they worried combining CONSORT with its extensions may be "cumbersome and difficult" without providing evidence for this claim. They made some guesses for why their intervention failed. Perhaps the custom combined checklists were too long? Perhaps reporting items were not adequately explained? Perhaps intervening at revision stage was too late? But because they did not collect feedback from authors nor editors during their study, these were stabs in the dark.
+
+Their data did, however, reveal one unexpected insight. They had to exclude 39% of manuscripts because editors had incorrectly identified them as randomised trials when they were not, and a quarter of authors selected inappropriate extensions. Perhaps then, identifying study design and matching it to a reporting guideline is a barrier in itself.
+
+I am also guilty of building an intervention to fix a problem without evidence. In 2018 I worked with EQUATOR as a freelance developer to create GoodReports.org, a website where authors could fill out checklists on-line. We made this website to address three problems we believed, anecdotally, to exist. First, some guideline checklists were in unusable formats (e.g. PDFs that could not be filled). Secondly, some guidelines were being paywalls. And thirdly, we worried that some authors might struggle to identify which guideline to use. And so we made a website where checklists were fillable, all guidance was open, and a questionnaire could help authors find the right guideline. Instinctively, I tried to make the website look nice and be easy to use. But those decisions were just default developer behaviour, and I not with any kind of behaviour change in mind. We kept the checklist text and guidance text exactly the same as it is in publications. 
+
+
+
 
 ### Next steps quoted from articles
 
