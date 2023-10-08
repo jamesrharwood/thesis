@@ -9,7 +9,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-home, @fig-rg-intro
         future: Advise stakeholders on how to introduce reporting guidelines.^*^
         IF: Education
-        BCT: Instruction on how to perform the behavior #ASK
+        BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: 5 second test, interview
       Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for:
@@ -18,7 +18,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Clear instruction and differentiation of resources
         now_example: See @fig-home, @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior #ASK
+        BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: 5 second test, think aloud, interview
   what-rgs-exist:
@@ -29,7 +29,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Consistent instruction to cite reporting guidelines
         now_example:
         IF: Education
-        BCT: Instruction on how to perform the behavior #ASK
+        BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: think aloud, interview
       # Encourage journals, ethics committees, funders, and other stakeholders to endorse reporting guidelines:
@@ -47,7 +47,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
       #   now_example:
       #   hypothetical: All stakeholders could run promotional campaigns
       #   IF: Education
-      #   BCT: #ASK not a BCT? Could include multiple bcts
+      #   BCT: #CHECK not a BCT? Could include multiple bcts
       # Install reporting champions; individuals that promote reporting guidelines within their organisation or peer group:
       #   before: Champions may exist informally
       #   before_example:
@@ -63,7 +63,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: Reintroduce tool, extend and improve it.
         IF: Enablement
-        BCT: Instruction on how to perform the behaviour #ASK
+        BCT: Instruction on how to perform the behaviour
         done: false
         evaluation_methods: false
       Collections of related reporting guidelines:
@@ -73,7 +73,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: 
         future:  Create collection pages, link to them from home page table
         IF: Environmental Restructuring
-        BCT: Instruction on how to perform the behavior #ASK
+        BCT: Adding objects to the environment
         done: false
         evaluation_methods: false
       Links between related guidelines:
@@ -125,7 +125,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: (Not visible)
         future: 
         IF: Enablement
-        BCT: Adding objects to the environment #ASK
+        BCT: Restructuring the physical environment
         done: true
         evaluation_methods: false
       Permanent document object identifiers (DOIs):
@@ -147,7 +147,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         hypothetical: EQUATOR could arrange for paywalled guidance to become open, and can advise all future guidance to be published open access.
         IF: Enablement
-        BCT: Restructuring the physical environment #ASK removing costs?
+        BCT: Restructuring the physical environment # good discussion point. Felt there should be a BCT for this. 
         done: false
         evaluation_methods: false
   scope:
@@ -229,7 +229,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:  see @fig-item
         future: Collect testimonials
         IF: Persuasion
-        BCT: Social support (practical & emotional) #ASK
+        BCT: Demonstration of the behavior
         done: true
         evaluation_methods: think aloud, interview
       Decrease fear of judgement by making reporting guidelines design agnostic:
@@ -239,7 +239,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: Repeat with other reporting guidelines.
         IF: Coercion (Removal of)
-        BCT: Remove aversive stimulus #ASK
+        BCT: Remove aversive stimulus
         done: true
         evaluation_methods: plus minus
       Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape:
@@ -249,7 +249,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-home #TODO reassuring quote
         future: Further work on tone of voice
         IF: Coercion (Removal of)
-        BCT: Remove aversive stimulus #ASK reframing?
+        BCT: Remove aversive stimulus
         done: true
         evaluation_methods: think aloud
       Reassure that all research has limitations to encourage explanation over perfect design:
@@ -258,7 +258,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: This reassurance appears on the home page and all guidance pages
         now_example: See @fig-rg-intro
         IF: Persuasion
-        BCT: Social support (unspecified) #ASK
+        BCT: Social support (unspecified)
         done: true
         evaluation_methods: think aloud
   feel-not-my-job:
@@ -270,7 +270,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: All resources and website copy are directed predominantly at authors.
         now_example: #Quote in 1st person
         IF: Persuasion
-        BCT: Instruction on how to perform a behaviour #ASK not self as role model
+        BCT: Instruction on how to perform a behaviour
         done: true
         evaluation_methods: interview
       Communicate why reporting is primarily the responsibility of the author:
@@ -279,7 +279,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Clear explanation of why guidelines and tools should be used by authors primarily, although can also be used by others.
         now_example: 
         IF: Education
-        BCT: Instruction on how to perform a behaviour #ASK
+        BCT: Instruction on how to perform a behaviour
         done: false
   feel-not-a-job:
     ingredients:
@@ -329,13 +329,13 @@ Apply reporting guidance to writing:
         BCT: Information about emotional consequences, Information about others' approval, Information about social and environmental consequences
         done: true
         evaluation_methods: think aloud
-      Use design and language to foster trust:
-        before: Website design looked amateur. Citation metrics are available for guideline publications, but are not displayed on the EQUATOR website or within the guidance publications or checklists themselves.
+      Include design, features, and language to foster trust:
+        before: Website design looked amateur. Citation metrics are available for guideline publications, but are not displayed on the EQUATOR website or within the guidance publications or checklists themselves. Guidelines were often preceeded by lengthy explanations of development.
         before_example: See @fig-db-b4
-        now: Design looks professional. Citation metrics are presented at the top the reporting guidance.
+        now: Design looks professional. Citation metrics are presented at the top the reporting guidance. Information about who developed the guidelines, how they developed it, and why the guidance is credible is still provided, and easily findable from the top of the guidance.
         now_example: See @fig-rg-intro
         IF: Persuasion
-        BCT: Social comparison, Information about emotional consequences, Information about others' approval, Information about social and environmental consequences #ASK
+        BCT: Credible source, Social comparison
         done: true
         evaluation_methods: think aloud
       Create spaces for authors to discuss reporting guidelines with others:
@@ -344,7 +344,7 @@ Apply reporting guidance to writing:
         now: Each reporting item has its own discussion board.
         now_example: See @fig-discussion
         IF: Persuasion
-        BCT: Social comparison, Information about emotional consequences, Information about others' approval, Information about social and environmental consequences #ASK
+        BCT: Social comparison, Credible source, Adding objects to the environment
         done: true
         evaluation_methods: think aloud, interview
       Use language and design to communicate personal benefits; confidence and simplicity:
@@ -353,7 +353,7 @@ Apply reporting guidance to writing:
         now: A clean, simple interface for the home page and guidance pages. Text uses phrases like "confidence", "quick", "maximum impact".
         now_example: See @fig-home and @fig-rg-intro
         IF: Persuasion
-        BCT: Remove aversive stimulus, Information about others' approval #ASK not removal of aversive but addition of attractive? If not a separate BCT then combine with the aversive equivalent above. 
+        BCT: Framing/reframing 
         done: true
         evaluation_methods: think aloud, interview
   care-about-benefits:
@@ -495,7 +495,7 @@ Apply reporting guidance to writing:
         now_example: See @fig-item
         future: Add more examples
         IF: Modelling
-        BCT: Demonstration of the behavior #ASK
+        BCT: Demonstration of the behavior
         done: true
         evaluation_methods: plus minus, interview
       Create spaces for authors to discuss reporting guidelines with others (see above):

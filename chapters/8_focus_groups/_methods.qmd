@@ -6,7 +6,7 @@ Before describing my workshop and focus group methods in detail, I will briefly 
 
 ## Workshopping Ideas with EQUATOR
 
-I described the workshops I ran with EQUATOR in chapter {{< chapters.workshops >}}, including the techniques I used to encourage rich discussion and to navigate my position as a participating researcher, contributing ideas myself whilst facilitating others' to share their voices. For this particular step, I asked workshop participants to consider each intervention function in turn and suggest ideas that would employ that function. After the workshop, I then labelled each idea with the influence(s) it would be addressing to create an "ideas document" with two columns: influences were described in the left hand column, and ideas in the right hand column. I invited workshop participants to review and comment on this document. The file can be seen in Appendix #TODO.
+I described the workshops I ran with EQUATOR in chapter {{< chapters.workshops >}}, including the techniques I used to encourage rich discussion and to navigate my position as a participating researcher, contributing ideas myself whilst facilitating others' to share their voices. For this particular step, I asked workshop participants to consider each intervention function in turn and suggest ideas that would employ that function. After the workshop, I then labelled each idea with the influence(s) it would be addressing to create an "ideas document" with two columns: influences were described in the left hand column, and ideas in the right hand column. I invited workshop participants to review and edit this document, thereby co-producing lists of influences and ideas. The file can be seen in Appendix #TODO.
 
 ## Focus groups with external stakeholders
 

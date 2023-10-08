@@ -51,6 +51,7 @@ INTERVENTION_COMPONENTS = {
     'unique': ICs_UNIQUE,
     'included': ICs_INCLUDED,
     'included_unique': ICs_INCLUDED_UNIQUE,
+    'not_included_unique': ICs_UNIQUE - ICs_INCLUDED_UNIQUE,
 }
 IC_BARRIERS = set([b.lower() for b in IC_BARRIERS if b])
 IC_INTERVENTION_FUNCTIONS = set([i.lower() for i in IC_INTERVENTION_FUNCTIONS if i])

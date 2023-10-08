@@ -3,15 +3,102 @@ title: "Turning reporting guidelines into a behaviour change intervention: Behav
 format: 
     html:
         output-file: index.html
-        css: styles.css
     docx:
         output-file: JH-chapter-redesign.docx
 ---
 
-{{< include _methods.qmd >}} 
+## Introduction
 
-{{< include _figures.qmd >}}
+In chapter ({{< var chapters.workshops >}}) I explain how EQUATOR staff and I decided to prioritise redesigning reporting guidelines and the EQUATOR Network website's home page. In chapter {{< var chapters.defining-content >}} I presented a list of {{< var counts. >}} hypothetical intervention components we could include in this redesign. In this chapter, I describe how I turned this list of components into a working prototype.
 
-{{< include _discussion.qmd >}} 
+I wanted to include EQUATOR staff and guideline developers in the redesign process for multiple reasons. Firstly, I expected their decisions to be useful when making decisions. Secondly, I wanted them to understand and like the redesign. Thirdly, I wanted them to feel ownership, and not feel displaced by efforts. As a student, relatively new to the world of reporting guidelines, at times I felt like an intruder meddling with other peoples' creations. By making sure the redesign reflected the preferences of stakeholders, I hoped the result would feel like "ours", not "mine". Finally, I wanted to ensure what I made would be sustainable. I wanted EQUATOR staff and guideline developers to be able to maintain and extend it without requiring a software developer. I wanted to use technologies simple enough for stakeholders to control, cheap enough to run without funding, secure enough to meet privacy requirements, and powerful enough to do what we wanted.
 
-{{< pagebreak >}}
+I did not have time to consult multiple guideline groups. Nor did I have time to redesign multiple guidelines. For the purpose of building a prototype I decided to focus on a single reporting guideline; the Standards for Reporting Qualitative Research (SRQR). I chose this guideline for three reasons. Firstly, I was familiar with it and understood it. Secondly, it's lead developer expressed interest in collaborating. Thirdly, because it is applicable to all medical qualitative research I expected its user base to be large and varied. For example, authors may include students, clinicians, public health experts, quantitative researchers dabbling in qualitative methods within a positivist framework, or experienced qualitative researchers working within other paradigms. This broad and varied author base would be useful for a subsequent evaluation study (see next chapter), in contrast to other guidelines with a narrower, more homogenous target audience.
+
+In this chapter, I describe how I worked with EQUATOR staff and SRQR's lead developer to co-design a revamped home page and reporting guideline including intervention components from chapter {{< var chapters. defining-content >}}.
+
+### Methods
+
+I invited the EQUATOR staff who participated in the workshops (chapter {{< var chapters.workshops >}}). As before, I used established, best-practice techniques to facilitate open discussion @lincolnNaturalisticInquiry1985. I made it clear there were no right or wrong answers. I reflected on my own opinions before meeting, and held them back until EQUATOR staff had finished talking. When disagreements arose, I took time to explore and understand both sides. I made heavy use of my intervention planning table (see chapter {{< var chapters.defining-content >}}) to make decisions, over and above personal preferences. For example, I based decisions about style on the intended behaviour change technique, not on personal preference. By prioritising theory above preference, and others' opinions above my own, I reduced my subjectivity.
+
+I met with EQUATOR staff 3 times between November 2022 and January 2023. Throughout our meetings we kept our target audience in mind. Building user personas is a common best practice in web development @ISO92412102019 @velsenPersonasLinkingPin2012 @experiencePersonasMakeUsers. For example, as part of their work to help NHS staff adopt new technologies and become a digital workforce, Health Education England identified five archetypes: digital creators, end users, embedders, change drivers, and shapers @PersonasHealthEducation. They then developed five imaginary personas around these archetypes, each with their own needs, motivations, and challenges. Developing personas can be a significant task. Personas should come from evidence, and some product teams go as far as interviewing 5 or more representatives of each persona in an iterative, co-creation process. 
+
+This was not feasible within my PhD and so our persona generation process was less formal. Referring to my website service evaluation (chapter {{< var chapters.web-audit >}}), we recalled most website visitors are new and visit only once, and so we assumed many will be naïve to reporting guidelines and the EQUATOR Network. Website visitors come from all over the world, so we assumed some may speak english as a second language (or not at all). We had no way of knowing how much research experience our website visitors are, but we assumed the distribution would reflect real-world numbers, where students and early career researchers outnumber experienced professors. Although the EQUATOR website has content aimed at editors, librarians, and guideline developers, this content is rarely accessed and these users are not part of our target behaviour (see chapter {{< var chapters.workshops >}}), and so we did not create personas for them. 
+
+Consequently, two personas crystallised in our minds:
+
+1. Inexperienced authors:
+* may not be familiar with EQUATOR or reporting guidelines
+* may find authoring / publishing difficult
+* may need help in finding and using a reporting guideline
+
+2. Experienced authors:
+* may be familiar with EQUATOR and/or reporting guidelines
+* may have used checklists before, but may not realise full guidance exists, and may have never used reporting guidelines for for drafting.
+* may feel patronized or restricted by reporting guidelines, especially if they believe them to be design requirements
+* may see checklists as red tape necessary for publication, or they may be reporting guideline "converts" already convinced of their value.
+
+Many authors may fall somewhere between these two personas. We decided to prioritise inexperienced authors because we believed them to be more numerous, and because qualitative evidence suggests inexperienced authors may benefit more from reporting guidelines (see chapter {{< var chapters.synthesis >}}).
+
+User personas typically include motivations. There is an important difference between user motivations - what authors are wanting to do when they visit EQUATOR's website - and our target behaviour - what _we_ want authors to do when they visit EQUATOR's website. Because most visitors come from journal websites or submission systems and because checklists are the most accessed resourced (chapter {{< var chapters.web-audit >}}), we assumed most authors visit the website because they want to fill out a reporting checklist as part of journal submission. In contrast, we want to use reporting guidelines _as early as possible_, i.e. when planning or drafting research, way before they submit to a journal. We could have designed a website to focus entirely on drafting manuscripts, but this would have abandoned authors seeking checklists. Instead, we took a more pragmatic approach and decided to continue catering for authors seeking checklists, but to nudge them towards using a reporting guideline for drafting research in the future.
+
+In our first meeting, we decided how the home page and redesigned guideline should join. On EQUATOR's existing website, authors starting on the home page must navigate through 5 webpages to reach the full reporting guidance; the home page, guideline database page, PubMed, a publication, and then sometimes a supplement. From my website service evaluation (chapter {{< var chapters.web-audit >}}), we knew many authors leave at each step (see @fig-sankey-b4). Therefore, we wanted our redesigned home page to link directly to the most frequently used guidelines, thereby reducing this this journey to 2 steps, with the aim to increase the proportion of authors reaching the full guidance (see @fig-sankey-after).
+
+In our second meeting, EQUATOR staff and I sketched ideas for how the home page and reporting guideline page could be laid out and for the positioning of intervention components. These sketches were wireframes: simple illustrations focussing on space allocation, functionalities, and intended behaviours. Wireframes do not include styling. There are no colours, images are represented as blank boxes, and squiggles represent blocks of text. 
+
+After the second meeting, once participants had agreed on a layout, I created an alpha version of the new home page and guideline page. These were real webpages, viewable in a browser, but I used dummy text and images because I wanted to solicit feedback on layout, structure, and functionality, not on the content. This is a common practice in web development, as people can become distracted by wording or stylistic choices. I used a web annotation tool called Pastel to collect feedback from EQUATOR staff @PastelFastestVisual. 
+
+In our third meeting, we co-created text for the home page. We began by listing the intervention components the text needed to address. The text needed to explain what reporting guidelines were, how they can be used, and the benefits they bring to authors. EQUATOR staff drafted text on their own before discussing and editing as a group. We also discussed style and imagery in this meeting. Again, we began by listing the intervention components the images needed to address. These included communicating what reporting guidelines are, who should use them, communicating simplicity and confidence. I invited EQUATOR staff to contribute websites and images they admired for inspiration. We ended up discussing websites run by the National Health Service@NHSWebsite2018, the International Organisation for Standardisation@ISOInternationalOrganization2023, and the National Institute for Health and Care Excellence@NICENationalInstitute. We looked through examples of free-to-use images from a number of libraries@8guildSearchDownloadFree; @DownloadFreeVectors; @FreeIconsStickers; @FreepikDownloadFree. I also consulted usability best-practices @experienceNielsenNormanGroup.
+
+After the third meeting, I refined the alpha version based on the feedback from EQUATOR staff and populated it with the text and images we had discussed. I began redesigning the SRQR guideline. I got written permission from SRQR's publisher and lead developer, Bridget O'Brien. I began redesigning SRQR by pasting the text into Microsoft Word and rearranging content into categories: what to write, how/where to write it, what to write if the item was not/could not be done, why the item is important and to whom, and examples. I edited sentences to speak directly to authors and to use active voice. E.g. "Describe X" instead of "X should be described". This shortened the text and made it clearer that the primary audience is authors.
+
+For composite items I split the sub-items into bulleted lists. E.g.
+
+> For each X, describe:
+>
+> * A
+> * B
+> * C
+>
+
+I rearranged conditional sub-items to read as "If X, then describe Y", instead of "Describe Y if X". I moved definitions into a glossary and contextual information into notes. I edited the tone of voice to add reassuring language. An example redesigned SRQR item is in #sec-box-item. I asked SRQR's developer to provide feedback on the redesigned guideline and made refinements based on her comments.
+
+After development, I double checked the intervention against my intervention planning table (see chapter {{< var chapters.defining-content >}}) to ensure I had included all components. I invited another round of feedback from EQUATOR staff and made more refinements.
+
+#### System architecture
+
+When considering architecture options I prioritized technology that could feasibly be maintained by EQUATOR staff or a future PhD student. I looked for tools that would be familiar to early career researchers. I considered DIY website builders (like Wix @YourWebsiteYour or Squarespace @WebsiteBuilderCreate) but these services can be expensive. Most offer a 'drag and drop' building experience which, although easy to use, is a laborious way of uploading and formatting large amounts of content. Should EQUATOR want to change how reporting items are presented (for example, move the positioning of examples), they would have to manually edit each item for each reporting guideline. Additionally, our intended intervention changes required custom functionality not offered by these services (e.g. glossary definitions, discussion boards).
+
+Although coding languages like _HTML_ (Hyper Text Markup Language) or _javascript_ are used by many software developers to create websites, few early career researchers are familiar with them. In contrast, many researchers write reproducible manuscripts in markdown. Markdown is a simple language and takes minutes to learn. It uses asterisks, underscores, and carets to make text **\*\*bold\*\***, _\_italic\__, or ^\^superscript\^^. Headings, URLS, and references are similarly easy, and free editing software makes writing markdown feel like writing a Microsoft Word document.
+
+Markdown converts into lots of other formats, including docx (Microsoft Word files), LaTeX, PDF, and HTML. Many researchers already use tools like RStudio @positRStudioIntegratedDevelopment or Quarto @QuartoOpenSource to convert markdown into nicely formatted, publication-ready articles.
+
+I decided to use Quarto because it is open source, has great documentation, and its functionality can be extended with other programming languages commonly used by researchers and statisticians, like Python or Ruby. I've made all code available on Github @jamesrharwoodEQUATORGuidelinesWebsite2023, an industry-leading version control system commonly used by academics. I've used Github Pages @GitHubPages to serve the website itself, because it is free, beginner friendly, configurable, and integrates (almost) seamlessly with Github's version control system. 
+
+### Results 
+
+The redesigned home page and SRQR guideline can are shown in @fig-home, @fig-rg-intro, and @fig-discussion. For comparison, the old versions are shown in @fig-home-b4 and @fig-db-b4. I managed to implement {{< var counts.redesign.intervention-components.included_unique  >}} of the {{< var counts.redesign.intervention-components.unique >}} intervention components identified in chapter {{< var chapters.defining-content >}}. Implemented components are identified in the "After" column of the intervention planning table in chapter {{< var chapters.defining-content >}}. 
+
+The website source code is viewable at {{< var website-github-repo-url >}} and the live website is viewable at {{< var website-url >}}.
+
+### Discussion
+
+Using the intervention planning table from my previous chapter, I have created functional prototypes of a redesigned reporting guidelines and the EQUATOR Network home page. If EQUATOR chooses to adopt these changes for real, hundreds of thousands of authors would access these redesigned resources each year. 
+
+These redesigned resources have potential to benefit authors directly, and also to help other stakeholders. For example, publishers may find enforcing guidelines easier if our redesigned resources prove more user friendly. Guideline developers will benefit from having a ready-to-use dissemination platform based on evidence, with built-in channels for collecting feedback from authors. This feedback may help guideline developers refine their resources further, and could act as evidence to support future funding applications. 
+
+Using a framework and a systematic method helped EQUATOR staff and I to check our subjectivity and biases. Instead of relying on personal preference, we tried to ensure choices reflected the function we were trying to employ. For example, when choosing a background image, instead of asking "do you like this one?", the questions became "what feelings do you think this image conveys? Does it communicate simplicity?".Similarly, when participants disagreed, it was useful to delve into _why_. For example, when sketching layouts for the home page, some EQUATOR staff drew a single, prominent search button. Others drew a plethora of options like "view guidelines by speciality", "view guidelines A-Z". Discussion revealed that whereas some staff prefer to search directly for what they want with laser-like focus, others prefer to "explore", especially when they are not certain what they want or what the website is about. In this instance, the final design takes both use cases into account, but other times we resolved disagreement by referring to the intervention planning table or to similar websites. Hence using a framework and exploring disagreements as a group helped mitigate personal preferences and peculiarities. 
+
+However, many decisions required a degree of subjectivity and, as lead researcher, designer, and developer, often these decisions landed on my shoulders. I tried to mitigate this by prioritizing other people's ideas over my own, and providing many opportunities for feedback. But the result undeniably has my “stamp”. If someone else had built it using the same table of intervention components then some things might be the same (like simplifying the user journey from 5 steps to 2, or the conventional home page layout) but other things would look different (like the choice of wording and images).
+
+My design may have benefited from input from other stakeholders. I describe how I obtained feedback from authors in my next chapter, but I would have liked to include authors, publishers, funders, and other stakeholders from the start. If EQUATOR decide to take my designs forward, these consultations could still take place, but they were not feasible within the time constraints of my PhD. Input from experienced designers would also be useful. We found images to be time consuming. None of us had the skills to create professional looking images ourselves, and we found freely available stock imagery felt generic and did not communicate what we needed. 
+
+SRQR's lead developer was the only included external stakeholder. My experience of working with Bridget was was positive; she was supportive and liked the result. Editing SRQR revealed gaps in item description. Often there was no guidance of what to write if an item was not or could not be done. For example, the target sample size item had no instruction of what to write if you had no target in mind. Some items missed an explanation of of why the item was important and to whom. Filling these blanks required time and input from SRQR's development team, and so I left these gaps unfilled for now. I anticipate similar gaps for other reporting guidelines. If EQUATOR decides to roll-out my redesign for other commonly used reporting guidelines, they could replicate the process I used to redesign SRQR. I hope other guideline developers will be as open-minded as Bridget was, but I expect others may feel less able or motivated to revise their guidance, or may feel protective over their writing and resistant to change. 
+
+In addition to filling these gaps, making my redesign "live" would also require further technical work. Some of these are administrative and have no behaviour change impact, but there are still {{< var counts.redesign.intervention-components.not_included_unique >}} intervention components outstanding. These components were too difficult or costly to include at this stage. For example, I intended to include more examples of reporting items, and to optimise reporting guideline pages so they rank highly in search engines. EQUATOR could add these intervention components at a later date. 
+
+#STRETCH Describe how new site differs to GoodReports
+
+### Conclusions
+
+In summary, I have described how I involved EQUATOR staff and a guideline developer through a co-design process to redesign the EQUATOR Network's home page and the SRQR guideline. These new designs include {{< var counts.redesign.intervention-components.included_unique  >}} of the {{< var counts.redesign.intervention-components.unique >}} intervention components identified in chapter {{< var chapters.defining-content >}}. Although my designs may have benefited from including other stakeholders, I explained how I facilitated open discussion, prioritised other's opinions, and used my intervention planning table to make decisions. In the next chapter I explain how I refined these designs further by interviewing and observing authors.

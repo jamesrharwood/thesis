@@ -53,42 +53,90 @@ In 2018, before my PhD, I collaborated with EQUATOR and BMJ Open to compare manu
 
 Together, these studies paint a mixed picture. Reporting standards may have improved but, at best, reporting guidelines may have led to modest improvements, standards remain low overall, and there is huge room for improvement. In a systematic review of 124 studies assessing adherence to one of eight reporting guidelines, Jin et al @jinDoesMedicalLiterature2018 found 88% of studies reported suboptimal adherence to reporting guidelines. Similarly, Dal Santo et al @santoResearchWastePoor2022 reviewed 148 studies of reporting quality, and almost all described reporting quality as suboptimal. Ironically, the same review found the studies on reporting quality were _themselves_ poorly reported: only 14 (10%) explained how they coded adherence in sufficient detail for replication, and only 49 (33%) provided data for all included studies. The authors of these studies were aware of reporting guidelines and presumably mindful of reporting but still produced incomplete articles. This suggests barriers beyond awareness and motivation.
 
-This brings me to the evidence gap my thesis addresses. Although we know reporting guidelines' impact has been limited, we do not know _why_, or _how_ to improve them.
+## Evidence gap: how can we make reporting guidelines more impactful?
+
+This brings me to the evidence gap my thesis addresses. Although we know reporting guidelines' impact has been limited, we do not know why, or how to improve them.
+
+Beyond postulating that "a successful strategy is "a successful strategy is likely to be multi-dimensional" Hair et al. @hairRandomisedControlledTrial2019 make two concrete suggestion based on evidence from their trial. Because outcome assessors rarely agreed whether a study adhered correctly to ARRIVE, they suggested refining "the content" and "perceived clarity". They also suggest reducing the number of items to make the guideline quicker to use.
+
+Many articles end their discussion section with a rallying cry for better enforcement. 
+
+"We need to promote more active implementation, such as submission of the checklist with the manuscript." @dechartresEvolutionPoorReporting2017
+
+"Therefore, we suggest that it is not sufficient for journals to simply recommend the use of STREGA to authors in the authors’ instructions; instead, journals should require submission of the STREGA checklist together with the manuscript" @nedovicEvaluationEndorsementSTrengthening2016
+
+Some articles end with no conjecture on why they saw little effect, or how guidelines could be improved. @howellEffectSQUIREStandards2015
+
+Most made no attempt to collect data from authors or editors to give context to their findings. 
+
+<!-- Many of the articles I've cited end with some thoughts on next steps. Some suggest that reporting guidelines should be part of training (#REF), others call for journals to do a better job at enforcing guidelines (#REF), or for strategies besides reporting guidelines (#REF). Some make unspecific pleas for more research into dissemination strategies, without suggesting any ideas as to how that could be done. Others offer concrete suggestions. (For example, #REF (allergy STROBE study) suggested that reporting guidelines would be easier to enforce if editors just checked for the presence of the least-often reported items). No study has taken a thorough approach to improving reporting guidelines.  -->
+
+### Next steps quoted from articles
+
+#### Active endorsement is a common argument. But does it work and is it practical?
+<!-- #TODO go through the studies I've cited, extract recommendations as quotes and note whether they are based on evidence or ideas. -->
+
+<!-- #TODO active enforcement is perhaps not effective nor practical
+@pandisActiveImplementationStrategy2014 Active implementation before and after study showed big improvements in CONSORT adherence
+
+@coboEffectUsingReporting2011 Additional reporting review as part of peer review showed modest improvement. From 8 (20%) to 22 (43%). Conclusion was "the observed effect was smaller than hypothesised and not definitively demonstrated." and "To boost paper quality and impact, authors should be aware of future requirements of reporting guidelines at the very beginning of their study".
+
+@coboStatisticalReviewersImprove2007 tested 2 interventions - statistical reviews & giving RGs to reviewers. Only the former did anything. "The effect of suggesting a guideline to the reviewers had no effect on change in overall quality as measured by the Goodman scale (0.9, 95% CI: −0.3–+2.1). The estimated effect of adding a statistical reviewer was 5.5 (95% CI: 4.3–6.7), showing a significant improvement in quality."
+
+@hopewellEffectEditorsImplementation2012 time series analysis comparing reporting of 9 CONSORT-abstract items in journals with a) no RG policy b) passive endorsement c) active enforcement. Only found an effect in active enforcement group, where 5.41 items (out of 9) were reported, which was 50% higher than expected. Still not perfect reporting, despite significant resource. 
+
+So passive strategies less effective than active ones? But how practical are active ones? Mostly tested in small journals or larger prestigious ones, and mostly for CONSORT which covers a small bus important sub type of research. But will that generalise to other kinds of journal, or other kinds of research where guidelines are less well developed, or the article is thought of being lower priority? E.g. WebCONSORT editors failed to identify RCTs. ARRIVE noted editorial cost for checklist strategy.  -->
+
+Hair et al. @hairRandomisedControlledTrial2019 wrote "The editorial resource required to ensure that all accepted publications meet the requirements of the ARRIVE checklist is likely to be considerable" and found that "due to the additional time required for ARRIVE checklist requests, both the number of days manuscripts spent in the PLOS editorial office and the number of days from manuscript submission to AE assignment were found to be significantly longer in the intervention group". Will journals shoulder increased costs in return for reporting guideline adherence? So far, few have shown any appetite to do so.
+
+<!-- #TODO GoodReports survey results -->
+
+<!-- #TODO Articles that tried to do something different - why?
+
+#ARRIVE checklist policy
+
+#WEBConsort
+
+#GoodReports
+
+#Dana's writing aid
+
+None are based on evidence or behaviour change theory. Stabs in the dark.  -->
 
 ## How behaviour change theory can help bridge the evidence gap
 
-#TODO go through the studies I've cited, extract recommendations as quotes and note whether they are based on evidence or ideas.
-
-#TODO @pandisActiveImplementationStrategy2014 Active implementation before and after study showed big improvements in CONSORT adherence
-
-#TODO @coboEffectUsingReporting2011 Additional reporting review as part of peer review showed modest improvement. From 8 (20%) to 22 (43%). Conclusion was "the observed effect was smaller than hypothesised and not definitively demonstrated." and "To boost paper quality and impact, authors should be aware of future requirements of reporting guidelines at the very beginning of their study".
-
-#TODO @coboStatisticalReviewersImprove2007 tested 2 interventions - statistical reviews & giving RGs to reviewers. Only the former did anything. "The effect of suggesting a guideline to the reviewers had no effect on change in overall quality as measured by the Goodman scale (0.9, 95% CI: −0.3–+2.1). The estimated effect of adding a statistical reviewer was 5.5 (95% CI: 4.3–6.7), showing a significant improvement in quality."
-
-#TODO @hopewellEffectEditorsImplementation2012 time series analysis comparing reporting of 9 CONSORT-abstract items in journals with a) no RG policy b) passive endorsement c) active enforcement. Only found an effect in active enforcement group, where 5.41 items (out of 9) were reported, which was 50% higher than expected. Still not perfect reporting, despite significant resource. 
-
-#TODO so passive strategies less effective than active ones? But how practical are active ones? Mostly tested in small journals or larger prestigious ones, and mostly for CONSORT which covers a small bus important sub type of research. But will that generalise to other kinds of journal, or other kinds of research where guidelines are less well developed, or the article is thought of being lower priority? E.g. WebCONSORT editors failed to identify RCTs. ARRIVE noted editorial cost for checklist strategy. 
-
-
-Many of the articles I've cited end with some thoughts on next steps. Some suggest that reporting guidelines should be part of training (#REF), others call for journals to do a better job at enforcing guidelines (#REF), or for strategies besides reporting guidelines (#REF). Some make unspecific pleas for more research into dissemination strategies, without suggesting any ideas as to how that could be done. Others offer concrete suggestions. (For example, #REF (allergy STROBE study) suggested that reporting guidelines would be easier to enforce if editors just checked for the presence of the least-often reported items). No study has taken a thorough approach to improving reporting guidelines. 
+<!-- #TODO Not called interventions before
+#TODO Organic growth
+#TODO MRC definition
+#TODO Complexity
+#TODO Added benefits: defining content & theory of how they work
+#TODO Examples of other interventions growing organically and benefiting by definition -->
 
 One reason its difficult to find a path forward is because reporting guidelines have never really been characterized as an intervention. Hereby lies another irony. Guideline developers often complain that authors don't report interventions clearly (there's a whole reporting guideline - TIDIER - specifically for that). Yet if an alien nation came to Earth and wanted to disseminate reporting guidance in a similar same way, they wouldn't find a single description sufficient for replication. Sure, they would find EQUATOR's article @moherGuidanceDevelopersHealth2010 on how to _develop_ reporting guidelines, but that article doesn't describe how to disseminate guidance in much detail. For example, although it recommends to craft "each [reporting] item into a crisply and unambiguously worded checklist item", it doesn't specify what other content should be on that checklist (e.g. an introduction? Instructions on how to use it? The author list?), nor the file format (an editable Word file? A PDF?), or how the checklist should be completed (By pasting text? Entering page numbers? Ticks and crosses?). Similarly, the guidance suggests writing an accompanying Explanatory document, but doesn't specify what content should go in it. 
 
 Another important aspect of defining interventions is describing how it is expected to work. Here, again, EQUATOR's guidance falls short. For example, it recommends guideline developers disseminate guidance by writing "a short document of about 2,000 words reporting on the rationale for developing the guidance and the development process, including a brief description of the meeting and participants involved". But why? How is knowing the guideline development process expected to influence behaviour? Why 2000 words? Our alien readers could probably guess, but they shouldn't have to. 
 
-I'm being quite critical of EQUATOR's guidance for guideline developers. Perhaps unfairly so, as it was never really meant to be an intervention definition, rather a guide, written by guideline developers with some experience under the belt, to help other prospective developers. Along the lines of "this is the best way we found to do it, so you might want to do it this way too". 
+I'm being quite critical of EQUATOR's guidance for guideline developers. Perhaps unfairly so, as it was not intended to be an intervention definition. It is a guide, written by guideline developers with some experience under the belt, to help other prospective developers. Along the lines of _this is the best way we found to do it, so you might want to do it this way too_. 
 
-The guidance for guidelines developers was published in 2010. I get the impression that nobody was really thinking of reporting guidelines as an intervention per say back then. In "A history of the EQUATOR Network", Doug Altman refers to reporting guidelines as "resources" that "influence" reporting. EQUATOR's training courses "target" editors and authors, but nowhere does he call them interventions. Other studies call them "tools" or "strategies" (#REF). The few studies that do speak of an "intervention" are those where the intervention in question is some kind of editorial activity or policy (like requiring a completed reporting checklist). 
+The guidance for guidelines developers was published in 2010. I get the impression that nobody was really thinking of reporting guidelines as an intervention per say back then. In "A history of the EQUATOR Network", Doug Altman refers to reporting guidelines as "resources" that "influence" reporting. EQUATOR's training courses "target" editors and authors, but nowhere does he call them interventions. Other studies call them "tools" or "strategies" (#REF). 
 
-So why do I feel confident calling reporting guidelines a complex behaviour change intervention? According to the Medical Research Council....#TODO
+At the start of this chapter I illustrated how reporting guidelines came into being. The process was slow, grass-roots, and it was driven by lots of groups of people doing what they felt was sensible. This movement has generated guidance publications, checklists, websites, training; it has influenced editors, peer reviewers, and journal policies. The effectiveness of reporting guidelines rests on more that just the individual sets of guidance. It rests on the entirity of this system. All the different parts. 
+
+<!-- Did these studies appear later? Not sure if making this point helps. The few studies that do speak of an "intervention" are those where the intervention in question is some kind of editorial activity or policy (like requiring a completed reporting checklist).
+
+Studies talk about an intervention vs control. Is the focus often editorial policy? Why not the guidance itself? Just as a drug can be administered in many ways, so can advice. -->
+
+What do these parts have in common? All of them - the guidelines, the checklists, peer reviewer feedback, editorial checks, websites - they all ultimately seek to influence what and how authors write. The reporting guideline community has created something that in health care would be called a complex behaviour change intervention. That's why I have chosen to use a behaviour change approach. 
+
+So why do I feel confident calling reporting guidelines part of a complex behaviour change intervention? According to the Medical Research Council....
 
 * explain why complex (number of parts, heterogeneity)
 * explain why behaviour
 
 ```
-At the start of this chapter I illustrated how reporting guidelines came into being. The process was slow, grass-roots, and it was driven by lots of groups of people doing what they felt was sensible. This movement has generated guidance publications, checklists, websites, training; it has influenced editors, peer reviewers, and journal policies. The effectiveness of reporting guidelines rests on more that just the individual sets of guidance. It rests on the entirity of this system. All the different parts. 
 
-What do these parts have in common? All of them - the guidelines, the checklists, peer reviewer feedback, editorial checks, websites - they all ultimately seek to influence what and how authors write. The reporting guideline community has created something that in health care would be called a complex behaviour change intervention. That's why I have chosen to use a behaviour change approach. 
+
+
 ```
 
 ```
@@ -97,8 +145,6 @@ It's common for behaviour change initiatives to begin in this organic, messy way
 Give examples
 
 Give examples of how formalization can lead to better effectiveness. 
-
-Consider restructuring the section to start with these examples.
 ```
 
 ## Summary 
@@ -113,16 +159,14 @@ And I've explained how behaviour change theory may help bridge the evidence gap:
 
 ## Aims and Objectives
 
-My aim, therefore, is to understand why reporting guidelines haven't had a bigger impact on reporting quality, and to address these issues. 
+My aim, therefore, is to understand why reporting guidelines have not had a bigger impact on reporting quality, and to address these issues. 
 
-My specific objectives are:
+My objectives are:
 
 * To identify factors that may limit reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters {{< var chapters.synthesis >}}-{{< var chapters.website >}})
-* To work with key stakeholders to identify intervention changes to address these limiting factors (addressed in chapters {{< var chapters.bcw >}}-{{< var chapters.behavioural-analysis >}})
+* To work with key stakeholders to identify intervention changes to address these limiting factors (addressed in chapters {{< var chapters.bcw >}}-{{< var chapters.defining-content >}})
 * To implement these changes (described in {{< var chapters.development >}})
 * To refine the new intervention in response to feedback from authors (addressed in chapter {{< var chapters.pilot >}})
-
-#COULD could write something like "to change RGs from an intervention that "seemed like a good idea at the time" into an intervention that is defined and supported by behaviour change theory".
 
 ## Thesis structure
 
@@ -162,7 +206,7 @@ In this chapter, I bring together the outputs of the previous two chapters to cr
 
 ### Chapter {{< var chapters.development >}} - {{< var titles.development >}}
 
-This chapter concerns my third objective, implementing the intervention changes by redesigning a reporting guidelines (SRQR) and the EQUATOR Network website's home page.
+This chapter concerns my third objective, implementing the intervention changes by redesigning a reporting guideline (SRQR) and the EQUATOR Network website's home page.
 
 ### Chapter {{< var chapters.pilot >}} - {{< var titles.pilot >}}
 

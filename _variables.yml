@@ -128,12 +128,13 @@ appendices:
   ideas_document: B
 chapters:
   bcw: 7
-  discussion: 12
+  defining-content: 10
+  discussion: 13
   focus-groups: 9
   introduction: 1
   journal-audit: 6
-  pilot: 11
-  redesign: 10
+  pilot: 12
+  redesign: 11
   reflexivity-and-context: 2
   review: 4
   synthesis: 3
@@ -168,8 +169,9 @@ counts:
     barriers-targeted: 32
     bcts-used: 18
     intervention-components:
-      included: 60
-      included_unique: 48
+      included: 59
+      included_unique: 47
+      not_included_unique: 16
       total: 81
       unique: 63
     intervention-functions-used: 6
