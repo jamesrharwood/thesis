@@ -1,12 +1,1 @@
 
-* index: 1262
-* synthesis: 9523
-* survey-content: 5048
-* website-audit: 4844
-* bcw: 1841
-* workshops: 4652
-* focus-groups: 9134
-* redesign: 8394
-* pilot: 1665
-
-**TOTAL: 46363**
