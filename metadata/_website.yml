@@ -21,11 +21,11 @@ website:
         file: ""
       - text: "List of Figures"
         file: ""
-      - text: '1. Background'
+      - text: '1. Introduction'
         file: "chapters/1_introduction/index.qmd"      
-      - text: "Reflexivity and context"
+      - text: "2. Reflexivity and context"
         file: "chapters/2_reflexivity/index.qmd"
-      - text: "<b>Part 1: Identifying influences</b>"
+      - text: "<b>Part 1: Identifying barriers</b>"
         file: ""
       - text: "3. Qualitative Evidence Synthesis"
         file: "chapters/3_synthesis/index.qmd"
