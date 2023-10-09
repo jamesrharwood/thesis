@@ -21,9 +21,9 @@ website:
         file: ""
       - text: "List of Figures"
         file: ""
-      - text: '<span class="text-muted">1. Background</span>'
-        file: ""      
-      - text: "<span class='text-muted'>2. Reflexivity and context</span>"
+      - text: '1. Background'
+        file: "chapters/1_introduction/index.qmd"      
+      - text: "Reflexivity and context"
         file: "chapters/2_reflexivity/index.qmd"
       - text: "<b>Part 1: Identifying influences</b>"
         file: ""
@@ -33,7 +33,7 @@ website:
         file: "chapters/4_survey_content/index.qmd"
       - text: "5. EQUATOR website evaluation"
         file: "chapters/5_website_audit/index.qmd"
-      - text: "<b>Part 2: Designing the intervention</b>"
+      - text: "<b>Part 2: Defining intervention content</b>"
         file: ""
       - text: "6. The Behaviour Change Wheel"
         file: chapters/6_bcw/index.qmd
@@ -43,6 +43,8 @@ website:
         file: chapters/8_focus_groups/index.qmd
       - text: "9. Defining intervention content"
         file: chapters/9_defining_content/index.qmd
+      - text: "<b>Part 3: Redesigning and refining a reporting guideline and EQUATOR's home page</b>"
+        file: ""
       - text: "10. Development"
         file: chapters/10_redesign/index.qmd
       - text: "<span class='text-warning'>11. Pilot</span>"
