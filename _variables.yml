@@ -127,19 +127,18 @@ appendices:
   ideas: C
   ideas_document: B
 chapters:
-  bcw: 7
-  defining-content: 10
-  discussion: 13
-  focus-groups: 9
+  bcw: 6
+  defining-content: 9
+  discussion: 12
+  focus-groups: 8
   introduction: 1
-  journal-audit: 6
-  pilot: 12
-  redesign: 11
+  pilot: 11
+  redesign: 10
   reflexivity-and-context: 2
   review: 4
   synthesis: 3
   web-audit: 5
-  workshops: 8
+  workshops: 7
 counts:
   EQUATOR_ideas: TODO
   EQUATOR_meetings: 7

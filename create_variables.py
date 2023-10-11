@@ -18,7 +18,7 @@ for change in CHANGES:
 
 ## Intervention components count
 DIR = os.getcwd()
-FP = os.path.join(DIR, 'chapters', '10_redesign', 'planning_table.yaml')
+FP = os.path.join(DIR, 'chapters', '9_defining_content', 'planning_table.yaml')
 ICs_TOTAL = 0
 ICs_INCLUDED = 0
 ICs_UNIQUE = 0
