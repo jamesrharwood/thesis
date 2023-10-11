@@ -11,19 +11,19 @@ website:
     contents: 
       - text: "<span class='text-muted'>Abstract</span>"
         file: index.qmd
-      - text: "Acknowledgements"
+      - text: <span class="text-muted">Acknowledgements</span>
         file: ""
-      - text: "Glossary of key terms"
+      - text: <span class="text-muted">Glossary of key terms</span>
         file: ""
-      - text: "List of Abbreviations"
+      - text: <span class="text-muted">List of Abbreviations</span>
         file: "chapters/abbreviations.qmd"
-      - text: "List of tables"
+      - text: <span class="text-muted">List of tables</span>
         file: ""
-      - text: "List of Figures"
+      - text: <span class="text-muted">List of Figures</span>
         file: ""
-      - text: '1. Introduction'
+      - text: "<span class='text-warning'>1. Introduction</span>"
         file: "chapters/1_introduction/index.qmd"      
-      - text: "2. Reflexivity and context"
+      - text: "<span class='text-warning'>2. Reflexivity and context</span>"
         file: "chapters/2_reflexivity/index.qmd"
       - text: "<b>Part 1: Identifying barriers</b>"
         file: ""

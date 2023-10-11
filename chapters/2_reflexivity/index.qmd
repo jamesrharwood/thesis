@@ -34,17 +34,8 @@ Usability is a bit easier to avoid, at least to a basic level. Heuristics / writ
 Product market fit is harder for me. Marketing websites advise you to do user interviews but as a software developer you lack the expertise to run interviews, money to pay participants, and motivation (happier behind a screen). Almost fell into that hole again - interviewed with a firm idea of the problem I wanted to solve. Kinda like a WebCONSORT on steroids. Custom guidelines (we now call franken guidelines)
 
 Using the word _user_ because that's how developers talk. It's also how I talked when I started my PhD. It took some time for my supervisors to convince me to refer to people who use reporting guidelines as _authors_, _researchers_, _editors_ e.t.c. instead of _users_.
-
-In summary:
-
-I came to this PhD with 
-
-* passion for improving research, deep respect for reporting guidelines and EQUATOR, and determination to *finally* make something that actually helps
-* a software developer's vocabulary and mindset
-* if someone isn't using what you've made properly, then that's the creator's responsibility to fix, not the user, and it's probably because you don't understand your user as well as you think. 
-
-
 ```
+
 <!--
 The first was software to automatically check whether manuscripts adhered to journal author guidelines. 
 In 2014 I approached the UK EQUATOR Center and we collaborated on two projects. First, having identified that authors found it hard to work out which guideline to use, EQUATOR asked me to help make a questionnaire that would help authors to self "diagnose" their manuscript and find the correct guidance. Second, because some guidelines don't have checklists in usable formats, we made www.GoodReports.org where authors could read and complete reporting checklists online.
@@ -67,5 +58,15 @@ During my first year, I began to see reporting guidelines as more than just "a t
 Sometimes I found it difficult to articulate my thinking and it took some time to work out where my research "fitted in". Coming from a software development world, I naturally reached for words that were familiar from marketing and user experience. Terms like "retention rate", "conversion rate", or "acquisition funnel". These terms weren't always a good fit, and I tried to find their scholarly counterparts. I had a "lightbulb moment" in a coffee shop in Crouch End when I read the MRC guidance on complex interventions @craigDevelopingEvaluatingComplex2021, which gave me a vocabulary for a lot of my thoughts.
 
 To summarise, I came to this PhD after a few years of trying to combat poor reporting, and already convinced that reporting guidelines were useful, but sceptical that enforcement was the only way forward. With regards to behaviour change and qualitative methods, I was far more naive, as was my supervisory team until Charlotte joined. Hence the questions I chose to explore, the objectives I set, the approaches I chose, my interpretation of qualitative data, have inescapably been influenced by my previous endeavours, and by my initial "innocence" with regards to behaviour change and qualitative methods. The approach described in this thesis is uncharted territory for EQUATOR, and territory that I hope will prove fertile. -->
+
+```
+In summary:
+
+I came to this PhD with 
+
+* passion for improving research, deep respect for reporting guidelines and EQUATOR, and determination to *finally* make something that actually helps
+* a software developer's vocabulary and mindset
+* if someone isn't using what you've made properly, then that's the creator's responsibility to fix, not the user, and it's probably because you don't understand your user as well as you think. 
+```
 
 Having set the scene, I'll begin my thesis where I began my research: by trying to understand why authors don't adhere to reporting guidelines. In chapter {{< var chapters.introduction >}} I described the evidence that reporting guidelines have had little effect on reporting quality, but I wanted to know _why_. Chapters {{< var chapters.synthesis >}} - {{< var chapters.journal-audit >}} describe my mixed method approach to finding possible answers to this question. In the next chapter, I describe how my first step was to seek and synthesise all available qualitative data that explored this question. 
