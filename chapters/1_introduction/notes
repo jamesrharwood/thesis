@@ -1,3 +1,8 @@
+# Botos
+
+Of 2209 submissions included in the analysis, 1144 (51.8%) indicated that at least one reporting guideline was used. The STROBE guidelines were the most common (n = 531, 24.0%). Of the 2068 (93.6%) submissions that were rejected, 1105 (50.1%) indicated using reporting guidelines and 963 (43.6%) did not (mean [SD] scores of rejected vs not rejected, 0.53 [0.50] vs 0.49 [0.50], P = .47). Of the 1033 ratings for adherence to reporting guidelines, mean (SD) scores for not rejected vs rejected submissions were 3.2 (1.61) vs 2.9 (1.57) (P = .005), and mean (SD) scores for reporting guidelines use vs no use were 3.1 (1.48) vs 2.9 (1.70) (P = .01). Of the 1036 ratings for clarity of presentation, mean (SD) scores for not rejected vs rejected submissions were 3.6 (1.00) vs 3.1 (1.08) (P < .001), whereas mean (SD) scores for reporting guidelines use vs no use were 3.3 (1.04) vs 3.3 (1.10) (P = .64).
+
+
 ICARUS study - ARRIVE
 "There is considerable room for improvement, and this study shows that an editorial policy of making ARRIVE checklist completion “mandatory” without compliance checks has little or no impact"
 
@@ -44,9 +49,9 @@ Retrospective
 
 # Bastuji-garin
 
+No ideas
 
 
-# barnes
 
 # BMJ Open
 
@@ -69,3 +74,10 @@ Did find evidence that editors struggle to identify study type. They had to excl
 
 Also found evidence that a quarter of authors selected inappropriate CONSORT extension or failed to select the correct one. 
 
+There is a clear need for better education much earlier in the publication process for authors and journal editorial staff on when and how to implement CONSORT and, in particular, CONSORT-related extensions. It may be more effective to focus on a core set of CONSORT items with more detailed information on how to implement each item within the context of a specific trial.
+
+# Baker - ARRIVE 
+
+"In 2010, the Animal Research: Reporting of In Vivo Experiments (ARRIVE) guidelines were introduced to help improve reporting standards. They were published in PLOS Biology and endorsed by funding agencies and publishers and their journals, including PLOS, Nature research journals, and other top-tier journals. Yet our analysis of papers published in PLOS and Nature journals indicates that there has been very little improvement in reporting standards since then. This suggests that authors, referees, and editors generally are ignoring guidelines, and the editorial endorsement is yet to be effectively implemented."
+
+They point out that different journals might have to use different enforcement strategies, comparing PLOS One - tens of thousands of submissions each year - with PLOS Medicine, which publishes relativey few comparative animal studies. They note that items could be enforced in different ways. Some form part of the ethical review process, others might require input from experts (e.g. statisticians). They suggest that journals could choose to enforce "A pragmatic approach might be to implement the most important aspects of the guidelines [3],[4], such as reporting the extent of blinding and randomisation".

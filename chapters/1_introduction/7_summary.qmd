@@ -1,0 +1,10 @@
+## Summary 
+
+In summary, I've explained that a lot of medical research is poorly reported, and that this makes it difficult for other researchers to understand, appraise, synthesize, or replicate studies. This, in turn, makes research less useful to patients. 
+
+I've introduced reporting guidelines, which were created by the research community in the hopes that they would improve reporting quality, and I've revealed that, sadly, these guidelines have had only a modest effect on reporting quality, at best. 
+
+I've argued that reporting guidelines and the system of tools, publications, websites, and people that disseminate them, are a complex behaviour change intervention, with the ultimate goal of altering what authors write. 
+
+And I've explained how behaviour change theory may help bridge the evidence gap: that although we know reporting guidelines haven't fixed reporting quality, we don't know _why_ their effect is limited, or _how_ they could be improved. 
+

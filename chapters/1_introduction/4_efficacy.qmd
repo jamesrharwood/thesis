@@ -1,0 +1,41 @@
+## Reporting quality has improved over time but remains sub optimal
+
+```
+
+* Population level before-after studies
+* Individual level before-after study
+* Other observational research
+* Experimental evidence all shows disappointing effects, except for the highest level of enforcement.
+* Summary. Effect size may be small at best, and the bottom line is that reporting quality is still sub optimal.
+
+```
+### Evidence from observational studies
+
+Many studies have compared quality of reporting before and after reporting guidelines were published. For example, in 2023 Kilicoglu et al. @kilicogluMethodologyReportingImproved2023 analysed 176,620 randomized trial reports published between 1966 and 2018. They used software to classify sentences as to whether they pertained to a CONSORT methodology item. They found reporting quality in clinical trials has improved over time but remains sub optimal. Articles published before 1990 reported 24% of CONSORT items, whereas articles published between 2010-2018 reported 48%. The fastest improvement occurred in the years immediately after CONSORT was published.
+
+This result mirrors similar, manual, efforts to monitor reporting quality over time. For example, Dechartres et al. @dechartresEvolutionPoorReporting2017 looked at CONSORT items related to bias in 20,920 trial reports. They found information on sequence generation was missing from 69% of articles published before CONSORT (1986-1990), but only 31% of articles published after CONSORT (2011-2014). The proportion of articles missing information on allocation concealment fell from 70% to 45% over the same periods. 
+
+These two examples focus on clinical trials, but other research types have seen modest improvements too. De Jong et al. @dejongMetareviewDemonstratesImproved2021 reviewed 284 qualitative evidence syntheses. These syntheses appraised whether their primary studies had adhered to COREQ (a reporting guidelines for qualitative research). Studies published before COREQ reported 16 of COREQ's 32 items, whereas studies published after reported 18. Similarly, when comparing the reporting quality of genetic association studies, Nedovic et al. @nedovicEvaluationEndorsementSTrengthening2016 found reporting quality was better in articles published after journals began endorsing STREGA (63% vs 49% showing full adherence), but not in journals that did not endorse STREGA. 
+
+Not all studies have found such a relationship. For example, Howell et al. found no improvement in the reporting of quality improvement studies after the SQUIRE guidelines were published @howellEffectSQUIREStandards2015. Similarly, Pouwels et al. found no improvement following STROBE's publication @pouwelsQualityReportingConfounding2016 and in a time series analysis of 456 observational epidemiology @bastuji-garinImpactSTROBEStatement2013 reporting quality improved _before_ STROBE was published, but not _afterwards_.
+
+Hopewell et al. @hopewellEffectEditorsImplementation2012 assessed the reporting of clinical trial abstracts before and after the publication of CONSORT for Abstracts. They compared journals that a) had no reporting guideline policy b) endorsed the guideline and c) actively enforced guideline adherence. They only found an effect in the active enforcement group, where 5.41 items (out of 9) were reported, which was 50% higher than expected. No improvement was seen in journals that endorsed the guideline without enforcing it.
+
+Some observational studies have focussed on a single time period. In 2018, before my PhD, I collaborated with EQUATOR and BMJ Open to compare manuscript versions before and after authors completed a reporting checklist@struthersGoodReportsDevelopingWebsite2021. Authors made few edits to their work. Of 20 included authors, three added information for a single reporting item, one added information for two items, and one added information for six items. The remaining 15 authors made no changes. On average, manuscripts described 57% of necessary reporting items before the author completed the checklist and 60% afterwards. 
+
+In 2018 the senior managing editor of the Journal of the National Cancer Institute asked 2000 submitting authors whether they had used a reporting guideline @botosReportedUseReporting2018. She then asked peer reviewers to rate manuscripts for their clarity and adherence to reporting guidelines. Declared guideline use was associated with better adherence to guidelines, but not associated with improved clarity nor acceptance rates.
+
+### Evidence from intervention studies #Most are randomised but not Pandis
+
+Some experimental studies have tried to isolate the effect of journal policies by randomising authors. In 2015 PLOS One randomly allocated 1689 incoming submissions reporting _in vivo_ animal research manuscripts to either a) request completion the ARRIVE reporting checklist or b) usual practice @hairRandomisedControlledTrial2019. No article achieved full compliance with ARRIVE, and only one sub item (details of animal husbandry) showed improvement between groups. 
+
+In another study @hopewellImpactWebbasedTool2016, 197 authors submitting to 46 participating journals were randomly allocated to receive either a) access to an online tool (WebCONSORT) to generate customised reporting checklists and flow diagrams based on CONSORT and its extensions or b) a standard CONSORT flow diagram generator without a reporting checklist. There was no difference in reporting quality between groups: authors only reported half of required items. 
+
+In two earlier studies, Cobo et al. explored the roll of peer review. Simply providing peer reviewers with reporting guidelines had no effect @coboStatisticalReviewersImprove2007. Adding a reviewer whose task was to check for guideline adherence did lead to improved reporting quality @coboEffectUsingReporting2011, but "the observed effect was smaller than hypothesised and not definitively demonstrated".
+
+It would be unsurprising to find that the stricter the enforcement, the better the adherence. Pandis et al. @pandisActiveImplementationStrategy2014 describe an enforcement strategy used in a small Dentistry journal where the editor-in-chief vetted all submissions and referred all randomised trials to the associate editor, who checked manuscripts for adherence to all CONSORT items. The associate editor would complete a CONSORT checklist for each manuscript, making note of unclear or unreported items and suggesting ways to improve the manuscript. This would be sent back to the author. Resubmitted manusctripts were subject to the same process, and the manuscript would only be sent out for peer review once the reporting was deemed satisfactory. Over two years, 23 manuscripts were handled in this way and, perhaps unsurprisingly, this policy was effective - all studies reported at least 33 of 37 CONSORT items (compared to 15 items before the policy was introduced). Even with this approach, "four items were still unreported in all trials: changes to methods (3b), changes to outcomes
+(6b), interim analysis (7b), and trial stopping (14b).".
+
+To summarise, reporting standards may have improved over the last two decades. There is some evidence that reporting guidelines may have contributed to this change, but if they have, their effect has only been modest and the bottom line is that most research still does not include the details these guidelines call for. There is huge room for improvement. In a systematic review of 124 studies assessing adherence to one of eight reporting guidelines, Jin et al @jinDoesMedicalLiterature2018 found 88% of studies reported suboptimal adherence to reporting guidelines. Similarly, Dal Santo et al @santoResearchWastePoor2022 reviewed 148 studies of reporting quality from the previous few years and almost all described reporting quality as suboptimal. 
+
+<!-- Ironically, the same review found the studies on reporting quality were _themselves_ poorly reported: only 14 (10%) explained how they coded adherence in sufficient detail for replication, and only 49 (33%) provided data for all included studies. The authors of these studies were aware of reporting guidelines and presumably mindful of reporting. Would an editorial enforcement policy have helped these authors? Or did they face barriers not addressable through enforcement? -->

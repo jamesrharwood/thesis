@@ -1,0 +1,5 @@
+# Introduction
+
+In this chapter I introduce the evidence gap I have addressed and the approach I have taken to address it. I begin by describing the prevalence and consequences of poorly reported medical research. I introduce reporting guidelines as promising solutions but with disappointing impact to date, as reporting quality has hardly improved since their publication. 
+
+This brings me to my evidence gap: how can we get more authors to adhere to reporting guidelines? I position reporting guidelines as part of a complex behaviour change intervention and I explain how behaviour change theory offers new and fruitful approaches to answer this question. I then outline my aims, objectives, and thesis structure.

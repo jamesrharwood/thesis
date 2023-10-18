@@ -1,0 +1,43 @@
+## Thesis structure
+
+Summary
+
+### Chapter {{< var chapters.reflexivity >}} - Reflexivity and context
+
+I reflect on my background and my prior held opinions, and those of my supervision team, and how these may have influenced the direction of this thesis. 
+
+### Chapter {{< var chapters.synthesis >}} - {{< var titles.synthesis >}}
+
+The next three chapters pertain to my first objective - to identify possible reasons as to why reporting guidelines have had only a limited impact on reporting quality. This chapter describes a thematic synthesis of studies that qualitatively explored authors' experiences of using reporting guidelines, where I sought to identify what may influence whether an author successfully adheres to reporting guidance. 
+
+### Chapter {{< var chapters.review >}} - {{< var titles.review >}}
+
+This chapter builds on the previous one by identifying additional possible influences from the content of quantitative survey questions. 
+
+### Chapter {{< var chapters.website >}} - {{< var titles.website >}}
+
+This chapter describes a service evaluation of the EQUATOR Network website which, although an important piece of the reporting guideline infrastructure, was rarely explored by studies reviewed in the previous two chapters. From this evaluation, I then infer possible barriers that authors may encounter when trying to find and access reporting guidelines from EQUATOR's website.
+
+### Chapter {{< var chapters.bcw >}} - {{< var titles.bcw >}}
+
+The next 4 chapters pertain to my second objective - identifying intervention changes. This chapter introduces the Behaviour Change Wheel, which is a framework for designing and defining behaviour change interventions. 
+
+### Chapter {{< var chapters.workshops >}} - {{< var titles.workshops >}}
+
+This chapter describes how I lead workshops with members of the UK EQUATOR center to identify intervention options using Behaviour Change Wheel framework.
+
+### Chapter {{< var chapters.focus-groups >}} - {{< var titles.focus-groups >}}
+
+This chapter reports focus groups where I collected ideas on how intervention options could be realised. 
+
+### Chapter {{< var chapters.behavioural-analysis >}} - {{< var titles.behavioural-analysis >}}
+
+In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components and logic model. 
+
+### Chapter {{< var chapters.development >}} - {{< var titles.development >}}
+
+This chapter concerns my third objective, implementing the intervention changes by redesigning a reporting guideline (SRQR) and the EQUATOR Network website's home page.
+
+### Chapter {{< var chapters.pilot >}} - {{< var titles.pilot >}}
+
+In this chapter I address my final objective, which was to refine the intervention in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors. 

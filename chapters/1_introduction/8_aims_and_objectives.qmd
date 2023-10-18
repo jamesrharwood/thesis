@@ -1,0 +1,10 @@
+## Aims and Objectives
+
+My aim, therefore, is to understand why reporting guidelines have not had a bigger impact on reporting quality, and to address these issues. 
+
+My objectives are:
+
+* To identify factors that may limit reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters {{< var chapters.synthesis >}}-{{< var chapters.website >}})
+* To work with key stakeholders to identify intervention changes to address these limiting factors (addressed in chapters {{< var chapters.bcw >}}-{{< var chapters.defining-content >}})
+* To implement these changes (described in {{< var chapters.development >}})
+* To refine the new intervention in response to feedback from authors (addressed in chapter {{< var chapters.pilot >}})

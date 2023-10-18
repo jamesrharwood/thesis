@@ -1,14 +1,14 @@
 
-* introduction: 4239
+* introduction: 10392
 * reflexivity: 977
 * synthesis: 9523
 * survey-content: 5048
 * website-audit: 4844
-* bcw: 2061
+* bcw: 2207
 * workshops: 4736
 * focus-groups: 9140
 * defining-content: 6681
 * redesign: 3313
 * pilot: 2629
 
-**TOTAL: 53191**
+**TOTAL: 59490**
