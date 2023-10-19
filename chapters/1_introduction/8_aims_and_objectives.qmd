@@ -8,3 +8,22 @@ My objectives are:
 * To work with key stakeholders to identify intervention changes to address these limiting factors (addressed in chapters {{< var chapters.bcw >}}-{{< var chapters.defining-content >}})
 * To implement these changes (described in {{< var chapters.development >}})
 * To refine the new intervention in response to feedback from authors (addressed in chapter {{< var chapters.pilot >}})
+
+## Side note: why not try to quantify the system?
+
+I do try to explore parts of the system in new detail. Eg thematic synthesis, website audit. 
+
+I did consider trying to quantify the system in as much detail as possible. Decided against it for a few reasons
+
+Would have been a massive undertaking
+Some people have already tackled parts of it. Eg Michael’s audit, journal policy audits. 
+
+Bit much remains unexplored. Eg how many conferences? How many training courses? Could audit reporting guideline content to count how many behaviour targeted. 
+
+But some parts of the system are hidden. Eg public journal policies don’t always tell you who enforces guidelines, how, or to what success. Would require process evaluations. Similarly the effects of researchers on each other. 
+
+Thirdly, the system is always changing. Soo best I could do would be to get a snap shot. 
+
+Fourthly, building stuff speaks to my skills
+
+Follow footsteps of other intervention designers (webconsort, cobweb) who create something new and compare to an existing version of (or part of) the system. But go beyond their work by describing and defining my intervention changes and their hypothesised mechanism of action. 
