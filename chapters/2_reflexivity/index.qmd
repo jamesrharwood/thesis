@@ -9,31 +9,24 @@ format:
 
 <!-- #CA - make this shorter and also add reflections at the end of each chapter. I don't need to justify how GR is different to what I built before. Just say that it was a stab in the dark, not grounded in evidence, no systematic approach. -->
 
-In this chapter, I examine my own lack of innocence. I reflect on my experiences with reporting guidelines before starting this project, and the experiences of my supervisors, and how my prior held opinions may have influenced my research.
 
-This reflection is important as "A researcher's background and position will affect what they choose to investigate, the angle of investigation, the methods judged most adequate for this purpose, the findings considered most appropriate, and the framing and communication of conclusions" @malterudQualitativeResearchStandards2001. More succinctly, "Despite the sterility of the instruments, we never come innocent to a research task" @cloughNarrativesFictionsEducational2002. 
 
-I'll begin with a bit of background about myself. This thesis marks the ten year anniversary of my attempts to improve research reporting. My early interest came from reading about psychology's reproducibility crisis #REF, the cancer reproducibility project #REF, Ben Goldacre's Bad Pharma #REF, and Ioannidis' essay "Why Most Published Research Findings Are False" #REF. The compelling Lancet series on research waste @macleodBiomedicalResearchIncreasing2014 drilled home a magnitude of inefficiencies (or, what an optimist might call _areas for improvement_) in medical research. I was most stuck by the article on incomplete or unusable research reports @glasziouReducingWasteIncomplete2014, where a key takeaway was that "although reporting guidelines are important, major improvements need active enforcement" by editors or reviewers. I took Paul Glasziou's words as a call to action, and I set about creating tools to help editors enforce reporting guidelines. 
+I use qualitative methods throughout my thesis. Reflection is important in qualitative research as "A researcher's background and position will affect what they choose to investigate, the angle of investigation, the methods judged most adequate for this purpose, the findings considered most appropriate, and the framing and communication of conclusions" @malterudQualitativeResearchStandards2001. More succinctly, "Despite the sterility of the instruments, we never come innocent to a research task" @cloughNarrativesFictionsEducational2002. In this chapter, I examine my own lack of innocence. I reflect on my experiences with reporting guidelines before starting this project, and the experiences of my supervisors, and how my prior held opinions may have influenced my research.
+
+This thesis marks the ten year anniversary of my attempts to improve research reporting. My early interest came from reading about psychology's reproducibility crisis #REF, the cancer reproducibility project #REF, Ben Goldacre's Bad Pharma #REF, and Ioannidis' essay "Why Most Published Research Findings Are False" #REF. The compelling Lancet series on research waste @macleodBiomedicalResearchIncreasing2014 drilled home a magnitude of inefficiencies in medical research. I was most stuck by the article on incomplete or unusable research reports @glasziouReducingWasteIncomplete2014, where a key takeaway was that "although reporting guidelines are important, major improvements need active enforcement" by editors or reviewers. I took Paul Glasziou's words as a call to action, and I set about creating tools to help editors enforce good reporting. 
+
+I began by writing software to check whether a manuscript cited a reporting guideline. Next I wrote code to check the reporting of statistical analyses. These were both pet projects. My first "proper" software was a manuscript checker that evaluates whether a manuscript adheres to journal guidelines @PenelopeAi. I later worked with EQUATOR to create GoodReports.org @GoodReportsOrg, a website where authors can find and complete reporting checklists. As I became more proficient as a software developer, I began working with other companies and software teams. 
+
+In corporate environments, if users do not use your product, or do not use it how you would expect them to, then your product either lacks usability (users cannot understand or use it), product market fit (users do not need or want it), or visibility (users do not know about it). It is the product developer's responsibility to fix these issues. Making your product _successful_ means understanding who your users are, what they need, what they want, how they use your product and why. 
+
 
 ```
-Tools I built:
+* Stereotype of a developer sitting in the basement alone. Somewhat true. Not that exposed to users. 
 
-* citation miner
-* statistics calculators - like Michele's
-* Manuscript checker
-* Worked with EQUATOR as a freelance developer, made GoodReports. 
-* Worked with EQUATOR on the BMJ project and felt dejected when the results showed no effect. Had something to prove. 
+* Usability is a bit easier to avoid, at least to a basic level. Heuristics / written material. It became something I tried to apply to everything I built. Something I was always aware of, although I'm no expert.
+* Understandingn users and product market fit was hard for me. As a software developer you lack the expertise to run interviews, money to pay participants, and motivation (happier behind a screen)
+* Almost fell into that hole again - interviewed with a firm idea of the problem I wanted to solve. Kinda like a WebCONSORT on steroids. Custom guidelines (we now call franken guidelines)
 
-Through these projects I learnt to code.
-Enjoyed creating stuff.
-Stereotype of a developer sitting in the basement alone. Somewhat true. Not that exposed to users. 
-
-Two main dangers: usability and product market fit (solving a problem that doesn't exist / creating a product nobody needs).
-Usability is a bit easier to avoid, at least to a basic level. Heuristics / written material. It became something I tried to apply to everything I built. Something I was always aware of, although I'm no expert.
-
-Product market fit is harder for me. Marketing websites advise you to do user interviews but as a software developer you lack the expertise to run interviews, money to pay participants, and motivation (happier behind a screen). Almost fell into that hole again - interviewed with a firm idea of the problem I wanted to solve. Kinda like a WebCONSORT on steroids. Custom guidelines (we now call franken guidelines)
-
-Using the word _user_ because that's how developers talk. It's also how I talked when I started my PhD. It took some time for my supervisors to convince me to refer to people who use reporting guidelines as _authors_, _researchers_, _editors_ e.t.c. instead of _users_.
 ```
 
 <!--
@@ -69,4 +62,4 @@ I came to this PhD with
 * if someone isn't using what you've made properly, then that's the creator's responsibility to fix, not the user, and it's probably because you don't understand your user as well as you think. 
 ```
 
-Having set the scene, I'll begin my thesis where I began my research: by trying to understand why authors don't adhere to reporting guidelines. In chapter {{< var chapters.introduction >}} I described the evidence that reporting guidelines have had little effect on reporting quality, but I wanted to know _why_. Chapters {{< var chapters.synthesis >}} - {{< var chapters.journal-audit >}} describe my mixed method approach to finding possible answers to this question. In the next chapter, I describe how my first step was to seek and synthesise all available qualitative data that explored this question. 
+Having set the scene, I'll begin my thesis where I began my research: by trying to understand why authors do not adhere to reporting guidelines. In chapter {{< var chapters.introduction >}} I described the evidence that reporting guidelines have had little effect on reporting quality, but I wanted to know _why_. Chapters {{< var chapters.synthesis >}} - {{< var chapters.journal-audit >}} describe my mixed method approach to finding possible answers to this question. In the next chapter, I describe how my first step was to seek and synthesise all available qualitative data that explored this question. 

@@ -134,7 +134,7 @@ chapters:
   introduction: 1
   pilot: 11
   redesign: 10
-  reflexivity-and-context: 2
+  reflexivity: 2
   review: 4
   synthesis: 3
   web-audit: 5
@@ -189,5 +189,17 @@ stages:
   dissemination: When disseminating resources
   ongoing: On an ongoing basis
   planning: Before developing guidance
+titles:
+  bcw: Selecting the Behaviour Change Wheel framework
+  defining_content: Defining Intervention Content
+  focus_groups: 'Generating ideas to address factors limiting reporting guideline impact: workshops with EQUATOR and focus groups with developers, publishers, and experts'
+  introduction: Introduction
+  pilot: 'Refining the intervention: qualitative pilot with authors'
+  redesign: 'Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process'
+  reflexivity: Reflexivity and Context
+  survey_content: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
+  synthesis: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'
+  website_audit: A service evaluation of equator-network.org
+  workshops: 'Following the BCW Guide: Workshops with EQUATOR'
 website-github-repo-url: https://github.com/jamesrharwood/equator-guidelines-website
 website-url: https://jamesrharwood.github.io/equator-guidelines-website/

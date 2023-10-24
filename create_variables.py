@@ -1,5 +1,7 @@
 import yaml, os
 
+import frontmatter 
+
 from data import BARRIERS, CHANGES, STAKEHOLDERS, STAGES
 
 participants = 16 #TODO
@@ -106,6 +108,30 @@ with open('metadata/chapters.txt', 'r') as file_:
         chapter.strip(): idx+1 for idx, chapter in enumerate(chapters)
     }
 
+FILEPATHS=[
+    "chapters/1_introduction/index.qmd",
+    "chapters/2_reflexivity/index.qmd",
+    "chapters/3_synthesis/index.qmd",
+    "chapters/4_survey_content/index.qmd",
+    "chapters/5_website_audit/index.qmd",
+    "chapters/6_bcw/index.qmd",
+    "chapters/7_workshops/index.qmd",
+    "chapters/8_focus_groups/index.qmd",
+    "chapters/9_defining_content/index.qmd",
+    "chapters/10_redesign/index.qmd",
+    "chapters/11_pilot/index.qmd",
+    #"output/chapters/discussion"
+]
+
+titles = {}
+for fp in FILEPATHS:
+    with open(fp, 'r') as f:
+        text = f.read()
+        fm = frontmatter.loads(text)
+        title = fm.metadata['title']
+        chapter = fp.split('/')[1].split('_', 1)[1]
+        titles.update({chapter: title})
+
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)
     file_.seek(0)
@@ -122,5 +148,6 @@ with open(filename, 'r+') as file_:
     variables.update({'BARRIERS': barriers})
     variables.update({'BARRIER_SECTIONS': barrier_sections})
     variables.update({'chapters': chapters})
+    variables.update({'titles': titles})
     yaml.dump(variables, file_, width=1000)
     file_.truncate()

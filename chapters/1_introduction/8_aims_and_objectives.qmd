@@ -1,29 +1,21 @@
 ## Aims and Objectives
 
-My aim, therefore, is to understand why reporting guidelines have not had a bigger impact on reporting quality, and to address these issues. 
+My aim was to identify and address barriers preventing authors from adhering to reporting guidelines. I wanted to explore the entire reporting guideline system, and I wanted to be thorough: I wanted to identify as many barriers as possible, and as many solutions as possible, before deciding which to implement.
 
-My objectives are:
+My objectives were:
 
-* To identify factors that may limit reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters {{< var chapters.synthesis >}}-{{< var chapters.website >}})
+* To identify factors that may limit reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters {{< var chapters.synthesis >}}-{{< var chapters.web-audit >}})
 * To work with key stakeholders to identify intervention changes to address these limiting factors (addressed in chapters {{< var chapters.bcw >}}-{{< var chapters.defining-content >}})
-* To implement these changes (described in {{< var chapters.development >}})
+* To implement these changes (described in {{< var chapters.redesign >}})
 * To refine the new intervention in response to feedback from authors (addressed in chapter {{< var chapters.pilot >}})
 
-## Side note: why not try to quantify the system?
+My thesis bares many of the hallmarks of pragmatism. I used both qualitative and quantitative methods. Constraints (like time and access to participants) influenced my decisions. I balanced participants' views with my own; I sought to remove my views as much as possible in all chapters except for the workshops I conducted with EQUATOR (chapter {{< var chapters.workshops >}}) and when designing the intervention (chapter {{< var chapters.redesign >}}). I balanced inductive and deductive reasoning; my early chapters were exploratory and inductive, and my later chapters became increasingly deductive as my focus narrowed and I relied more heavily on a framework.
 
-I do try to explore parts of the system in new detail. Eg thematic synthesis, website audit. 
+#ASK Do I need to justify why I did not seek to quantify the system, or to define it using behaviour change techniques?
 
-I did consider trying to quantify the system in as much detail as possible. Decided against it for a few reasons
+<!-- My objective was also pragmatic. Some readers may wonder why I did not decide to quantify the "reporting guideline system" as much as possible. This would have been a challenging feat as the system itself is always changing as new guidelines are published and policies change. I could have sought a snapshot of how things are now, knowing it would be out of date in a matter of months. The system is also large. Others have tried to quantify parts of it. For example, EQUATOR is currently auditing their own database of reporting guidelines, and others have audited journal policies. But much of the system remains unquantified (e.g. nobody knows how many conferences endorse guidelines), or invisible (e.g., it would be challenging to look inside journal submission systems, or to observe the actions of editors and peer reviewers). 
 
-Would have been a massive undertaking
-Some people have already tackled parts of it. Eg Michael’s audit, journal policy audits. 
+This level of quantification felt unnecessary. Instead, I felt it was sufficient to understand the system on a macro level. Describing quantities as "few", "many", or "most" was sufficient for this, and EQUATOR staff often felt confident and experienced enough to guide me with many of these judgements. The exception is chapter {{< var chapters.web-audit >}} where I describe a service evaluation of the EQUATOR Network website, and where I quantify the number and behaviour of visitors. 
 
-Bit much remains unexplored. Eg how many conferences? How many training courses? Could audit reporting guideline content to count how many behaviour targeted. 
+* Follow footsteps of other intervention designers (webconsort, cobweb) who create something new and compare to an existing version of (or part of) the system. But go beyond their work by describing and defining my intervention changes and their hypothesised mechanism of action. -->
 
-But some parts of the system are hidden. Eg public journal policies don’t always tell you who enforces guidelines, how, or to what success. Would require process evaluations. Similarly the effects of researchers on each other. 
-
-Thirdly, the system is always changing. Soo best I could do would be to get a snap shot. 
-
-Fourthly, building stuff speaks to my skills
-
-Follow footsteps of other intervention designers (webconsort, cobweb) who create something new and compare to an existing version of (or part of) the system. But go beyond their work by describing and defining my intervention changes and their hypothesised mechanism of action. 

@@ -11,13 +11,13 @@ format:
 
 {{< include 2_poor_reporting.qmd >}}
 
-{{< include 3_rgs.qmd >}}
+{{< include 3_1_rgs.qmd >}}
+
+{{< include 3_2_complex_interventions.qmd >}}
 
 {{< include 4_efficacy.qmd >}}
 
 {{< include 5_evidence_gap.qmd >}}
-
-{{< include 6_complex_interventions.qmd >}}
 
 {{< include 7_summary.qmd >}}
 
