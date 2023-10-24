@@ -21,9 +21,9 @@ website:
         file: ""
       - text: <span class="text-muted">List of Figures</span>
         file: ""
-      - text: "<span class='text-warning'>1. Introduction</span>"
+      - text: "1. Introduction"
         file: "chapters/1_introduction/index.qmd"      
-      - text: "<span class='text-warning'>2. Reflexivity and context</span>"
+      - text: "2. Reflexivity"
         file: "chapters/2_reflexivity/index.qmd"
       - text: "<b>Part 1: Identifying barriers</b>"
         file: ""

@@ -1,6 +1,6 @@
 
-* introduction: 10392
-* reflexivity: 977
+* introduction: 13337
+* reflexivity: 1018
 * synthesis: 9523
 * survey-content: 5048
 * website-audit: 4844
@@ -11,4 +11,4 @@
 * redesign: 3313
 * pilot: 2629
 
-**TOTAL: 59490**
+**TOTAL: 62476**
