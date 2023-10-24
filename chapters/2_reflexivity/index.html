@@ -117,7 +117,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../chapters/2_reflexivity/index.html"><span class="text-warning">2. Reflexivity and context</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../chapters/2_reflexivity/index.html">2. Reflexivity</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -164,13 +164,13 @@ div.csl-indent {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../chapters/1_introduction/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="text-warning">1. Introduction</span></span></a>
+ <span class="menu-text">1. Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../chapters/2_reflexivity/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="text-warning">2. Reflexivity and context</span></span></a>
+ <span class="menu-text">2. Reflexivity</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -311,27 +311,16 @@ div.csl-indent {
 </header>
 
 <!-- #CA - make this shorter and also add reflections at the end of each chapter. I don't need to justify how GR is different to what I built before. Just say that it was a stab in the dark, not grounded in evidence, no systematic approach. -->
-<p>In this chapter, I examine my own lack of innocence. I reflect on my experiences with reporting guidelines before starting this project, and the experiences of my supervisors, and how my prior held opinions may have influenced my research.</p>
-<p>This reflection is important as “A researcher’s background and position will affect what they choose to investigate, the angle of investigation, the methods judged most adequate for this purpose, the findings considered most appropriate, and the framing and communication of conclusions” <span class="citation" data-cites="malterudQualitativeResearchStandards2001">[<a href="#ref-malterudQualitativeResearchStandards2001" role="doc-biblioref">1</a>]</span>. More succinctly, “Despite the sterility of the instruments, we never come innocent to a research task” <span class="citation" data-cites="cloughNarrativesFictionsEducational2002">[<a href="#ref-cloughNarrativesFictionsEducational2002" role="doc-biblioref">2</a>]</span>.</p>
-<p>I’ll begin with a bit of background about myself. This thesis marks the ten year anniversary of my attempts to improve research reporting. My early interest came from reading about psychology’s reproducibility crisis #REF, the cancer reproducibility project #REF, Ben Goldacre’s Bad Pharma #REF, and Ioannidis’ essay “Why Most Published Research Findings Are False” #REF. The compelling Lancet series on research waste <span class="citation" data-cites="macleodBiomedicalResearchIncreasing2014">[<a href="#ref-macleodBiomedicalResearchIncreasing2014" role="doc-biblioref">3</a>]</span> drilled home a magnitude of inefficiencies (or, what an optimist might call <em>areas for improvement</em>) in medical research. I was most stuck by the article on incomplete or unusable research reports <span class="citation" data-cites="glasziouReducingWasteIncomplete2014">[<a href="#ref-glasziouReducingWasteIncomplete2014" role="doc-biblioref">4</a>]</span>, where a key takeaway was that “although reporting guidelines are important, major improvements need active enforcement” by editors or reviewers. I took Paul Glasziou’s words as a call to action, and I set about creating tools to help editors enforce reporting guidelines.</p>
-<pre><code>Tools I built:
+<p>I use qualitative methods throughout my thesis. Reflection is important in qualitative research as “A researcher’s background and position will affect what they choose to investigate, the angle of investigation, the methods judged most adequate for this purpose, the findings considered most appropriate, and the framing and communication of conclusions” <span class="citation" data-cites="malterudQualitativeResearchStandards2001">[<a href="#ref-malterudQualitativeResearchStandards2001" role="doc-biblioref">1</a>]</span>. More succinctly, “Despite the sterility of the instruments, we never come innocent to a research task” <span class="citation" data-cites="cloughNarrativesFictionsEducational2002">[<a href="#ref-cloughNarrativesFictionsEducational2002" role="doc-biblioref">2</a>]</span>. In this chapter, I examine my own lack of innocence. I reflect on my experiences with reporting guidelines before starting this project, and the experiences of my supervisors, and how my prior held opinions may have influenced my research.</p>
+<p>This thesis marks the ten year anniversary of my attempts to improve research reporting. My early interest came from reading about psychology’s reproducibility crisis #REF, the cancer reproducibility project #REF, Ben Goldacre’s Bad Pharma #REF, and Ioannidis’ essay “Why Most Published Research Findings Are False” #REF. The compelling Lancet series on research waste <span class="citation" data-cites="macleodBiomedicalResearchIncreasing2014">[<a href="#ref-macleodBiomedicalResearchIncreasing2014" role="doc-biblioref">3</a>]</span> drilled home a magnitude of inefficiencies in medical research. I was most stuck by the article on incomplete or unusable research reports <span class="citation" data-cites="glasziouReducingWasteIncomplete2014">[<a href="#ref-glasziouReducingWasteIncomplete2014" role="doc-biblioref">4</a>]</span>, where a key takeaway was that “although reporting guidelines are important, major improvements need active enforcement” by editors or reviewers. I took Paul Glasziou’s words as a call to action, and I set about creating tools to help editors enforce good reporting.</p>
+<p>I began by writing software to check whether a manuscript cited a reporting guideline. Next I wrote code to check the reporting of statistical analyses. These were both pet projects. My first “proper” software was a manuscript checker that evaluates whether a manuscript adheres to journal guidelines <span class="citation" data-cites="PenelopeAi">[<a href="#ref-PenelopeAi" role="doc-biblioref">5</a>]</span>. I later worked with EQUATOR to create GoodReports.org <span class="citation" data-cites="GoodReportsOrg">[<a href="#ref-GoodReportsOrg" role="doc-biblioref"><strong>GoodReportsOrg?</strong></a>]</span>, a website where authors can find and complete reporting checklists. As I became more proficient as a software developer, I began working with other companies and software teams.</p>
+<p>In corporate environments, if users do not use your product, or do not use it how you would expect them to, then your product either lacks usability (users cannot understand or use it), product market fit (users do not need or want it), or visibility (users do not know about it). It is the product developer’s responsibility to fix these issues. Making your product <em>successful</em> means understanding who your users are, what they need, what they want, how they use your product and why.</p>
+<pre><code>* Stereotype of a developer sitting in the basement alone. Somewhat true. Not that exposed to users. 
 
-* citation miner
-* statistics calculators - like Michele's
-* Manuscript checker
-* Worked with EQUATOR as a freelance developer, made GoodReports. 
-* Worked with EQUATOR on the BMJ project and felt dejected when the results showed no effect. Had something to prove. 
-
-Through these projects I learnt to code.
-Enjoyed creating stuff.
-Stereotype of a developer sitting in the basement alone. Somewhat true. Not that exposed to users. 
-
-Two main dangers: usability and product market fit (solving a problem that doesn't exist / creating a product nobody needs).
-Usability is a bit easier to avoid, at least to a basic level. Heuristics / written material. It became something I tried to apply to everything I built. Something I was always aware of, although I'm no expert.
-
-Product market fit is harder for me. Marketing websites advise you to do user interviews but as a software developer you lack the expertise to run interviews, money to pay participants, and motivation (happier behind a screen). Almost fell into that hole again - interviewed with a firm idea of the problem I wanted to solve. Kinda like a WebCONSORT on steroids. Custom guidelines (we now call franken guidelines)
-
-Using the word _user_ because that's how developers talk. It's also how I talked when I started my PhD. It took some time for my supervisors to convince me to refer to people who use reporting guidelines as _authors_, _researchers_, _editors_ e.t.c. instead of _users_.</code></pre>
+* Usability is a bit easier to avoid, at least to a basic level. Heuristics / written material. It became something I tried to apply to everything I built. Something I was always aware of, although I'm no expert.
+* Understandingn users and product market fit was hard for me. As a software developer you lack the expertise to run interviews, money to pay participants, and motivation (happier behind a screen)
+* Almost fell into that hole again - interviewed with a firm idea of the problem I wanted to solve. Kinda like a WebCONSORT on steroids. Custom guidelines (we now call franken guidelines)
+</code></pre>
 <!--
 The first was software to automatically check whether manuscripts adhered to journal author guidelines. 
 In 2014 I approached the UK EQUATOR Center and we collaborated on two projects. First, having identified that authors found it hard to work out which guideline to use, EQUATOR asked me to help make a questionnaire that would help authors to self "diagnose" their manuscript and find the correct guidance. Second, because some guidelines don't have checklists in usable formats, we made www.GoodReports.org where authors could read and complete reporting checklists online.
@@ -342,7 +331,7 @@ I was demoralized. After five years of work, I found no evidence that what we ha
 
 When this PhD position appeared, I saw it as an opportunity to continue this work and answer some of these questions. Hence, at the start of this project, I was firmly in agreement that poor reporting is a source of waste and that reporting guidelines can help reduce this waste. But I was sceptical that journals would ever be willing and able to check adherence manually, or that enforcing checklists is effective. I was keen to find other, easier, more effective strategies to promote guideline adherence. -->
 <p>My supervisors have their own backstories. Jen, Michael, and Gary are affiliated with the EQUATOR Network. Gary is Director of the UK EQUATOR Centre and an author of many reporting guidelines and a working-group member for many others. Michael studies reporting completeness, the robustness of reporting guidelines development methods, and the consolidation of different reporting guidelines for the reporting of studies of nutritional interventions. Jen is involved in many studies investigating reporting and reporting guidelines, and runs training on writing and reporting guidelines.</p>
-<p>Charlotte joined my supervision team in my second year, once we realised that my thesis was taking a sharp and unexpected turn towards qualitative methods. Charlotte has a lot of experience in qualitative research and behaviour change theory, both from her own research and from leading the Oxford course on qualitative methods. However, she had never studied reporting guidelines before, nor any other meta-research phenomenon. Charlotte has published a suggested amendment to a reporting guideline that she uses in her own work <span class="citation" data-cites="alburyGenderConsolidatedCriteria2021">[<a href="#ref-alburyGenderConsolidatedCriteria2021" role="doc-biblioref">5</a>]</span>. Whereas Jen, Michael, and Gary can be described as reporting guideline advocates, Charlotte was a little more cool-headed. Although she felt that reporting guidelines are useful for writing up quantitative work, she found guidelines for qualitative research frustrating because they were developed from a positivist perspective, and so didn’t fit a lot of qualitative work.</p>
+<p>Charlotte joined my supervision team in my second year, once we realised that my thesis was taking a sharp and unexpected turn towards qualitative methods. Charlotte has a lot of experience in qualitative research and behaviour change theory, both from her own research and from leading the Oxford course on qualitative methods. However, she had never studied reporting guidelines before, nor any other meta-research phenomenon. Charlotte has published a suggested amendment to a reporting guideline that she uses in her own work <span class="citation" data-cites="alburyGenderConsolidatedCriteria2021">[<a href="#ref-alburyGenderConsolidatedCriteria2021" role="doc-biblioref">6</a>]</span>. Whereas Jen, Michael, and Gary can be described as reporting guideline advocates, Charlotte was a little more cool-headed. Although she felt that reporting guidelines are useful for writing up quantitative work, she found guidelines for qualitative research frustrating because they were developed from a positivist perspective, and so didn’t fit a lot of qualitative work.</p>
 <!--
 At the start of my project, before Charlotte joined, none of my supervisors, nor any other staff members at the UK EQUATOR center, had ever considered reporting guidelines as a behaviour change intervention. I _also_ had never heard of behaviour change theory, and I didn't come to my PhD knowing that was the direction I would take (in fact, when interviewing, I was adamant that I wanted to pursue a completely different idea. The fact that I had nicknamed it "frankenstein guidelines" was probably a good indication that the idea was best left alone). 
 
@@ -358,7 +347,7 @@ I came to this PhD with
 * passion for improving research, deep respect for reporting guidelines and EQUATOR, and determination to *finally* make something that actually helps
 * a software developer's vocabulary and mindset
 * if someone isn't using what you've made properly, then that's the creator's responsibility to fix, not the user, and it's probably because you don't understand your user as well as you think. </code></pre>
-<p>Having set the scene, I’ll begin my thesis where I began my research: by trying to understand why authors don’t adhere to reporting guidelines. In chapter 1 I described the evidence that reporting guidelines have had little effect on reporting quality, but I wanted to know <em>why</em>. Chapters 3 - <strong>?var:chapters.journal-audit</strong> describe my mixed method approach to finding possible answers to this question. In the next chapter, I describe how my first step was to seek and synthesise all available qualitative data that explored this question.</p>
+<p>Having set the scene, I’ll begin my thesis where I began my research: by trying to understand why authors do not adhere to reporting guidelines. In chapter 1 I described the evidence that reporting guidelines have had little effect on reporting quality, but I wanted to know <em>why</em>. Chapters 3 - <strong>?var:chapters.journal-audit</strong> describe my mixed method approach to finding possible answers to this question. In the next chapter, I describe how my first step was to seek and synthesise all available qualitative data that explored this question.</p>
 
 
 <div id="refs" class="references csl-bib-body" role="list">
@@ -374,8 +363,11 @@ I came to this PhD with
 <div id="ref-glasziouReducingWasteIncomplete2014" class="csl-entry" role="listitem">
 <div class="csl-left-margin">4. </div><div class="csl-right-inline">Glasziou P, Altman DG, Bossuyt P, Boutron I, Clarke M, Julious S, Michie S, Moher D, Wager E (2014) <a href="https://doi.org/10.1016/S0140-6736(13)62228-X">Reducing waste from incomplete or unusable reports of biomedical research</a>. Lancet (London, England) 383:267–276</div>
 </div>
+<div id="ref-PenelopeAi" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Penelope.ai. Penelope.ai </div>
+</div>
 <div id="ref-alburyGenderConsolidatedCriteria2021" class="csl-entry" role="listitem">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">Albury C, Pope C, Shaw S, et al (2021) <a href="https://doi.org/10.1093/intqhc/mzab123">Gender in the consolidated criteria for reporting qualitative research (<span>COREQ</span>) checklist</a>. International Journal for Quality in Health Care 33:mzab123</div>
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Albury C, Pope C, Shaw S, et al (2021) <a href="https://doi.org/10.1093/intqhc/mzab123">Gender in the consolidated criteria for reporting qualitative research (<span>COREQ</span>) checklist</a>. International Journal for Quality in Health Care 33:mzab123</div>
 </div>
 </div>
 
@@ -619,7 +611,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">Updated: Wed Oct 11 12:56:40 BST 2023 - Commit ID: c24e56f</div>
+    <div class="nav-footer-center">Updated: Tue Oct 24 10:55:01 BST 2023 - Commit ID: a72ba16</div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -145,13 +164,13 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../chapters/1_introduction/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="text-warning">1. Introduction</span></span></a>
+ <span class="menu-text">1. Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../chapters/2_reflexivity/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="text-warning">2. Reflexivity and context</span></span></a>
+ <span class="menu-text">2. Reflexivity</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -276,18 +295,19 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<div id="tbl-rgs" class="anchored">
 <table class="table">
+<caption>Table&nbsp;1: A selection of highly cited reporting guidelines</caption>
 <colgroup>
-<col style="width: 6%">
-<col style="width: 16%">
-<col style="width: 11%">
-<col style="width: 11%">
-<col style="width: 9%">
-<col style="width: 7%">
+<col style="width: 14%">
+<col style="width: 15%">
+<col style="width: 13%">
 <col style="width: 10%">
-<col style="width: 7%">
 <col style="width: 6%">
+<col style="width: 8%">
 <col style="width: 12%">
+<col style="width: 6%">
+<col style="width: 11%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -295,12 +315,11 @@ ul.task-list li input[type="checkbox"] {
 <th>Definition</th>
 <th>Applicable study type</th>
 <th>Publication year</th>
-<th>Has Development Article?</th>
-<th>Has checklist?</th>
+<th>Has development article?</th>
+<th>Has checklist that can be filled in?</th>
 <th>Has explanatory document?</th>
-<th>Development process</th>
-<th>Focus on design?</th>
-<th>Recommendations or requirements?</th>
+<th>Other resources</th>
+<th>Does it aim to influence designing?</th>
 </tr>
 </thead>
 <tbody>
@@ -308,65 +327,57 @@ ul.task-list li input[type="checkbox"] {
 <td>CONSORT</td>
 <td>Consolidated Standards of Reporting Trials</td>
 <td>Randomised controlled trials</td>
-<td>1996 updated in 2001 and 2010</td>
+<td>1996 #REF updated in 2001 #REF and 2010 #REF</td>
 <td>Yes</td>
-<td>As a Word document</td>
-<td>As publication</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Yes</td>
+<td>Yes, as a separate article</td>
+<td><p>Flow diagram</p>
+<p>Website</p>
+<p>COBWEB writing tool #REF</p></td>
+<td>No</td>
 </tr>
 <tr class="even">
 <td>PRISMA</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>STROBE</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>STARD</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Preferred Reporting Items for Systematic Reviews and Meta-Analyses</td>
+<td>Systematic Reviews and Meta-Analyses</td>
+<td><p>2009 #REF</p>
+<p>Updated in 2021 #REF</p></td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes</td>
+<td><p>Flow diagram</p>
+<p>Website</p></td>
+<td>No</td>
 </tr>
 <tr class="odd">
 <td>ARRIVE</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Animal Research: Reporting of <em>In Vivo</em> Experiments</td>
+<td>Publications describing research involving live animals</td>
+<td><p>2010 #REF</p>
+<p>Updated in 2020 #REF</p></td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes</td>
+<td><p>Website</p>
+<p>Action Plans</p>
+<p>Compliance questionnaire</p></td>
+<td>Not explicitly, but does contain design guidance</td>
+</tr>
+<tr class="even">
+<td>SRQR</td>
+<td>Standards for Reporting Qualitative Research</td>
+<td>Qualitative health research</td>
+<td>2014 <span class="citation" data-cites="obrien2014">[<a href="#ref-obrien2014" role="doc-biblioref">1</a>]</span></td>
+<td>Yes</td>
+<td>No</td>
+<td>Yes, as supplementary material that is hard to find</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td>e.t.c. #TODO</td>
-<td></td>
+<tr class="odd">
+<td>e.t.c. for all guidelines mentioned on EQUATOR’s home page<br>
+<br>
+#TODO</td>
 <td></td>
 <td></td>
 <td></td>
@@ -378,9 +389,14 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<p><span id="tbl-rgs">A selection of highly cited reporting guidelines</span></p>
+</div>
 
 
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-obrien2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">O’Brien BC, Harris IB, Beckman TJ, Reed DA, Cook DA (2014) <a href="https://doi.org/10.1097/ACM.0000000000000388">Standards for reporting qualitative research: A synthesis of recommendations</a>. Academic Medicine 89:12451251</div>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -622,7 +638,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">Updated: Wed Oct 11 12:56:40 BST 2023 - Commit ID: c24e56f</div>
+    <div class="nav-footer-center">Updated: Tue Oct 24 10:55:01 BST 2023 - Commit ID: a72ba16</div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
