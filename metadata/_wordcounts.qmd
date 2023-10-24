@@ -1,14 +1,4 @@
 
-* introduction: 13337
-* reflexivity: 1018
-* synthesis: 9523
-* survey-content: 5048
-* website-audit: 4844
-* bcw: 2207
-* workshops: 4736
-* focus-groups: 9140
-* defining-content: 6681
-* redesign: 3313
-* pilot: 2629
+* 1_introduction: No such file or directory: [WARNING]
 
-**TOTAL: 62476**
+**TOTAL: 0**
