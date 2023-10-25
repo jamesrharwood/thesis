@@ -8,7 +8,7 @@ CONSORT proved influential, and other groups quickly developed guidelines for di
 
 There are now over 500 reporting guidelines, representing the collective work of thousands of academics. The best-known guidelines are endorsed by large numbers of medical journals and the International Committee of Medical Journal Editors, and are amongst the 1% most highly cited publications indexed by Web of Science @caulleyCitationImpactWas2020. 
 
-## EQUATOR: uniting the reporting guideline movement
+## The EQUATOR Network: uniting the reporting guideline movement
 
 As reporting guidelines grew in number and the problem of poor reporting gained recognition, Doug Altman saw the need to catalogue reporting guidelines and form a community. He united academics from around the world to form The EQUATOR Network, often simply called EQUATOR, standing for Enhancing the QUAlity and Transparency Of health Research. It was the first coordinated attempt to combat poor reporting systematically and on a global scale. One of EQUATOR's core objectives was to create a database of reporting guidelines, accessible via their website where researchers will also find training and information about developing guidelines. 
 

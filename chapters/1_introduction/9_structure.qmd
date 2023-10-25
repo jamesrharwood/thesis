@@ -1,7 +1,5 @@
 ## Thesis structure
 
-Summary
-
 ### Chapter {{< var chapters.reflexivity >}} - {{< var titles.reflexivity >}}
 
 I reflect on my background and my prior held opinions, and those of my supervision team, and how these may have influenced the direction of this thesis. 
@@ -20,11 +18,11 @@ This chapter describes a service evaluation of the EQUATOR Network website which
 
 ### Chapter {{< var chapters.bcw >}} - {{< var titles.bcw >}}
 
-The next 4 chapters pertain to my second objective - identifying intervention changes. This chapter introduces the Behaviour Change Wheel, which is a framework for designing and defining behaviour change interventions. 
+The next 4 chapters pertain to my second objective - identifying intervention changes. This chapter introduces the Behaviour Change Wheel, which is a framework for designing and defining behaviour change interventions. I explain how my thesis gained form at this point in time; my view of reporting guidelines as a system crystallised, and Charlotte Albury joined my supervision team as my plans took an unexpected qualitative turn. I wanted my thesis to accurately reflect the twists and turns of my DPhil, and so I introduce my chosen framework in this middle chapter instead of the introduction which may be more customary.
 
 ### Chapter {{< var chapters.workshops >}} - {{< var titles.workshops >}}
 
-This chapter describes how I lead workshops with members of the UK EQUATOR center to identify intervention options using Behaviour Change Wheel framework.
+This chapter describes how I lead workshops with UK EQUATOR center staff to identify intervention options using Behaviour Change Wheel framework.
 
 ### Chapter {{< var chapters.focus-groups >}} - {{< var titles.focus_groups >}}
 
@@ -32,12 +30,12 @@ This chapter reports focus groups where I collected ideas on how intervention op
 
 ### Chapter {{< var chapters.defining-content >}} - {{< var titles.defining_content >}}
 
-In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components and logic model. 
+In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components. 
 
 ### Chapter {{< var chapters.redesign >}} - {{< var titles.redesign >}}
 
-This chapter concerns my third objective, implementing the intervention changes by redesigning a reporting guideline (SRQR) and the EQUATOR Network website's home page.
+This chapter concerns my third objective; implementing the intervention changes by redesigning a reporting guideline (SRQR) and the EQUATOR Network website's home page.
 
 ### Chapter {{< var chapters.pilot >}} - {{< var titles.pilot >}}
 
-In this chapter I address my final objective, which was to refine the intervention in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors. 
+In this chapter I address my final objective by refining the intervention in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors. 

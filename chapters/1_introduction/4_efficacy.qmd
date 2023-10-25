@@ -16,7 +16,7 @@ Some observational studies have focussed on a single time period. In 2018, befor
 
 In 2018 the senior managing editor of the Journal of the National Cancer Institute asked 2000 submitting authors whether they had used a reporting guideline @botosReportedUseReporting2018a. She then asked peer reviewers to rate manuscripts for their clarity and adherence to reporting guidelines. Declared guideline use was associated with better adherence to guidelines, but not associated with improved clarity nor acceptance rates.
 
-## Evidence from intervention studies #Most are randomised but not Pandis
+## Evidence from intervention studies
 
 Some experimental studies have tried to isolate the effect of journal policies by randomising authors. In 2015 PLOS One randomly allocated 1689 incoming submissions reporting _in vivo_ animal research manuscripts to either a) request completion the ARRIVE reporting checklist or b) usual practice @hairRandomisedControlledTrial2019. No article achieved full compliance with ARRIVE, and only one sub item (details of animal husbandry) showed improvement between groups. 
 

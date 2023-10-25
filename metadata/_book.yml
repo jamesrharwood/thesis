@@ -1,40 +1,43 @@
 book: 
-  title: "Thesis"
+  title: ""
   downloads: [docx]
   page-navigation: true
   chapters: 
-    - index.qmd
+    - text: "Title Page"
+      file: "index.qmd"
     - text: "List of Abbreviations"
       file: "chapters/abbreviations.qmd"
     - text: "Abstract*"
       file: "chapters/abstract.qmd"
-    - text: "1. Background*"
-      file: chapters/1_introduction/index.qmd      
-    - text: "2. Reflexivity and context*"
+    - text: "Background"
+      file: chapters/1_introduction/index.qmd  
+    - text: "Reflexivity"
       file: chapters/2_reflexivity/index.qmd
-    - part: "Identifying influences"
+    - part: "Identifying barriers"
       chapters: 
-        - text: "3. Qualitative Evidence Synthesis*"
+        - text: "Qualitative Evidence Synthesis"
           file: "chapters/3_synthesis/index.qmd"
-        - text: "4. Survey content review*"
+        - text: "Survey content review"
           file: "chapters/4_survey_content/index.qmd"
-        - text: "5. EQUATOR website evaluation"
+        - text: "EQUATOR website evaluation"
           file: "chapters/5_website_audit/index.qmd"
-        - text: "6. Journal instruction audit*"
-          file: chapters/6_journal_audit/index.qmd
-    - part: "(Re)designing the intervention"
+    - part: "Defining intervention content"
       chapters:
-        - text: "7. The Behaviour Change Wheel"
-          file: chapters/7_bcw/index.qmd
-        - text: "8. Workshops"
-          file: chapters/8_workshops/index.qmd
-        - text: "9. focus groups"
-          file: chapters/9_focus_groups/index.qmd
-        - text: "10. Development"
+        - text: "The Behaviour Change Wheel"
+          file: chapters/6_bcw/index.qmd
+        - text: "Workshops"
+          file: chapters/7_workshops/index.qmd
+        - text: "Focus groups"
+          file: chapters/8_focus_groups/index.qmd
+        - text: "Defining Content"
+          file: chapters/9_defining_content/index.qmd
+    - part: "Redesigning a reporting guideline and EQUATOR's home page"
+      chapters:
+        - text: "Redesign"
           file: chapters/10_redesign/index.qmd
-        - text: "11. Pilot"
+        - text: "Pilot (todo)"
           file: chapters/11_pilot/index.qmd
-    - text: "12. Discussion (todo)"
+    - text: "Discussion (todo)"
       file: chapters/12_discussion/index.qmd
     - part: "Appendix"
       chapters:

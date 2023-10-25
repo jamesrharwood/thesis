@@ -1,6 +1,22 @@
----
-title: Transforming reporting guidelines into a behaviour change intervention with a view to increasing their impact
----
+# Refining reporting guidelines using behaviour change theory with a view to increasing their impact {.unnumbered}
+
+#ASK Other title option: Refining reporting guidelines: identifying and addressing barriers using behaviour change theory.
+
+**James Harwood**
+
+ORCID: 0000-0003-3530-3231
+
+
+Doctor of Philosophy
+
+January 2024
+
+
+Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
+
+The University of Oxford
+
+{{< pagebreak >}}
 
 :::{.callout}
 Here is the working version of my thesis. 
@@ -14,8 +30,12 @@ If you see anything like "\@something", "**?:something**", or "#TODO" then pleas
 Some of the tables and figures aren't rendering nicely yet, especially in Word format. You can ignore that too. 
 :::
 
+::: {.content-visible when-format="html"}
+
 ## Word Count Tallies: 
 
-Actual word counts will be slightly lower as these numbers include tables and references for each chapter. 
+Actual word counts will be lower as these numbers include tables and references for each chapter. 
 
 {{< include metadata/_wordcounts.qmd >}}
+
+:::

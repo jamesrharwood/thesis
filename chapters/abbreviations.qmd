@@ -1,4 +1,4 @@
-# List of abbreviations
+# List of abbreviations {.unnumbered}
 
 ## Reporting guidelines {#sec-rg-abbreviations}
 

@@ -151,6 +151,4 @@ The data presented here cannot be used to draw comparisons with other websites. 
 
 This chapter presents a first step in evaluating the EQUATOR Network's website. These data will help EQUATOR UK understand how the website could be improved in order to further help the global research community learn about and access reporting guidelines. If EQUATOR decides to make any changes, the data here will provide useful benchmarks against which to measure progress.
 
-# References
-
 

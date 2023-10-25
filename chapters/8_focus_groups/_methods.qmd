@@ -38,7 +38,7 @@ An example entry in the Ideas Document that was co-edited by participants. Exist
 
 ## Focus Groups
 
-I conducted focus groups between May-July 2022 online using Zoom. Before each focus group, I asked participants to spend some time thinking about barriers and facilitators. I did this because I wanted participants to get into the frame of mind and come to the focus group "armed" with influences they were ready to discuss. I was also interested to see whether participants would contribute influences that I did not identify in chapters {{< var chapters.synthesis >}}-{{< var chapters.journal-audit >}}. 
+I conducted focus groups between May-July 2022 online using Zoom. Before each focus group, I asked participants to spend some time thinking about barriers and facilitators. I did this because I wanted participants to get into the frame of mind and come to the focus group "armed" with influences they were ready to discuss. I was also interested to see whether participants would contribute influences that I did not identify in chapters {{< var chapters.synthesis >}}-{{< var chapters.web-audit >}}. 
 
 #ASK CA Is this combatting recall bias? https://catalogofbias.org/biases/recall-bias/
 

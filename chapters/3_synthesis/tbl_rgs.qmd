@@ -1,0 +1,35 @@
+  ------------------------------------------------------------------------------------------------------------
+  Name       Full name
+  ---------- -------------------------------------------------------------------------------------------------
+  CONSORT    Consolidated Standards of Reporting Trials
+
+  STROBE     Strengthening the Reporting of Observational Studies in Epidemiology
+
+  PRISMA     Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+
+  PRISMA-P   PRISMA for systematic review protocols
+
+  SPIRIT     Standard Protocol Items: Recommendations for Interventional Trials
+
+  STARD      STAndards for Reporting Diagnostic accuracy studies
+
+  TRIPOD     Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis
+
+  CARE       guidelines for CAse REports
+
+  AGREE      Appraisal of Guidelines, REsearch and Evaluation
+
+  RIGHT      Reporting Items for practice Guidelines in HealThcare
+
+  SRQR       Standards for Reporting Qualitative Research
+
+  COREQ      COnsolidated criteria for REporting Qualitative research
+
+  ARRIVE     Animal Research: Reporting of In Vivo Experiments
+
+  SQUIRE     Standards for QUality Improvement Reporting Excellence
+
+  CHEERS     Consolidated Health Economic Evaluation Reporting Standards
+  ------------------------------------------------------------------------------------------------------------
+
+: Reporting guidelines featured on the EQUATOR Network's home page {#tbl-rgs}
