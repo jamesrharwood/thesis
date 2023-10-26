@@ -32,6 +32,6 @@ format:
 number-depth: 2
 
 metadata-files:
-  - metadata/_footer.yml
+ # - metadata/_footer.yml
   - metadata/_website.yml
   - metadata/_book.yml

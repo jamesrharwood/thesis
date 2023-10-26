@@ -1,6 +1,6 @@
-# Reporting quality has improved over time but remains sub optimal
+## Reporting quality has improved over time but remains sub optimal
 
-## Evidence from observational studies
+### Evidence from observational studies
 
 Many studies have compared quality of reporting before and after reporting guidelines were published and/or journals began asking authors to use them. For example, in 2023 Kilicoglu et al. @kilicogluMethodologyReportingImproved2023 analysed 176,620 randomized trial reports published between 1966 and 2018. They used software to identify sentences pertaining to CONSORT methodology items. They found reporting quality in clinical trials has improved over time but remains sub optimal: articles published before 1990 reported 24% of CONSORT items, whereas articles published between 2010-2018 reported 48%. The fastest improvement occurred in the years immediately after CONSORT was published.
 
@@ -16,7 +16,7 @@ Some observational studies have focussed on a single time period. In 2018, befor
 
 In 2018 the senior managing editor of the Journal of the National Cancer Institute asked 2000 submitting authors whether they had used a reporting guideline @botosReportedUseReporting2018a. She then asked peer reviewers to rate manuscripts for their clarity and adherence to reporting guidelines. Declared guideline use was associated with better adherence to guidelines, but not associated with improved clarity nor acceptance rates.
 
-## Evidence from intervention studies
+### Evidence from intervention studies
 
 Some experimental studies have tried to isolate the effect of journal policies by randomising authors. In 2015 PLOS One randomly allocated 1689 incoming submissions reporting _in vivo_ animal research manuscripts to either a) request completion the ARRIVE reporting checklist or b) usual practice @hairRandomisedControlledTrial2019. No article achieved full compliance with ARRIVE, and only one sub item (details of animal husbandry) showed improvement between groups. 
 
@@ -29,7 +29,7 @@ It would be unsurprising to find that the stricter the enforcement, the better t
 
 To summarise, reporting standards may have improved over the last two decades. There is some evidence that reporting guidelines may have contributed to this change, but if they have, their effect has only been modest and the bottom line is that most research still does not include the details these guidelines call for. There is huge room for improvement. In a systematic review of 124 studies assessing adherence to one of eight reporting guidelines, Jin et al @jinDoesMedicalLiterature2018 found 88% of studies reported suboptimal adherence to reporting guidelines. Similarly, Dal Santo et al @santoMethodsResultsStudies2023a reviewed 148 studies of reporting quality from the previous few years and almost all described reporting quality as suboptimal. 
 
-## Studies exploring the efficacy of reporting guidelines are actually exploring the efficacy of the reporting guideline _system_
+### Studies exploring the efficacy of reporting guidelines are actually exploring the efficacy of the reporting guideline _system_
 
 Because reporting guidelines do not exist in a vacuum, it is difficult to separate the guidelines themselves from the policies, people, websites, and tools involved in their implementation. For example, many before-and-after studies use the publication of the guideline as their defining time point. However, it is impossible for these studies to disentangle the effect of guidelines coming into existence with the effect of subsequent journal policies and editorial practices. Similarly, in experimental studies comparing the effect of asking authors to complete a checklist or use a resource, the intervention groups included changes to editorial workflows. These changes were external to the resource being tested, but could be equally important to its success: in the WebCONSORT study, editors' inability to identify randomised trial reports was an important source of failure external to the tool being tested. Hence, in describing reporting guidelines as being part of a complex behaviour change intervention, I believe I am explicitly articulating a systems perspective that previous studies have hinted at, and I am exploring that system's scope in more granularity.
 

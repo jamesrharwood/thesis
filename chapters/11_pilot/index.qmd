@@ -7,6 +7,12 @@ format:
         output-file: JH-chapter-pilot.docx
 ---
 
+::: {.callout}
+
+This is a jumble of notes and drafted paragraphs. Don't bother reading it!
+
+:::
+
 {{< include /chapters/11_pilot/_background.qmd >}}
 
 {{< include /chapters/11_pilot/_methods.qmd >}}

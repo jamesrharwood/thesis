@@ -7,6 +7,15 @@ format:
         output-file: JH-chapter-website-audit.docx
 ---
 
+::: {.callout}
+
+Known todos:
+
+* Some tables need fixing. Conversion put numbers in wrong columns
+* Finish definitions table
+
+:::
+
 ## Introduction
 
 In chapter {{< var chapters.review >}} I found two studies that exploring authors' awareness of EQUATOR as an organisation [@fullerWhatAffectsAuthors2015; @girayAssessmentKnowledgeAwareness2020a]. Although some authors will know EQUATOR from their training programmes or publications, most will know EQUATOR from its website. Despite running on a shoestring budget and without any in-house expertise in software, design, or user experience, the website's traffic has increased from 100,000 users to almost 1 million over the last 10 years, attracting visitors from all around the world. For context, around 4.3 million authors published 2.4 million academic articles in 2014 @plumePublishPerishRise2014, and the STM association estimated that 11 million people working in research and development in 2018 @stmassociationSTMGlobalBrief. Whilst these numbers will have grown since, they suggest that EQUATOR's website traffic numbers are within a single order of magnitude of its potential audience size. 

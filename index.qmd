@@ -21,13 +21,24 @@ The University of Oxford
 :::{.callout}
 Here is the working version of my thesis. 
 
+:::{.content-visible when-format="html"}
 You'll find chapters on the left, and can download Word files for each chapter on the right. 
 
 Chapters that I've not done (including this one) are [this colour]{.text-muted}. Chapters in [this colour]{.text-warning} are a works-in-progress. 
+:::
 
 If you see anything like "\@something", "**?:something**", or "#TODO" then please ignore. 
 
 Some of the tables and figures aren't rendering nicely yet, especially in Word format. You can ignore that too. 
+
+:::{.content-visible when-format="docx"}
+Known todos for DOCX output:
+
+* Title page 
+* Appendicies should come after references
+* Table and figure formatting
+:::
+
 :::
 
 ::: {.content-visible when-format="html"}

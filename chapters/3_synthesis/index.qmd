@@ -304,7 +304,7 @@ Addressing the issues identified here may make reporting guidelines easier to us
 
 Researchers encounter many barriers and facilitators when using reporting guidelines. In chapters {{< var chapters.workshops >}}-{{< var chapters.redesign >}} I describe how I identified ways to address these influences. Reporting guideline developers should consider using qualitative methods when piloting and refining their resources. In chapter {{< var chapters.pilot >}} I describe how I used interviews, observation, think-aloud tasks, and writing tasks to explore authors' experiences of a redesigned reporting guideline. Developers could consider using methods like these over and above surveys and questionnaires. Most of the studies included in this review were surveys, and during my search I found other (quantitative) surveys. In the next chapter, I explain why and how I explored the questions contained in these surveys.
 
-
+::: {.landscape}
 ## Tables
 
 {{< include tbl_info_sources.qmd >}}
@@ -314,3 +314,6 @@ Researchers encounter many barriers and facilitators when using reporting guidel
 {{< include tbl_study_characteristics.qmd >}}
 
 {{< include tbl_codes.qmd >}}
+
+:::
+<!-- landscape -->

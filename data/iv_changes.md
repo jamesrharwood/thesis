@@ -456,7 +456,7 @@ All stakeholders could have members to promote and facilitate the usage of repor
 * Could make use of existing networks, like regional reproducibility networks.
 
 ---
-id: rg-introductions
+id: rg-introductionsDELETE-ME
 title: Describe each reporting guideline fully
 barrier_ids: [scope, what-rgs-exist, best-fit, when-to-use, feel-not-my-job, need-enough-time, feel-patronized]
 intervention_fn_ids: [education, enablement, persuasion]
