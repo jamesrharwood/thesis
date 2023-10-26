@@ -20,18 +20,24 @@ FILEPATHS=(
 for dir in ${FILEPATHS[@]}
 do
     file=$( (find $dir -name '*.docx') 2>&1 )
-    counts=$( (quarto pandoc --lua-filter filters/wordcount.lua $file | sed -n 1p; ) 2>&1 )
-    countarray=($counts)
-    wordcount=${countarray[0]}
-    filepath=$file
-    filename=${filepath##*/}
-    filename=${filename%.docx}
-    #(basename "$filepath") 2>&1
-    #filename="$(basename -- $filepath)" 2>&1
-    chaptername="${filename/JH-chapter-/}"
-    chaptername="${chaptername/.docx/}"
-    echo "* $chaptername: $wordcount" >> $OUTPUT_FP
-    total=$(($total + $wordcount))
+    if [ -z "$file" ];
+    then
+        echo "No docx file for $dir"
+        continue
+    else
+        counts=$( (quarto pandoc --lua-filter filters/wordcount.lua $file | sed -n 1p; ) 2>&1 )
+        countarray=($counts)
+        wordcount=${countarray[0]}
+        filepath=$file
+        filename=${filepath##*/}
+        filename=${filename%.docx}
+        #(basename "$filepath") 2>&1
+        #filename="$(basename -- $filepath)" 2>&1
+        chaptername="${filename/JH-chapter-/}"
+        chaptername="${chaptername/.docx/}"
+        echo "* $chaptername: $wordcount" >> $OUTPUT_FP
+        total=$(($total + $wordcount))
+    fi
     #echo ""
 done
 echo "" >> $OUTPUT_FP
