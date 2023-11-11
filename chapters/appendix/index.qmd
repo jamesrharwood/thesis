@@ -1,0 +1,12 @@
+# References 
+
+::: {#refs}
+:::
+
+# Appendix {.appendix}
+
+{{< include synthesis_search_strategies.qmd >}}
+
+{{< include barriers.qmd >}}
+
+{{< include ideas.qmd >}}

@@ -1,6 +1,6 @@
-# Discussion
+## Discussion
 
-## Description of findings
+### Description of findings
 
 <!-- 
 * short summary of the main findings

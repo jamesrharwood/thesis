@@ -294,6 +294,8 @@ I considered including grey literature, commentaries, and opinion pieces. These 
 
 I did not distinguish between different guidelines and expect that the themes I found may apply to reporting guidelines to different degrees. I also expected code frequency to be biased by the questions asked in each study. I therefore decided not to prioritise themes by importance or frequency.
 
+#TODO: Inclusion of grey literature / editorials / opinion pieces / social media / non research 
+
 #TODO: rework the end of discussion to link to next chapter
 
 ### Implications for future research

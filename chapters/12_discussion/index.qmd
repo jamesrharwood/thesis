@@ -1,4 +1,19 @@
-Have I succeeded?
+---
+title: "Discussion"
+format: 
+    html:
+        output-file: index.html
+    docx:
+        output-file: JH-chapter-discussion.docx
+---
+
+::: {.callout}
+
+Work in progress...
+
+:::
+
+<!-- Have I succeeded?
 
 * Rehash why I wanted to transform RGs from a "it seemed like a good idea at the time" to a thought through intervention.
     * Main motivator was to increase efficacy and raise standard of reporting
@@ -6,4 +21,6 @@ Have I succeeded?
     * Process did raise some interesting points though.
         * Norman door
         * Intention of guideline developers is for authors to consider nuanced guidance when writing. 
-        * But existing distribution relied heavily on checklist enforcement by journals. Checklists lack nuance, don't link to full guidance, often much easier to find than supplementary E&Es. So guidelines were often perceived _as_ the checklists, and as an administrative task to rather than help, and as design restrictions rather than description recommendations.
+        * But existing distribution relied heavily on checklist enforcement by journals. Checklists lack nuance, don't link to full guidance, often much easier to find than supplementary E&Es. So guidelines were often perceived _as_ the checklists, and as an administrative task to rather than help, and as design restrictions rather than description recommendations. -->
+
+{{< pagebreak >}}

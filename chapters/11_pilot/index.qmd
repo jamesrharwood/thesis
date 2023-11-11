@@ -9,16 +9,16 @@ format:
 
 ::: {.callout}
 
-This is a jumble of notes and drafted paragraphs. Don't bother reading it!
+Work in progress...
 
 :::
 
-{{< include /chapters/11_pilot/_background.qmd >}}
+<!-- {{< include /chapters/11_pilot/_background.qmd >}}
 
 {{< include /chapters/11_pilot/_methods.qmd >}}
 
 {{< include /chapters/11_pilot/_results.qmd >}}
 
-{{< include /chapters/11_pilot/_discussion.qmd >}}
+{{< include /chapters/11_pilot/_discussion.qmd >}} -->
 
 {{< pagebreak >}}

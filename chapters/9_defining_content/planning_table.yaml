@@ -541,7 +541,7 @@ Apply reporting guidance to writing:
         BCT: Adding objects to the environment
         done: false
         evaluation_methods: false
-      Structure guidance to make it quicker to digest (see above):
+      Structure guidance to make it quicker to digest (see above): #TODO there is no above.
         before: E&E documents not structured below the item level
         now: Items have consistent structure
         before_example: See @fig-item-b4

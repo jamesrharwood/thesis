@@ -1,5 +1,5 @@
 ---
-title: "Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process"
+title: "Developing intervention components into a prototype"
 format: 
     html:
         output-file: index.html
@@ -17,7 +17,7 @@ I did not have time to consult multiple guideline groups. Nor did I have time to
 
 In this chapter, I describe how I worked with EQUATOR staff and SRQR's lead developer to co-design a revamped home page and reporting guideline including intervention components from chapter {{< var chapters.defining-content >}}.
 
-### Methods
+## Methods
 
 I invited the EQUATOR staff who participated in the workshops (chapter {{< var chapters.workshops >}}). As before, I used established, best-practice techniques to facilitate open discussion @lincolnNaturalisticInquiry1985. I made it clear there were no right or wrong answers. I reflected on my own opinions before meeting, and held them back until EQUATOR staff had finished talking. When disagreements arose, I took time to explore and understand both sides. 
 
@@ -30,12 +30,14 @@ This was not feasible within my PhD and so our persona generation process was le
 Consequently, two personas crystallised in our minds: inexperienced authors who face the most barriers and need the most help, and experienced authors who face fewer barriers. 
 
 1. Inexperienced author:
+
 * may not be familiar with EQUATOR or reporting guidelines
 * may find authoring / publishing difficult
 * may need help in finding and using a reporting guideline
 * may speak English as a second language
 
 2. Experienced author:
+
 * may be familiar with EQUATOR and/or reporting guidelines
 * may have used checklists before, but may not realise full guidance exists, and may have never used reporting guidelines for for drafting.
 * may feel patronized or restricted by reporting guidelines, especially if they believe them to be design requirements
@@ -68,7 +70,7 @@ I rearranged conditional sub-items to read as "If X, then describe Y", instead o
 
 After development, I double checked the intervention against my intervention planning table (see chapter {{< var chapters.defining-content >}}) to ensure I had included all components. I invited another round of feedback from EQUATOR staff and made more refinements.
 
-#### System architecture
+### System architecture
 
 When considering architecture options I prioritized technology that could feasibly be maintained by EQUATOR staff or a future PhD student. I looked for tools that would be familiar to early career researchers. I considered DIY website builders (like Wix @YourWebsiteYour or Squarespace @WebsiteBuilderCreate) but these services can be expensive. Most offer a 'drag and drop' building experience which, although easy to use, is a laborious way of uploading and formatting large amounts of content. Should EQUATOR want to change how reporting items are presented (for example, move the positioning of examples), they would have to manually edit each item for each reporting guideline. Additionally, our intended intervention changes required custom functionality not offered by these services (e.g., glossary definitions, discussion boards).
 
@@ -78,13 +80,13 @@ Many researchers already use tools like RStudio @positRStudioIntegratedDevelopme
 
 I've made all code available on Github @jamesrharwoodEQUATORGuidelinesWebsite2023, an industry-leading version control system commonly used by academics. I've used Github Pages @GitHubPages to serve the website itself, because it is free, beginner friendly, configurable, and integrates (almost) seamlessly with Github's version control system. 
 
-### Results 
+## Results 
 
 The redesigned home page and SRQR guideline can are shown in @fig-home, @fig-rg-intro, and @fig-discussion. For comparison, the old versions are shown in @fig-home-b4 and @fig-db-b4. I managed to implement {{< var counts.redesign.intervention-components.included_unique  >}} of the {{< var counts.redesign.intervention-components.unique >}} intervention components identified in chapter {{< var chapters.defining-content >}}. I have included the components I have built in the "After" column of the intervention planning table in chapter {{< var chapters.defining-content >}}, thereby linking each component with the its behavioural technique, intervention function, and the barrier it addresses. Figures illustrating the redesign are also in chapter {{< var chapters.defining-content >}}. 
 
 The website source code is viewable at {{< var website-github-repo-url >}} and the live website is viewable at {{< var website-url >}}.
 
-### Discussion
+## Discussion
 
 Using the intervention planning table from my previous chapter, I have created functional prototypes of a redesigned reporting guidelines and the EQUATOR Network home page. If EQUATOR chooses to adopt these changes and apply them to other guidelines, hundreds of thousands of authors would access these redesigned resources each year. 
 
@@ -106,6 +108,6 @@ In addition to filling these gaps, making my redesign "live" would require furth
 
 <!-- #TODO: consider moving this paragraph to the design chapter? Initially, and probably because of my background in software development, I looked at user experience literature (e.g., @experienceGuideUsingUserExperience) but quickly realised that heuristics for creating easy-to-use websites don't really generalise to long-form instructional text. Thinking of comparable documents, I then looked into user testing instruction manuals (@mollerUsabilityTestingUser2013) but found that focusing on the document alone neglected other parts of the intervention, like the impact of journal policies or the behaviour of peer reviewers. A conversation with a professor of Human-Computer Interaction was interesting but focussing on information technology design seemed, again, to only cover part of the problem. -->
 
-### Conclusions
+## Conclusions
 
 In summary, I have described how I involved EQUATOR staff and a guideline developer through a co-design process to redesign the EQUATOR Network's home page and the SRQR guideline. These new designs include {{< var counts.redesign.intervention-components.included_unique  >}} of the {{< var counts.redesign.intervention-components.unique >}} intervention components identified in chapter {{< var chapters.defining-content >}}. Although my designs may have benefited from including other stakeholders, I explained how I facilitated open discussion, prioritised other's opinions, and used my intervention planning table to make decisions. In the next chapter I explain how I refined these designs further by interviewing and observing authors.

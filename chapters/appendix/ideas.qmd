@@ -1,4 +1,4 @@
-# Ideas generated from workshops and focus groups {.appendix}
+## Ideas generated from workshops and focus groups {.appendix #app-ideas}
 
 ```{python}
 #| echo: false

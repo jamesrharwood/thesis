@@ -28,6 +28,7 @@ format:
       from: markdown+grid_tables
       reference-doc: reference.docx
       toc: true
+      toc-depth: 2
       highlight-style: github
 number-depth: 2
 

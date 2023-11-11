@@ -1,4 +1,4 @@
-# Barriers {.appendix}
+## Barriers {.appendix #app-barriers}
 
 ```{python}
 #| output: asis

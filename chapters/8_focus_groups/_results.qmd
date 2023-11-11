@@ -1,6 +1,6 @@
-# Results
+## Results
 
-## Units of study
+### Units of study
 
 I held {{< var counts.focus_groups >}} focus groups involving {{< var counts.participants >}} participants in total. Participants included guideline developers (n={{< var counts.guideline_developers >}}), publishing professionals (n={{< var counts.publishers >}}), and academics that study reporting guidelines (n={{< var counts.academics >}}). Although I had intended to include 4 or 5 participants per focus group, in practice it was difficult to coordinate participants across time zones, and so sessions only had 2 or 3 participants. 
 
@@ -10,17 +10,17 @@ Before the focus groups, my workshops with EQUATOR had generated a list of {{< v
 
 In the summary below I have occasionally mentioned which stakeholder group an idea came from, but only when I felt like it added useful context. I have chosen not to label ideas according to the stakeholder it came from for three reasons. Firstly, stakeholders were all editing the same file, so some ideas would be revisited multiple times by different stakeholders who would build upon the thoughts of previous contributors, editing and extending ideas. Consequently, it wasn't always possible to definitively say _who_ any particular idea came from, as it may have been the product of multiple stakeholders. Secondly, just because a stakeholder didn't edit an idea in the document didn't mean that the idea hadn't also occurred to them. Hence allocating an idea to a stakeholder just because they were the one that wrote it down may be misleading. Thirdly, I didn't consider labelling the  _origin_ of an idea to be useful because I didn't see it as an indication of that idea's _quality_; to the contrary, I had explicitly encouraged participants not to worry about whether an idea was "good".
 
-## Synthesis and summary
+### Synthesis and summary
 
 Here I describe the aggregated ideas. I use the term "stakeholders" instead of "participants" to clarify that ideas came from the focus group participants _and_ the workshop participants. 
 
-### {{< var stages.planning >}}
+#### {{< var stages.planning >}}
 
-#### Create reporting guidance for protocols and applications
+##### Create reporting guidance for protocols and applications
 
 Stakeholders suggested "developing [reporting guidance] for protocols", funding, and ethics applications as a way to encourage authors to consult reporting guidance earlier in their work when they are more likely to have the time, motivation, and ability to reflect and act on it.
 
-#### {{< var IFs.avoid-proliferation >}}
+##### {{< var IFs.avoid-proliferation >}}
 
 "We need fewer, better, reporting guidelines" wrote one stakeholder, when discussing how authors may struggle to identify which reporting guidelines apply to their work. 
 
@@ -30,11 +30,11 @@ Stakeholders had ideas of how this "extend"ing could be done. They suggested tha
 
 When discussing how modules or extensions could be "harmonized" so that they "speak to another", participants suggested resources could have compatible structure, and should not "use different wording for what is essentially the same item". Participant's recommendation to "use similar terminology [across] related guidelines" extended to the title; STROBE-nut, STROBE-ME and STROBE-RDS are more readily identifiable as STROBE extensions than STREGA, ROSES-I, or STROME-ID are. Naming can also indicate when a guideline has been revised: "ARRIVE 2.0 is recognisable as a replacement of ARRIVE", whereas "TIDIER Placebo appears to be an extension but should be called TIDIER 2.0".
 
-#### {{< var IFs.avoid-prescribing-structure >}}
+##### {{< var IFs.avoid-prescribing-structure >}}
 
 Stakeholders suggested that "[reporting] guidelines should avoid prescribing structure as [it] may clash with journal guidelines".
 
-#### {{< var IFs.design-agnostic >}}
+##### {{< var IFs.design-agnostic >}}
 
 Stakeholders discussed how _designing_ research is a separate task to _reporting_ it, and that many authors will only encounter reporting guidelines _after_ the manuscript has been written, at which point design advice is less useful. 
 
@@ -46,7 +46,7 @@ Instead, developers could encourage authors to "explain reasons for methods choi
 
 Discussions about removing design advice also arose when considering how including design advice elongates guidance, potentially deterring authors from reading it. To solve this, stakeholders suggested reporting guidelines could link to design resources "elsewhere". For example, if reporting guidance were presented on a website, authors could be given options to "display or hide" design advice by choice, or depending on whether the author was "designing [research], applying for funding, or drafting" a manuscript.
 
-#### {{< var IFs.item-content >}}
+##### {{< var IFs.item-content >}}
 
 Many barriers prompted stakeholders to suggest that specific content should be included for every reporting item.
 
@@ -62,7 +62,7 @@ Because examples from the published literature can be "difficult to [...] find a
 
 Finally, stakeholders discussed the pros and cons of including item-specific design advice, procedural instructions, and appraisal advice, and the different ways of doing it (see [{{< var IFs.design-agnostic >}}](@sec-{{< var IFSecs.design-agnostic >}})).
 
-#### {{< var IFs.rg-introductions >}}
+##### {{< var IFs.rg-introductions >}}
 
 Stakeholders identified that many of the barriers they discussed could be addressed by editing the text that authors might read before using a guideline or checklist. 
 
@@ -74,7 +74,7 @@ Stakeholders warned that developers should be mindful when using words like  _st
 
 Noting that it might not be obvious how or when to use guidance, participants suggested being explicit about this. For example, "tell authors that they don’t need to fill out templates [or checklists] sequentially but can use an order that matches their workflow or decision making. Put this instruction on the template, checklists, and other tools. Example from PRISMA – population and subgroup items are separated in the checklist but go together when thinking/making decisions.". Similarly, authors could benefit from explicit suggestions of how to use reporting guidelines as a team, perhaps by asking "their co-researchers to check their reporting". Finally, stakeholders suggested telling authors how much time the guideline is expected to take them to read and use, why it can be trusted, and where they can read about its development.
 
-#### {{< var IFs.keep-short >}}
+##### {{< var IFs.keep-short >}}
 
 "Make guidance shorter" wrote one stakeholder, and "Make checklists shorter", wrote another, when considering how "guideline length [...] may put researchers off" as "long guidelines appear more complex and time consuming" and can challenge word limits.
 
@@ -82,13 +82,13 @@ One stakeholder posited that guidelines could be shorter if developers were "rea
 
 Others suggested presenting guidance online with non-essential content collapsed so that guidance appeared short but authors could choose to "display or hide" content. Stakeholders noted that "itemisation can make guidance more digestible, but can also make it harder to get the bigger picture" and makes text appear longer.
 
-### {{< var stages.development >}}
+#### {{< var stages.development >}}
 
-#### {{< var IFs.ready-to-use >}}
+##### {{< var IFs.ready-to-use >}}
 
 Stakeholders suggested that resources should be in ready-to-use formats. For instance, "checklists should be editable (not PDFs)".
 
-#### {{< var IFs.easy-understand >}}
+##### {{< var IFs.easy-understand >}}
 
 "Make guidance easier to understand" was written as a solution to help authors who misinterpret, or can't understand, guidance. Stakeholders suggested developers could "make guidance as 'plain language' as possible" os "create plain language versions of existing guidance", whilst being "mindful of language that may appear patronizing".
 
@@ -96,7 +96,7 @@ Stakeholders suggested defining "key words or phrases in a glossary or tooltips"
 
 Stakeholders recognised a need to collect and respond to feedback from "international researchers" representative of the user base across disciplines and institutions, and that this could be sought when developing guidance to "test" it, but also on an ongoing basis to "continually revisit the items in the guidelines that may be confusing or difficult to implement". As an example, one guideline developer contributed that collecting feedback had lead them to remove "the word 'context' because users struggled to understand it".
 
-#### {{< var IFs.persuade >}}
+##### {{< var IFs.persuade >}}
 
 When discussing how authors feel about reporting guidelines and checklists, stakeholders reflected on how the wording and presentation of resources can influence authors' perceptions of it.
 
@@ -104,7 +104,7 @@ Stakeholders noted that a poorly formatted checklist, lacking "visual appeal/gra
 
 Reassurance seemed especially important to stakeholders when considering how to motivate authors to transparently report items that aren't perfect. Stakeholders suggested that developers could use language and tone of voice to "foster a feeling of confidence, not judgement", perhaps reminding "researchers that all research has limitations". Stakeholders also wrote that reassurance could also be given by including notes aimed at reviewers, and cited JARS as an example "which explains to reviewers why an author may make certain choices", thereby educating reviewers whilst reassuring authors that they won't be penalised for transparency. Stakeholders suggested rewording text and tone of voice to make reporting guidelines and checklists "appear less like 'red tape'", and to reassure authors that "reporting guidelines are just that: guidelines!". 
 
-#### {{< var IFs.create-tools >}}
+##### {{< var IFs.create-tools >}}
 
 Stakeholders noted that checklists may be easier to use if they are editable (see [{{< var IFs.ready-to-use >}}](@sec-{{< var IFSecs.ready-to-use >}})), and if authors could complete them with "the relevant text, rather than [the] page/section number" which can be frustrating to keep updated. Although one stakeholder, a publisher, noted that checklists completed with text are difficult to double check, and therefore it would be most useful to include the text _and_ the page number.
 
@@ -116,7 +116,7 @@ To help reviewers check reporting, stakeholders suggested creating "tools for co
 
 Stakeholders noted that tools should presented in ways that "better differentiate" how and when they should be used "e.g., resources for writing vs. checking vs. reviewing".
 
-#### {{< var IFs.findable-resources >}}
+##### {{< var IFs.findable-resources >}}
 
 Stakeholders had ideas for how to help authors discover and find  resources. Stakeholders wrote about hyperlinks being an important way for authors to discover related guidelines and tools. These could be "horizontal links between related guidelines" and between guideline "documents and tools" like checklists. All resources should "link to one another", ideally "item by item" so that checklist items could link directly to the relevant section of full guidance. Stakeholders noted that hyperlinks can become out of date, and so stakeholders should "fix broken links".
 
@@ -124,7 +124,7 @@ Stakeholders also wrote that resources could be hosted on "a convenient place, s
 
 When discussing how to help authors who are less familiar with study designs, one stakeholder suggested creating "tools to help researchers identify study designs (e.g., a questionnaire)", and another, already familiar with such a tool previously developed by EQUATOR suggested it should "use plain language".
 
-#### {{< var IFs.information-architecture >}}
+##### {{< var IFs.information-architecture >}}
 
 Stakeholders acknowledged that authors' needs may differ between tasks (e.g. drafting an article vs demonstrating compliance), and that authors may use guidance in different ways; some will read the whole thing from start to finish, whilst others will dip in and out as-and-when they need. Consequently, stakeholders wrote that "having different options available that meet the needs of different users is vital" and that authors should be able to consult guidance in ways that "work for them".
 
@@ -134,25 +134,25 @@ Dynamically hiding and showing content was floated here again (see [{{< var IFs.
 
 Dynamic content was also seen as a favourable way to embed guideline extensions, with the aim of making them easier to discover without overwhelming the author. For example, noting that "some guidelines 'fit together'...e.g., PRISMA and PRISMA-Abstracts", stakeholders wrote that PRISMA-Abstracts could be "embedded" as collapsed content that interested authors could expand.
 
-### {{< var stages.dissemination >}}
+#### {{< var stages.dissemination >}}
 
-#### {{< var IFs.value-statement >}}
+##### {{< var IFs.value-statement >}}
 
 When first introducing reporting guidelines stakeholders suggested telling authors what reporting guidelines are, "when and how best to use" them, and what benefits to expect. This information could go wherever authors are advised to use reporting guidelines (like like journal instruction pages, registries), EQUATOR's website, social media campaigns, at the start of the guidelines, and could go at the beginning of checklists too "in case people don't read the whole [guideline] paper". This introductory text could be "short, sweet, and to the point". Benefits could be even more prominent by putting them "in a box, or [by using] font or positioning".
 
 <!-- #TODO: check that personal benefits are included elsewhere. E.g., Researchers report caring more about personal, immediate benefits compared to hypothetical benefits to others; More transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study, Provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification -->
 
-#### {{< var IFs.accessible >}}
+##### {{< var IFs.accessible >}}
 
 Stakeholders wrote "Ensure guidance is open access" so that all authors can it. Stakeholders also noted that if guidance is published under a permissive license then others can reuse the content to extend the guidance or build new tools.
 
-#### {{< var IFs.citation >}}
+##### {{< var IFs.citation >}}
 
 Displaying citation counts on the EQUATOR Network website (or other websites where authors search for reporting guidelines) was described as a way to "provide social proof" and convince authors that guidelines are credible.
 
 To generate these citations, stakeholders suggested explicitly asking "researchers to cite the guideline they used". Stakeholders wrote that if an author cites a guideline they have used, then readers may discover the guideline from that authors' article. 
 
-#### {{< var IFs.testimonials >}}
+##### {{< var IFs.testimonials >}}
 
 Stakeholders suggested providing "testimonials" as a way to tackle a few different barriers using education and persuasion. Stakeholders suggested providing "quotes from authors/researchers who felt that reporting guidelines helped their work and who have had positive experiences" such as making "writing easier" or helping "with co-authorship communications".  Stakeholders proposed that testimonials could bring benefits to life, thereby making them more believable.
 
@@ -162,17 +162,17 @@ Stakeholders wrote that testimonials from decision makers (like editors, reviewe
 
 Finally, stakeholders suggested collecting testimonials from researchers "with a range of experience", including "experienced researchers who have benefited by changing their practices". Diverse case studies would help engage a diverse user base, and challenge assumptions that reporting guidelines are too patronizing for experienced researchers or too complicated for inexperienced ones.
 
-### {{< var stages.ongoing >}}
+#### {{< var stages.ongoing >}}
 
-#### {{< var IFs.budget-and-fund-reporting >}}
+##### {{< var IFs.budget-and-fund-reporting >}}
 
 Stakeholders noted that "researchers need budget to allocate time to writing" and that "funders could encourage proper financial/time budgeting for writing", as could research supervisors.
 
-#### {{< var IFs.create-rewards >}}
+##### {{< var IFs.create-rewards >}}
 
 Stakeholders suggested "offer[ing] some sort of tangible reward/benefit" to motivate guideline use, creating new rewards when necessary. Ideas included "publishers offering a fast-track review/discount", "badges on published articles" or platforms "like publons", or "a certificate after completing training".
 
-#### {{< var IFs.create-spaces >}}
+##### {{< var IFs.create-spaces >}}
 
 Multiple barriers lead stakeholders to suggest "create[ing] spaces for researchers to connect with other researchers to celebrate and share experiences". These spaces could include "forums, meetings, tea clubs, [and] clinics both in real life and virtual". Such spaces could help authors solicit help and could act as social proof, as seeing "others using and talking about the guidance" may be motivational.
 
@@ -195,7 +195,7 @@ Communicating an invitational attitude among colleagues in various settings is p
 "Downregulating hierarchy is useful – nationally, gender, issues, professional disciplines"
 "Allow researchers to give feedback on guidelines to cultivate a feeling of community ownership" -->
 
-#### {{< var IFs.early-acquisition >}}
+##### {{< var IFs.early-acquisition >}}
 
 Stakeholders thought of ways to "try and shift the time at which researchers discover or use guidelines", hypothesising that "it’s more likely that guidelines will save them time" if used earlier or "at the right time" and "not just upon submission".
 
@@ -207,7 +207,7 @@ Stakeholders suggested creating reporting guidance for early research outputs li
 
 When considering whether authors may need reminders to use a reporting guideline for their next study, stakeholders suggested publishers and EQUATOR could use "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again".
 
-#### {{< var IFs.endorse-enforce >}}
+##### {{< var IFs.endorse-enforce >}}
 
 Stakeholders suggested "encouraging more journals to endorse guidelines" and drew a distinction between endorsing reporting guidelines and promoting them on a website, social media, or email (see [{{< var IFs.promote >}}](@sec-{{< IFSecs.promote >}})). Endorsement was described as a long term commitment to recommend or encourage guideline use, requiring buy-in from organisational leaders, and possibly changes to policies, instructions, infrastructure, and workflows. Promotion, conversely, was described as ephemeral and does not require organisational changes.
 
@@ -215,19 +215,19 @@ Stakeholders drew another distinction between endorsement and enforcement, where
 
 When considering _who_ could enforce guidelines, stakeholders noted that reporting guidelines could be "a requirement for publication", "for registration (where applicable) (e.g. clinical trial registries, PROSPERO)", or when submitting conference abstracts. "Ethics committees and funding organisations" could require that adhere to guidelines, "for example, completion of SPIRIT for clinical trial submissions", or to declare that they will use a guideline when writing their results. To facilitate enforcement, stakeholders suggested that the software academics use to provide funders with updates could ask for completed checklists. One stakeholder suggested that reporting guideline adherence should be a condition of university employment and that a "digital dashboard [may] help audit[ing] and monitoring". Noting that enforcement requires resources, stakeholders suggested to "focus on main RGs and being compliant with them".
 
-#### {{< var IFs.evidence-benefits >}}
+##### {{< var IFs.evidence-benefits >}}
 
 Stakeholders suggested that benefits may be more believable if there were evidenced. This could be "evidence that [reporting guidelines] improve the completeness and transparency of the output". For quantifiable benefits, the suggestion was to collect and report data on “acceptance rates, publishing speed, writing speed”. One stakeholder posited that "more transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study" and another suggested to "provide statistics about processing times of articles that follow / don’t follow reporting standards" would help evidence this claim and "emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification". However, some stakeholders were sceptical whether data on acceptance rates would show any benefit at all: "Likelihood of being accepted might not be heavily influenced – bad research well reported would still be rejected".
 
 For experiential benefits that cannot be quantified, stakeholders suggested providing case studies or testimonials (see [{{< var IFs.testimonials >}}](@sec-{{< var IFSecs.testimonials >}})).
 
-#### {{< var IFs.apparent-priority >}}
+##### {{< var IFs.apparent-priority >}}
 
 When a journal endorses or enforces reporting guidelines, a few stakeholders suggested making reporting guidelines more prominent within the journal's workflow to make them appear more important. Notes included that "reporting guidelines could be more prominent on journal author guideline pages", or that "if the journal uses any sort of structured peer review (e.g., specific questions related to methodology) to tell authors this explicitly [on author guideline pages and within review feedback] and link it to the reporting guideline content". A third suggestion was that "when journals ‘stitch’ or ‘build’ together the manuscript pdf (including cover letter, manuscript main text, appendices, etc.), prioritise the reporting guideline or move it earlier in the pdf".
 
 However, a few stakeholders (publishers) warned that prioritising guidelines on author instruction pages "is complicated as these [pages] already have to do a lot", although guidelines could be more prominent if the pages "were better organised and/or filterable".
 
-#### {{< var IFs.promote >}}
+##### {{< var IFs.promote >}}
 
 Stakeholders noted may bodies that could help spread the word that reporting guidelines exist. For example, "professional societies" could "advertise" reporting guidelines, despite not having a role in the funding, regulation or dissemination of research.
 
@@ -239,11 +239,11 @@ To reach students, participants suggested that universities could include report
 
 Stakeholders wrote that "promotion can begin before a guideline has been published so that researchers know about guidelines being developed" and suggested "the provision of a time buffer/phasing period for updating new reporting guidelines which would allow researchers to have information about these new guidelines".
 
-#### {{< var IFs.reporting-champions >}}
+##### {{< var IFs.reporting-champions >}}
 
 Stakeholders wrote that publishers, universities, funders, and ethics committees could have members to promote and facilitate the usage of reporting guidelines, centring on the terms "champions" and "EQUATOR ambassadors". Within publishers, funders, or ethics board, a champion's responsibility may be to "expand knowledge/awareness of guidelines". Within institutions, champions could also "help researchers" by "providing feedback on writing" and that ECRs may feel most comfortable talking with a champion from "an accessible level (e.g., post-doc, library staff)". This could follow a local network model (UKRN was cited as an example) with EQUATOR as the central organiser, and could utilize existing reproducibility networks.
 
-#### {{< var IFs.support >}}
+##### {{< var IFs.support >}}
 
 Stakeholders proposed additional teaching as a way to promote reporting guidelines, make them easier to use, and a way to communicate the impacts of poor reporting. Education and training could be general (EQUATOR's publication school was cited as an example) of could be "guideline-specific", and could be delivered in person or online, as courses, videos, or text.
 
@@ -253,7 +253,7 @@ To gain experience in using reporting guidelines, stakeholders suggested student
 
 <!-- #TODO consider moving "understanding that reporting is a stage of work" to the budgeting section? -->
 
-#### {{< var IFs.updating >}}
+##### {{< var IFs.updating >}}
 
 Stakeholders acknowledged that "researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed" and that "this information could be useful to guideline developers". Some stakeholders went further, expressing that guidance and websites should be updated "in response to user feedback or changes in the field". Others suggested that "developers could consult different user groups when creating guidance" and "engage as many health professions as possible" so that "professional cultural issues can be usefully accommodated."
 

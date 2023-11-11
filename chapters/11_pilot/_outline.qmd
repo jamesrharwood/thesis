@@ -1,0 +1,34 @@
+# Outline
+
+## Introduction
+
+### Recap
+
+-   Previous work
+-   Current output
+
+### Evidence Gap
+
+-   What it is: how could the guidelines/home page be further improved?
+    -   How do we define improvement? Are we successfully implementing our intended implementation functions?
+    -   What opportunities / barriers we have overlooked or introduced?
+-   Examples
+-   Why it is important?
+    -   Self evident.
+    -   Extra important because a) authors have been neglected b) esp non western / non quant (from my work and previous work)
+
+### Justify qualitative approach
+
+-   Reasons to prioritize qual over quant
+
+    -   Generate ideas / hypotheses, not looking to confirm, compare or quantify.
+
+    -   Many different intervention components
+
+        -   Logic model differs. Some work within seconds, some aim to persuade unconsciously, others require reading/conscious thought and consideration. A questionnaire would not cover this.
+
+## Methods
+
+## Results
+
+## Discussion

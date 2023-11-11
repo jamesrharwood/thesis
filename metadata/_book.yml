@@ -1,5 +1,55 @@
 book: 
-  title: "Draft-26-Oct-2023"
+  title: "Refining reporting guidelines using behaviour change theory: Draft-26-Oct-2023"
+  author: "James Harwood\n\nORCID: 0000-0003-3530-3231\n\nDoctor of Philosophy\n\nNuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences\n\nThe University of Oxford\n\n{{< pagebreak >}}"
+  # author: |
+  #     "James Harwood
+
+  #     ORCID: 0000-0003-3530-3231
+
+  #     Doctor of Philosophy"
+      
+  #     Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
+
+  #     The University of Oxford
+
+  #     {{< pagebreak >}}
+
+  #     :::{.callout}
+  #     Here is the working version of my thesis. 
+
+  #     :::{.content-visible when-format="html"}
+  #     You'll find chapters on the left, and can download Word files for each chapter on the right. 
+
+  #     Chapters that I've not done (including this one) are [this colour]{.text-muted}. Chapters in [this colour]{.text-warning} are a works-in-progress. 
+  #     :::
+
+  #     If you see anything like "\@something", "**?:something**", or "#TODO" then please ignore. 
+
+  #     Some of the tables and figures aren't rendering nicely yet, especially in Word format. You can ignore that too. 
+
+  #     :::{.content-visible when-format="docx"}
+  #     Known todos for DOCX output:
+
+  #     * Title page 
+  #     * Appendices should come after references
+  #     * Table and figure formatting
+  #     * Add "Reflections on this chapter" paragraphs to end of research chapters
+  #     * Need to write: Abstract, Interviews chapter, Discussion
+  #     * Lists of tables & figures at start (necessary?)
+
+  #     :::
+
+  #     :::
+
+  #     ::: {.content-visible when-format="html"}
+
+  #     ## Word Count Tallies: 
+
+  #     Actual word counts will be lower as these numbers include tables and references for each chapter. 
+
+  #     {{< include metadata/_wordcounts.qmd >}}
+
+  #     :::
   downloads: [docx]
   page-navigation: true
   chapters: 
@@ -41,7 +91,5 @@ book:
       file: chapters/12_discussion/index.qmd
     - part: "Appendix"
       chapters:
-        - text: "Synthesis search strategies"
-          file: "chapters/appendix/synthesis_search_strategies.qmd"
-        - data/barriers.md
-        - data/iv_changes.md
+        - text: "Appendices"
+          file: "chapters/appendix/index.qmd"

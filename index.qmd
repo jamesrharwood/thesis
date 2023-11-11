@@ -1,22 +1,27 @@
-# Refining reporting guidelines using behaviour change theory with a view to increasing their impact {.unnumbered}
+::: {.content-visible when-format="html"}
+
+# Refining reporting guidelines using behaviour change theory {.unnumbered}
 
 #ASK Other title option: Refining reporting guidelines: identifying and addressing barriers using behaviour change theory.
+
+#ASK Or: Refining the dissemination of reporting guidance using behaviour change theory
 
 **James Harwood**
 
 ORCID: 0000-0003-3530-3231
 
-
 Doctor of Philosophy
 
 January 2024
-
 
 Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
 
 The University of Oxford
 
 {{< pagebreak >}}
+
+:::
+<!-- content-visible -->
 
 :::{.callout}
 Here is the working version of my thesis. 
@@ -35,8 +40,12 @@ Some of the tables and figures aren't rendering nicely yet, especially in Word f
 Known todos for DOCX output:
 
 * Title page 
-* Appendicies should come after references
+* Appendices should come after references
 * Table and figure formatting
+* Add "Reflections on this chapter" paragraphs to end of research chapters
+* Need to write: Abstract, Interviews chapter, Discussion
+* Lists of tables & figures at start (necessary?)
+
 :::
 
 :::
