@@ -1,0 +1,28 @@
+Notes from Boren and Ramey 2000
+
+First described by Ericsson and Simon in 1984 (#REF). Developed within cognitive psychology.
+
+Verablizations "as indicators of what information was heeded and in what order, a sort of time stamp of the contents of short-term memory (STM)."
+
+Ericsson and Simon talk about 3 levels of data - Level 1 requires no processing (e.g. numbers while working out a sum), level 2 requires translations into words (e.g. describing an image), level 3 requires extra cognition (e.g. filtering info) or info which is influenced by long term recall or external factors. E & S argue against using level 3, but I was interested in it. Ericsson and Simon described a model that was quite rigid. For example, prompts were "keep talking" after a predetermined time, and users were to be given a protocol. 
+
+Originally designed for cognitive psychology but became adopted into other fields, including usability. Whereas the primary goal in cog psy was to understand cognitive processes, the aim for usability testing is different: "support the development of usable systems by identifying system deficiencies; building robust models of human cognition is not a central concern".
+
+Over time, researchers have used variations on this model, often relaxing its elements in response to contextual or pragmatic factors. For example, many researchers adjust their waiting times depending on whether the participant is frustrated. 
+
+Best practice includes:
+
+* modelling think aloud before hand
+* practice (which I did not do)
+* Keeping prompts short
+* Non-commital sounds to acknowledge that you heard them
+
+Examples of recent studies using it:
+
+@szinayInfluencesUptakeHealth2021; @yardleyUnderstandingReactionsInternetdelivered2010
+
+Given the variation in how think aloud is done, is it a method?
+
+"Without a firm theoretical grounding in and unified practice of this key technique, it could be argued that usability practice is not governed by a framework of principles of inquiry—that while usability professionals may contribute positively to a system’s development, usability practices are not systematic or rigorous enough to merit the distinction of being called a method (a defined practice with clear rules for correct performance). Many usability practitioners would bristle at such claims, but until the field can firmly establish that its practice is reconciled with a sound theory that supports its research goals, such characterizations cannot be lightly dismissed. Furthermore, if practitioners do not uniformly apply the same techniques in conducting thinking-aloud protocols, it becomes difficult to compare results between studies, both in industry and in the published methodological research. 
+
+We suggest that while current think-aloud practice is indeed diverse and not well-motivated by theory, practitioners can reconcile theory and practice, both by re-evaluating and systematically extending theory and by changing practice to be theoretically consistent"

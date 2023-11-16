@@ -1,10 +1,8 @@
 ::: {.content-visible when-format="html"}
 
-# Refining reporting guidelines using behaviour change theory {.unnumbered}
+# Refining reporting guidelines: identifying and addressing barriers using behaviour change theory {.unnumbered}
 
-#ASK Other title option: Refining reporting guidelines: identifying and addressing barriers using behaviour change theory.
-
-#ASK Or: Refining the dissemination of reporting guidance using behaviour change theory
+#ASK Alterantively: Refining the dissemination of reporting guidance using behaviour change theory
 
 **James Harwood**
 

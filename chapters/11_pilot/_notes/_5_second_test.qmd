@@ -1,0 +1,17 @@
+Notes from @UXFiveSecondRules2014
+
+Type of "in the moment" survey method. I showed participants the top of the home page for 5 seconds before removing it again and asking questions. Exposure is limited to five seconds because although the participant can take in a lot of information within that time (colours, words, shapes), its not sufficient time to make sense of everything as a whole. The aim is to capture participant's immediate reactions to the most salient parts of the design - the colours, layout, large words, images - before they have a chance to view the page critically or with more consideration. 
+
+As per best practice I:
+
+* the area had very little text
+* Everything was visible within one frame
+* Asked few questions, ordered from most to least specific.
+
+Was investigating 3 components:
+
+* What are RGs 
+* Benefits of RGs
+* When to use RGs
+* Design - simplicity and confidence
+* Later, trust. Surface credibility (Fogg 2003, from chapter 4 of UX five second rule book. " That which can be perceived immediately (colors, layout, images, etc.) has the ability to boost credibility substantially—e.g.,the use of “stock photos” or public domain imagery can have a negative effect on perceived credibility, while using “real” images can help communicate a sense of authenticity and legitimacy.")

@@ -80,7 +80,7 @@ We also presented tasks that involved finding tools. We asked participants to im
 
 #### 2. Finding information within a guideline
 
-We then asked participants to find information within the #DECIDE: guideline. We asked participants how they would report #FIXME, why it is important  to describe #FIXME, and what they should write if they hadn't done #FIXME. These questions required participants to find items #FIXME respectively, and to locate content within collapsible boxes.
+We then asked participants to find information within the #DECIDE: guideline. We asked participants how they would report #FIXME, why it is important to describe #FIXME, and what they should write if they hadn't done #FIXME. These questions required participants to find items #FIXME respectively, and to locate content within collapsible boxes.
 
 #### Plus - minus test
 

@@ -25,10 +25,263 @@
 
     -   Many different intervention components
 
-        -   Logic model differs. Some work within seconds, some aim to persuade unconsciously, others require reading/conscious thought and consideration. A questionnaire would not cover this.
+        -   Logic model differs. Some work within seconds, some aim to persuade unconsciously, others require reading/conscious thought and consideration. A questionnaire would not cover this
 
 ## Methods
 
+### Purpose or research question
+
+Objective: We did not aspire to "perfect" the intervention because we don't believe a single perfect design exists. Rather we saw design process as iterative, and the objective of this study was to gather evidence so that we could iterate quickly and guided by evidence.
+
+Aim: to identify and understand limitations/barriers/factors in the current iteration, and to identify how they could be addressed by modifying, adding, or removing intervention components.
+
+We achieved this aim by exploring the experience of a diverse sample of authors, in a setting that resembles how authors may naturally encounter it.
+
+I will explain how I achieved these two concerns - diverse sample, and "real life" setting - in the following two sections.
+
+\`\`\`
+
+#ASK where should this go?
+
+### Qualitative approach and research paradigm
+
+-   Paradigm: I am assuming there are multiple subjective realities and that these will differ between participants but also within the same participant, between time points/contexts. #ASK: paradigm. Interpretivist? Constructivitist?
+
+-   Approach: #TODO Framework? General Inductive Approach (but that seeks to establish a framework)?
+
+\`\`\`
+
+### Sampling strategy
+
+-   Inclusion criteria. Conducting research in qualitative methods.
+
+-   Purposive. Sought variation in:
+
+    -   experience
+
+    -   first language, emphasis on China
+
+    -   place of work
+
+    -   discipline
+
+-   Why did I seek this variation? I sought this variation because my thematic synthesis (chapter {{< var chapters.synthesis >}}) identified primary language and experience in research and academic writing. My synthesis highlighted that less experienced researchers may have most to benefit from reporting guidelines, and yet face the most barriers when trying to use them (quote and #REF). I sought participants from China because my service evaluation of the EQUATOR website found a large proportion of website visitors are in China, but little research has sought feedback from Chinese authors (#REF).
+
+-   Recruitment: Twitter, Penelope.ai, Contacting researchers.
+
+-   Consent questions & platform
+
+    -   Link to recruitment materials in appendix
+
+-   Reimbursement - £50 for expectation of 2 hour commitment (2 interviews lasting 1.5h in total, plus 30 min at home task).
+
+-   Sample size
+
+    -   For this study it was pragmatic. Time and money.
+
+I hoped this strategy would help me capture the experiences of authors that visit EQUATOR's website currently *and* authors from groups who I expect to face additional barriers, but whose voices have rarely been sought.
+
+### Context
+
+I wanted to try and replicate "real life" context as far as possible. in two ways.
+
+-   Firstly, the physical environment. Microsoft Teams. Meant participants could be in their normal place of work, and using their own computer screens and internet connection.
+
+-   Secondly, the journey of encountering a new website, understanding what it is and whether to engage with it, finding a reporting guideline, and then applying that guideline to their work. This necessitated using multiple data collection methods, which I will now explain.
+
+### Data Collection Methods
+
+At start of session:
+
+-   Introduce who I am
+
+-   Vaguely introduce the website without saying what it is or that it will benefit.
+
+-   Reassure that I want honest feedback, both positive and negative.
+
+    -   Said that I was only one of the makers
+
+    -   The best way they can help is by being honest, not kind.
+
+Experience breaks up into parts, so we used different methods:
+
+-   To understand immediate reactions to home page and guideline pages we used 5 second test.
+
+-   To explore reactions, experience, and understanding as they navigate resources for the first time I used think aloud.
+
+-   To understand experience of reading and applying guidelines in their own time, I used plus minus test and a writing evaluation.
+
+-   Also used interviews to explore prior experience of reporting guidelines and intervention components not covered by the methods above.
+
+I present an overview in box (#TODO). I provide detailed descriptions of methods below.
+
+#### 5 second test
+
+-   Interviewees did not know the study was about reporting guidelines. They had no idea what the website was about.
+
+-   Describe and cite
+
+-   Why did I use it?
+
+-   Mention that participants did not know study was about reporting.
+
+#### Think aloud
+
+-   Describe and cite
+
+-   Why did I use it?
+
+-   Describe how I implemented it.
+
+    -   Instruction. What they think of content/design. What they expect.
+
+    -   Demonstration
+
+    -   Participant would get going on home page
+
+    -   Prompts if silent
+
+    -   Drift into interview - then recenter to think aloud.
+
+    -   Once reach end of home page, would ask them to find qualitative guideline, and continue
+
+    -   Stopped once reached the start of the guidance itself.
+
+-   In this way I came closer to my objective by...
+
+-   Think aloud helps me understand how authors experienced and understood the website on their own terms. It helped me understand what they notice, what felt prominent to them.
+
+#### Plus and minus task
+
+-   Limitation of Think Aloud is that
+
+    -   it takes time.
+
+    -   Not a good method to explore understanding guidance because
+
+        -   articulating thoughts can break up the reading experience. E.g. we stopped and started on the home page.
+
+        -   understanding or opinions on the text might change as one tries to apply it to one's own writing. Participant's needed time to be able to read, understand, apply, and reflect. Therefore, needed an asynchronous method that could be done in the participant's own time, outside of the session.
+
+-   Plus minus test fills this need.
+
+-   Describe what it was. Writing *and* reading
+
+-   Why did I do it?
+
+#### Writing evaluation
+
+-   Limitation of the plus minus test is that it will not catch instances whereby an author has *mis*understood guidance, or not noticed an instruction, or forgotten about one.
+
+-   Describe what it was. Reference SQUIRE.
+
+-   Why did I do it?
+
+-   Note that the writing itself didn't form part of the analysis, just our discussion on my assessment.
+
+#### Interviews throughout
+
+##### Post 5 second test
+
+Prior knowledge/attitudes towards reporting guidelines.
+
+##### Post think aloud(s)
+
+-   However, think aloud is less useful for exploring aspects that are less prominent. Sometimes this may be purposeful, but other times it might be by accident.
+
+-   Post think-aloud interview to cover things missed. Change for me to assert that aversive stimuli are not present, and to explore components that were perhaps not prominent enough for the participant to mention organically.
+
+-   I did not continue the think aloud throughout the guidance itself because it would have taken too long, but I did want to explore features that only appeared within the guidance - the definitions, discussion, and collapsible content.
+
+##### End of study
+
+Also an opportunity to ask about guidance now that they are more familiar. E.g. do they think the website accurately depicted the resource?
+
+##### Overview
+
+Hence writing evaluation, plus minus task, and think aloud all included an interview component. I also used interview independently to explore issues not otherwise covered.
+
+#### Data Collection Instruments
+
+-   Interview schedule
+
+    -   Included script for introductions / transitions between each stage of session so that I would not forget.
+
+    -   Also included topic guide so that I could ask questions about anything that did not come up naturally in think aloud. I would add to this topic guide over time, as it became evident that some intervention components were rarely mentioned, or as new considerations arose.
+
+    -   For example...patronization. #TODO
+
+#### Data processing
+
+-   Automatic transcripts.
+
+    -   Edited by re-listening.
+
+    -   De-identified
+
+-   All data was coded at the end of data collection...iteratively...
+
+-   Coded in NVivo @qsrinternationalptyltd.NVivo2020:
+
+    -   Case for each participant and for myself
+
+    -   Case for each technique used
+
+    -   Nodes using intervention table as framework
+
+    -   Once codes were grouped into nodes for each intervention component (deductively), I sub-grouped codes to infer possible improvements.
+
+        -   For example...
+
+    -   In this way I developed...which were my units of analysis
+
+-   Incidental findings:
+
+    -   Sometimes participants would naturally talk about barriers / facilitators, so I coded these
+
+    -   Some participants naturally strayed across EQUATOR's main website.
+
+-   Data storage
+
+#### Trustworthiness
+
+#TODO table
+
+-   Double coding with disinterested peer
+
+-   Member checking with participants
+
+-   Audit trail
+
+### Researcher characteristics and reflexivity
+
+Already covered previously. Nothing to add, except in trust table.
+
+### Ethics
+
+Not needed, considered to be a service evaluation.
+
+### Reporting
+
+SRQR
+
 ## Results
+
+Dates
+
+#### Participants
+
+#### Iterations to the home page and reporting guideline
+
+-   Unplanned
+
+-   In response to feedback
+
+    -   <div>
+
+        1.  Home page - addition of images and more colour
+        2.  
+
+        </div>
 
 ## Discussion

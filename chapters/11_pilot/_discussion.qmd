@@ -16,3 +16,4 @@ Task based protocol or navigation task might have been better. E.g. "look for fr
 
 The problem of finding the right guideline still deserves exploration. Need the other guidelines to be up, and would need to either give tasks or recruit people differently (not by the kind of research they were doing). 
 
+The data collection methods I've used have been critiqued - variation in practice makes it difficult to repeat or compare studies. And variation is not always grounded in theory. For example, 5 second test variations, think aloud variations. 
