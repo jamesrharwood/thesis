@@ -65,7 +65,7 @@ I will explain how I achieved these two concerns - diverse sample, and "real lif
 
     -   discipline
 
--   Why did I seek this variation? I sought this variation because my thematic synthesis (chapter {{< var chapters.synthesis >}}) identified primary language and experience in research and academic writing. My synthesis highlighted that less experienced researchers may have most to benefit from reporting guidelines, and yet face the most barriers when trying to use them (quote and #REF). I sought participants from China because my service evaluation of the EQUATOR website found a large proportion of website visitors are in China, but little research has sought feedback from Chinese authors (#REF).
+-   Why did I seek this variation? I sought this variation because my thematic synthesis (chapter {{< var chapters.synthesis >}}) identified primary language and experience in research and academic writing. My synthesis highlighted that less experienced researchers may have most to benefit from reporting guidelines, and yet face the most barriers when trying to use them (quote and #REF). I sought participants from China because my service evaluation of the EQUATOR website found a large proportion of website visitors are in China, but little research has sought feedback from Chinese authors (#REF). I hoped this strategy would help me capture the experiences of authors that visit EQUATOR's website currently *and* authors from groups who I expect to face additional barriers, but whose voices have rarely been sought.
 
 -   Recruitment: Twitter, Penelope.ai, Contacting researchers.
 
@@ -78,8 +78,6 @@ I will explain how I achieved these two concerns - diverse sample, and "real lif
 -   Sample size
 
     -   For this study it was pragmatic. Time and money.
-
-I hoped this strategy would help me capture the experiences of authors that visit EQUATOR's website currently *and* authors from groups who I expect to face additional barriers, but whose voices have rarely been sought.
 
 ### Context
 

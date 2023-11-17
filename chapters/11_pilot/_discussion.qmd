@@ -17,3 +17,5 @@ Task based protocol or navigation task might have been better. E.g. "look for fr
 The problem of finding the right guideline still deserves exploration. Need the other guidelines to be up, and would need to either give tasks or recruit people differently (not by the kind of research they were doing). 
 
 The data collection methods I've used have been critiqued - variation in practice makes it difficult to repeat or compare studies. And variation is not always grounded in theory. For example, 5 second test variations, think aloud variations. 
+
+Trust became a big theme. Wasn't really included as an intervention component at top of home page. Should be added, and future 5 second tests should explore this. Fogg splits trust into 4 categories and this would be testing surface credibility (Fogg 2003, from chapter 4 of UX five second rule book. " That which can be perceived immediately (colors, layout, images, etc.) has the ability to boost credibility substantially—e.g.,the use of “stock photos” or public domain imagery can have a negative effect on perceived credibility, while using “real” images can help communicate a sense of authenticity and legitimacy.")
