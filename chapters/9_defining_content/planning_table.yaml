@@ -12,6 +12,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: 5 second test, interview
+        id: describe-what-rgs-are
       Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for:
         before: No clear instruction on what tasks reporting guidelines or their resources can and cannot be used for.
         before_example: See @fig-home-b4, @fig-db-b4, @fig-rg-intro-b4
@@ -21,6 +22,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: 5 second test, think aloud, interview
+        id: clarify-tasks
   what-rgs-exist:
     ingredients:
       Instruct authors to cite reporting guidelines so readers may learn about them:
@@ -32,6 +34,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: think aloud, interview
+        id: instruct-to-cite
       # Encourage journals, ethics committees, funders, and other stakeholders to endorse reporting guidelines:
       #   before: Many journals endorsed reporting guidelines
       #   before_example:
@@ -66,6 +69,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behaviour
         done: false
         evaluation_methods: false
+        id: decision-tools
       Collections of related reporting guidelines:
         before: Collections exist on EQUATOR site but are difficult to find.
         before_example:
@@ -76,6 +80,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Adding objects to the environment
         done: false
         evaluation_methods: false
+        id: rg-collections
       Links between related guidelines:
         before: Guideline publications may cite guidelines published previously, but these can be buried in text and are not updated. EQUATOR website guideline pages feature links to extensions, but these may be hard to find. Checklists do not link to related resources.
         before_example: See @fig-db-b4, @fig-rg-intro-b4
@@ -86,6 +91,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: false
+        id: link-related-rgs
       Embed reporting guidelines that "fit together":
         before: Checklists and their extensions are published separately. The best example of modular guidance is perhaps the JARS guidelines, but even these are published as separate documents.
         before_example:
@@ -96,6 +102,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: false
         evaluation_methods: false
+        id: embed-related-rgs
   need-findable:
     ingredients:
       Centralised hosting:
@@ -108,6 +115,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: false
+        id: centralised-hosting
       Search function on website:
         before: EQUATOR's search function was difficult to find.
         before_example: See @fig-home-b4
@@ -117,6 +125,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Enablement
         BCT: Restructuring the physical environment
         done: true
+        id: search-function
         evaluation_methods: false
       Search Engine Optimization:
         before: EQUATOR's website did not make use of some commonly used search optimization heuristics. It ranked well for guideline acronyms (like STROBE) but not for general terms that naive authors may use, like "observational epidemiology" or "how to write-up research". The site wasn't optimized for viewing on mobile devices, which will also harm google search rankings. 
@@ -128,6 +137,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: false
+        id: seo
       Permanent document object identifiers (DOIs):
         before: Although guideline publications have DOIs, tools (commonly hosted on guideline developer's websites) do not. EQUATOR's website does not use document object identifiers. If resources move (e.g. a website is reorganised or depreciated) then links can "die".
         before_example:
@@ -138,6 +148,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment
         done: false
         evaluation_methods: false
+        id: doi
   need-accessible:
     ingredients:
       Ensure guidelines and tools are open access:
@@ -150,6 +161,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment # good discussion point. Felt there should be a BCT for this. 
         done: false
         evaluation_methods: false
+        id: open-access
   scope:
     ingredients:
       Describe the scope of a reporting guideline at the top of every resource:
@@ -162,6 +174,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: think aloud, interview
+        id: describe-scope
   best-fit:
     ingredients:
       Use if-then rules to direct authors to more appropriate and up-to-date guidance when available:
@@ -173,8 +186,9 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: think aloud
-      Explicitly state when no better guidance exists for a particular use case: 
-        before: Reporting guidelines rarely explain what to do when no better guidance exists for a particular use case.
+        id: if-then-rules
+      Explicitly state when no better guidance exists for a use case: 
+        before: Reporting guidelines rarely explain what to do when no better guidance exists for a use case.
         before_example: 
         now: Reporting guidelines warn authors when no better guidance exists for a use case, and how the current guidance can be adapted instead
         now_example: See @fig-rg-intro
@@ -182,6 +196,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: false
+        id: no-better-rg
       # Decision tools (see above):
       #   before:
       #   before_example:
@@ -200,6 +215,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: think aloud
+        id: translations
   believed-costs:
     ingredients:
       Make guidance appear shorter by removing superfluous information, hiding optional content, splitting long guidelines, using concise language, and separating design advice:
@@ -212,6 +228,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: think aloud
+        id: shorten
       Cater to different kinds of user (readers vs dippers) by structuring guidance with headings, itemisation, hyperlinking to particular sections, and with optional content:
         before: Besides being split into items, reporting guidance is largely unstructured and different items can be organised in different ways. Checklist items do not link to items within an elaboration document.
         before_example: See @fig-item-b4
@@ -222,6 +239,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: think aloud
+        id: structure
       Include testimonials from researchers who were nervous about being punished for reporting transparently:
         before: No such testimonials exist
         before_example:
@@ -232,6 +250,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Demonstration of the behavior
         done: true
         evaluation_methods: think aloud, interview
+        id: testimonial-nervous
       Decrease fear of judgement by making reporting guidelines design agnostic:
         before: Reporting guidelines may conflate reporting advice with design advice or design assumptions. The justification for why an item is important to describe is frequently presented in terms of good and bad design.
         before_example:
@@ -242,6 +261,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Remove aversive stimulus
         done: true
         evaluation_methods: plus minus
+        id: design-agnostic
       Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape:
         before: EQUATOR's website looked cluttered and visually unappealing. Guidance published in articles can look unappealing and dense. When justifying why authors should use reporting guidelines, guideline developers frequently referenced research waste, (lack of) transparency, bias, and poor design. 
         before_example: See @fig-home-b4 #TODO judgemental quote 
@@ -252,6 +272,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Remove aversive stimulus
         done: true
         evaluation_methods: think aloud
+        id: remove-aversive-design
       Reassure that all research has limitations to encourage explanation over perfect design:
         before: Few guidelines would include this kind of reassurance
         before_example: See @fig-rg-intro-b4
@@ -261,6 +282,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Social support (unspecified)
         done: true
         evaluation_methods: think aloud
+        id: reassure-of-limitations
   feel-not-my-job:
     ingredients:
       Address communications to authors:
@@ -273,6 +295,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform a behaviour
         done: true
         evaluation_methods: interview
+        id: address-authors
       Communicate why reporting is primarily the responsibility of the author:
         before: Because it wasn't clear how reporting guidelines and checklists should be used, they (especially checklists) could appear as administrative tasks that should be the responsibility of the editor or reviewer. 
         before_example:
@@ -281,6 +304,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Education
         BCT: Instruction on how to perform a behaviour
         done: false
+        id: explain-author-responsibility
   feel-not-a-job:
     ingredients:
       Educate authors about writing as a process:
@@ -293,6 +317,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Instruction on how to perform a behaviour
         done: true
         evaluation_methods: think aloud
+        id: writing-education
 Apply reporting guidance to writing:
   what-resources-exist:
     ingredients:
@@ -306,6 +331,7 @@ Apply reporting guidance to writing:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: think aloud
+        id: link-resources
   benefits:
     ingredients:
       Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications):
@@ -317,6 +343,7 @@ Apply reporting guidance to writing:
         BCT: Information about emotional consequences, Information about others' approval, Information about social and environmental consequences
         done: true
         evaluation_methods: 5 second test, interview
+        id: describe-benefits
   believed-benefits:
     ingredients:
       Gather and communicate evidence for benefits:
@@ -329,6 +356,7 @@ Apply reporting guidance to writing:
         BCT: Information about emotional consequences, Information about others' approval, Information about social and environmental consequences
         done: true
         evaluation_methods: think aloud
+        id: evidence-benefits
       Include design, features, and language to foster trust:
         before: Website design looked amateur. Citation metrics are available for guideline publications, but are not displayed on the EQUATOR website or within the guidance publications or checklists themselves. Guidelines were often preceeded by lengthy explanations of development.
         before_example: See @fig-db-b4
@@ -338,6 +366,7 @@ Apply reporting guidance to writing:
         BCT: Credible source, Social comparison
         done: true
         evaluation_methods: think aloud
+        id: design-trust
       Create spaces for authors to discuss reporting guidelines with others:
         before: There were no official on- or offline spaces for authors to discuss guidelines. 
         before_example:
@@ -347,6 +376,7 @@ Apply reporting guidance to writing:
         BCT: Social comparison, Credible source, Adding objects to the environment
         done: true
         evaluation_methods: think aloud, interview
+        id: discussion-spaces
       Use language and design to communicate personal benefits; confidence and simplicity:
         before: Guidance text made little use of a reassuring tone or words. The EQUATOR website and guideline articles looked dense and complex.
         before_example: See @fig-home-b4 and @fig-rg-intro-b4
@@ -356,6 +386,7 @@ Apply reporting guidance to writing:
         BCT: Framing/reframing 
         done: true
         evaluation_methods: think aloud, interview
+        id: design-benefits
   care-about-benefits:
     ingredients:
       # Create new benefits that are more meaningful e.g., by offering recognition of good reporting through a certification service:
@@ -376,6 +407,7 @@ Apply reporting guidance to writing:
         BCT: Salience of consequence
         done: true
         evaluation_methods: think aloud, interview
+        id: testimonials-who-benefit
       # Create training that helps students experience, first hand, the benefits of reporting guidelines and consequence of poor reporting:
       #   before: Although many students are tasked with undertaking a systematic review, the primary focus of this is generally not to consider (in)complete reporting.
       #   before_example:
@@ -396,6 +428,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: plus minus, writing evaluation
+        id: plain-language
       Define key terms:
         before: Few guidelines came with a glossary. Some key terms may be defined within the guideline text. Including definitions this way makes them hard to find and elongates the guidance.
         before_example:
@@ -406,6 +439,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: interview, plus minus
+        id: define-terms
       Use consistent terms:
         before: Guidelines may use different terms to refer to the same thing (or the converse - use the same term to refer to different things). A single guideline may do this too.
         before_example: #TODO example?
@@ -414,8 +448,9 @@ Apply reporting guidance to writing:
         future: Repeat for other reporting guidelines.
         IF: Enablement
         BCT: Instruction on how to perform the behavior
-        done: true
+        done: false
         evaluation_methods: false
+        id: consistent-terms
       Provide translations:
         before: See above
         before_example: 
@@ -427,6 +462,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods:
+        id: translations
       Create spaces for authors to discuss reporting guidelines with others (see above):
         before:
         before_example:
@@ -437,6 +473,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods:
+        id: discussion-spaces
   importance:
     ingredients:
       For each item, explain why the *information* is important and to whom (not just what constitutes "good" design):
@@ -449,6 +486,7 @@ Apply reporting guidance to writing:
         BCT: Information about social and environmental consequences
         done: true
         evaluation_methods: interview
+        id: why-item-is-important
       # For each item, indicate any conditions which modify importance:
       #   before: It might not always be made clear when an item is only applicable in certain circumstances
       #   before_example:
@@ -466,6 +504,7 @@ Apply reporting guidance to writing:
         BCT: Information about social and environmental consequences
         done: true
         evaluation_methods: false
+        id: why-complete-reporting-is-important
   how-to-do:
     ingredients:
       Provide links to other resources that explain how an item can be done:
@@ -477,6 +516,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: false
+        id: item-link-to-how-to-do
   how-to-report:
     ingredients:
       For each item, provide clear instruction of what needs to be described:
@@ -488,6 +528,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: writing evaluation, plus minus, interview
+        id: item-what-to-describe
       For each item, provide examples of reporting in different contexts:
         before: Not all reporting guidelines provide examples. Examples may not cover different contexts.
         now: SRQR already had some examples. No more examples added
@@ -498,6 +539,7 @@ Apply reporting guidance to writing:
         BCT: Demonstration of the behavior
         done: true
         evaluation_methods: plus minus, interview
+        id: examples
       Create spaces for authors to discuss reporting guidelines with others (see above):
         before: 
         now: 
@@ -508,6 +550,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods:
+        id: discussion-spaces
   how-to-report-not-done:
     ingredients:
       Provide clear instruction of what needs to be described when an item was not done, could not be done, or does not apply:
@@ -519,6 +562,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: false
+        id: item-what-to-describe-when-not-done
       Provide examples of reporting "imperfect" items:
         before: Examples not provided
         now: No changes made
@@ -529,6 +573,7 @@ Apply reporting guidance to writing:
         BCT: Demonstration of the behavior
         done: false
         evaluation_methods: false
+        id: examples-imperfect
   need-enough-time:
     ingredients:
       Ensure all resources and tools (e.g., checklists and templates) are in ready-to-use formats:
@@ -541,7 +586,8 @@ Apply reporting guidance to writing:
         BCT: Adding objects to the environment
         done: false
         evaluation_methods: false
-      Structure guidance to make it quicker to digest (see above): #TODO there is no above.
+        id: ready-to-use
+      Structure guidance to make it quicker to digest:
         before: E&E documents not structured below the item level
         now: Items have consistent structure
         before_example: See @fig-item-b4
@@ -550,6 +596,7 @@ Apply reporting guidance to writing:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: think aloud, plus minus, interview
+        id: digestible-structure
       # Indicate priority of items for authors that are short on time:
       #   before: ARRIVE indicates priority, other reporting guidelines including SRQR do not.
       #   now: No changes made
@@ -566,6 +613,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: think aloud
+        id: time-to-read
       Tell authors how long guidance will take to apply:
         before: No advice given
         now: No changes made
@@ -576,6 +624,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: false
         evaluation_methods: false
+        id: time-to-apply
   when-to-use:
     ingredients:
       Tell authors when to use reporting guidelines, or that reporting guidelines are best used as early as possible:
@@ -587,6 +636,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: interview
+        id: describe-when-to-use
       Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for (see above):
         before: 
         now: 
@@ -597,6 +647,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
+        id: clarify-tasks
   need-right-time:
     ingredients:
       Optimize websites for search terms aimed at early use like "how to write", or "funding application". (See _Search Engine Optimization_ above):
@@ -610,6 +661,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
+        id: seo
       # Promote reporting guidelines in writing clubs or writing training:
       #   before: Done in some training courses
       #   now: No changes made
@@ -627,6 +679,7 @@ Apply reporting guidance to writing:
         BCT: Prompts/cues
         done: false
         evaluation_methods: 
+        id: prompts-to-use-early
       Create tools to be used for early writing tasks:
         before: Most reporting guidelines come with a checklist but none come with a template, or tools/guidance specific to protocols or funding applications.
         now: No changes made
@@ -637,6 +690,7 @@ Apply reporting guidance to writing:
         BCT: Adding objects to the environment
         done: true
         evaluation_methods: interview
+        id: tools-for-early-use
   need-concise-writing:
     ingredients:
       Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated.:
@@ -648,6 +702,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: interview
+        id: describe-reporting-location-alternatives
       Provide examples of concise reporting:
         before: No examples specifically to display concise reporting
         now: No changes made
@@ -658,6 +713,7 @@ Apply reporting guidance to writing:
         BCT: Demonstration of the behavior
         done: false
         evaluation_methods: 
+        id: examples-concise-reporting
   need-tools:
     ingredients:
       Create guidance for planning research, or for writing protocols/funding applications (see _Create tools to be used for early writing tasks_):
@@ -669,6 +725,7 @@ Apply reporting guidance to writing:
         done: false
         duplicate: true
         evaluation_methods: 
+        id: tools-for-early-use
       Create to-do lists in the order research is conducted, to help authors collect information they will need to report (see _Create tools to be used for early writing tasks_):
         before: 
         now: 
@@ -678,6 +735,7 @@ Apply reporting guidance to writing:
         done: false
         duplicate: true
         evaluation_methods: 
+        id: tools-for-early-use
       Create templates for drafting (see _Create tools to be used for early writing tasks_):
         before:
         now:
@@ -687,6 +745,7 @@ Apply reporting guidance to writing:
         done: false
         duplicate: true
         evaluation_methods: 
+        id: tools-for-early-use
       Create tools to facilitate checklist completion:
         before: Updating page numbers in a checklist is time consuming. It takes editors time to double check page numbers and content. Checklists may not include instructions of how to complete them.
         now: No changes made
@@ -697,6 +756,7 @@ Apply reporting guidance to writing:
         BCT: Adding objects to the environment
         done: false
         evaluation_methods: 
+        id: checklists
       Create tools to facilitate particular reporting items:
         before: Some tools exist (e.g., PRISMA flow chart diagram maker, COBWEB)
         now: No changes made
@@ -707,6 +767,7 @@ Apply reporting guidance to writing:
         BCT: Adding objects to the environment
         done: false
         evaluation_methods: 
+        id: tools-for-items
       Create tools to help collaborators check each other's work:
         before: Checklists exist but aren't specifically designed for collaborators
         now: No changes made
@@ -717,6 +778,7 @@ Apply reporting guidance to writing:
         BCT: Adding objects to the environment
         done: false
         evaluation_methods: 
+        id: tools-for-checking
       Create tools to help peer reviewers check reporting and request missing information:
         before: Checklists are reporting guidelines are not specifically aimed at peer reviewers
         now: No changes made
@@ -727,6 +789,7 @@ Apply reporting guidance to writing:
         BCT: Adding objects to the environment
         done: false
         evaluation_methods: 
+        id: tools-for-peer-reviewers
   need-up-to-date-guidance:
     ingredients:
       Provide feedback channels to help developers keep guidance updated (see _Create spaces for authors to discuss reporting guidelines with others_):
@@ -739,6 +802,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
+        id: discussion-spaces
       Make it possible for guideline developers to make small edits without having to publish new articles:
         before: Developers would have to publish a new article
         now: Developers can make small updates any time
@@ -749,6 +813,7 @@ Apply reporting guidance to writing:
         BCT: Restructuring the physical environment
         done: true
         evaluation_methods: 
+        id: allow-guideline-developers-to-edit
   need-to-reconcile:
     ingredients:
       Explain when reporting guidelines do not intended to prescribe structure:
@@ -761,7 +826,8 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: interview
-      Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated (see above): #TODO replace all see above with specific item numbers or text
+        id: explain-when-structure-not-prescribed
+      Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated (see _Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated_): #TODO replace all see above with specific item numbers or text
         before:
         now:
         before_example:
@@ -772,6 +838,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
+        id: describe-reporting-location-alternatives
       Embed reporting guidelines that "fit together" (see above):
         before: 
         now: 
@@ -783,6 +850,7 @@ Apply reporting guidance to writing:
         done: false
         duplicate: true
         evaluation_methods: 
+        id: embed-related-rgs
   need-to-remove:
     ingredients:
       Provide advice regarding how to respond if asked to remove reporting guideline content by a colleague, editor, or reviewer:
@@ -794,6 +862,7 @@ Apply reporting guidance to writing:
         BCT: Problem solving
         done: true
         evaluation_methods: 
+        id: advice-when-asked-to-remove
   need-usable-formats:
     ingredients:
       Ensure all resources and tools (e.g., checklists and templates) are in ready-to-use formats (see above):
@@ -806,6 +875,7 @@ Apply reporting guidance to writing:
         done: false
         duplicate: true
         evaluation_methods: 
+        id: ready-to-use
   feel-transparent:
     ingredients:
       Present design advice separately to reporting advice:
@@ -818,6 +888,7 @@ Apply reporting guidance to writing:
         BCT: Restructuring the physical environment
         done: false
         evaluation_methods: 
+        id: provide-design-advice-separately
       Make reporting guidelines agnostic to design choices (see _Decrease fear of judgement by making reporting guidelines design agnostic_):
         before:
         now:
@@ -828,6 +899,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
+        id: design-agnostic
       Encourage explanation even when choices are unusual or not optimal:
         before: Not always present
         now: Added to items
@@ -837,6 +909,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: interview
+        id: encourage-explanation
       Reassure authors that all research has limitations (see _Reassure that all research has limitations to encourage explanation over perfect design_):
         before: 
         now: 
@@ -848,7 +921,8 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
-      Include testimonials from researchers who were nervous about being punished for reporting transparently (see above):
+        id: reassure-of-limitations
+      Include testimonials from researchers who were nervous about being punished for reporting transparently (see _Include testimonials from researchers who were nervous about being punished for reporting transparently_):
         before:
         now: 
         before_example:
@@ -858,9 +932,10 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
+        id: testimonial-nervous
   feel-restricted:
     ingredients:
-      Present design advice separately and remain design agnostic (see _Present design advice separately to reporting advice_ and _Decrease fear of judgement by making reporting guidelines design agnostic_):
+      Present design advice separately and remain design agnostic (see _Decrease fear of judgement by making reporting guidelines design agnostic_):
         before:
         now:
         before_example:
@@ -869,7 +944,8 @@ Apply reporting guidance to writing:
         BCT:
         done: true
         duplicate: true
-        evaluation_methods: 
+        evaluation_methods:
+        id: design-agnostic 
       Reassure when guidelines are _just_ guidelines:
         before: Not always present or prominent
         now: Prominently displayed at top of reporting guideline
@@ -879,9 +955,10 @@ Apply reporting guidance to writing:
         BCT: Social support
         done: true
         evaluation_methods: false
+        id: reassure-just-guidelines
   feel-patronized:
     ingredients:
-      Create spaces for authors to discuss reporting guidelines with others (see above): #Create discussion spaces for authors to voice disagreements and contribute to revisions (see above):
+      Create spaces for authors to discuss reporting guidelines with others (see _Create spaces for authors to discuss reporting guidelines with others_): #Create discussion spaces for authors to voice disagreements and contribute to revisions (see above):
         before:
         now:
         before_example:
@@ -891,6 +968,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
+        id: discussion-spaces
       Avoid patronizing language:
         before: Although authors may feel patronized when asked to adhere to a reporting guideline, reporting guidelines themselves rarely use patronizing language
         now: Continue to avoid using patronizing language
@@ -900,6 +978,7 @@ Apply reporting guidance to writing:
         BCT: Remove aversive stimulus
         done: true
         evaluation_methods: false
+        id: remove-patronizing-language
       Explain how the guidance was developed and why it can be trusted:
         before: Most reporting guidelines explain this in a published article. Checklists do not
         now: Brief description included on home page and at top of reporting guideline, links to full to development information
@@ -909,6 +988,7 @@ Apply reporting guidance to writing:
         BCT: Credible source
         done: true
         evaluation_methods: think aloud, interview
+        id: describe-development
 Repeat engagement with reporting guidelines for subsequent studies:
   need-prompts:
     ingredients:
@@ -922,3 +1002,6 @@ Repeat engagement with reporting guidelines for subsequent studies:
         done: false
         duplicate: true
         evaluation_methods: 
+        id: prompts-to-use-early
+
+#TODO: IDs for duplicates

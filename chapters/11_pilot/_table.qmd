@@ -73,7 +73,7 @@ for method in method_names.keys():
 print(table.draw())
 ```
 
-: Methods used to explore intervention components. {#tbl-methods-for-components}
+: Methods used to explore intervention components. Intervention components are defined in chapter {{< var chapters.redesign >}}.{#tbl-methods-for-components}
 
 :::
 <!-- end landcape -->

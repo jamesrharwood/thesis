@@ -16,4 +16,4 @@
 |                           | 12. Semi-structured interview 4 - closing thoughts                         |
 +---------------------------+----------------------------------------------------------------------------+
 
-: Data collection methods and when they occurred.
+: Data collection methods and when they occurred. {#tbl-process-interviews}

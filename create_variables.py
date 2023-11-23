@@ -59,6 +59,7 @@ IC_BARRIERS = set([b.lower() for b in IC_BARRIERS if b])
 IC_INTERVENTION_FUNCTIONS = set([i.lower() for i in IC_INTERVENTION_FUNCTIONS if i])
 IC_BCTs = set(bct.lower() for bct in IC_BCTs if bct)
 
+## Interviews
 
 
 counts = dict(

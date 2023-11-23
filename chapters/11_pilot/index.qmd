@@ -1,5 +1,5 @@
 ---
-title: "Refining the intervention: qualitative pilot with authors"
+title: "Refining the intervention: qualitative study with authors"
 format: 
     html:
         output-file: index.html
@@ -7,16 +7,19 @@ format:
         output-file: JH-chapter-pilot.docx
 ---
 
+{{< include /chapters/11_pilot/_background.qmd >}}
+
+{{< include /chapters/11_pilot/_methods.qmd >}}
+
 ::: {.callout}
+
+## Results and Discussion
 
 Work in progress...
 
 :::
 
-<!-- {{< include /chapters/11_pilot/_background.qmd >}}
-
-{{< include /chapters/11_pilot/_methods.qmd >}}
-
+<!-- 
 {{< include /chapters/11_pilot/_results.qmd >}}
 
 {{< include /chapters/11_pilot/_discussion.qmd >}} -->

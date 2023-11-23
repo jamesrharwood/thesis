@@ -1,10 +1,9 @@
-I did not aspire to perfect the web pages, as I do not believe a single perfect design exists. Instead, I viewed the design process as iterative, and the purpose of this study was to make iterations quickly and based on evidence.
+## Methods
 
-My aim, therefore, was to make iterations to the home page and redesigned SRQR guidance based on evidence. To meet this aim, my objectives were to:
+My aim was to identify deficiencies of the home page and SRQR guideline page ("the website"). My objectives were to:
 
 * explore the experience of a diverse sample of authors,
-* identify and understand limitations deductively,
-* and identify possible modifications to address these limitations both inductively and deductively.
+* and to identify and understand deficiencies.
 
 ### Sampling strategy
 
@@ -15,19 +14,20 @@ My purposive sample of authors varied in their:
 * their first language,
 * and their country of residence. 
 
-This variation was important because my thematic synthesis (chapter {{< var chapters.synthesis >}}) suggested inexperienced authors may have the most to benefit from reporting guidelines, but also face the most hurdles. Inexperience may be due to early career stage, being new to a field or study design, or new to academic writing. My synthesis also suggested language barriers could hinder adherence, and my service evaluation of EQUATOR's existing website (chapter {{< var chapters.web_audit >}}) revealed a highly international userbase.
+This variation was important because my thematic synthesis (chapter {{< var chapters.synthesis >}}) suggested inexperienced authors may have the most to benefit from reporting guidelines, but also face the most hurdles. Inexperience may be due to early career stage, being new to a field or study design, or new to academic writing. My synthesis also suggested language barriers could hinder adherence, and my service evaluation of EQUATOR's existing website (chapter {{< var chapters.web-audit >}}) revealed a highly international userbase.
 
 Authors were eligible to participate if they were currently engaged in research utilizing qualitative methods, and if they were able to attend an online interview conducted in English. 
 
-I recruited through three channels:
+I recruited through four channels:
 
 1. I posted on X (called Twitter at the time). 
 2. I advertised through my manuscript checker, Penelope.ai. Many medical journals offer the tool to submitting authors. BMJ Open is the largest of these journals, and enjoys a large, international, author base. 
-3. I targeted Chinese researchers by writing to a Chinese qualitative researcher. 
+3. I invited researchers from a research consultancy in the Philippines.
+4. I invited a Chinese qualitative researcher who in turn posted the advert on internet forums used by Chinese students. 
 
 All channels invited authors to signal their interest by email. To check applicants' eligibility as qualitative researchers, I asked them to describe their research methods in a few sentences over email. I excluded applicants if their descriptions made no reference of a qualitative method.
 
-I sent all eligible applicants the participant information sheet and consent form. I used JISC Online Surveys to obtain consent and ask the following demographic questions:
+I sent all eligible applicants the participant information sheet and consent form. I used JISC Online Surveys #REF to obtain consent and ask the following demographic questions:
 
 * How many years have you done research?
 * Please describe your research in a couple of sentences
@@ -36,17 +36,19 @@ I sent all eligible applicants the participant information sheet and consent for
 
 I offered participants £50 reimbursement in return for an expected 2 hour commitment. This was a delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My recruitment advert, information sheet, consent form, and email templates are in Appendix #TODO. 
 
-Time and money limited my target sample size to 10 participants. I maximised information power @malterudSampleSizeQualitative2016 through other means. Firstly, I used methods to elicit ample information from each participant. Secondly, I used my table of intervention components as an analysis framework. Hence I anticipated a sample of 10 to sufficiently inform at least one design iteration. 
+Time and money limited my target sample size to 10 participants. I maximised information power @malterudSampleSizeQualitative2016 through other means. Firstly, I used methods to elicit ample information from each participant. Secondly, I used my table of intervention components as an analysis framework. Hence I anticipated a sample of 10 to sufficiently inform at least one design iteration at the end of data collection.
 
 ### Procedures
 
 I wanted to replicate certain aspects of real life. Firstly, interview sessions took place online using Microsoft Teams. This meant participants could view the website on their own computer, using their normal browser, in their usual place of work. This would allow me to identify problems with slow-loading over bad internet connections and display problems on different screen resolutions, whilst avoiding difficulties of asking a participant to use an unfamiliar computer or browser. 
 
-Secondly, I wanted to replicate the experience of encountering a new website as a naïve user, gradually exploring content, and then reading and applying guidance to one's own writing. I did this by using a variety of methods: 5 second test to capture initial reactions, think aloud to capture exploration, plus-minus task, a writing evaluation, and semi structured interviews throughout. Each method target multiple intervention components (see @tab-methods-for-components). The process was as follows:
+Secondly, I wanted to replicate the experience of encountering a new website as a naïve user, gradually exploring content, and then reading and applying guidance to one's own writing. I did this by using a variety of methods: 5 second test to capture initial reactions, think aloud to capture exploration, plus-minus task, a writing evaluation, and semi structured interviews throughout. I have outlined the order of data collection methods in @tbl-process-interviews. Each method targeted multiple intervention components (see @tbl-methods-for-components). 
 
-{{< insert _process.md >}}
+{{< include _process.md >}}
 
-{{< insert _table.qmd >}}
+{{< include _table.qmd >}}
+
+My interview schedule (appendix #TODO) included the verbal instructions for each task and topic guides for each semi-structured interview. I tested the interview schedule by doing a mock interview with a student at Oxford University.
 
 I began sessions by introducing myself as part of team creating a new website. To encourage open and truthful feedback I reassured participants the best way they could help was by being honest, not to worry about critiquing the website or offending me, and to share positive _and_ negative feedback. I asked participants to tell me a little about themselves to relax into the interview and help them feel comfortable talking, before moving on to the first task: the 5 second test. 
 
@@ -85,7 +87,7 @@ I asked participants to find the relevant guideline for reporting qualitative re
 
 ### Semi-structured interview 3 - SRQR guideline page
 
-Because the SRQR guidance is very long, I stopped participants from thinking aloud once they reached the guidance itself. I then used semi-structured interview questions to explore any intervention components missed by the think aloud, and to explore participants' expectations of four key features within in guidance: defined words (signified by a dotted underlines), footnotes (signified by a superscript number), links to discussion boards (signified by an icon), and drop down content (signified by a chevron icon). I pointed to an example of each and asked participants what they expected to happen if they clicked on it.
+Because the SRQR guidance is long, I stopped participants from thinking aloud once they reached the guidance itself. I then used semi-structured interview questions to explore any intervention components missed by the think aloud, and to explore participants' expectations of four key features within in guidance: defined words (signified by a dotted underlines), footnotes (signified by a superscript number), links to discussion boards (signified by an icon), and drop down content (signified by a chevron icon). I pointed to an example of each and asked participants what they expected to happen if they clicked on it.
 
 This marked the end of the first interview session. I then explained the plus-minus and writing tasks participants needed to complete before the second session.
 
@@ -107,5 +109,32 @@ In the plus-minus task described above, I asked participants to select a few rep
 
 In the second interview, inspired by Davies et al.'s SQUIRE guidelines evaluation @daviesFindingsNovelApproach2016, I asked participants to identify parts of their writing pertaining to reporting items. When I considered an item (or sub item) to be missing, I asked the participant whether they had reported this information. If they felt they had, I asked them to point out where, and then explored any misinterpretations. If they had _not_ reported information, I asked why. 
 
+#### Semi-structured interview 4 - closing thoughts
 
+To end the second interview session I asked participants to describe their experience of using the reporting guideline, and to share any final thoughts.
 
+### Data processing and analysis
+
+I recorded video and audio transcriptions using Microsoft Teams. Because automatic audio transcription was not always accurate, I corrected them by rewatching the videos. I de-identified transcripts by replacing names with participant codes, before uploading them to NVivo for coding @qsrinternationalptyltd.NVivo2020.
+
+I began by coding speakers and data collection methods as cases. I then used my intervention ingredient table (see chapter ({{< var chapters.defining-content >}}) as a framework to code transcripts line by line. I did this deductively; whenever a participant said anything about a component, I coded text to that component. Because some website features implemented multiple components (for example, an image can both educate and persuade), I sometimes coded text to multiple components. In this way, I created categories of codes, and each category was an intervention component.
+
+Once all transcripts were coded, I grouped my categorised codes into deficiencies. If a single component was deficient in multiple ways, I created a code group for each deficiency. If there was disagreement about a deficiency (e.g. some people disliked a component, but others liked it), then I created sub-groups within each deficiency. Although positive feedback did not directly address my objective of identifying deficiencies, I kept these codes because they provided context and counter-evidence to deficiencies. If an intervention component had nothing but positive codes, I grouped these as a strength. #ASK is this clear?
+
+Some participants spontaneously suggested modifications. In these instances, I coded the proposed modification and the underlying deficiency. Because some participants spontaneously shared prior experiences using reporting guidelines I coded these using my list of barriers from {{< var chapters.workshops >}} as a framework. I decided to create new codes for any barriers not previously identified. 
+
+In this way, I ended up with a list of deficiencies (my primary unit of analysis), and incidental lists of barriers and possible modifications.
+
+### Trustworthiness
+
+As with previous chapters, I used a number of techniques to ensure credibility, transferability, dependability, and confirmability @lincolnNaturalisticInquiry1985. I describe these in @tbl-trust-interviews.
+
+{{< include _table_trust.md >}}
+
+### Ethics
+
+Oxford University's Medical Sciences Interdivisional Research Ethics Committee deemed this study to be a service evaluation, and so judged ethical approval unnecessary. 
+
+### Reporting
+
+I used SRQR @obrienStandardsReportingQualitative2014 when outlining this chapter, and again to check my reporting during revision. 

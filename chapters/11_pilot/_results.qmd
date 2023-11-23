@@ -1,32 +1,35 @@
-Think aloud not so useful for lots of text. Participants just read the text out loud. 
+## Results
 
-definitions. Don't use complicated words in the definitions. (WH~min 35)
+### Recruitment
 
-OMK - very ECR (pre PhD)
+Recruitment ran from 21/03/2023 until 9/08/2023. The number of people expressing interest, eligible, consenting, and participating and shown in @tbl-interview-recruitment, as are the reasons for drop out. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, first language, and experience in using reporting guidelines. Seven participants had never heard of reporting guidelines before, one had but did not remember whether they had used one, two had used a guideline before, and one had used many reporting guidelines before. The first interview lasted between 45 minutes - 1.5 hours, and the second interview lasted 30-45 minutes.
 
-OMK - No idea what RGs are. Did not understand the value proposition at all, did not think the website was trustworthy, and got nothing from the text nor image. But as she explored the home page she "got it". She eloquently explained the importance of the top of the page. Shows the difficulty in concisely communicating at the top of home page. 
+{{< include _table_recruitment.md >}}
 
-OMK - at first not bothered about why items are important, but my human explanation convinced her
+{{< include _table_participants.md >}}
 
-CW - different frame of mind storyline
+### Design Iteration
 
-Surprised by how frequently examples are mentioned. 
+I had originally planned to finish data collection before making any changes to the website. However, the first five participants consistently mentioned #TODO deficiencies pertaining to #TODO components. After reflecting and discussing with UK EQUATOR staff, we agreed these deficiencies would likely affect many authors and diminish the website's success, and so we decided to iterate our design. The components we changed, deficiencies, quotes, and modifications are in #TODO table.
 
-testimonials / quotes were polarizing. Deprioritize?
+### Main findings
 
-Comparison with old website - came up organically (one asked about permanence, another accidentally clicked on a link, a third remembered having used it before). OMK took 8 minutes to find SRQR E&E and said she would have given up. 
+`
+* The purpose of this study was to identify deficiencies in a redesigned reporting guideline and EQUATOR Network home page. I identified #TODO deficiencies, pertaining to #TODO components. #TODO components were deficient in more than one way, #TODO components received praise with no mention of deficiency, and #TODO components were not mentioned by participants at all. Table #TODO shows themes, quotes, and codes, for each intervention component. I have described simple deficiencies only in the table, but I will not discuss some in more detail. I have chosen these deficiencies because they were frequently mentioned or involved interactions between components.
 
-JZ - difficult to apply. Guidance is clear, but how do you start writing with it? Made me reflect on my own experience with the writing clearly book. For me, the "try this..." list at the end of each chapter was useful.
+#### Detailed themes
 
-JZ (and others) - consistent terms. Ironic that I did not.
+#### Intervention components not mentioned 
 
-Reassurance about structure / customisability could be dotted throughout the guidance. 
+* Some were not tested
+* For some, it is good that they were not mentioned
+* For others, might be because they were not prominent or they were nuanced. 
+`
 
-Example solutions to make guidance easier to apply:
 
-* simplest for title and abstract, because those are easy to write
-* harder for e.g. intro because a lot of variation for structure
-* Questions like "When did you recruit?" could be useful, especially at the beginning. 
-* Examples would also be useful
-* Links to general writing training could be useful
+
+
+
+
+
 
