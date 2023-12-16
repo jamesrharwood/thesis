@@ -4,6 +4,41 @@ words = 0
 characters = 0
 characters_and_spaces = 0
 process_anyway = false
+tables = 0
+figures = 0
+citations = 0
+table_words = 0
+citation_words = 0
+references_words = 0
+div = 0
+divs = 0
+
+table_wordcount = {
+  Str = function(el)
+    -- we don't count a word if it's entirely punctuation:
+    if el.text:match("%P") then
+        table_words = table_words + 1
+    end
+  end,
+}
+
+references_wordcount = {
+  Str = function(el)
+    -- we don't count a word if it's entirely punctuation:
+    if el.text:match("%P") then
+        references_words = references_words + 1
+    end
+  end,  
+}
+
+citation_wordcount = {
+  Str = function(el)
+    -- we don't count a word if it's entirely punctuation:
+    if el.text:match("%P") then
+        citation_words = citation_words + 1
+    end
+  end,  
+}
 
 wordcount = {
   Str = function(el)
@@ -33,7 +68,21 @@ wordcount = {
     text_nospace = el.text:gsub("%s", "")
     characters = characters + utf8.len(text_nospace)
     characters_and_spaces = characters_and_spaces + utf8.len(el.text)
-  end
+  end,
+
+  Table = function(el)
+    tables = tables + 1
+    pandoc.walk_block(pandoc.Div(el), table_wordcount)
+  end,
+
+  Image = function(el)
+    figures = figures + 1
+  end,
+
+  Cite = function(el)
+    citations = citations + 1
+    pandoc.walk_block(pandoc.Div(el), citation_wordcount)
+  end,
 }
 
 -- check if the `wordcount` variable is set to `process-anyway`
@@ -46,10 +95,14 @@ end
 
 function Pandoc(el)
     -- skip metadata, just count body:
+    -- pandoc.walk_block(pandoc.Div(el.blocks), replaceTables)
     pandoc.walk_block(pandoc.Div(el.blocks), wordcount)
-    print(words .. " words in body")
-    print(characters .. " characters in body")
-    print(characters_and_spaces .. " characters in body (including spaces)")
+    references = pandoc.utils.references(el)
+    pandoc.walk_block(pandoc.Div(references), references_wordcount)
+    print(words)
+    print(table_words)
+    print(tables)
+    print(figures)
     if not process_anyway then
       os.exit(0)
     end

@@ -1,28 +1,18 @@
-{{< pagebreak >}}
-
-::: {.landscape}
-
-```{python}
-#| column: page
-#| echo: false
-#| output: asis
-
 import os
-import yaml
-from IPython.display import Markdown, display
-from tabulate import tabulate
-from data import BARRIERS
-import texttable
 from collections import defaultdict
 
-SEE_ABOVE = ""
+import yaml
+import texttable
 
-COLS = ['Method', 'Intervention Components']
+COLS = ['Method', 'Intervention Components (defined in chapter {{< var chapters.defining-content >}})']
 COL_RANGE = range(len(COLS))
 WIDTHS = [500, 500]
 ALIGNMENTS = ['l' for _ in COL_RANGE]
 DIR = os.getcwd()
 FP = os.path.join(DIR, 'chapters', '9_defining_content', 'planning_table.yaml')
+OUTPUT = os.path.join(DIR, 'chapters', '11_pilot', 'data', '__methods_table.md')
+
+
 with open(FP, 'r') as f:
     data = yaml.safe_load(f)
 components = []
@@ -67,13 +57,20 @@ table.set_cols_width(WIDTHS)
 table.set_header_align(ALIGNMENTS)
 for method in method_names.keys():
     components = components_by_method[method]
-    component_string = ",\n\n".join([comp['name'] for comp in components])
-    #table.add_row([method, component_string])
-    table.add_row([method_names[method], component_string])
-print(table.draw())
-```
+    component_names = [comp['name'] for comp in components] # type: ignore
+    NAMES = ",\n* ".join(component_names) # type: ignore
+    NAMES = "\n* " + NAMES + "\n"
+    table.add_row([method_names[method], NAMES])
 
-: Methods used to explore intervention components. Intervention components are defined in chapter {{< var chapters.redesign >}}.{#tbl-methods-for-components}
+text = f"""::: {{.landscape .column-page-right}}
+
+{table.draw()}
+
+: Methods used and the intervention components they explore. Intervention components are defined in chapter {{{{< var chapters.defining-content >}}}} {{#tbl-methods-for-components}}
 
 :::
 <!-- end landcape -->
+"""
+
+with open(OUTPUT, 'w') as file_:
+    file_.write(text)

@@ -1,0 +1,23 @@
+#### {{< var intervention-components.design-benefits.title >}}
+
+**Participant's described the design as simple, but to some this made it seem basic and less trustworthy**
+
+We were aiming to communicate simplicity and that the website was there to help, not to dictate or judge. 
+
+Original designs were possible too simple. Participants described original designs as "clinical" PT-RW, "basic" {{< var pilot.participants.PPT-VS >}}, "just the bones of a website" {{< var pilot.participants.PPT-RW >}}, and although it was "welcoming and straightforward" {{< var pilot.participants.PPT-BH >}}, participants recommended "more vivid colour" {{< var pilot.participants.PPT-MJ >}} or "animations" {{< var pilot.participants.PPT-BH >}}.
+
+Later designs fared better. Still "simple design uncluttered" {{< var pilot.participants.PPT-HA >}}
+
+> "Uses a lot of, you know, white space to emphasise the simplicity of finding what you want to find" {{< var pilot.participants.PPT-HA >}}
+
+A participant who saw the first and second versions said  {{< var pilot.participants.PPT-MJ >}}
+
+> "It's better. [...] It's it's more fun, it's more attractive [...] I loved the colour of the picture because I'm such a person which pays attention to the color first [...] And I also like, I think like the size and the style of the characters. I also feel comfortable for the first impression." {{< var pilot.participants.PPT-MJ >}}
+
+The only notable exception was one participant, saying about the top of the SRQR page "There's so much going on.
+I'm like, where should I read first?" {{< var pilot.participants.PPT-CW >}}
+
+**The tone of voice could be friendlier**
+
+SRQR item 3 asks authors to describe "gaps in current knowledge (the problem statement)". One participant said "I think it it's probably a bit short [...] I guess just a few more words to kind of articulate that better or give it a bit more detail, might be helpful so you know, like, _'what are the current...what is currently known about this topic and where do the gaps lie?'_ or something like that?", striving for a "friendlier way of writing it" whilst reducing ambiguity ({{< var pilot.participants.PPT-VS >}}).
+

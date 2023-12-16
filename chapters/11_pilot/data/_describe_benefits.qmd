@@ -1,0 +1,53 @@
+#### {{< var intervention-components.describe-benefits.title >}}
+
+_Relevant website features: {{< var intervention-components.describe-benefits.description >}}_
+
+_Barriers addressed: {{< var intervention-components.describe-benefits.barriers >}}_
+
+
+**Benefits are clear, but could be communicated quicker**
+
+We wanted website visitors to immediately expect the website to benefit them as researchers and authors. The website headline is one of the first things visitors see, and so was an important feature for communicating benefits. In the first iteration the heading was _"Research articles, made simple"_, but participants thought this was about _reading_ or _explaining_ research articles. In the second iteration, we changed this heading to _"Want help writing up research?"_. 
+
+All participants talked about benefits or help. None talked about the opposite (e.g., rules, requirements, or red tape). In the 5 second test, some of these descriptions were vague:
+
+> "I see research and writing. So i'm thinking. This is to help me with something with my job." {{< var pilot.participants.PPT-RW >}}
+
+> "so it's going to assist me in research. It's going to help me somehow. Make things easier for me." {{< var pilot.participants.PPT-MJ >}}
+
+Under the headline, we included a short statement: _'reporting guidelines help you describe research quickly, confidently in completely'_. Two participants did not find this brief text meaningful in the five second test:
+
+> "I tried to read the sub headline just below the biggest one and it says help you blah blah confidently and blah blah. [...] So I think this information maybe be meaningless for me [...] because it sounds like it didn't provide some concrete information. It's just a sentence that tried to cheer me up." {{< var pilot.participants.PPT-JZ >}}
+
+> "And then there's something to do with _'reporting guidelines help you describe research quickly, confidently in completely'_. This information is not really telling me much" {{< var pilot.participants.PPT-OMK >}}
+
+However, they seemed to understand the reported benefits after reading the top of the home page in more detail, and after vieweing the section below where benefits are stated more clearly (e.g.,). Similarly, other participants began to understand the benefits and link them to their own experiences as authors. 
+
+> "OK, I think this part is very great because when I when I see something like _"easy writing"_, _"smoother publishing"_ I think _"Ohh, that's great. That's what I want."_" {{< var pilot.participants.PPT-JZ >}}
+
+> "Participant: Now I'm getting a sense of what the website is about. Now looking at the things down here...
+>
+> Interviewer: OK.
+>
+> Participant: I'm getting that might be a useful resource. That actually, umm, because these areas I think for... early career researchers like me, I'd say I'd be very interested to come in and see this." {{< var pilot.participants.PPT-OMK >}}
+
+Participants seemed to understand how reporting guidelines might make publishing "smoother". 
+
+> "it gives me an impression that maybe this website will help me write my work easily and it will also help me increase the chance of my work getting published" - {{< var pilot.participants.PPT-BH >}}
+
+> "Umm, just aligning myself to this standard that already many people use. And hopefully, In doing that, I'll be up to standard and then I won't stress myself too much later." {{< var pilot.participants.PPT-BH >}}
+
+**Making a distinction between benefits to authors and readers may lead to confusion about the intended user**
+
+Further down the home page, the section title _'Helping authors and readers'_ made one participant expect the website to also host resources for readers.
+
+"So this is a bit weird. So is the point here that this one is for the writers. And now it's saying, OK, but we can also help readers. OK, I suppose that's interesting." PPT-CW
+
+**The images depicting benefits could be clearer**
+
+One participant said the icons describing writing and impact were appropriate (a blank page and an award, respectively), but the image depicting "smoother publishing" was not intuitive. 
+
+> "looking at that icon, it doesn't really tell me anything about smoother [publishing]." {{< var pilot.participants.PPT-HA >}}
+
+
+

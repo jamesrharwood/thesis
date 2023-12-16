@@ -2,34 +2,118 @@
 
 ### Recruitment
 
-Recruitment ran from 21/03/2023 until 9/08/2023. The number of people expressing interest, eligible, consenting, and participating and shown in @tbl-interview-recruitment, as are the reasons for drop out. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, first language, and experience in using reporting guidelines. Seven participants had never heard of reporting guidelines before, one had but did not remember whether they had used one, two had used a guideline before, and one had used many reporting guidelines before. The first interview lasted between 45 minutes - 1.5 hours, and the second interview lasted 30-45 minutes.
+I recruited participants between 21/03/2023 until 9/08/2023. The number of people expressing interest, eligible, consenting, and participating and shown in @tbl-interview-recruitment, as are the reasons for drop out. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, first language, and experience in using reporting guidelines. Six participants had never heard of reporting guidelines before. One had, but did not remember which one they had used. Three participants had used a reporting guideline before, and one had used many reporting guidelines before. The first interview lasted between 45 minutes - 1.5 hours, and the second interview lasted 30-45 minutes.
 
 {{< include _table_recruitment.md >}}
 
 {{< include _table_participants.md >}}
 
-### Design Iteration
+### Design Iterations
 
-I had originally planned to finish data collection before making any changes to the website. However, the first five participants consistently mentioned #TODO deficiencies pertaining to #TODO components. After reflecting and discussing with UK EQUATOR staff, we agreed these deficiencies would likely affect many authors and diminish the website's success, and so we decided to iterate our design. The components we changed, deficiencies, quotes, and modifications are in #TODO table.
+I had originally planned to finish data collection before making any changes to the website. However, the first five participants consistently mentioned similar deficiencies. After reflecting and discussing with UK EQUATOR staff, we agreed these deficiencies would likely affect many authors and diminish the website's success, and so we decided to iterate our design.
+
+Briefly, the changes we made included:
+
+-   Editing the text at the top of the home page for clarity and to emphasise benefits.
+-   Adding images to home page to make the page more attractive and to convey meaning of accompany text.
+-   Addition of publisher logos to foster trust
+-   Reorganisation of the introduction to SRQR to make it appear shorter.
+
+The results below include quotes and discussion pertaining to these changes.
 
 ### Main findings
 
-`
-* The purpose of this study was to identify deficiencies in a redesigned reporting guideline and EQUATOR Network home page. I identified #TODO deficiencies, pertaining to #TODO components. #TODO components were deficient in more than one way, #TODO components received praise with no mention of deficiency, and #TODO components were not mentioned by participants at all. Table #TODO shows themes, quotes, and codes, for each intervention component. I have described simple deficiencies only in the table, but I will not discuss some in more detail. I have chosen these deficiencies because they were frequently mentioned or involved interactions between components.
+I identified {{< var.counts.pilot.deficiencies >}} deficiencies. Table @tbl-deficiencies-by-component shows deficiencies, quotes, and codes, for each intervention component. I have chosen to describe a few deficiencies in more detail, either because I deemed them important, they were frequently mentioned, or involved interactions between components.
 
-#### Detailed themes
+{{< include data/_describe_rgs.qmd >}}
 
-#### Intervention components not mentioned 
+{{< include data/_design_trust.qmd >}}
+
+{{< include data/_describe_benefits.qmd >}}
+
+{{< include data/_clarify_tasks.qmd >}}
+
+{{< include data/_examples.qmd >}}
+
+{{< include _table_results_generation.qmd >}}
+
+#### Intervention components not mentioned
+
+``` 
+Thirteen intervention components received only one mention, or no comments at all. 
+
+Three of these were purposefully not tested: none of the methods I used were targeting that component and I did not ask about it in the semi structured interview. 
+
+For # others, it was good that nobody mentioned them. For example, 
 
 * Some were not tested
-* For some, it is good that they were not mentioned
-* For others, might be because they were not prominent or they were nuanced. 
-`
+* For some, it is good that they were not mentioned (e.g. avoid judgmental language or)
+* For others, might be because they were not prominent (either on purpose or by accident)
+```
 
+#### Barriers
 
+Participants naturally discussed barriers and facilitators they encountered when applying guidance, either during this study or in their previous experience. I had identified many of these factors in my previous work (chapters {{< var.chapters.synthesis >}}-{{< var chapters.web-audit >}}. Barriers that were mentioned independently of the website being studied included:
 
+- Not having known what reporting guidelines were earlier in their career
+- Feeling frustrated when asked to use a reporting guideline or checklist when they have already finalised their manuscript and are submitting to a journal.
+- (previously) finding the checklist, but not the full guidance
+- Being limited by journal requirements and word limits
+- struggling to keep writing concise and fluid
+- needing more guidance
+- being unable to report an item because it is their colleague's responsibility, or because they hadn't done what was being asked when designing their study or collecting data.
+- paywalls
 
+Participants also mentioned facilitators that were not addressed by the website:
 
+- Using reporting guidelines for teaching students
+- Wanting guidance for funding applications
+- Funders enforcing reporting guidelines
 
+However, participants also mentioned some new barriers that I had not identified previously. These included:
 
+- When guideline author names appear Western, some (non western) participants expected the guidance to be less relevant to them.
+- When a guideline is described as "version 1.0", this might make people feel like the guidance is (too) new, and therefore less trustable.
+- the loading speed of websites (which was not an issue for this one)
+- not understanding reviewer feedback
+- not wanting to read on a screen
+- not understanding the relationship between the EQUATOR Network and the guidelines or guideline developers.
 
+#### Comparisons between the website being tested and the old EQUATOR website & guideline publications.
+
+```         
+This happened organically. One participant had used a guideline before and wanted to retrace their steps to show me which one. Two others wanted to continue using reporting guidelines in the future and asked me where they could be found. Some others spontaneously reflected on their previous experience.
+
+Responses upon viewing EQUATOR's old website included:
+
+* confusion
+* negative reactions
+
+When I asked one participant to find the SRQR guidance using EQUATOR's old website it took her 8 minutes, during which she gave up twice. A second participant managed it a few minutes faster, but in the end, both managed to find the checklist within the SRQR publication, but neither found the full guidance (which is a supplement). 
+
+One participant (PPT-CW) said In session 1 that they would prefer to get the publication directly. So they went to pubmed and upon reading the sentence in the abstract (where it mentions "The authors define and explain key elements of each item and provide examples" #REF) said "So this is this is the stuff that you know that I want to know". They worried they would not be able to access the article if it was paywalled because they were working from home. However, from there, they ran intro trouble. First, they struggled to find the button to download the article as a PDF "I get irritated because I can't see where I can download the PDF". They then hunted for the guidance within the manuscript: "So in the interest of time, I would skim read all of [the article], and I don't really care what they did to come up with it....I don't care about the discussion". Eventually, two minutes after opening the article, they found the checklist table and stopped searching. They did not find the full guidance (which is in a supplementary file). Because the checklist did not include examples (these are in the supplement) they were forced to "look at the reference list to see if there was potentially an example paper" or to "go back to Pub Med and search for an article that used these guidelines". 
+
+Another participant tried to find the original SRQR guidance because she wanted to continue using the guideline after the study finished. She started on the EQUATOR Network home page. On first impression, she felt the home page looked "full" and "rich". I then observed as she tried to find the SRQR guidance from the EQUATOR home page without assistance. After two minutes, they had managed to search for the word "qualitative" but were stuck on the search results page. "I wanted qualitative researcher guidance.
+I don't know what the rest of this is...I am confused." She gave up at this point, so I told her where to click to reach SRQR's entry on EQUATOR's database page. After another minute, they were unsure where to click next, and ended up "go[ing] back in this point and see if I missed something." Giving up again, I told them where to click to access the SRQR publication. After accessing the article, they were "expecting to find the guidance down there" (below the Methods). After 8 minutes and giving up twice, the participant never found the checklist nor the full guidance. 
+
+Another participant (PPT-SK) also asked to see the original publication. When comparing the publication with the website they said "Your website is actually making [the guidance] a bit more precise and to the point, right? I don't need the other details over here [referring to the background, methods, and discussion of the publication] when I want the SRQR guidelines, right? So your website is doing, in fact, a good job here." When I showed them the original SRQR full guidance (the supplement), they said:
+
+"Participant: That's too heavy on the content.
+
+Interviewer: So if if the option was between this this version that you're looking at now [the supplement] and the the website that you saw first, which do you think you prefer to use?
+
+Participant: I think [the website] is far better than the [supplement]. Yeah, this one [the website] is far better."
+
+Another participant (PPT-VS) had used the EQUATOR Network website before and wanted to retrace their steps. Upon seeing the old website, they described it as "boring", saying "the colours just look, like, outdated. It looks quite text heavy."
+
+Recounting their previous experience, they said, "Not that long ago I went on to the site because I was looking to complete a reporting checklist and it seemed clear to find the checklist that I wanted. But when I went through the checklist, it wasn't appropriate. And then I just ended up feeling a bit unsure about what it is, which was the best one to go for."
+
+Another participant reflected on their previous experience of using the PRISMA guidelines and explanation document. They said:
+
+"I rather prefer this form [the website] of guidance than the other one. There can be a lot more information that are being presented in this way. Information which... you know... the fact that you can choose to extend, choose to follow the link or not. For example [...] I don't need so much about the title, all I need is this and this [the instructions of what to describe] to be familiar with the title so that's fine I don't need to open this [the drop down content]. And then the abstract. Maybe I need more information on the abstract. I can use the different links and this drop down menu here. I I think that's useful. That's better because it it's more (how can I say?) well presented.
+Well presented, well laid out, so that where I need to go deeper, I can go easily. Where I need just surface information or the parts that I'm already familiar with, I can just scroll through and continue to move and stuff. Plus I think nearly all the information that the other the document, like the PRISMA elaboration and explanation document all, nearly all of them can be put into a page like this with without having to, you know, make the page too bulky. Presenting it even in a better way. So I think I'll prefer something presented in this way than the than the document that I read".
+
+MJ said of EQUATOR's website "Ohh no I I didn't like it. The [new] one is much, much better." They elaborated that they found the website to look more trsutworthy, more organised, and they preferred the font and colours. However, they did like the coloured boxes on the old website. 
+
+HA - as an experienced reporting guideline user, they remembered liking that the old website had short cut links to frequently accessed reporting guidelines. 
+```

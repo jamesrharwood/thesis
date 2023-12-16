@@ -1,11 +1,15 @@
-preview:
-	@quarto preview
+preview: create_tables
+	@quarto preview --watch-inputs
 
 publish: create_vars render 
 	@quarto publish gh-pages --no-render
 
-render: add_footer update_wordcounts
+render: add_footer update_wordcounts create_tables
 	@quarto render
+
+create_tables:
+	@python chapters/11_pilot/data/create_methods_table.py
+	@python chapters/11_pilot/data/create_table.py
 
 commitID = $(shell git rev-parse --short --verify HEAD)
 date = $(shell date)

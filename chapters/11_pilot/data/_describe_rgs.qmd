@@ -1,0 +1,38 @@
+#### {{< var intervention-components.describe-what-rgs-are.title >}}
+
+_Relevant website features: {{< var intervention-components.describe-what-rgs-are.description >}}_
+
+_Barriers addressed: {{< var intervention-components.describe-what-rgs-are.barriers >}}_
+
+Because it is important that future website visitor website visitors quickly realise that the site contains resources for _writing up_ research articles, as opposed to _designing_ or _appraising_ studies, I used the 5 second test to explore what participants understood the website to be about upon first impression. This was the first time participants saw the website. Before then, they had no idea what it would be about.
+
+**On immediate impression, some participants quickly realised the website was about writing, but some did not, or thought it was about methodological guidelines**
+
+All participants realised the website was about research. Some researchers realised the website was about writing within 5 seconds: 
+
+> "From what I have seen, I think probably the website should be about, uh, helping you try to discover....identify the guidelines that you will use for writing your study quickly." {{< var pilot.participants.PPT-BH >}}
+
+> "how to go about writing something" {{< var pilot.participants.PPT-SK >}}
+
+However, other participants gleaned only vague understandings like "support for doing research" ({{< var pilot.participants.PPT-JZ >}}) or "guidelines of some sorts, I think in relation to research" ({{< var pilot.participants.PPT-OMK >}}), and one expected the website to be about methodological guidance:
+
+> "methodology guidelines one can use or follow when conducting research" {{< var pilot.participants.PPT-VS >}}
+
+Participants with previous experience using reporting checklists recognized that the website might be about reporting guidelines:
+
+> "Well, I hadn't seen the the guide that I'm familiar with (that is the COREQ). But I think the other guides also are like COREQ. So that's what comes to my mind. So I think it's a [website] where you are going to find all the checklists or the guides for all the [...] final stages of the research when we are, like, writing the paper, just to [...] double check that everything has been included." {{< var pilot.participants.PPT-MJ >}}
+
+> "That's the EQUATOR guidelines, so that's... consensus... expert consensus-developed guidelines for the reporting of different research." {{< var pilot.participants.PPT-HA >}}
+
+> "[I read that] you can use reporting guidelines to try and help you [write research articles] more efficiently or quickly. And then I was thinking about, what the heck are reporting guidelines? And then I think it might be stuff like STROBE or like those checklists things or PRISMA, if you're doing a systematic review or something. And that's all I got" {{< var pilot.participants.PPT-CW >}}
+
+Given a few more seconds to explore the website on their own (during the think aloud task), all participants realised that the guidelines were for writing and others gained more insight into what to expect from reporting guidelines.
+
+> "after reading this sentence I think you want to give me a framework, a framework about writing. Is that right?"
+
+> "I think the guideline would, uh, would clearly state the different sections of the research report or the manuscript and then whatever is required under a section like maybe under methods. Like what are the nitty gritties required under method." {{< var pilot.participants.PPT-BH >}}
+
+Some participants found later, longer form descriptions more informative. Referring to content half way down the landing page, one participant said: 
+
+> "Why couldn't this be further up? Why can't that be at the top and then the that stuff here follow? Because then I'd have a better idea of what this is about.[...] I would have liked to have read this at the top and I would have known straight away what this whole website was about." {{< var pilot.participants.PPT-CW >}}
+

@@ -1,0 +1,45 @@
+#### {{< var intervention-components.clarify-tasks.title >}}
+
+_Relevant website features: {{< var intervention-components.clarify-tasks.description >}}_
+
+_Barriers addressed: {{< var intervention-components.clarify-tasks.barriers >}}_
+
+**Tools for drafting and checking were mostly intuitive, but could be more prominent.**
+
+The home page included a section describing how templates and checklists could be used to draft and check manuscripts. Participants seemed to find these intuitive and appealing:
+
+> "I like that: different stages and different tools" {{< var pilot.participants.PPT-MJ >}}
+
+> "Yeah, writing templates is something I've recently come across, and I think that might be useful. I've tried it a bit when writing abstracts. And I guess, yeah, that would be something I'd be interested in looking into further." {{< var pilot.participants.PPT-VS >}}
+
+Even though participants could not download templates or checklists, they had expectations of what these resources might look like.
+
+> "The checklist could be a pre-populated document that I can go through..it may have a table that I could go through as a tick box exercise ticking which of the \[guideline reporting items\] my study includes." {{< var pilot.participants.PPT-VS >}}
+
+> "[Regarding templates] I would like to adjust this template by myself. Just like a semi structured interview. I don't want this template be a structured interview. I want it to be semi structured so I can have the space to adjust it." {{< var pilot.participants.PPT-JZ >}}
+
+Putting this information further up the page might help visitors "get" what RGs are about
+
+> "would actually be very good to appear [higher up the page] because then it would now start opening up one's understanding as to exactly where this kind of guidelines might be applied." {{< var pilot.participants.PPT-OMK >}}
+
+> "If any of these things: *writing research*, *checking manuscripts* and *planning research*, if these can be consolidated on [the top of] your landing page somewhere [...] it might might be beneficial because my thought process is that I need to know what I'm doing and only then reporting guidelines can help me, right? So if I know that this website gonna help me with writing the manuscripts, checking [...] I think then, reporting guidelines can make a logical progression in that particular case?" {{< var pilot.participants.PPT-SK >}}
+
+**Using a reporting guideline "for planning" was not intuitive**
+
+The home page instructed that reporting guidelines can be used when planning research, but will not dictate design decisions. The SRQR page had a button to download a "log book" where researchers could document the decisions and data they would later need to report. However, no participants understood what this log book might be:
+
+> "it's not immediately intuitive what a log book might be" {{< var pilot.participants.PPT-BH >}}
+
+> "OK, what's a log book? Don't know." {{< var pilot.participants.PPT-CW >}}
+
+> "nothing has been mentioned about the log book overhead. How [am I] gonna use the log book? Maybe you have mentioned about the template checklist, but uh, maybe we can add [something about] the log book." {{< var pilot.participants.PPT-SK >}}
+
+The word "planning" was not intuitive either. One thought this meant planning a manuscript, and so confused the purpose of the log book with that of the template. Another interpreted it as guidance for writing a research proposal.
+
+> "When I when I'm reading planning research, I think maybe I have already done this when I design my own outline." {{< var pilot.participants.PPT-JZ >}}
+
+> "To write can help you plan a study. Yeah, I guess it's... I I would have thought this might be useful if you're writing a research grant or a research proposal." {{< var pilot.participants.PPT-VS >}}
+
+I had ordered the tasks and tools as "drafting", "checking" and then "planning". I put planning at the end because it is the least conventional way to use a reporting guidelines. Some participants questioned this ordering:
+
+> "Why is planning at the end? You have to plan first before you write." {{< var pilot.participants.PPT-CW >}}

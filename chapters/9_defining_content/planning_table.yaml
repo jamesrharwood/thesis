@@ -90,7 +90,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Environmental Restructuring
         BCT: Restructuring the physical environment
         done: true
-        evaluation_methods: false
+        evaluation_methods: think aloud
         id: link-related-rgs
       Embed reporting guidelines that "fit together":
         before: Checklists and their extensions are published separately. The best example of modular guidance is perhaps the JARS guidelines, but even these are published as separate documents.
@@ -114,7 +114,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Enablement
         BCT: Restructuring the physical environment
         done: true
-        evaluation_methods: false
+        evaluation_methods: think aloud
         id: centralised-hosting
       Search function on website:
         before: EQUATOR's search function was difficult to find.
@@ -126,7 +126,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Restructuring the physical environment
         done: true
         id: search-function
-        evaluation_methods: false
+        evaluation_methods: think aloud
       Search Engine Optimization:
         before: EQUATOR's website did not make use of some commonly used search optimization heuristics. It ranked well for guideline acronyms (like STROBE) but not for general terms that naive authors may use, like "observational epidemiology" or "how to write-up research". The site wasn't optimized for viewing on mobile devices, which will also harm google search rankings. 
         before_example: (Not visible)
@@ -195,7 +195,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         IF: Education
         BCT: Instruction on how to perform the behavior
         done: true
-        evaluation_methods: false
+        evaluation_methods: think aloud
         id: no-better-rg
       # Decision tools (see above):
       #   before:
@@ -250,7 +250,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         BCT: Demonstration of the behavior
         done: true
         evaluation_methods: think aloud, interview
-        id: testimonial-nervous
+        id: testimonials-nervous
       Decrease fear of judgement by making reporting guidelines design agnostic:
         before: Reporting guidelines may conflate reporting advice with design advice or design assumptions. The justification for why an item is important to describe is frequently presented in terms of good and bad design.
         before_example:
@@ -360,12 +360,12 @@ Apply reporting guidance to writing:
       Include design, features, and language to foster trust:
         before: Website design looked amateur. Citation metrics are available for guideline publications, but are not displayed on the EQUATOR website or within the guidance publications or checklists themselves. Guidelines were often preceeded by lengthy explanations of development.
         before_example: See @fig-db-b4
-        now: Design looks professional. Citation metrics are presented at the top the reporting guidance. Information about who developed the guidelines, how they developed it, and why the guidance is credible is still provided, and easily findable from the top of the guidance.
+        now: Professional design. EQUATOR's Logo remains prominent. Citation metrics are presented at the top the reporting guidance. Information about who developed the guidelines, how they developed it, and why the guidance is credible is still provided, and easily findable from the top of the guidance.
         now_example: See @fig-rg-intro
         IF: Persuasion
         BCT: Credible source, Social comparison
         done: true
-        evaluation_methods: think aloud
+        evaluation_methods: think aloud, 5 second test
         id: design-trust
       Create spaces for authors to discuss reporting guidelines with others:
         before: There were no official on- or offline spaces for authors to discuss guidelines. 
@@ -377,7 +377,7 @@ Apply reporting guidance to writing:
         done: true
         evaluation_methods: think aloud, interview
         id: discussion-spaces
-      Use language and design to communicate personal benefits; confidence and simplicity:
+      Use tone of voice and design to communicate personal benefits; confidence and simplicity:
         before: Guidance text made little use of a reassuring tone or words. The EQUATOR website and guideline articles looked dense and complex.
         before_example: See @fig-home-b4 and @fig-rg-intro-b4
         now: A clean, simple interface for the home page and guidance pages. Text uses phrases like "confidence", "quick", "maximum impact".
@@ -503,7 +503,7 @@ Apply reporting guidance to writing:
         IF: Education
         BCT: Information about social and environmental consequences
         done: true
-        evaluation_methods: false
+        evaluation_methods: think aloud
         id: why-complete-reporting-is-important
   how-to-do:
     ingredients:
@@ -515,7 +515,7 @@ Apply reporting guidance to writing:
         IF: Education
         BCT: Instruction on how to perform the behavior
         done: true
-        evaluation_methods: false
+        evaluation_methods: think aloud, plus minus
         id: item-link-to-how-to-do
   how-to-report:
     ingredients:
@@ -560,7 +560,7 @@ Apply reporting guidance to writing:
         now_example: See @fig-item
         IF: Education
         BCT: Instruction on how to perform the behavior
-        done: true
+        done: true #TODO really?
         evaluation_methods: false
         id: item-what-to-describe-when-not-done
       Provide examples of reporting "imperfect" items:
@@ -587,9 +587,9 @@ Apply reporting guidance to writing:
         done: false
         evaluation_methods: false
         id: ready-to-use
-      Structure guidance to make it quicker to digest:
+      Structure guideline items to make them quicker to digest:
         before: E&E documents not structured below the item level
-        now: Items have consistent structure
+        now: Items have consistent structure and use bullet points consistently
         before_example: See @fig-item-b4
         now_example: See @fig-item
         IF: Enablement
@@ -702,7 +702,7 @@ Apply reporting guidance to writing:
         BCT: Instruction on how to perform the behavior
         done: true
         evaluation_methods: interview
-        id: describe-reporting-location-alternatives
+        id: location-alternatives
       Provide examples of concise reporting:
         before: No examples specifically to display concise reporting
         now: No changes made
@@ -838,7 +838,7 @@ Apply reporting guidance to writing:
         done: true
         duplicate: true
         evaluation_methods: 
-        id: describe-reporting-location-alternatives
+        id: location-alternative
       Embed reporting guidelines that "fit together" (see above):
         before: 
         now: 
@@ -861,7 +861,7 @@ Apply reporting guidance to writing:
         IF: Education
         BCT: Problem solving
         done: true
-        evaluation_methods: 
+        evaluation_methods: interview, think aloud
         id: advice-when-asked-to-remove
   need-usable-formats:
     ingredients:
@@ -954,7 +954,7 @@ Apply reporting guidance to writing:
         IF: Persuasion
         BCT: Social support
         done: true
-        evaluation_methods: false
+        evaluation_methods: think aloud
         id: reassure-just-guidelines
   feel-patronized:
     ingredients:
@@ -977,7 +977,7 @@ Apply reporting guidance to writing:
         IF: Persuasion
         BCT: Remove aversive stimulus
         done: true
-        evaluation_methods: false
+        evaluation_methods: interview
         id: remove-patronizing-language
       Explain how the guidance was developed and why it can be trusted:
         before: Most reporting guidelines explain this in a published article. Checklists do not

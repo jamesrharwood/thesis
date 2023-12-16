@@ -1,3 +1,190 @@
 
+* introduction: 5561 (inc. tables: 6340)
+* reflexivity: 1317 (inc. tables: 1317)
+* synthesis: 7268 (inc. tables: 9521)
+* survey-content: 2617 (inc. tables: 5044)
+* website-audit: 3732 (inc. tables: 4842)
+* bcw: 1616 (inc. tables: 2203)
+* workshops: 4176 (inc. tables: 4731)
+* focus-groups: 8713 (inc. tables: 9130)
+* defining-content: 1378 (inc. tables: 6713)
+* redesign: 3312 (inc. tables: 3312)
+* pilot: 8962 (inc. tables: 17661)
 
-**TOTAL: 0**
+**TOTAL: 48652 (inc. tables: 70814)**
+
+
+## Input files: index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: index.qmd
+
+## Input files: index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/9_defining_content/index.qmd
+
+## Input files: chapters/9_defining_content/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: index.qmd
+
+## Input files: chapters/11_pilot/index.qmd
+
+## Input files: chapters/5_website_audit/index.qmd
+chapters/appendix/ideas.qmd
+chapters/appendix/index.qmd
+chapters/appendix/synthesis_search_strategies.qmd
+chapters/appendix/barriers.qmd
+chapters/10_redesign/index.qmd
+chapters/11_pilot/index.qmd
+chapters/todo.qmd
+chapters/12_discussion/index.qmd
+chapters/4_survey_content/index.qmd
+chapters/4_survey_content/tbl_studies.md
+chapters/4_survey_content/tbl_codes_themes.md
+chapters/4_survey_content/tbl_codes_categories.md
+chapters/abstract.qmd
+chapters/7_workshops/index.qmd
+chapters/title_page.qmd
+chapters/8_focus_groups/index.qmd
+chapters/1_introduction/policy_table.md
+chapters/1_introduction/7_summary.qmd
+chapters/1_introduction/rg_table.md
+chapters/1_introduction/3_2_complex_interventions.qmd
+chapters/1_introduction/1_intro.qmd
+chapters/1_introduction/4_efficacy.qmd
+chapters/1_introduction/complexity_table.qmd
+chapters/1_introduction/index.qmd
+chapters/1_introduction/2_poor_reporting.qmd
+chapters/1_introduction/3_1_rgs.qmd
+chapters/1_introduction/8_aims_and_objectives.qmd
+chapters/1_introduction/5_evidence_gap.qmd
+chapters/1_introduction/9_structure.qmd
+chapters/3_synthesis/tbl_codes_broken.qmd
+chapters/3_synthesis/tbl_info_sources.qmd
+chapters/3_synthesis/tbl_study_characteristics.qmd
+chapters/3_synthesis/index.qmd
+chapters/3_synthesis/tbl_rgs.qmd
+chapters/3_synthesis/tbl_codes.qmd
+chapters/2_reflexivity/index.qmd
+chapters/9_defining_content/index.qmd
+chapters/abbreviations.qmd
+chapters/gantt.qmd
+chapters/6_bcw/index.qmd
+index.qmd
+data/iv_changes.md
+data/intervention_components.md
+data/barriers.md
+data/eq_changes.md
+
+## Input files: index.qmd
+
+## Input files: chapters/11_pilot/index.qmd

@@ -88,7 +88,7 @@ IFSecs:
   promote: promote-reporting-guidelines
   ready-to-use: make-resources-ready-to-use
   reporting-champions: install-reporting-champions
-  rg-introductions: describe-each-reporting-guideline-fully
+  rg-introductionsDELETE-ME: describe-each-reporting-guideline-fully
   support: provide-additional-teaching
   testimonials: provide-testimonials
   updating: make-updating-guidelines-easier
@@ -117,7 +117,7 @@ IFs:
   promote: Promote reporting guidelines
   ready-to-use: Make resources ready-to-use
   reporting-champions: Install reporting champions
-  rg-introductions: Describe each reporting guideline fully
+  rg-introductionsDELETE-ME: Describe each reporting guideline fully
   support: Provide additional teaching
   testimonials: Provide testimonials
   updating: Make updating guidelines easier
@@ -149,6 +149,12 @@ counts:
   changes: 28
   focus_groups: 7
   guideline_developers: 11
+  ics:
+    included: 58
+    included_unique: 46
+    not_included_unique: 17
+    total: 81
+    unique: 63
   ideas: 28
   invitations:
     guideline_groups:
@@ -163,14 +169,16 @@ counts:
   jh_ideas: 8
   jh_ideas_before: TODO
   participants: 16
+  pilot:
+    deficiencies: 53
   publishers: 3
   redesign:
     barriers-targeted: 32
     bcts-used: 18
     intervention-components:
-      included: 59
-      included_unique: 47
-      not_included_unique: 16
+      included: 58
+      included_unique: 46
+      not_included_unique: 17
       total: 81
       unique: 63
     intervention-functions-used: 6
@@ -182,6 +190,280 @@ counts:
 descriptions:
   stages: before developing guidance, when developing guidance, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
   stakeholders: funders, ethics committees, institutions, publishers, equator network, guideline developers, registries, preprint servers, conference organisers, and societies
+intervention-components:
+  address-authors:
+    barriers: Researchers may feel that checking reporting is someone else's job.
+    description: All resources and website copy are directed predominantly at authors.
+    title: Address communications to authors
+  advice-when-asked-to-remove:
+    barriers: Researchers may be asked to remove reporting guideline content
+    description: Advice given in FAQ
+    title: Provide advice regarding how to respond if asked to remove reporting guideline content by a colleague, editor, or reviewer
+  allow-guideline-developers-to-edit:
+    barriers: reporting guidelines can become outdated
+    description: Developers can make small updates any time
+    title: Make it possible for guideline developers to make small edits without having to publish new articles
+  centralised-hosting:
+    barriers: Guidance may be difficult to find
+    description: A core set of frequently accessed guidelines are now presented on a single website.
+    title: Centralised hosting
+  checklists:
+    barriers: Researchers may not have tools for the job at hand
+    description: No changes made
+    title: Create tools to facilitate checklist completion
+  clarify-tasks:
+    barriers: Researchers may not know what reporting guidelines are; Researchers may not know when reporting guidelines should be used
+    description: Clear instruction and differentiation of resources
+    title: Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for
+  consistent-terms:
+    barriers: Researchers may misunderstand
+    description: SRQR uses consistent terms across items.
+    title: Use consistent terms
+  decision-tools:
+    barriers: Researchers may not know what reporting guidelines exist
+    description: Not included yet
+    title: Decision tools for discovering appropriate resources
+  define-terms:
+    barriers: Researchers may misunderstand
+    description: SRQR now has a glossary, and text is marked-up with definitions that appear upon click.
+    title: Define key terms
+  describe-benefits:
+    barriers: Researchers may not know what benefits to expect
+    description: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritize personal benefits to the authors above hypothetical benefits to others.
+    title: Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications)
+  describe-development:
+    barriers: Researchers may feel patronized
+    description: Brief description included on home page and at top of reporting guideline, links to full to development information
+    title: Explain how the guidance was developed and why it can be trusted
+  describe-scope:
+    barriers: Researchers may not know whether a reporting guideline applies to them
+    description: The intended scope of a guideline is clearly & prominently described. This definition includes contexts in which the guidance should not be used.
+    title: Describe the scope of a reporting guideline at the top of every resource
+  describe-what-rgs-are:
+    barriers: Researchers may not know what reporting guidelines are
+    description: Prominent definition on home page and guideline page.
+    title: Describe what reporting guidelines are where they are first encountered
+  describe-when-to-use:
+    barriers: Researchers may not know when reporting guidelines should be used
+    description: Stated prominently
+    title: Tell authors when to use reporting guidelines, or that reporting guidelines are best used as early as possible
+  design-agnostic:
+    barriers: Researchers may expect the costs to outweigh benefits; Researchers may feel afraid to report transparently; Researchers may feel restricted if reporting guidelines prescribe design
+    description: SRQR explicitly states that it makes no assumptions about design. Inadvertent design assumptions were edited.
+    title: Decrease fear of judgement by making reporting guidelines design agnostic
+  design-benefits:
+    barriers: Researchers may not believe stated benefits
+    description: A clean, simple interface for the home page and guidance pages. Text uses phrases like "confidence", "quick", "maximum impact".
+    title: Use tone of voice and design to communicate personal benefits; confidence and simplicity
+  design-trust:
+    barriers: Researchers may not believe stated benefits
+    description: Professional design. EQUATOR's Logo remains prominent. Citation metrics are presented at the top the reporting guidance. Information about who developed the guidelines, how they developed it, and why the guidance is credible is still provided, and easily findable from the top of the guidance.
+    title: Include design, features, and language to foster trust
+  digestible-structure:
+    barriers: Researchers have limited time
+    description: Items have consistent structure
+    title: Structure guidance to make it quicker to digest
+  discussion-spaces:
+    barriers: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; reporting guidelines can become outdated; Researchers may feel patronized
+    description: Each reporting item has its own discussion board.
+    title: Create spaces for authors to discuss reporting guidelines with others
+  doi:
+    barriers: Guidance may be difficult to find
+    description: No change
+    title: Permanent document object identifiers (DOIs)
+  embed-related-rgs:
+    barriers: Researchers may not know what reporting guidelines exist; Researchers may struggle to reconcile multiple sets of guidance
+    description: No change
+    title: Embed reporting guidelines that "fit together"
+  encourage-explanation:
+    barriers: Researchers may feel afraid to report transparently
+    description: Added to items
+    title: Encourage explanation even when choices are unusual or not optimal
+  evidence-benefits:
+    barriers: Researchers may not believe stated benefits
+    description: Dummy quotes provides evidence for experienced benefits.
+    title: Gather and communicate evidence for benefits
+  examples:
+    barriers: Researchers may not know how to report an item in practice
+    description: SRQR already had some examples. No more examples added
+    title: For each item, provide examples of reporting in different contexts
+  examples-concise-reporting:
+    barriers: Researchers may struggle to keep writing concise
+    description: No changes made
+    title: Provide examples of concise reporting
+  examples-imperfect:
+    barriers: Researchers may not know what to write when they cannot report an item
+    description: No changes made
+    title: Provide examples of reporting "imperfect" items
+  explain-author-responsibility:
+    barriers: Researchers may feel that checking reporting is someone else's job.
+    description: Clear explanation of why guidelines and tools should be used by authors primarily, although can also be used by others.
+    title: Communicate why reporting is primarily the responsibility of the author
+  explain-when-structure-not-prescribed:
+    barriers: Researchers may struggle to reconcile multiple sets of guidance
+    description: Explained at top of guidance
+    title: Explain when reporting guidelines do not intended to prescribe structure
+  if-then-rules:
+    barriers: Researchers may not know what reporting guideline is their best fit
+    description: Reporting guidelines clearly and consistently point authors to more appropriate guidance when appropriate, using if-then rules. These links can be updated any time.
+    title: Use if-then rules to direct authors to more appropriate and up-to-date guidance when available
+  instruct-to-cite:
+    barriers: Researchers may not know what reporting guidelines exist
+    description: Consistent instruction to cite reporting guidelines
+    title: Instruct authors to cite reporting guidelines so readers may learn about them
+  item-link-to-how-to-do:
+    barriers: Researchers may not know how to do an item
+    description: Links included when relevant.
+    title: Provide links to other resources that explain how an item can be done
+  item-what-to-describe:
+    barriers: Researchers may not know how to report an item in practice
+    description: Writing instruction occurs first for each item.
+    title: For each item, provide clear instruction of what needs to be described
+  item-what-to-describe-when-not-done:
+    barriers: Researchers may not know what to write when they cannot report an item
+    description: Instructed where relevant
+    title: Provide clear instruction of what needs to be described when an item was not done, could not be done, or does not apply
+  link-related-rgs:
+    barriers: Researchers may not know what reporting guidelines exist
+    description: Guidelines prominently link to other relevant guidelines and explain when they should be used.
+    title: Links between related guidelines
+  link-resources:
+    barriers: Researchers may not know what resources exist for a reporting guideline
+    description: Guidance links to all tools and development article
+    title: link all resources to each other
+  location-alternative:
+    barriers: Researchers may struggle to reconcile multiple sets of guidance
+    description: null
+    title: null
+  location-alternatives:
+    barriers: Researchers may struggle to keep writing concise
+    description: Added instruction at top of reporting guideline and in some items where most useful
+    title: Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated.
+  no-better-rg:
+    barriers: Researchers may not know what reporting guideline is their best fit
+    description: Reporting guidelines warn authors when no better guidance exists for a use case, and how the current guidance can be adapted instead
+    title: Explicitly state when no better guidance exists for a use case
+  open-access:
+    barriers: reporting guidelines may be difficult to access
+    description: No change
+    title: Ensure guidelines and tools are open access
+  plain-language:
+    barriers: Researchers may misunderstand
+    description: SRQR is edited to use plainer language.
+    title: Use plain language
+  prompts-to-use-early:
+    barriers: Researchers may not encounter reporting guidelines early enough to act on them; Researchers may forget to use reporting guidelines at earlier research stages
+    description: No changes made
+    title: Create prompts / communication campaigns to target authors early in their research
+  provide-design-advice-separately:
+    barriers: Researchers may feel afraid to report transparently
+    description: No changes made
+    title: Present design advice separately to reporting advice
+  ready-to-use:
+    barriers: Researchers have limited time; reporting guideline resources may not be in usable formats
+    description: No changes made
+    title: Ensure all resources and tools (e.g., checklists and templates) are in ready-to-use formats
+  reassure-just-guidelines:
+    barriers: Researchers may feel restricted if reporting guidelines prescribe design
+    description: Prominently displayed at top of reporting guideline
+    title: Reassure when guidelines are _just_ guidelines
+  reassure-of-limitations:
+    barriers: Researchers may expect the costs to outweigh benefits; Researchers may feel afraid to report transparently
+    description: This reassurance appears on the home page and all guidance pages
+    title: Reassure that all research has limitations to encourage explanation over perfect design
+  remove-aversive-design:
+    barriers: Researchers may expect the costs to outweigh benefits
+    description: A clean, simple interface for the home page and guidance pages. Text makes less use of to judgemental phrases and fewer references to the negative consequences of poor reporting.
+    title: Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape
+  remove-patronizing-language:
+    barriers: Researchers may feel patronized
+    description: Continue to avoid using patronizing language
+    title: Avoid patronizing language
+  rg-collections:
+    barriers: Researchers may not know what reporting guidelines exist
+    description: Not included yet
+    title: Collections of related reporting guidelines
+  search-function:
+    barriers: Guidance may be difficult to find
+    description: Search function is easier to find as a recognizable icon in the navigation bar of every page. The home page includes additional ways to access search functionality.
+    title: Search function on website
+  seo:
+    barriers: Guidance may be difficult to find; Researchers may not encounter reporting guidelines early enough to act on them
+    description: The site has additional meta-data. Each reporting guideline page has its own meta-data. The site is optimized for mobiles.
+    title: Search Engine Optimization
+  shorten:
+    barriers: Researchers may expect the costs to outweigh benefits
+    description: SRQR has been edited. The only text presented immediately is instruction on what the author needs to describe. Additional information is hidden at first and can be expanded. Text is shortened through editing and by using active voice. In the case of SRQR, this reduced the text length by 60%.
+    title: Make guidance appear shorter by removing superfluous information, hiding optional content, splitting long guidelines, using concise language, and separating design advice
+  structure:
+    barriers: Researchers may expect the costs to outweigh benefits
+    description: SRQR items are structured consistently, making information easier to find. Itemisation is used consistently, content is hyperlinked when useful.
+    title: Cater to different kinds of user (readers vs dippers) by structuring guidance with headings, itemisation, hyperlinking to particular sections, and with optional content
+  testimonial-nervous:
+    barriers: Researchers may feel afraid to report transparently
+    description: null
+    title: null
+  testimonials-nervous:
+    barriers: Researchers may expect the costs to outweigh benefits
+    description: Quotes included alongside guideline
+    title: Include testimonials from researchers who were nervous about being punished for reporting transparently
+  testimonials-who-benefit:
+    barriers: Researchers may not care about the benefits of using a reporting guideline
+    description: SRQR includes dummy testimonials and quotes from research users
+    title: Include testimonials from research users who benefit from complete reporting
+  time-to-apply:
+    barriers: Researchers have limited time
+    description: No changes made
+    title: Tell authors how long guidance will take to apply
+  time-to-read:
+    barriers: Researchers have limited time
+    description: Estimated reading time given
+    title: Tell authors how long the guidance will take to read
+  tools-for-checking:
+    barriers: Researchers may not have tools for the job at hand
+    description: No changes made
+    title: Create tools to help collaborators check each other's work
+  tools-for-early-use:
+    barriers: Researchers may not encounter reporting guidelines early enough to act on them; Researchers may not have tools for the job at hand
+    description: No changes made
+    title: Create tools to be used for early writing tasks
+  tools-for-items:
+    barriers: Researchers may not have tools for the job at hand
+    description: No changes made
+    title: Create tools to facilitate particular reporting items
+  tools-for-peer-reviewers:
+    barriers: Researchers may not have tools for the job at hand
+    description: No changes made
+    title: Create tools to help peer reviewers check reporting and request missing information
+  translations:
+    barriers: Researchers may not understand the language; Researchers may misunderstand
+    description: Translations are prominently listed above the guidance
+    title: Provide translations
+  why-complete-reporting-is-important:
+    barriers: Researchers may not know why items are important
+    description: Continue to do this
+    title: Explain importance of complete reporting to the scientific community
+  why-item-is-important:
+    barriers: Researchers may not know why items are important
+    description: Information added when necessary
+    title: For each item, explain why the *information* is important and to whom (not just what constitutes "good" design)
+  writing-education:
+    barriers: Researchers may not consider writing as reporting
+    description: Some SRQR items now link to relevant EQUATOR materials and courses.
+    title: Educate authors about writing as a process
+pilot:
+  participants:
+    PPT-BH: (value)
+    PPT-CW: (value)
+    PPT-HA: (value)
+    PPT-JZ: (value)
+    PPT-MJ: (value)
+    PPT-OMK: (value)
+    PPT-RW: (value)
+    PPT-SK: (value)
+    PPT-VS: (value)
+    PPT-WH: (value)
+    PPT-YD: (value)
 root: true
 stages:
   creation: When writing guidance down and creating resources
@@ -194,9 +476,9 @@ titles:
   defining_content: Defining Intervention Content
   focus_groups: 'Generating ideas to address factors limiting reporting guideline impact: workshops with EQUATOR and focus groups with developers, publishers, and experts'
   introduction: Introduction
-  pilot: 'Refining the intervention: qualitative pilot with authors'
-  redesign: 'Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process'
-  reflexivity: Reflexivity and Context
+  pilot: 'Refining the intervention: qualitative study with authors'
+  redesign: Developing intervention components into a prototype
+  reflexivity: Reflections on starting my DPhil
   survey_content: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
   synthesis: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'
   website_audit: A service evaluation of equator-network.org

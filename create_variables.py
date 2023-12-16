@@ -1,8 +1,14 @@
-import yaml, os
+import yaml, os, importlib
+
+from collections import defaultdict
 
 import frontmatter 
 
 from data import BARRIERS, CHANGES, STAKEHOLDERS, STAGES
+
+count_deficiencies = importlib.import_module("chapters.11_pilot.data.count_deficiencies")
+participant_ids = importlib.import_module("chapters.11_pilot.data.participant_ids")
+
 
 participants = 16 #TODO
 focus_groups = 7 #TODO
@@ -12,7 +18,6 @@ academics = 2 #TODO
 
 sub_idea_count = 0
 jh_ideas_count = 0
-jh_ideas_before = 'TODO'
 
 for change in CHANGES:
     sub_idea_count += change.idea_count
@@ -28,26 +33,39 @@ ICs_INCLUDED_UNIQUE = 0
 IC_BARRIERS = set()
 IC_INTERVENTION_FUNCTIONS = set()
 IC_BCTs = set()
+ICs = defaultdict(lambda: {'title':None, 'description': None, 'barriers':''})
 
 with open(FP, 'r') as f:
     data = yaml.safe_load(f)
-    for key_behaviour in data.keys():
-        for barrier in data[key_behaviour].keys():
-            IC_BARRIERS.add(barrier)
-            for ingredient in data[key_behaviour][barrier]['ingredients'].values():
-                if type(ingredient) is not dict:
-                    print (data[key_behaviour][barrier])
-                ICs_TOTAL += 1
-                is_unique = not(ingredient.get('duplicate', False))
+
+for key_behaviour in data.keys():
+    for barrier in data[key_behaviour].keys():
+        IC_BARRIERS.add(barrier)
+        for ingredient_name, ingredient in data[key_behaviour][barrier]['ingredients'].items():
+            if type(ingredient) is not dict:
+                print (data[key_behaviour][barrier])
+            ICs_TOTAL += 1
+            is_unique = not(ingredient.get('duplicate', False))
+            if is_unique:
+                ICs_UNIQUE += 1
+                IC_INTERVENTION_FUNCTIONS.add(ingredient['IF'])
+                for bct in ingredient['BCT'].split(','):
+                    IC_BCTs.add(bct.strip()) #TODO some components have multiple BCTs listed. Either reduce to only one, or split on comma
+                ICs[ingredient['id']]['title'] = ingredient_name
+                ICs[ingredient['id']]['description'] = ingredient['now']
+            if ingredient['done']:
+                ICs_INCLUDED += 1
                 if is_unique:
-                    ICs_UNIQUE += 1
-                    IC_INTERVENTION_FUNCTIONS.add(ingredient['IF'])
-                    for bct in ingredient['BCT'].split(','):
-                        IC_BCTs.add(bct.strip()) #TODO some components have multiple BCTs listed. Either reduce to only one, or split on comma
-                if ingredient['done']:
-                    ICs_INCLUDED += 1
-                    if is_unique:
-                        ICs_INCLUDED_UNIQUE += 1
+                    ICs_INCLUDED_UNIQUE += 1
+            barrier_title = BARRIERS[barrier].title
+            if barrier_title not in ICs[ingredient['id']]['barriers']:
+                barriers = ICs[ingredient['id']]['barriers']
+                if barriers:
+                    barriers += "; "
+                barriers += barrier_title
+                ICs[ingredient['id']]['barriers'] = barriers
+ICs = dict(ICs)
+
 INTERVENTION_COMPONENTS = {
     'total': ICs_TOTAL,
     'unique': ICs_UNIQUE,
@@ -59,9 +77,6 @@ IC_BARRIERS = set([b.lower() for b in IC_BARRIERS if b])
 IC_INTERVENTION_FUNCTIONS = set([i.lower() for i in IC_INTERVENTION_FUNCTIONS if i])
 IC_BCTs = set(bct.lower() for bct in IC_BCTs if bct)
 
-## Interviews
-
-
 counts = dict(
     barriers = len(BARRIERS.values()),
     stakeholders = len(STAKEHOLDERS.values()),
@@ -69,7 +84,6 @@ counts = dict(
     sub_ideas = sub_idea_count,
     sub_ideas_pre_jh = sub_idea_count - jh_ideas_count,
     jh_ideas = jh_ideas_count,
-    jh_ideas_before = jh_ideas_before,
     EQUATOR_ideas = 'TODO', #TODO
     participants = participants,
     focus_groups = focus_groups,
@@ -81,6 +95,9 @@ counts = dict(
         'barriers-targeted': len(IC_BARRIERS),
         'intervention-functions-used': len(IC_INTERVENTION_FUNCTIONS),
         'bcts-used': len(IC_BCTs),
+    },
+    pilot = {
+        'deficiencies': count_deficiencies.count_deficiencies(),
     },
 )
 
@@ -133,6 +150,9 @@ for fp in FILEPATHS:
         chapter = fp.split('/')[1].split('_', 1)[1]
         titles.update({chapter: title})
 
+PARTICIPANT_IDS = {key: f"(value)" for key, value in participant_ids.PARTICIPANT_IDS.items()}
+pilot = {'participants': PARTICIPANT_IDS}
+
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)
     file_.seek(0)
@@ -150,5 +170,8 @@ with open(filename, 'r+') as file_:
     variables.update({'BARRIER_SECTIONS': barrier_sections})
     variables.update({'chapters': chapters})
     variables.update({'titles': titles})
+    variables.update({'intervention-components': ICs})
+    variables.update({'pilot': pilot})
+    variables.update()
     yaml.dump(variables, file_, width=1000)
     file_.truncate()

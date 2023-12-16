@@ -11,6 +11,8 @@ format:
 
 {{< include /chapters/11_pilot/_methods.qmd >}}
 
+{{< include /chapters/11_pilot/_results.qmd >}}
+
 ::: {.callout}
 
 ## Results and Discussion

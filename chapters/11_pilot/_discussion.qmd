@@ -1,3 +1,54 @@
+```
+Summarize aims and objectives
+
+Summarize results
+
+* number of deficiencies
+* number of intervention components
+
+Biggest themes:
+
+* design
+* wanting more but also wanting less
+* understanding relationships
+* focussing on author worked. Beneifts to others largely neglected but nobody missed it. 
+
+Validation of barriers. 
+Even for Components that were not implemented. E.g. consistent words
+
+Value of methods. 
+
+* codes per method?
+* each brought value 
+
+Strengths in comparison to other studies
+
+* recruitment
+* thick data. Much better compared to thin studies. Even good feedback studies only focussed on content on guidance (PRISMA 2) or its application (SQUIRE 2), but not so much the design or dissemination channel. Other guideline groups could copy my methods. 
+
+Limitations
+
+Context wasn't perfect. Participants were not completely naive. 
+Focussing on deficiencies occludes positives. 
+Better to have had neutral interviewer? But my understanding of the components was also a strength?
+Not all intervention components explored:
+
+* Some not at all e,g, search optimization
+* Some only partially e.g. search functionality and links to related guidelines, should be a navigation task
+
+Future studies
+
+Further refinement addressing the main results discussed at start of Discussion
+Possible preference study comparing old and new system, or relative importance of components e.g. conveying benefits to others vs oneself
+NEed to develop checklists and writing tools (templates)
+Once live, could do a mixed methods feasibility study comparing analytics behavioural data with possible journal input. 
+
+
+
+
+
+
+
 The context in which users encounter the website will effect how it is perceived. 
 
 Most visitors come from journal websites, having been instructed by an editor or JAI page to use a particular reporting guideline. Others may come to the site because a a guideline has been recommended by a friend. Very few arrive completely cold turkey. 
