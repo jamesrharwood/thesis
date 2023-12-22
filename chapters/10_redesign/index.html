@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Thesis - Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process</title>
+<title>Thesis - Developing intervention components into a prototype</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -292,16 +292,14 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a>
-  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a>
-  <ul class="collapse">
+  <ul>
   <li><a href="#system-architecture" id="toc-system-architecture" class="nav-link" data-scroll-target="#system-architecture">System architecture</a></li>
   </ul></li>
   <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
   <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a></li>
   <li><a href="#conclusions" id="toc-conclusions" class="nav-link" data-scroll-target="#conclusions">Conclusions</a></li>
-  </ul></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="JH-chapter-redesign.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
     </div>
@@ -310,7 +308,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Turning reporting guidelines into a behaviour change intervention: Behavioural analysis and development process</h1>
+<h1 class="title">Developing intervention components into a prototype</h1>
 </div>
 
 
@@ -325,14 +323,15 @@ div.csl-indent {
 
 </header>
 
-<section id="introduction" class="level2 page-columns page-full">
+<section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>In chapter 7 I explained how EQUATOR staff and I decided to prioritise redesigning reporting guidelines and the EQUATOR Network website’s home page. In chapter 9 I described intervention components we could include in this redesign. In this chapter, I describe how I turned this list of components into a working prototype.</p>
 <p>I wanted to include EQUATOR staff and guideline developers in the redesign process for multiple reasons. Firstly, I expected their experience and expertise to help decision making. Secondly, I wanted them to understand and like the redesign. I wanted them to feel ownership, and not feel displaced by efforts. As a student, relatively new to the world of reporting guidelines, at times I felt like an intruder meddling with other peoples’ creations. By making sure the redesign reflected the preferences of stakeholders, I hoped the result would feel like “ours”, not “mine”. Finally, I wanted to ensure what I made would be sustainable. I wanted EQUATOR staff and guideline developers to be able to maintain and extend it without requiring a software developer. I wanted to use technologies simple enough for stakeholders to control, cheap enough to run without funding, secure enough to meet privacy requirements, and powerful enough to do what we wanted.</p>
 <p>I did not have time to consult multiple guideline groups. Nor did I have time to redesign multiple guidelines. For the purpose of building a prototype I decided to focus on a single reporting guideline; the Standards for Reporting Qualitative Research (SRQR). I chose this guideline because I was familiar with it, understood it, and it’s lead developer expressed interest in collaborating. Additionally, because it is applicable to all medical qualitative research I expected its users to be plentiful and varied. For example, authors may include students, clinicians, public health experts, quantitative researchers dabbling in qualitative methods within a positivist framework, or experienced qualitative researchers working within other paradigms. This broad and varied author base would be useful for a subsequent evaluation study (see next chapter).</p>
 <p>In this chapter, I describe how I worked with EQUATOR staff and SRQR’s lead developer to co-design a revamped home page and reporting guideline including intervention components from chapter 9.</p>
-<section id="methods" class="level3">
-<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <p>I invited the EQUATOR staff who participated in the workshops (chapter 7). As before, I used established, best-practice techniques to facilitate open discussion <span class="citation" data-cites="lincolnNaturalisticInquiry1985">[<a href="#ref-lincolnNaturalisticInquiry1985" role="doc-biblioref">1</a>]</span>. I made it clear there were no right or wrong answers. I reflected on my own opinions before meeting, and held them back until EQUATOR staff had finished talking. When disagreements arose, I took time to explore and understand both sides.</p>
 <p>I made heavy use of my intervention planning table (see chapter 9) to make decisions based on theory over and above personal preferences. Instead of asking EQUATOR members whether they liked something (e.g., <em>Do you like this font?</em>), I asked whether they felt it reflected the intended intervention function instead (e.g., <em>Does the font convey simplicity?</em>). By prioritising theory above preference and others’ opinions above my own, I reduced my subjectivity.</p>
 <p>I met with EQUATOR staff 3 times between November 2022 and January 2023. Throughout our meetings we kept our target audience in mind. Building user personas is a common best practice in web development <span class="citation" data-cites="ISO92412102019">[<a href="#ref-ISO92412102019" role="doc-biblioref">2</a>]</span> <span class="citation" data-cites="velsenPersonasLinkingPin2012">[<a href="#ref-velsenPersonasLinkingPin2012" role="doc-biblioref">3</a>]</span> <span class="citation" data-cites="experiencePersonasMakeUsers">[<a href="#ref-experiencePersonasMakeUsers" role="doc-biblioref">4</a>]</span>. For example, as part of their work to help NHS staff adopt new technologies and become a digital workforce, Health Education England identified five archetypes: digital creators, end users, embedders, change drivers, and shapers <span class="citation" data-cites="PersonasHealthEducation">[<a href="#ref-PersonasHealthEducation" role="doc-biblioref">5</a>]</span>. They then developed five imaginary personas around these archetypes, each with their own needs, motivations, and challenges. Developing personas can be a significant task. Personas should come from evidence, and some product teams go as far as interviewing 5 or more representatives of each persona in an iterative, co-creation process.</p>
@@ -374,21 +373,21 @@ div.csl-indent {
 </blockquote>
 <p>I rearranged conditional sub-items to read as “If X, then describe Y”, instead of “Describe Y if X”. I moved definitions into a glossary and contextual information into notes. I edited the tone of voice to add reassuring language. An example redesigned SRQR item is in #sec-box-item. I asked SRQR’s developer to provide feedback on the redesigned guideline and made refinements based on her comments.</p>
 <p>After development, I double checked the intervention against my intervention planning table (see chapter 9) to ensure I had included all components. I invited another round of feedback from EQUATOR staff and made more refinements.</p>
-<section id="system-architecture" class="level4">
-<h4 class="anchored" data-anchor-id="system-architecture">System architecture</h4>
+<section id="system-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="system-architecture">System architecture</h3>
 <p>When considering architecture options I prioritized technology that could feasibly be maintained by EQUATOR staff or a future PhD student. I looked for tools that would be familiar to early career researchers. I considered DIY website builders (like Wix <span class="citation" data-cites="YourWebsiteYour">[<a href="#ref-YourWebsiteYour" role="doc-biblioref">15</a>]</span> or Squarespace <span class="citation" data-cites="WebsiteBuilderCreate">[<a href="#ref-WebsiteBuilderCreate" role="doc-biblioref">16</a>]</span>) but these services can be expensive. Most offer a ‘drag and drop’ building experience which, although easy to use, is a laborious way of uploading and formatting large amounts of content. Should EQUATOR want to change how reporting items are presented (for example, move the positioning of examples), they would have to manually edit each item for each reporting guideline. Additionally, our intended intervention changes required custom functionality not offered by these services (e.g., glossary definitions, discussion boards).</p>
 <p>Although coding languages like <em>HTML</em> (Hyper Text Markup Language) or <em>javascript</em> are used by many software developers to create websites, few early career researchers are familiar with them. In contrast, many researchers write reproducible manuscripts in markdown. Markdown is a simple language and takes minutes to learn. It uses asterisks, underscores, and carets to make text <strong>**bold**</strong>, <em>_italic_</em>, or <sup>^superscript^</sup>. Headings, URLS, and references are similarly easy, and free editing software makes writing markdown feel like writing a Microsoft Word document. Markdown converts into lots of other formats, including docx (Microsoft Word files), LaTeX, PDF, and HTML.</p>
 <p>Many researchers already use tools like RStudio <span class="citation" data-cites="positRStudioIntegratedDevelopment">[<a href="#ref-positRStudioIntegratedDevelopment" role="doc-biblioref">17</a>]</span> or Quarto <span class="citation" data-cites="QuartoOpenSource">[<a href="#ref-QuartoOpenSource" role="doc-biblioref">18</a>]</span> to convert markdown into other formats. I decided to use Quarto because it is open source, has great documentation, and its functionality can be extended with other programming languages commonly used by researchers and statisticians, like Python or Ruby.</p>
 <p>I’ve made all code available on Github <span class="citation" data-cites="jamesrharwoodEQUATORGuidelinesWebsite2023">[<a href="#ref-jamesrharwoodEQUATORGuidelinesWebsite2023" role="doc-biblioref">19</a>]</span>, an industry-leading version control system commonly used by academics. I’ve used Github Pages <span class="citation" data-cites="GitHubPages">[<a href="#ref-GitHubPages" role="doc-biblioref">20</a>]</span> to serve the website itself, because it is free, beginner friendly, configurable, and integrates (almost) seamlessly with Github’s version control system.</p>
 </section>
 </section>
-<section id="results" class="level3">
-<h3 class="anchored" data-anchor-id="results">Results</h3>
-<p>The redesigned home page and SRQR guideline can are shown in <strong>?@fig-home</strong>, <strong>?@fig-rg-intro</strong>, and <strong>?@fig-discussion</strong>. For comparison, the old versions are shown in <strong>?@fig-home-b4</strong> and <strong>?@fig-db-b4</strong>. I managed to implement 47 of the 63 intervention components identified in chapter 9. I have included the components I have built in the “After” column of the intervention planning table in chapter 9, thereby linking each component with the its behavioural technique, intervention function, and the barrier it addresses. Figures illustrating the redesign are also in chapter 9.</p>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<p>The redesigned home page and SRQR guideline can are shown in <strong>?@fig-home</strong>, <strong>?@fig-rg-intro</strong>, and <strong>?@fig-discussion</strong>. For comparison, the old versions are shown in <strong>?@fig-home-b4</strong> and <strong>?@fig-db-b4</strong>. I managed to implement 46 of the 63 intervention components identified in chapter 9. I have included the components I have built in the “After” column of the intervention planning table in chapter 9, thereby linking each component with the its behavioural technique, intervention function, and the barrier it addresses. Figures illustrating the redesign are also in chapter 9.</p>
 <p>The website source code is viewable at https://github.com/jamesrharwood/equator-guidelines-website and the live website is viewable at https://jamesrharwood.github.io/equator-guidelines-website/.</p>
 </section>
-<section id="discussion" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="discussion">Discussion</h3>
+<section id="discussion" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
 <p>Using the intervention planning table from my previous chapter, I have created functional prototypes of a redesigned reporting guidelines and the EQUATOR Network home page. If EQUATOR chooses to adopt these changes and apply them to other guidelines, hundreds of thousands of authors would access these redesigned resources each year.</p>
 <p>These redesigned resources have potential to benefit authors directly, and also to help other stakeholders. For example, publishers may find enforcing guidelines easier if our redesigned resources prove more user friendly. Guideline developers will benefit from having a ready-to-use dissemination platform based on evidence, with built-in channels for collecting feedback from authors. This feedback may help guideline developers refine their resources further, and could act as evidence to support future funding applications.</p>
 <p>Using a framework and a systematic method helped EQUATOR staff and I to make decisions based on evidence and theory, and to reduce the influence of our own subjectivity. Instead of relying on personal preference, we tried to ensure choices reflected the function we were trying to employ. For example, when choosing a background image, instead of asking “do you like this one?”, the questions became “what feelings do you think this image conveys? Does it communicate simplicity?”. Similarly, when participants disagreed, it was useful to delve into <em>why</em>. For example, when sketching layouts for the home page, some EQUATOR staff drew a single, prominent search button. Others drew a plethora of options like “view guidelines by speciality”, “view guidelines A-Z”. Discussion revealed that whereas some staff prefer to search directly for what they want with laser-like focus, others prefer to “explore”, especially when they are not certain what they want or what the website is about. In this instance, the final design takes both use cases into account, but other times we resolved disagreement by referring to the intervention planning table or to similar websites. Hence using a framework and exploring disagreements as a group helped mitigate personal preferences.</p>
@@ -396,13 +395,13 @@ div.csl-indent {
 <p>My design may have benefited from input from other stakeholders. I describe how I obtained feedback from authors in my next chapter, but I would have liked to include authors, publishers, funders, and other stakeholders from the start of the design process. If EQUATOR decide to take my designs forward, these consultations could still take place, but they were not feasible within the time constraints of my PhD.</p>
 <p>Input from user experience experts and graphic designers would also be useful. We found images to be a time consuming pain point. None of us had the skills to create professional looking graphics ourselves, and we found most free stock images were generic and did not communicate what we needed.</p>
 <p>My experience of working with SRQR’s lead developer, Bridget, was was positive; she was supportive, liked the result, and she was interested when my process revealed gaps in SRQR item description. For example, often there was no guidance of what to write if a reporting item was not or could not be done. Some items did not explain why they are important and to whom. Filling these blanks required time and input that SRQR’s development team were unable to give at present, and so I left these gaps unfilled for now. I anticipate other guidelines will have similar gaps. I hope other guideline developers will be as open-minded as Bridget was, but I expect others may feel less able or motivated to engage with a redesign, or may feel protective over their writing and resistant to change.</p>
-<p>In addition to filling these gaps, making my redesign “live” would require further technical work. Some of these tasks are administrative and have no behaviour change impact, but there are still 16 intervention components outstanding. These components were too difficult or time consuming to include at this stage. For example, I intended to include more examples of reporting items, and to optimise reporting guideline pages so they rank highly in search engines. EQUATOR could add these intervention components at a later date.</p>
+<p>In addition to filling these gaps, making my redesign “live” would require further technical work. Some of these tasks are administrative and have no behaviour change impact, but there are still 17 intervention components outstanding. These components were too difficult or time consuming to include at this stage. For example, I intended to include more examples of reporting items, and to optimise reporting guideline pages so they rank highly in search engines. EQUATOR could add these intervention components at a later date.</p>
 <div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="">STRETCH Describe how new site differs to GoodReports</span></div></div>
 <!-- #TODO: consider moving this paragraph to the design chapter? Initially, and probably because of my background in software development, I looked at user experience literature (e.g., @experienceGuideUsingUserExperience) but quickly realised that heuristics for creating easy-to-use websites don't really generalise to long-form instructional text. Thinking of comparable documents, I then looked into user testing instruction manuals (@mollerUsabilityTestingUser2013) but found that focusing on the document alone neglected other parts of the intervention, like the impact of journal policies or the behaviour of peer reviewers. A conversation with a professor of Human-Computer Interaction was interesting but focussing on information technology design seemed, again, to only cover part of the problem. -->
 </section>
-<section id="conclusions" class="level3">
-<h3 class="anchored" data-anchor-id="conclusions">Conclusions</h3>
-<p>In summary, I have described how I involved EQUATOR staff and a guideline developer through a co-design process to redesign the EQUATOR Network’s home page and the SRQR guideline. These new designs include 47 of the 63 intervention components identified in chapter 9. Although my designs may have benefited from including other stakeholders, I explained how I facilitated open discussion, prioritised other’s opinions, and used my intervention planning table to make decisions. In the next chapter I explain how I refined these designs further by interviewing and observing authors.</p>
+<section id="conclusions" class="level2">
+<h2 class="anchored" data-anchor-id="conclusions">Conclusions</h2>
+<p>In summary, I have described how I involved EQUATOR staff and a guideline developer through a co-design process to redesign the EQUATOR Network’s home page and the SRQR guideline. These new designs include 46 of the 63 intervention components identified in chapter 9. Although my designs may have benefited from including other stakeholders, I explained how I facilitated open discussion, prioritised other’s opinions, and used my intervention planning table to make decisions. In the next chapter I explain how I refined these designs further by interviewing and observing authors.</p>
 
 
 <div id="refs" class="references csl-bib-body" role="list">
@@ -467,7 +466,6 @@ div.csl-indent {
 <div class="csl-left-margin">20. </div><div class="csl-right-inline"><span>GitHub Pages</span>. GitHub Pages </div>
 </div>
 </div>
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -705,17 +703,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">Updated: Tue Oct 24 11:02:05 BST 2023 - Commit ID: a51decd</div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 
