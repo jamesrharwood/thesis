@@ -9,7 +9,6 @@ render: add_footer update_wordcounts create_tables
 
 create_tables:
 	@python chapters/11_pilot/data/create_methods_table.py
-	@python chapters/11_pilot/data/create_table.py
 
 commitID = $(shell git rev-parse --short --verify HEAD)
 date = $(shell date)
