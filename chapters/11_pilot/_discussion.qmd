@@ -1,74 +1,85 @@
-```
-Summarize aims and objectives
+## Summarize aims, objectives, and results
 
-Summarize results
+The purpose of this study was to identify deficiencies in a website for disseminating reporting guidance. I interviewed {{< var counts.pilot.participants >}} using multiple qualitative methods and identified {{< var counts.pilot.deficiencies >}} pertaining to {{< var.pilot.deficient_components >}} intervention components. 
 
-* number of deficiencies
-* number of intervention components
+### Home page:
 
-Biggest themes:
+Most intervention components on the website's home page aim to communicate what reporting guidelines are, that they are best used early in writing, and how they will benefit the author. The results demonstrated most of these components to be somewhat successful, but not yet optimal. For example, although all authors realised the website was about resources to help them write, often this took more than 5 seconds. Because participants often found later content more useful than the short text at the top of the page, many asked for the text at the top of the page to be (slightly) longer and more concrete. If "easier writing" is vague, "faster first drafts" might be concrete. If "complete" reporting isn't intuitive, perhaps "describing research so that everyone can understand, repeat, apply, and synthesise your work" is. In seeking to balance brevity and clarity, perhaps I had been too mean with my word count.
 
-* design
-* wanting more but also wanting less
-* understanding relationships
-* focussing on author worked. Beneifts to others largely neglected but nobody missed it. 
+I had sought a similar balance when trying to organise the full SRQR guidance (35 pages in its original form) onto a single webpage, in a way that made it appear shorter and less intimidating. Again, the current design was somewhat successful. Participants liked the web features I had used, like popup definitions, expandable content, navigation menus, subheadings and consistent structure. However, some still felt the guidance looked too long, whilst others wanted to add content that would make it longer still; more examples, more information, more definitions, more signposts to other help. One solution may be to display reporting items on separate pages, as the ARRIVE developers have done on their website #REF Another may be to display a summary of the guidance at the very beginning. 
 
-Validation of barriers. 
-Even for Components that were not implemented. E.g. consistent words
+Many participants commented on the website's design. Whereas we had been somewhat successful in projecting simplicity, for some participants, this crossed the line to basic-ness. Many intervention components use design as a way to persuade and communicate with authors: we wanted pictures to depict tools, benefits, and purpose; layout and colours convey a feeling of ease and openness. Sadly, design is a skill that neither I, nor my colleagues possess. Images took a long to create and, unlike text, are hard to iterate. This is a pity, as design was important to many components, often more salient to participants than text, and bad design can mislead participants or put them off. Design was also linked to another theme important to this study: credibility. 
 
-Value of methods. 
+Many participants talked about credibility. For some, the website's basic design eroded its trustworthiness. Although this could be mitigated (e.g. by including logos), future design iterations would ideally seek professional design input or take inspiration from similar websites, like NICE. They also wanted assurance that the guidance could be trusted, which necessitated understanding the relationship between EQUATOR, guidelines developers, the original guideline publications, and the content of the website. Future iterations should make these relationships clearer.
 
-* codes per method?
-* each brought value 
+I mention future iterations on purpose. The remaining deficiencies need addressing and it is my intention, funding permitting, to design and evaluate new iterations after my PhD. Ideally, I would repeat this process until the remaining deficiencies are not severe nor likely. DeJong and Schellens #REF recommend scoring deficiencies' severity and likely frequency subjectively, but if necessary, future research could survey authors to rank deficiencies themselves. 
+
+## Integration with prior work
+
+* How this links with previous chapters
+* Validation of barriers. 
+
+## Strengths and Limitations
+
+### Strengths
 
 Strengths in comparison to other studies
 
 * recruitment
 * thick data. Much better compared to thin studies. Even good feedback studies only focussed on content on guidance (PRISMA 2) or its application (SQUIRE 2), but not so much the design or dissemination channel. Other guideline groups could copy my methods. 
 
-Limitations
+### Limitations
 
-Context wasn't perfect. Participants were not completely naive. 
-Focussing on deficiencies occludes positives. 
-Better to have had neutral interviewer? But my understanding of the components was also a strength?
-Not all intervention components explored:
+#### Not all intervention components explored:
+
+##### Sometimes unintended 
+
+E.g. the think aloud was good at detecting things that were salient (good or bad). Not good at detecting neutral things. 
+
+
+Trust became a big theme. Wasn't really included as an intervention component at top of home page. Should be added, and future 5 second tests should explore this. Fogg splits trust into 4 categories and this would be testing surface credibility (Fogg 2003, from chapter 4 of UX five second rule book. " That which can be perceived immediately (colors, layout, images, etc.) has the ability to boost credibility substantially—e.g.,the use of “stock photos” or public domain imagery can have a negative effect on perceived credibility, while using “real” images can help communicate a sense of authenticity and legitimacy.")
 
 * Some not at all e,g, search optimization
 * Some only partially e.g. search functionality and links to related guidelines, should be a navigation task
+* Understanding and interpretation of the guideline not done thoroughly as this was not an aim. 
 
-Future studies
-
-Further refinement addressing the main results discussed at start of Discussion
-Possible preference study comparing old and new system, or relative importance of components e.g. conveying benefits to others vs oneself
-NEed to develop checklists and writing tools (templates)
-Once live, could do a mixed methods feasibility study comparing analytics behavioural data with possible journal input. 
-
-
-
-
-
-
-
-The context in which users encounter the website will effect how it is perceived. 
-
-Most visitors come from journal websites, having been instructed by an editor or JAI page to use a particular reporting guideline. Others may come to the site because a a guideline has been recommended by a friend. Very few arrive completely cold turkey. 
-
-In contrast to this study, where all participants were totally cold (unless they were already familiar with EQUATOR). 
-
-So when one participant suggested that "What are RGs" should come above the Frequently Accessed Guidelines (Or at least that the writing, checking, planning should) this may appear sensible on the surface. But given that most authors will come already with a guideline's name in mind (even if they don't really know what it is), this ight not be necessary. 
-
-Therefore, need a real world evaluation.
-
-All could speak English = bias
-
-Not all intervention components explored directly. E.g. the think aloud was good at detecting things that were salient (good or bad). Not good at detecting neutral things. 
+##### Othertimes was on purpose 
 
 Task based protocol or navigation task might have been better. E.g. "look for french version" or "imagine you needed to cite this, where would you look" - which I did kinda do as an interview question.
 
 The problem of finding the right guideline still deserves exploration. Need the other guidelines to be up, and would need to either give tasks or recruit people differently (not by the kind of research they were doing). 
 
-The data collection methods I've used have been critiqued - variation in practice makes it difficult to repeat or compare studies. And variation is not always grounded in theory. For example, 5 second test variations, think aloud variations. 
+#### Context 
 
-Trust became a big theme. Wasn't really included as an intervention component at top of home page. Should be added, and future 5 second tests should explore this. Fogg splits trust into 4 categories and this would be testing surface credibility (Fogg 2003, from chapter 4 of UX five second rule book. " That which can be perceived immediately (colors, layout, images, etc.) has the ability to boost credibility substantially—e.g.,the use of “stock photos” or public domain imagery can have a negative effect on perceived credibility, while using “real” images can help communicate a sense of authenticity and legitimacy.")
+Context wasn't perfect. The context in which users encounter the website will effect how it is perceived. At first thought, recruitment might have given the game away. Recruitment said: #TODO. So perhaps it is unsurprising that participants knew the website was about research and expected it to be helpful?
+
+But that's not entirely bad as it kinda mimics natural context. Most visitors come from journal websites, having been instructed by an editor or JAI page to use a particular reporting guideline. Others may come to the site because a a guideline has been recommended by a friend. Very few arrive completely cold turkey. In fact, participants might actually have been "colder" than in real life. Perhaps the more important challenge is to make visitors realise that the resources are for _writing_ or _drafting_ not as pre-publication checks.
+
+So when one participant suggested that "What are RGs" should come above the Frequently Accessed Guidelines (Or at least that the writing, checking, planning should) this may appear sensible on the surface. But given that most authors will come already with a guideline's name in mind (even if they don't really know what it is), this might not be necessary. 
+
+Interviews began on the home page, but many authors will arrive on the guideline page. So need to test that too. 
+
+Better to have had neutral interviewer? But my understanding of the components was also a strength?
+
 
 both de jong and Schellens and think aloud protocol advice talk about prioritising deficiencies according to....likelihood, severity...and some other metrics. I did not do this explicitly.
+
+### Priority 
+
+Biggest theme because of study methods (e.g. 5 second test) but also because participants naturally spoke of these things.
+
+## Future work
+
+* Further iterations
+* Development of other resources
+    * Checklists
+    * Templates
+    * Design advice
+    * General writing advice
+* Once live, could do a mixed methods feasibility study comparing analytics behavioural data with possible journal input. 
+* Possible preference study comparing old and new system, or relative importance of components e.g. conveying benefits to others vs oneself
+
+## Implications
+
+* To other guideline groups
+

@@ -487,19 +487,19 @@ Although participants commented on the quotes from research consumers, and on th
 
 ## allow-guideline-developers-to-edit
 
-No participants commented on this. 
+This component was not tested and no participants commented on this. 
 
 ## item-what-to-describe-when-not-done
 
-No participants commented on this. 
+This component was not tested and no participants commented on this. 
 
 ## remove-aversive-design
 
-No participants commented on this. 
+No participants described the design as unpleasant or judgemental.
 
 ## seo
 
-No participants commented on this. 
+This component was not tested and no participants commented on this. 
 
 ## if-then-rules
 
