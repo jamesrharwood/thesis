@@ -261,8 +261,8 @@ intervention-components:
     title: Include design, features, and language to foster trust
   digestible-structure:
     barriers: Researchers have limited time
-    description: Items have consistent structure
-    title: Structure guidance to make it quicker to digest
+    description: Items have consistent structure and use bullet points consistently
+    title: Structure guideline items to make them quicker to digest
   discussion-spaces:
     barriers: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; reporting guidelines can become outdated; Researchers may feel patronized
     description: Each reporting item has its own discussion board.
