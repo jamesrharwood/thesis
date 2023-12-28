@@ -9,6 +9,6 @@
 * focus-groups: 8713 (inc. tables: 9130)
 * defining-content: 1378 (inc. tables: 6719)
 * redesign: 3312 (inc. tables: 3312)
-* pilot: 8393 (inc. tables: 17787)
+* pilot: 8393 (inc. tables: 17796)
 
-**TOTAL: 48083 (inc. tables: 70946)**
+**TOTAL: 48083 (inc. tables: 70955)**

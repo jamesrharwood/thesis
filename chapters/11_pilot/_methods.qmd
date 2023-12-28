@@ -27,6 +27,8 @@ I recruited through four channels:
 3. I invited researchers from a research consultancy in the Philippines.
 4. I wrote to Chinese researchers who had published qualitative research and about the experience of doing qualitative research in China, and I asked them to share my recruitment advert. One of the researchers I contacted posted the advert on internet forums used by Chinese students. 
 
+My recruitment advert is in appendix #TODO. The advert said I was "looking to speak with people performing qualitative research about a new website". It did not specify what the website was about, who it was for, or whether it would help with their job, because I wanted authors to be naïve when first viewing the website. This mimics the real world, where authors might be sent to EQUATOR's website by a journal with only minimal information on what to expect from it.
+
 All channels invited authors to signal their interest by email. To check applicants' eligibility as qualitative researchers, I asked them to describe their research methods in a few sentences over email. I excluded applicants if their descriptions made no reference of a qualitative method.
 
 I sent all eligible applicants the participant information sheet and consent form. I used JISC Online Surveys #REF to obtain consent and ask the following demographic questions:
@@ -36,7 +38,7 @@ I sent all eligible applicants the participant information sheet and consent for
 * What is your first language?
 * What country do you work and live in?
 
-I offered participants £50 reimbursement in return for an expected 2 hour commitment. This was a delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My recruitment advert, information sheet, consent form, and email templates are in Appendix #TODO. 
+I offered participants £50 reimbursement in return for an expected 2 hour commitment. This was a delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My information sheet, consent form, and email templates are in Appendix #TODO. 
 
 Time and money limited my target sample size to 10 participants. As argued by Nielsen and Launder @nielsenMathematicalModelFinding1993, small samples (fewer than 10) are often sufficient to identify the majority of deficiencies. In chapter {{< var chapters.focus-groups >}} I introduced information power @malterudSampleSizeQualitative2016 as a concept to guide sample size in qualitative research, and I drew upon it again in this study. I maximised information power firstly by using methods to elicit rich information from each participant. Secondly, I used my table of intervention components ({{< var chapters.defining-content >}}) as an analysis framework. Hence I anticipated a sample of 10 to sufficiently inform at least one design iteration at the end of data collection.
 
