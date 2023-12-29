@@ -44,7 +44,7 @@ However, some components were purposefully not salient, but still deserve evalua
 
 Whereas the limitations above affected my success in reaching my objectives (identifying deficiencies), my objectives were themselves limited and further work is needed to develop the website into a fully functional resource. 
 
-I will not discuss potential future studies, including 1) prioritising deficiencies; 2) further iterations to address deficiencies; 3) extending the website with other guidelines, checklists, templates, examples, and resources; 4) evaluating components that could not be evaluated in this study; 5) comparing authors' preference between the new and existing website and guidelines; and 6) real world evaluations.
+I will not discuss potential future studies, including 1) prioritising deficiencies; 2) further iterations to address deficiencies; 3) extending the website with other guidelines, checklists, templates, examples, and resources; 4) evaluating components that could not be evaluated in this study; 5) comparing authors' preference between the new and existing website and guidelines; 6) real world evaluations and 7) evaluating reporting guideline content.
 
 #### Prioritising deficiencies
 
@@ -54,7 +54,7 @@ Instead, de Jong and Schellens suggest ranking deficiencies according to their l
 
 #### More iterations needed to fix identified deficiencies and when the website is extended
 
-Once prioritised, the remaining deficiencies need addressing and it is my intention, funding permitting, to design and evaluate new iterations after my PhD. This may be the final research chapter of my thesis, and it would have been satisfying to conclude with "I've done it. The website is perfect!", but the realities of iterative design, limited time and money force me to end with unfinished business. Testing future iterations with an identical protocol would offer continuity. It may be more prudent, however, to adjust the study protocol to target particular components or contexts. 
+Once prioritised, the remaining deficiencies need addressing and it is my intention, funding permitting, to design and evaluate new iterations after my PhD. Testing future iterations with an identical protocol would offer continuity. It may be more prudent, however, to adjust the study protocol to target particular components or contexts. 
 
 #### Extending the Website
 
@@ -71,10 +71,26 @@ Some components could not be explored in this study. Optimizing the website for 
 Thirdly, one component involved adding information to items to instruct authors what to do if a particular item was not, or  could not be done. This item was more applicable to reporting guidelines for quantitative research, many of which make assumptions about design choices. SRQR is fairly agnostic to design choices, and I only added information to one item (item 5, regarding qualitative approach). In the writing evaluation, I asked participants to describe what part of their manuscript they were working on and I then recommended 2 or 3 reporting relevant reporting items. Item 5 was not relevant to any participants, and so no participants noticed nor commented on the component.
 
 #### Comparing preferences
-* Possible preference study comparing old and new system, or relative importance of components e.g. conveying benefits to others vs oneself
+
+This study did not aim to explore whether participants preferred the revised reporting guideline and website over the existing ones. The few participants who made this comparison naturally all expressed preference for the redesign, but future studies could explore preferences in detail. Doing this qualitatively would limit the sample size but reveal _reasons_ behind preferences. In contrast, a larger, survey study would unlikely elicit rich data on _why_, but the larger sample size might help persuade any sceptical reporting guideline developers.
 
 #### Real world evaluations
-* Once live, could do a mixed methods feasibility study comparing analytics behavioural data with possible journal input. 
+
+Once the new website and redesigned reporting guidelines are live, real world evaluations should continue to monitor, understand, and improve authors' experiences. This will include using google analytics to monitor how authors use the website, online surveys and other feedback channels, and opportunistic recruitment of authors at specific moments in their publishing process. 
+
+Some important metrics include the proportion of authors that return to use the website, the proportion who access resources specifically for early stages of work, and the length of time authors engage with guidance. 
+
+Because journals will probably continue to be an important channel through which authors discover reporting guidelines, one possibility would be a mixed methods feasibility study, in collaboration with a journal, similar to the study EQUATOR executed with BMJ Open before my PhD @struthersGoodReportsDevelopingWebsite2021. Such a study could combine google analytics data with author interviews and writing evaluations of manuscript submissions. 
+
+#### Evaluating guideline content
+
+This study did not attempt to evaluate the SRQR recommendations themselves, but rather the guidelines' presentation. I was interested in what participants thought of the structure, order, layout of the guidelines, but not on their thoughts of the guidance content. I was trying to look at the guideline on a macro level, and I was not interested on whether participants disagreed with it, or took issue with particular parts of the content. 
+
+I hope that guideline developers will begin evaluating their content in more detail. They could make use of de Jong and Schellen's advice, which suggests exploring the criteria needed for text to be effective: selection (whether readers choose to engage with it), comprehension, application, acceptance, appreciation, relevance and completeness @dejongReaderFocusedTextEvaluation1997
+
+## Conclusions 
+
+This study aimed to identify deficiencies in a redesigned version of the SRQR guideline and EQUATOR Network home page. Intervention components were deficient if they could more successfully drive authors towards our target behaviour: appropriate adherence to reporting guidelines. In identifying {{< var.counts.pilot.deficiencies >}} deficiencies, I met my objective, but this success comes with disappointment. This may be the final research chapter of my thesis, and it would have been satisfying to conclude with "I've done it! The website is perfect!", but the results of this study prove otherwise. Unfortunately, the realities of iterative design and limited funding force me to end with unfinished business. Nevertheless, I have suggested further studies to continue and extend the work presented here. In the next chapter, I will discuss my thesis as a whole, directions for future work, and implications for guideline developers and other meta-researchers interested in changing the scholarly system.
 
 
 
