@@ -41,10 +41,15 @@ I have chosen to describe a few deficiencies in more detail, either because I de
 
 #### Barriers
 
-Participants naturally discussed barriers and facilitators they encountered when applying guidance, either during this study or in their previous experience. These factors were external to the website being tested, and I had identified many of them in my previous work (chapters {{< var.chapters.synthesis >}}-{{< var chapters.web-audit >}}. Participants mentioned:
+Participants naturally discussed barriers and facilitators they encountered when applying guidance, either during this study or in their previous experience. These factors were external to the website being tested, and I had identified many of them in my previous work (chapters {{< var.chapters.synthesis >}}-{{< var chapters.web-audit >}}. 
+
+One barrier involved authors feeling frustrated when asked to use a reporting guideline or checklist when they have already finalised their manuscript and are submitting to a journal. Using a checklist so late in publishing causes frustration because authors are short of time, consider the work finished, and are trying to get their job done. One participant articulated this concisely ({{< var pilot.participants.PPT-CW >}}), when she reflected in her first session, they were "annoyed by stuff" because they were "working on something at the time, not really exploring". They were "just trying to get to where [they] wanted to be so that [they] could finish the work [they were] doing and [they] didn't want all the additional sort of stuff". 
+
+However, after using the reporting guideline in their own time, their opinion had totally changed by the second session: "when you specifically asked me to look at this and I used it [to write my] discussion, I was embracing it in a different way". They found the guideline "really helpful" for writing, and then "enjoyed looking at all the different checklists and reporting guidelines", ultimately deciding that "in a new journal that I'm a deputy editor [of], I've just said that in our in our scope and guidance for authors, we have to say that we require the use of reporting guidelines". This change of heart reflected a shift in context: whereas in the first session the participant was looking to get a job done quickly, by the second session, they had given the guideline time and used it in its intended way.
+
+Participants mentioned:
 
 - Not having known what reporting guidelines were earlier in their career
-- Feeling frustrated when asked to use a reporting guideline or checklist when they have already finalised their manuscript and are submitting to a journal.
 - (Previously) finding the checklist, but not the full guidance
 - Being limited by journal requirements and word limits
 - Struggling to keep writing concise and fluid

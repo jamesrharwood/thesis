@@ -1,0 +1,259 @@
+## Chapter Overview
+
+## Summary of findings
+
+In this thesis I aimed to identify and address barriers authors face when using reporting guidelines. I chose this aim because I believe eliminating barriers will increase the proportion of authors adhering to reporting guidelines. In turn, this will make research articles easier for other researchers, clinicians, and patients to understand, synthesise, replicate, and use. 
+
+In chapters {{< var chapters.synthesis >}} - {{< var.chapters.web-audit >}} I explored barriers through a qualitative evidence synthesis, a review of survey questions, and a service evaluation of the EQUATOR website. I identified {{< var.counts.barriers >}} affecting how authors discover, find, understand, and apply reporting guidelines. 
+
+In chapters {{< var.chapters.workshops >}} I described how I used a framework for designing behaviour change interventions called the Behaviour Change Wheel to prioritise intervention options. Over a series of workshops, EQUATOR UK staff decided to prioritise interventions using education, training, persuasion, modelling (demonstrating using reporting guidelines), and restructuring the environment (both physical and digital environments). Conversely, staff saw restriction and incentivization as inequitable. When considering policy categories, staff prioritized communication, guidelines, and service provision. 
+
+In chapter {{< var.chapters.focus-groups >}} I described leading focus groups with stakeholders to generate {{< var counts.ideas >}} ideas to address barriers, and in chapters {{< var.chapters.defining-content >}} and {{< var.chapters.development >}} I describe how I turned these ideas into {{< var counts.intervention-components >}} intervention components and brought them to life by redesigning a reporting guideline and the EQUATOR Network home page.
+
+Finally, in chapter {{< var chapters.pilot >}} I described how I evaluated the redesigned reporting guideline and home page with a diverse group of authors. I identified {{< var counts.deficiencies >}} to be addressed in future iterations. 
+
+## Overview of resources resulting from this thesis
+
+My main thesis output is a redesigned reporting guideline and EQUATOR Network home page. 
+- RG redesign could be copied by other guidelines
+- I've not just created a page. Easy to view web page as a 2 dimensional document. 
+- I've created a platform. Other guideline developers can upload guideline content as simple text files, and the platform will automatically generate the guideline on online format. With features (like discussion boards, analytics tracking "baked in")
+- Technology is simple and cheap. 
+Hence I've created a platform that will be easy to maintain, extend, and scale. 
+
+This will have big impact on guideline development groups 
+- most have small funding that barely covers delphi process, let alone user testing or dissemination. 
+- Some guideline budgets for context 
+- Even those with budgets may lack technical skills to create their own websites. 
+Thus transformative to all current and future guideline development groups.
+
+Home page is also important. 
+- Chapter web-audit showed 50% of web visitors leave the home page and very few come back. 
+- Only 25% of visitors access reporting guidance. 75% are leaving without engaging with anything.
+- This is significant as EQUATOR is frequently visited. 1 million authors. 
+- Making a new home page may seem simple, but halving bounces would represent 250,000 - 400,000 authors each year engaging with guidelines. 
+A simple change with potentially big, measurable effect.
+
+## Strengths and Limitations
+
+### Strengths
+
+A recurring strength was my application of systematic methods.
+- Systematic search in my evidence synthesis and survey review
+- BCW framework to systematically consider all intervention functions, policy categories
+- BCT taxonomy to consider all techniques
+- APEASE to prioritize options.
+- Applying components systematically into design
+- Using intervention component table to analyze pilot data
+Hence I used systematic approached throughout. But this use was judicious, using an unmotivated analysis in QES  was _also_ a strength.
+
+Usefulness of this systematic approach could be measured and felt. 
+- Measured in part 2 when documenting ideas
+- Felt during the workshops. Changes of heart and mind.
+
+I hope this systematic-ness will speak to guideline developers. 
+- Fans of systematic approaches. Reviews to audit reporting, reviews when developing guidance, delphi process etc. 
+- Yet none have used a behaviour change framework at all, let alone systematically.
+
+Use of behaviour change framework and qualitative methods (with a bit of descriptive quantitative data thrown in the audit) is another strength. 
+- Reporting guidelines have traditionally been developed by subject experts, with triallists, systematic reviewers, epidemiologists leading the charge and setting the traditions for other developers to follow. All of these are quantitative disciplines. - Yet behaviour change crosses the realm of psychology, 
+- Understanding how academics learn and write is traditionally the domain of social sciences,
+- Industries developing resources would normally involve human factors experts or user experience experts.
+I have demonstrated how behaviour change and user experience can be incorporated in reporting guideline development.
+
+The phenomena these disciplines examine - experiences, understanding, motivation, etc. are qualitative by nature, and so my use of qualitative data was another strength rarely embraced by traditional guideline development groups. 
+- Perhaps because it's not part of their wheelhouse
+- But qualitative data elicit much richer insights than quantitative, or even free text option in a survey.
+- Although my platform takes care of the website, guideline developers will still be responsible for testing their own content, and the works of de Jong and Schellens might be useful for them, as would a copy editor/someone familiar with heuristics for clear writing.
+- Many of the methods de Jong describes are relatively straightforward. And rich data can be obtained from a small sample size, so qualitative studies are feasible. The biggest barrier may be designing them (not recruitment nor data analysis).
+Hence future guideline developers could and should include qualitative methods where appropriate. EQUATOR could consider creating advice for guideline developers.
+
+Diverse recruitment was another strength. 
+- In focus groups I had many stakeholders. This was fairly straightforward to organise and others could mimic.
+- In pilot I had diverse geography and experience. This was harder. Although I had been advised to use Twitter this wasn't very useful for me. Recruiting through Penelope.ai worked very well, but is a luxury specific to me. I would be happy to help other guideline groups recruit (RIVER) or groups could consider other avenues. Paying for participants helped too. 
+EQUATOR could draw up some advice for how to recruit diverse and representative samples.
+
+In sum, the strengths of my thesis include systematic methods, judicious use of frameworks, qualitative methods, and diverse recruitment. 
+- many of these contrast to previous research
+- but all are attainable by other researchers, and EQUATOR could help by drawing up advice. 
+
+### Limitations
+
+There are some limitations that permeate through the whole thesis. These are...
+
+#### Quantification 
+
+Made no attempt to quantify frequency or perceived importance of factors, ideas, deficiencies. 
+- To quantify all would have been a huge endeavour. And potentially meaningless, as many are subjective and contextual. What is acceptable to one is not to another. What is feasible for me is not to someone else etc. So quantifying was never necessary for my objectives. 
+- I could have characterised reporting guidelines as they are now by quantifying the occurance of barriers, but again, huge amount of work. Where would I stop? All guidelines? All journals? All funders? A smaller audit was already underway, and such an audit.
+- Behaviour change was new territory for EQUATOR, and so there is no guarantee that a future student would continue my work or have the necessary coding skills to create something. 
+- Ultimately, what was the marginal benefit of knowing _exactly_ how many people experience something, versus knowing that _some_ people experience it? Especially when that number might vary by guideline/demographic/context. If addressing it is simple, affordable, acceptable, equitable, and effective, why not do it?
+- This did not really limit my pragmatic approach, as even if I did qantify them, frequency and importance were only 2 criteria by which to prioritize. Others were affordability, acceptability, equity, side effects. Etc. 
+- Such quantification would have taken a long time, not lead to change directly, ultimately less impactful thesis.
+
+But other researchers will have different interests and objectives for which quantification may be useful. For example:
+- Some ideas are more costly. E.g. developing advice for funding applications, or developing software for automated checking. Before starting on something expensive, large scale, quantitative surveys could provide justification for expense by demonstrating theoretical interest or expected user volumes. E.g. before creating protocol guidance for STROBE, it might be useful to get an estimate of how many epidemiologists write protocols. Or how many funders would consider endorsing reporting guidelines for funding applications. 
+- Sceptical guideline developers may not believe the barriers without quantifiable "proof" of their existence and prevalence. So even if quantifying barriers may not be necessary to justify intervention changes, it might be necessary for changing the hearts and minds of guideline developers. 
+
+#### Comparison 
+
+This proof could also come from comparing my redesign with the existing version. This would address another limitation of my thesis: I made no attempt to compare.
+- But this would be useful. Could be preference study (proportion prefering each version), a before-and-after process evaluation (e.g. proportion of researchers accessing guidance, engagement times, returning visitors) (more on this later...), or an ambitious interrupted time series analysis comparing reporting quality over time. 
+- But qualitative data should be collected too, to understand the results and make further improvements. 
+
+These two limitations; no quantification nor comparison, were consequences of my relatively narrow objectives, limited to identifying and understanding, not counting, or evaluating efficacy. Future research _should_ seek to quantify, compare, and evaluate the efficacy of changes to the reporting guideline dissemination.
+
+#### Variation between guidelines
+
+I considered guidelines all together. 
+- Typically I've lumped them into a single abstraction. In intro I justified why; they share many characteristics and inspiration. I called them a theme and variations. 
+- Only in my interview chapter I singled out SRQR. Again, with justification, but the home page and guideline redesign needs to speak to all researchers. 
+- But there _are_ differences. Both in how they are made, what they consist of, and in _who_ uses them, _why_, and _when_.
+- Perhaps clearest example is reporting guidelines for protocols. Used at very different time point in research journey. Authors may be more open to making changes, may even be _seeking_ input. 
+- There are also more nuanced differences between guidelines. For example, systematic reviews & students. Here a quantitative survey to determine characteristics of users might be useful. 
+So any future iterations should be done using a different guidelines and/or researchers at different stages of research.
+
+#### Chosen framework 
+
+I used BCW because it is evidence based, accessible to non-behaviour change experts and so easy to include other EQUATOR staff. But perhaps I went too granular. Perhaps I could have benefited from UX framework. Other researchers should not feel pressure to continue using BCW: there are other approaches. 
+- I could have used. E.g. TDF etc. But they differ in evidence base, accessibility, reputation/adoption within medical sciences. 
+- In chapter BCW I described why I picked BCW over and above TDF or PBA but I did not address others. 
+- I could have written a comparison of all methods but comparison was not my aim. Neither was perfection. I was interested in demonstrating a new approach, so the right path for me was the path of least resistance.
+
+But it was not perfect. I went more granular than other studies using BCW. 
+- E.g. Alcohol intervention had modules - essentially pages. Whereas some of my components were tiny. 
+- For example, for future website development, additional UX heuristics or frameworks would be useful. 
+
+In summary, future studies should not feel confined to using the BCW, and I myself will explore UX frameworks in future research. 
+
+#### Simplistic programme theory and lack of logic model
+
+My programme theory is quite simple. 
+- MRC guidance stresses importance of describing how the intervention is expected to lead to desired change. 
+- My version of this is my table of intervention components, each one linked to the barrier it addresses, and the behaviour (or sub behaviour) it will lead to. 
+
+MRC also suggests creating a visual depiction of the programme theory, called a logic model.
+- Type 1 are lists of components and outcomes (similar to what I've done). 
+- Type 2 add context, and often depict time linearly from inputs to outputs, but are criticised for being poor models of reality.
+- Type 3 eschews lineality and instead demonstrates relationships between components across domains. Can be complex. But generally focus on a single setting/context/implementation.
+- Often type 2 and 3 include resources or inputs, stakeholders and their activities or actions, expected outputs, outcomes, and impact.  
+Hence logic models describe components and pathway to changes, but also relationships between components, roles of stakeholders, context. 
+
+I decided not to make an logic model:
+ - The website is only _part_ of the intervention. In introduction I described complexity - guidelines, people, settings, contexts, implementations (specific to journals/funders/guidelines). 
+ - Journal endorsement / enforcement / funder enforcement / using to draft / using to check / using to develop funding applications. 
+ - All different contexts, stakeholders, and relevant components. 
+ - My website fits in the middle of all possible permutations of intervention. 
+ - Logic models should represent the whole, but I've only made the part.
+ - Even my small part has many components. Listing in a table was clearer than in a figure.
+ To represent _all_ permutations would have been too complicated.
+
+ I have since discovered many others share this frustration with logic models. 
+ - logic models have been criticised because capturing complexity and variation in context is difficult.  
+ - Type 4 models address this by being less detailed than type 3. They become more abstract, turning more into guiding principles. 
+ - In abstraction, type 4 models replaces concrete lists of inputs, outputs, actions for abstract principles. 
+ - E.g. PARIHS #REF Hack et al. which explains success/failure of a project in terms of evidence, context, and facilitation.
+ I could still do this when I come to publish, as it might be a useful, digestible way to present guiding principles.
+
+#### Focussing on author behaviour 
+
+If I had created a logic model and managed to capture context and variation, it would still would not be complete because of another limitation of my thesis: I focussed on authors and completely neglected editors, peer reviewers, and the behaviour of other stakeholders. 
+- Equally important. 
+- Peer reviewers and editorial reviewers could directly influence behaviour on a manuscript level
+- Publishing and funding managers could influence it at a policy level.
+- Colleagues, educators, could also. 
+- These groups will have their own influencing factors. 
+- E.g. peer reviewers need guidance on what counts as completely reported. Editors in my focus groups said how checklists aren't useful to them. 
+- So future work could explore and address factors influencing behaviours of stakeholders adjacent to authors. 
+And programme theory / logic models should include these people as a more accurate representation of reality. 
+
+#### Real world context 
+
+I hope to lead such a study, to address another limitation of my research - real world context. 
+- I described this in my previous chapter context as a limitation.
+- For forseable future, web traffic will continue to come from journals. 
+- So next study could be a full circle moment, and mimic the design of the BMJ Open study that I mentioned in the introduction. 
+
+BMJ Open study summary:
+- Authors submitting to BMJ Open had option to use Penelope.ai manuscript checker. 
+- Checker would recommend a reporting checklist. 
+- BMJ Open gave us access to submissions so we could compare repoirting quality in authors who did/did not submit a checklist. 
+- Saw no improvement. 
+- Checklist and guidance was presented in old way. 
+- No programme theory at all. 
+
+Could repeat the experiment but with an important difference in outcome measure: 
+- although immediate reporting improvement would be interesting, the more important outcome would be whether authors who discover the website via BMJ Open end up returning. 
+- We did not consider this as an outcome for original study, in part because we had no programme theory at all. 
+- But in the workshops, a core principle was that guidance should be used as early as possible, and the new website takes measures to communicate that. 
+- So a process evaluation could help us understand how many authors come from the journal to the website, how many stay and engage with guidance, how much they read, what tools they download, and whether they come back the next day, the next week, next month or next year, perhaps to access another guideline. 
+- Would used a mixed methods approach, with interviews to explore experiences.
+- We would expect to see authors coming from journals to access checklists, but would hope that upon returning in the future, they might access resources for drafting & maybe engage for longer. 
+- For such a study, we should develop a more detailed logic model. 
+
+Similarly, future studies for particular contexts/implementations/channels could formulate a logic model.
+- For example, journal implementation. Intention might be to capture authors late, convert them into return users. 
+- Another example, guidance for funding applications or protocols. Would place more emphasis on design advice.
+- A more formalised logic model could be drawn
+- Would help with hypothesis generation. 
+- Can be refined using a mixed methods process evaluation. Intermediate steps could be monitored using analytics.
+Hence, for now, I think my vague, type 1 programme theory is absent logic model is justified and instead, they should be fleshed out in future studies where particular contexts/settings/implementations are investigated. Different contexts require different models. 
+
+## Contributions of this thesis
+
+### Contributions to meta-research / previous reporting guideline research
+
+I have already described the platform and home page, but my work contributes in other ways too. 
+- dashboard statistics?
+
+Context and explanation to previous meta-research studies showing RGs do not work.
+
+An example of how RG dissemination can be studied. New avenues for EQUATOR. 
+- In addition to ideas generated in workshops & focus groups (new services/resources to increase RG use), also opens up a new paradigm/way of approaching RG research. 
+- Previously a lot of audits, a few intervention studies, few qualitative. 
+- I've opened up a new way of thinking. Demonstrated how qualitative methods can be used, how much research is required for development, and how RGs actually touch on implementation science, behaviour change, and (further unexplored territories) education pedagogy. 
+- These avenues lead to new collaborators and new funders. New opportunities.
+Where EQUATOR has previously had to shoehorn meta-research into grants focussing on research closer to clinical practice, hopefully going forward RGs can be front and center. 
+
+Example of how guideline content could be evaluated. Esp in recruiting diversity, asking ppts to write in their own time, and use of plus minus method. Could use other methods suggested by de Jong and Schellens.
+
+Approach could inspire grass roots movements adjacent to EQUATOR. E.g. pre-registration, data citation. 
+- Not exact copy, although some findings might be pertinent (e.g. prioritising personal, immediate rewards over hypothetical ones to others)
+- Similarly, not an exact copy of my methods either. 
+- Rather, the principles might generalise:
+- e.g. systematic methods, stakeholder engagement, mixed methods approach with rich qualitative data from diverse groups.
+
+## Recommendations for future research
+
+- Summary of future research recommendations for previous chapters 
+    - End on future of website. Extending it with checklists. 
+- Designing tools:
+    - Checklist design deserves to be studied. 
+    - As does resources for drafting. Are templates enough? What else? 
+    - Similarly resources for designing. Link back to Introduction about what RGs were made.
+    - Assessment tools?
+- Implementing ideas not addressed by the website:
+    - output of ideas chapter included many ideas that cannot be addressed by the website. 
+        - lobbying funders, journals, institutions
+        - setting up reporting guideline champion network
+        - and ideas that can only be done by guideline developers, including:
+            - developing guidelines for protocols / funding applications
+            - creating useful E&E documents.
+
+## Implications for policy
+
+- Referring to end of previous chapter, EQUATOR could help developers by releasing two new pieces of advice:
+    - 1. An update of the guidelines for guideline development
+    - 2. Creation of recommendations for creating E&E documents, & checklists etc. A kind of RG for RGs. 
+    - Recent audit showed variation in GL development and dissemiantion, and some RGs are now going to be kicked out. Perhaps these could be criteria for inclusion on the new platform.
+
+- Making RGs easier will make it easier for journals to adopt RG policies. 
+- Funder policies will be easier too, especially if more RGs for protocols are made.
+- Need for more funding for this kind of research
+    - initial resistance for my project because software development not seen as research. But if researchers realise the amount of research required for a digital behaviour change intervention, new funding options open. But they are still limited.
+    - and different structure. Need long term commitment to maintain services. And funding to hire professional services like designers or UX experts.
+    - and requires collaboration between behaviour change experts, software developers, and domain experts.
+    - These changes necessary for grass roots movements to be successful. Traction seen in US not seen in UK. 
+
+## Conclusions
+
