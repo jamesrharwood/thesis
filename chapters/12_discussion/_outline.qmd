@@ -149,7 +149,7 @@ I decided not to make an logic model:
  To represent _all_ permutations would have been too complicated.
 
  I have since discovered many others share this frustration with logic models. 
- - logic models have been criticised because capturing complexity and variation in context is difficult.  
+ - @millsAdvancingComplexityScience2019 argues logic models are limited when it comes to capturing complexity and variation. Instead, they argue logic models can usefully depict _complicated_ interventions with lots of components, but it is difficult to make one where purposeful flexibility allows (and encourages) components/roles/relationships to differ across contexts/implementations.
  - Type 4 models address this by being less detailed than type 3. They become more abstract, turning more into guiding principles. 
  - In abstraction, type 4 models replaces concrete lists of inputs, outputs, actions for abstract principles. 
  - E.g. PARIHS #REF Hack et al. which explains success/failure of a project in terms of evidence, context, and facilitation.
