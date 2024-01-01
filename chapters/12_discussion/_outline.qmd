@@ -23,8 +23,8 @@ Hence I've created a platform that will be easy to maintain, extend, and scale.
 
 This will have big impact on guideline development groups 
 - most have small funding that barely covers delphi process, let alone user testing or dissemination. 
-- Some guideline budgets for context 
-- Even those with budgets may lack technical skills to create their own websites. 
+- Some guideline budgets for context. In focus groups, funding was always listed as a pain point for developers.
+- Even those with budgets may lack technical skills to create their own websites. E.g. CONSORT and PRISMA websites went down during my thesis and stayed down.
 Thus transformative to all current and future guideline development groups.
 
 Home page is also important. 
@@ -218,10 +218,12 @@ Where EQUATOR has previously had to shoehorn meta-research into grants focussing
 Example of how guideline content could be evaluated. Esp in recruiting diversity, asking ppts to write in their own time, and use of plus minus method. Could use other methods suggested by de Jong and Schellens.
 
 Approach could inspire grass roots movements adjacent to EQUATOR. E.g. pre-registration, data citation. 
-- Not exact copy, although some findings might be pertinent (e.g. prioritising personal, immediate rewards over hypothetical ones to others)
+- Not exact copy, although some findings might be pertinent
+    - e.g. tone of voice
 - Similarly, not an exact copy of my methods either. 
 - Rather, the principles might generalise:
-- e.g. systematic methods, stakeholder engagement, mixed methods approach with rich qualitative data from diverse groups.
+    - e.g. systematic methods, stakeholder engagement, mixed methods approach with rich qualitative data from diverse groups.
+    - or familiarity with behaviour change frameworks. For example (UKCORI account - see file)
 
 ## Recommendations for future research
 
