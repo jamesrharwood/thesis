@@ -7,20 +7,56 @@ format:
         output-file: JH-chapter-discussion.docx
 ---
 
-::: {.callout}
+## Chapter Overview
 
-Work in progress...
+## Summary of findings
 
-:::
+In this thesis I aimed to identify and address barriers authors face when using reporting guidelines. I chose this aim because I believe eliminating barriers will increase the proportion of authors adhering to reporting guidelines. In turn, this will make research articles easier for other researchers, clinicians, and patients to understand, synthesise, replicate, and use. 
 
-<!-- Have I succeeded?
+In chapters {{< var chapters.synthesis >}} - {{< var.chapters.web-audit >}} I explored barriers through a qualitative evidence synthesis, a review of survey questions, and a service evaluation of the EQUATOR website. I identified {{< var.counts.barriers >}} affecting how authors discover, find, understand, and apply reporting guidelines. 
 
-* Rehash why I wanted to transform RGs from a "it seemed like a good idea at the time" to a thought through intervention.
-    * Main motivator was to increase efficacy and raise standard of reporting
-    * But I haven't done any kind of comparison or evaluation. Could be done in future
-    * Process did raise some interesting points though.
-        * Norman door
-        * Intention of guideline developers is for authors to consider nuanced guidance when writing. 
-        * But existing distribution relied heavily on checklist enforcement by journals. Checklists lack nuance, don't link to full guidance, often much easier to find than supplementary E&Es. So guidelines were often perceived _as_ the checklists, and as an administrative task to rather than help, and as design restrictions rather than description recommendations. -->
+In chapters {{< var.chapters.workshops >}} I described how I used a framework for designing behaviour change interventions called the Behaviour Change Wheel to prioritise intervention options. Over a series of workshops, EQUATOR UK staff and I decided to prioritise interventions using education, training, persuasion, modelling (demonstrating using reporting guidelines), and restructuring the environment (both physical and digital environments). Conversely, we saw restriction and incentivization as inequitable. When considering policy categories, we prioritized communication, guidelines, and service provision. 
+
+In chapter {{< var.chapters.focus-groups >}} I described leading focus groups with stakeholders to generate {{< var counts.ideas >}} ideas to address barriers, and in chapters {{< var.chapters.defining-content >}} and {{< var.chapters.development >}} I describe how I turned these ideas into {{< var counts.intervention-components >}} intervention components and brought them to life by redesigning a reporting guideline and the EQUATOR Network home page.
+
+Finally, in chapter {{< var chapters.pilot >}} I described how I evaluated the redesigned reporting guideline and home page with a diverse group of authors. The {{< var counts.deficiencies >}} deficiencies I identified can be addressed in future iterations. 
+
+## Overview of outputs
+
+### The website 
+
+The main output of my thesis is the redesigned reporting guideline and EQUATOR Network home page. Although I have only redesigned one reporting guidelines, SRQR, my approach will easily scale to others. After a few further refining design iterations, onboarding other reporting guidelines will be easy. I have built the website so guideline developers can upload and edit their own content. To onboard a reporting guidelines, developers (or EQUATOR staff, or I) simply need to upload content as plain text: a file for each reporting item, a file for meta data (like the guideline's scope, authors, publication, version e.t.c.), and a glossary. The platform will then automatically generate a fully functional wep page for the guideline, with hover definitions, discussion pages, collapsible content e.t.c. Tracking analytics to monitor authors behaviour is baked in. 
+
+Hence although I've described my output as a website, it is more like a platform. I believe this will have a big impact on guideline development groups, as few have sufficient funding nor expertise to develop or maintain websites, even when using DIY "no code" tools like Wordpress. One guideline developer I spoke to spent weeks creating a simple website with little functionality. The website I've built is comparatively far more feature-full, and requires zero technical work from guideline developers. What previously took weeks is now achievable in a matter of hours. Even guideline groups with no website budgets can use my platform to turn plain text into online resources, mirroring the redesigned SRQR guideline. 
+
+Two prominent reporting guideline websites (CONSORT and PRISMA) went down during my PhD. With no software expertise within in the guideline groups, and no budget to hire a developer, the websites stayed offline for many months. Providing a single platform like mine means development groups need not worry about maintaining their own systems. The platform itself uses simple, reliable, globally used gold-standard infrastructure familiar to many PhD students, so future maintenance will be easy and cheap.
+
+### Conferences and publications 
+
+I presented chapters at 3 conferences and won awards at two of them. I won 1st prize for Excellence in Doctoral Research, and 2nd prize for my oral presentation in the Early Career Researcher category at the 2022 World Conference for Research Integrity, where I presented an overview of chapters {{< var chapters.synthesis >}} - {{< var chapters.focus-groups >}}, covering my approach, current limitations and ideas to address them.
+
+A few months later I presented a poster covering the results of my focus groups (chapter {{< var chapters.focus-groups >}}) at the Reproducibility, Replicability and Trust in Science 2022 organised by the Wellcome Trust. 
+
+I won 3rd prize amongst departmental final year DPhil students in 2023 at the Botnar Institute Student Symposium, for my presentation showcasing my redesigned reporting guideline (chapters {{< var chapters.defining-content >}} and {{< var chapters.development >}}).
+
+I intend to publish 5 articles originating from this thesis. These are: 1) my qualitative evidence synthesis (chapter {{< var chapters.synthesis >}}), 2) my review of survey content (chapter {{< var chapters.review >}}), 3) the workshops and focus groups (chapters {{< var chapters.workshops >}} and {{< var chapters.focus-groups >}}), 4) intervention refinement (chapter {{< var chapters.pilot >}} updated with more design iterations), 5) finalised intervention description (an update of chapters {{< var chapters.defining-content >}} and {{< var chapters.development >}} once the design is finalised). 
+
+## Contributions and transferability to the meta-research community
+
+Beyond the immediate impact of the website, I believe my work will bring three other benefits to the reporting guideline community and other meta-researchers by 1) providing possible explanations for previous research findings 2) opening new lines of enquiry and research options and 3) as a model for other grass-root academic movements. 
+
+In my introduction chapter I summarised previous research evaluating the impact of reporting guidelines, or lack thereof. Few studies employed qualitative methods and process evaluations were scant and shallow. Consequently, although these studies offered a survey of depressingly poor reporting standards, researchers were operating in the dark and could not see how to move forward. My work turns the light on and illuminates hypotheses to explain past failures and new avenues to explore.
+
+I believe EQUATOR staff had a lightbulb moment of their own. My thesis was never meant to be a behaviour change project and my initial supervisory team had no experience in behaviour change nor qualitative methods. They were firmly in the quantitative camp, familiar with statistics, systematic reviews, and randomised trials. They repeatedly warned me against creating software, as they felt it fell firmly within the domain of _development_ and not _research_. They typically shoehorned meta-research into clinically focussed grant applications and maintained their website on a shoestring. I have demonstrated how development requires a great deal of research, and thus can be packaged as a passable thesis project and placed centre stage in funding applications. Framing reporting guidelines as a behavioural intervention means EQUATOR is no longer restricted to medical research funders, and can access new funding sources like the Economic and Social Research Council. Framing them as an _online_ intervention might release funding to support EQUATOR's website. Therefore, pursuing my approach will bestow EQUATOR with new research directions, collaborations, and new funding options. 
+
+These new avenues are open to other meta-researchers too, and I hope my work inspires guideline developers and grass roots movements further afield. Some of my results may be directly applicable to others. For instance, one of my intervention components was to use language to convey confidence and benefits instead of judgement and fear. Sadly, negative language pervades discussions on research integrity and vilifies researchers, accusing them of "waste", "questionable practices", "failing", or "lacking integrity". Shifting the narrative towards "efficiency", "ease", "confidence", or "strengthening integrity" makes conversations more welcoming. 
+
+However, it's not my _results_ that I think are most transferable, it's my _approach_. Many of my intervention components are too tethered to reporting guidelines to be of interest to other fields. But the approach that I took and the methods I used could be useful to most meta-researchers seeking to drive change. Although commonly used in medical research, I have not found any meta-research groups using behaviour change frameworks to improve the scholarly system. I think they are missing a trick. Without framework, meta-researchers risk getting hung-up on their favourite intervention types (in my experience, most often regulation or education) to the neglect of others. For example, in 2022 I attended a workshop to brainstorm strategies to increase equity and diversity funding applications. One participant gave a rich account of how their research support department re-designed their systems, ran training courses and shared case studies internally to educate and motivate staff, how they praised examples of best practice, and held people to account when necessary. The facilitator only noted the word 'training'. Had he been more familiar with behaviour change, perhaps he would have recognized the participant's examples of environmental restructuring, persuasion, education, incentivization, and coercion.
+
+## Strengths 
+
+Beyond using a behaviour change framework, meta researchers could benefit from integrating the other strengths of my work, which include the use of systematic methods, qualitative methods to solicit rich information, and diverse recruitment. 
+
+#TODO from here: systematic methods
 
 {{< pagebreak >}}
