@@ -55,8 +55,21 @@ However, it's not my _results_ that I think are most transferable, it's my _appr
 
 ## Strengths 
 
-Beyond using a behaviour change framework, meta researchers could benefit from integrating the other strengths of my work, which include the use of systematic methods, qualitative methods to solicit rich information, and diverse recruitment. 
+Beyond using a behaviour change framework, meta researchers could benefit from integrating the other strengths of my work, including the use of systematic methods, qualitative methods to solicit rich information, and diverse recruitment. 
 
-#TODO from here: systematic methods
+I used systematic methods throughout my thesis. My literature search for chapters {{< var chapters.synthesis >}} and {{< var chapters.review >}} was systematic. The behaviour change wheel and APEASE criteria that I used in chapters {{< var chapters.synthesis >}} - {{< var chapters.defining-content >}} were themselves made systematically, and thereby require users to consider and prioritise options from 360 degrees. In all of my data analysis, from collecting barriers, ideas, and deficincies, I sought to code and collate _all_ available information. Just as systematic search seeks to identify all relevant literature, my coding strategy sought to identify all themes. Similarly, when moving from one stage to another - from barriers to ideas, from ideas to intervention components, from components to a website - I considered and linked items fastidiously, thereby drawing threads through my thesis from start to end, from barriers to solutions. 
+
+#ASK judicious use of frameworks? Unmotivated coding at start?
+
+#ASK feeling benefit of systematic approach most during the workshops, where the was a change of heart from staff?
+
+Another strength is my use of qualitative methods to elicit rich description from participants. I've already extolled the benefit of using a qualitative approach, but within the world of qualitative research one must still be judicious when selecting methods. For example, in our 2019 study with BMJ Open we did it poorly. We were seeking to identify deficiencies in a different website, and we thought adding a free text question to an online survey would help. Over 21 months, we contacted 11,000 authors, of whom 93 answered the question "How could we make [the website] more useful?", mostly with very short answers. We only identified 6 themes. In this thesis, by stark comparison, I identified {{< var counts.pilot.deficiencies >}} deficiencies in a fraction of the time and by recruiting only {{< var counts.pilot.participants >}} participants, purely by using more appropriate qualitative methods. 
+
+This tale reveals a warning to guideline development groups: although a qualitative approach may seem accessible, doing it _well_ requires expertise. Guideline development groups would be wise to include qualitative experts, preferably those with experience in behaviour change interventions and refining text.
+
+Hand-in-hand with my judicious choice of methods, my diverse recruitment was another strength. I achieved diversity in my stakeholder focus groups (academic, publishers, and developers) and when evaluating the website (authors from varying demographics, disciplines, and expertise). For the website evaluation it was tempting to take the easier option of recruiting students from my own University. My previous chapter included participants from South America, Africa, Asia, Europe, and Australia. In my qualitative synthesis I found little research exploring the experiences of authors from the global south or from China, yet my audit of EQUATOR's website revealed many visitors come from these regions. I feel proud to have addressed this need, but it was not easy. Twitter proved useless. I relied largely on Penelope.ai - the manuscript checker I created - and I was fortunate to have budget to pay participants. Other development groups may not have access to such luxuries. 
+
+In sum, the strengths of my thesis include systematic techniques, methods to elicit rich qualitative data, and diverse recruitment.
+
 
 {{< pagebreak >}}
