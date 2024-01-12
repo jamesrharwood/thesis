@@ -15,7 +15,7 @@ FILEPATHS=(
     "output/chapters/9_defining_content"
     "output/chapters/10_redesign"
     "output/chapters/11_pilot"
-    #"output/chapters/discussion"
+    "output/chapters/12_discussion"
 )
 
 for dir in ${FILEPATHS[@]}

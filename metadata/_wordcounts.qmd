@@ -1,7 +1,7 @@
 
 * introduction: 5561 (inc. tables: 6340)
 * reflexivity: 1317 (inc. tables: 1317)
-* synthesis: 7268 (inc. tables: 9521)
+* synthesis: 7268 (inc. tables: 9518)
 * survey-content: 2617 (inc. tables: 5044)
 * website-audit: 3732 (inc. tables: 4842)
 * bcw: 1616 (inc. tables: 2203)
@@ -9,6 +9,7 @@
 * focus-groups: 8713 (inc. tables: 9130)
 * defining-content: 1378 (inc. tables: 6719)
 * redesign: 3312 (inc. tables: 3312)
-* pilot: 8393 (inc. tables: 17796)
+* pilot: 8710 (inc. tables: 18113)
+* discussion: 4370 (inc. tables: 4370)
 
-**TOTAL: 48083 (inc. tables: 70955)**
+**TOTAL: 52770 (inc. tables: 75639)**

@@ -128,13 +128,16 @@ I used BCW because it is evidence based, accessible to non-behaviour change expe
 - I could have used. E.g. TDF etc. But they differ in evidence base, accessibility, reputation/adoption within medical sciences. 
 - In chapter BCW I described why I picked BCW over and above TDF or PBA but I did not address others. 
 - I could have written a comparison of all methods but comparison was not my aim. Neither was perfection. I was interested in demonstrating a new approach, so the right path for me was the path of least resistance.
+- For example, for future website development, additional UX heuristics or frameworks would be useful. 
 
 But it was not perfect. I went more granular than other studies using BCW. 
 - E.g. Alcohol intervention had modules - essentially pages. Whereas some of my components were tiny. 
 - Find 3 other examples of "big intervention studies"
-- For example, for future website development, additional UX heuristics or frameworks would be useful. 
+- These interventions set components at the "resource level" - the resource (an app) was separated into 6 components. 
 
-In contrast to Drink Less, my website is more simple and more subtle. 
+In comparison, my work ideated components for all levels - from big picture "system level", to interactions between websites/resources, to the resource level (website), down to sections of text, sentences, or even words. 
+
+But in contrast, the ones I could feasibly enact were the smaller ones. In contrast to Drink Less, my website is more simple and more subtle. 
 - I do still have segregation, for example reporting items are structured, and the home page has sections for different components.
 - But lots of subtly too
 - Subtle in that components are small, or distributed across a single page. 
