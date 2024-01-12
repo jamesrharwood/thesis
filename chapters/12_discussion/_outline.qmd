@@ -122,38 +122,6 @@ In sum, the strengths of my thesis include systematic methods, judicious use of 
 
 There are some limitations that permeate through the whole thesis. These are...
 
-#### Quantification 
-
-Made no attempt to quantify frequency or perceived importance of factors, ideas, deficiencies. 
-- To quantify all would have been a huge endeavour. And potentially meaningless, as many are subjective and contextual. What is acceptable to one is not to another. What is feasible for me is not to someone else etc. So quantifying was never necessary for my objectives. 
-- I could have characterised reporting guidelines as they are now by quantifying the occurance of barriers, but again, huge amount of work. Where would I stop? All guidelines? All journals? All funders? A smaller audit was already underway, and such an audit.
-- Behaviour change was new territory for EQUATOR, and so there is no guarantee that a future student would continue my work or have the necessary coding skills to create something. 
-- Ultimately, what was the marginal benefit of knowing _exactly_ how many people experience something, versus knowing that _some_ people experience it? Especially when that number might vary by guideline/demographic/context. If addressing it is simple, affordable, acceptable, equitable, and effective, why not do it?
-- This did not really limit my pragmatic approach, as even if I did qantify them, frequency and importance were only 2 criteria by which to prioritize. Others were affordability, acceptability, equity, side effects. Etc. 
-- Such quantification would have taken a long time, not lead to change directly, ultimately less impactful thesis.
-
-But other researchers will have different interests and objectives for which quantification may be useful. For example:
-- Some ideas are more costly. E.g. developing advice for funding applications, or developing software for automated checking. Before starting on something expensive, large scale, quantitative surveys could provide justification for expense by demonstrating theoretical interest or expected user volumes. E.g. before creating protocol guidance for STROBE, it might be useful to get an estimate of how many epidemiologists write protocols. Or how many funders would consider endorsing reporting guidelines for funding applications. 
-- Sceptical guideline developers may not believe the barriers without quantifiable "proof" of their existence and prevalence. So even if quantifying barriers may not be necessary to justify intervention changes, it might be necessary for changing the hearts and minds of guideline developers. 
-
-#### Comparison 
-
-This proof could also come from comparing my redesign with the existing version. This would address another limitation of my thesis: I made no attempt to compare.
-- But this would be useful. Could be preference study (proportion prefering each version), a before-and-after process evaluation (e.g. proportion of researchers accessing guidance, engagement times, returning visitors) (more on this later...), or an ambitious interrupted time series analysis comparing reporting quality over time. 
-- But qualitative data should be collected too, to understand the results and make further improvements. 
-
-These two limitations; no quantification nor comparison, were consequences of my relatively narrow objectives, limited to identifying and understanding, not counting, or evaluating efficacy. Future research _should_ seek to quantify, compare, and evaluate the efficacy of changes to the reporting guideline dissemination.
-
-#### Variation between guidelines
-
-I considered guidelines all together. 
-- Typically I've lumped them into a single abstraction. In intro I justified why; they share many characteristics and inspiration. I called them a theme and variations. 
-- Only in my interview chapter I singled out SRQR. Again, with justification, but the home page and guideline redesign needs to speak to all researchers. 
-- But there _are_ differences. Both in how they are made, what they consist of, and in _who_ uses them, _why_, and _when_.
-- Perhaps clearest example is reporting guidelines for protocols. Used at very different time point in research journey. Authors may be more open to making changes, may even be _seeking_ input. 
-- There are also more nuanced differences between guidelines. For example, systematic reviews & students. Here a quantitative survey to determine characteristics of users might be useful. 
-So any future iterations should be done using a different guidelines and/or researchers at different stages of research.
-
 #### Chosen framework 
 
 I used BCW because it is evidence based, accessible to non-behaviour change experts and so easy to include other EQUATOR staff. But perhaps I went too granular. Perhaps I could have benefited from UX framework. Other researchers should not feel pressure to continue using BCW: there are other approaches. 
@@ -163,7 +131,30 @@ I used BCW because it is evidence based, accessible to non-behaviour change expe
 
 But it was not perfect. I went more granular than other studies using BCW. 
 - E.g. Alcohol intervention had modules - essentially pages. Whereas some of my components were tiny. 
+- Find 3 other examples of "big intervention studies"
 - For example, for future website development, additional UX heuristics or frameworks would be useful. 
+
+In contrast to Drink Less, my website is more simple and more subtle. 
+- I do still have segregation, for example reporting items are structured, and the home page has sections for different components.
+- But lots of subtly too
+- Subtle in that components are small, or distributed across a single page. 
+    - E.g. tone of voice, design are components (whereas Drink Less makes no mention of these). 
+    - Negative space
+    - Normative feedback
+- And the structure/segregation that I do have may diminish. E.g. one participant recommended the two sections of home page could be combined.
+
+- So some might feel disappointed that my final output looks "small". 
+- To these naysayers I would argue:
+    - First I would remind them of the "bigness" of the ideas. Narrowing came as I developed the ideas that were within my limits. The BCW talks about level of target audience - individual or group. I consider this granularity as a level of application. Whereas in my ideas chapter I was looking at the level of the entire system, by the end of my development I was applying components at the level of sections of a webpage, or single sentences, or even words, or the nothingness of negative space/deleted words. A single sentence can both educate and persuade, and thus embody multiple components.
+    - Small because 
+        - a) appropriate given differences in type of tool and how people will use them (drink less is something you might use every day, whereas a guideline is something you use only when doing a certain task)
+        - b) necessity. I am but one developer. 
+
+Reasons for these differences:
+- Granularity was inevitable consequence of my detailed approach to finding barriers and ideas.
+- Sometimes smallness and subtley was appropriate. For example, if unstructured blocks of text are a barrier, then reorganising text into consistent structure with subheadings was a pragmatic solution. Not big nor flashy, but appropriate. 
+- Other times, smallness was a necessity because of limited time or money. Would be lovely to have software to automatically show how an author's writing compares to others (like one of Drink Less' modules), or to automatically assess text using AI. But not possible. Much smaller budget and shorter time frame than Drink Less had. 
+- Might reflect different ambitions. Whereas Drink Less' creators perhaps set out to create an intervention, my aim was slightly different. It was to identify and address barriers. Tweaks as opposed to building from scratch. Moving an existing network towards being more like an intervention. In workshop chapter I talked about how I tried to encourage blue sky thinking but that we sometimes struggled to break away from what already exists. Readers might criticise my work as suffering from that affliction, but I would argue that the blue sky is represented in my the breadth of ideas in my ideas chapters. What I subsequently developed might be seen as a dissappointing, unambitious interpretation of that list. But I saw it as achieving the most that I could with next to no time or resources, and prioritising changes that I felt would be most easy to be adopted for real. 
 
 In summary, future studies should not feel confined to using the BCW, and I myself will explore UX frameworks in future research. 
 
@@ -208,6 +199,17 @@ If I had created a logic model and managed to capture context and variation, it 
 - So future work could explore and address factors influencing behaviours of stakeholders adjacent to authors. 
 And programme theory / logic models should include these people as a more accurate representation of reality. 
 
+
+#### Variation between guidelines
+
+I considered guidelines all together. 
+- Typically I've lumped them into a single abstraction. In intro I justified why; they share many characteristics and inspiration. I called them a theme and variations. 
+- Only in my interview chapter I singled out SRQR. Again, with justification, but the home page and guideline redesign needs to speak to all researchers. 
+- But there _are_ differences. Both in how they are made, what they consist of, and in _who_ uses them, _why_, and _when_.
+- Perhaps clearest example is reporting guidelines for protocols. Used at very different time point in research journey. Authors may be more open to making changes, may even be _seeking_ input. 
+- There are also more nuanced differences between guidelines. For example, systematic reviews & students. Here a quantitative survey to determine characteristics of users might be useful. 
+So any future iterations should be done using a different guidelines and/or researchers at different stages of research.
+
 #### Real world context 
 
 Future studies for particular contexts/implementations/channels could formulate a logic model.
@@ -217,6 +219,29 @@ Future studies for particular contexts/implementations/channels could formulate 
 - Would help with hypothesis generation. 
 - Can be refined using a mixed methods process evaluation. Intermediate steps could be monitored using analytics.
 Hence, for now, I think my vague, type 1 programme theory is absent logic model is justified and instead, they should be fleshed out in future studies where particular contexts/settings/implementations are investigated. Different contexts require different models. 
+
+#### Quantification 
+
+Made no attempt to quantify frequency or perceived importance of factors, ideas, deficiencies. 
+- To quantify all would have been a huge endeavour. And potentially meaningless, as many are subjective and contextual. What is acceptable to one is not to another. What is feasible for me is not to someone else etc. So quantifying was never necessary for my objectives. 
+- I could have characterised reporting guidelines as they are now by quantifying the occurance of barriers, but again, huge amount of work. Where would I stop? All guidelines? All journals? All funders? A smaller audit was already underway, and such an audit.
+- Behaviour change was new territory for EQUATOR, and so there is no guarantee that a future student would continue my work or have the necessary coding skills to create something. 
+- Ultimately, what was the marginal benefit of knowing _exactly_ how many people experience something, versus knowing that _some_ people experience it? Especially when that number might vary by guideline/demographic/context. If addressing it is simple, affordable, acceptable, equitable, and effective, why not do it?
+- This did not really limit my pragmatic approach, as even if I did qantify them, frequency and importance were only 2 criteria by which to prioritize. Others were affordability, acceptability, equity, side effects. Etc. 
+- Such quantification would have taken a long time, not lead to change directly, ultimately less impactful thesis.
+
+But other researchers will have different interests and objectives for which quantification may be useful. For example:
+- Some ideas are more costly. E.g. developing advice for funding applications, or developing software for automated checking. Before starting on something expensive, large scale, quantitative surveys could provide justification for expense by demonstrating theoretical interest or expected user volumes. E.g. before creating protocol guidance for STROBE, it might be useful to get an estimate of how many epidemiologists write protocols. Or how many funders would consider endorsing reporting guidelines for funding applications. 
+- Sceptical guideline developers may not believe the barriers without quantifiable "proof" of their existence and prevalence. So even if quantifying barriers may not be necessary to justify intervention changes, it might be necessary for changing the hearts and minds of guideline developers. 
+
+
+#### Comparison 
+
+This proof could also come from comparing my redesign with the existing version. This would address another limitation of my thesis: I made no attempt to compare.
+- But this would be useful. Could be preference study (proportion prefering each version), a before-and-after process evaluation (e.g. proportion of researchers accessing guidance, engagement times, returning visitors) (more on this later...), or an ambitious interrupted time series analysis comparing reporting quality over time. 
+- But qualitative data should be collected too, to understand the results and make further improvements. 
+
+These two limitations; no quantification nor comparison, were consequences of my relatively narrow objectives, limited to identifying and understanding, not counting, or evaluating efficacy. Future research _should_ seek to quantify, compare, and evaluate the efficacy of changes to the reporting guideline dissemination.
 
 ## Recommendations for future research
 
@@ -252,6 +277,7 @@ Before a study like that can be done, need to extend the website with extra guid
 
 Beyond the website, the workshop and focus group chapters threw up other ideas:
 - output of ideas chapter included many ideas that cannot be addressed by the website. 
+    - training
     - lobbying funders, journals, institutions
     - setting up reporting guideline champion network
     - and ideas that can only be done by guideline developers, including:
