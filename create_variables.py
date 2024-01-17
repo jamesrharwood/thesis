@@ -150,7 +150,7 @@ for fp in FILEPATHS:
         chapter = fp.split('/')[1].split('_', 1)[1]
         titles.update({chapter: title})
 
-PARTICIPANT_IDS = {key: f"{value}" for key, value in participant_ids.PARTICIPANT_IDS.items()}
+PARTICIPANT_IDS = {key: f"({value})" for key, value in participant_ids.PARTICIPANT_IDS.items()}
 pilot = {'participants': PARTICIPANT_IDS}
 
 with open(filename, 'r+') as file_:

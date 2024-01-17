@@ -453,17 +453,17 @@ intervention-components:
     title: Educate authors about writing as a process
 pilot:
   participants:
-    PPT-BH: (value)
-    PPT-CW: (value)
-    PPT-HA: (value)
-    PPT-JZ: (value)
-    PPT-MJ: (value)
-    PPT-OMK: (value)
-    PPT-RW: (value)
-    PPT-SK: (value)
-    PPT-VS: (value)
-    PPT-WH: (value)
-    PPT-YD: (value)
+    PPT-BH: (Midwifery student from Uganda)
+    PPT-CW: (Researcher from South Africa)
+    PPT-HA: (Researcher from Australia)
+    PPT-JZ: (PhD student from China)
+    PPT-MJ: (ECR from Ecuador)
+    PPT-OMK: (Pre-PhD student from Malawi)
+    PPT-RW: (Research consultant from the Philippines)
+    PPT-SK: (ECR from India)
+    PPT-VS: (Researcher from the UK)
+    PPT-WH: (Medical student from Ghana)
+    PPT-YD: (PhD student from China)
 root: true
 stages:
   creation: When writing guidance down and creating resources
