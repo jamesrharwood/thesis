@@ -13,17 +13,6 @@ format:
 
 {{< include /chapters/11_pilot/_results.qmd >}}
 
-::: {.callout}
-
-## Results and Discussion
-
-Work in progress...
-
-:::
-
-<!-- 
-{{< include /chapters/11_pilot/_results.qmd >}}
-
-{{< include /chapters/11_pilot/_discussion.qmd >}} -->
+{{< include /chapters/11_pilot/_discussion.qmd >}}
 
 {{< pagebreak >}}

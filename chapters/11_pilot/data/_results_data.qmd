@@ -36,6 +36,8 @@ Participants wanted more definitions within the guidance (some struggled with wo
 
 > "A qualitative evidence synthesis. What's that? Is that like a review?" {{< var pilot.participants.PPT-CW >}}
 
+#TODO decide whether to move to component related to reassurance?
+
 When reading a list of guidelines for different study types on the home page, one participant explained how not understanding terms like "cohort study" led her to feel anxious and worried. 
 
 > "Actually, I feel a little anxious because I'm not sure whether it shows that I am not good at something or I am ignorant or something. So when I saw all of these and, like half of them, I didn't know. I may feel anxious and maybe, like, lose confidence sometimes." {{< var pilot.participants.PPT-YD >}}
@@ -44,14 +46,14 @@ When reading a list of guidelines for different study types on the home page, on
 
 Because I wanted to know whether future users would discover this functionality by themselves, I asked participants what they expected the dotted lines to signify. Most participants guessed correctly. 
 
-> "Interviewer: Like what do you expect those dotted lines to mean?
+> "Interviewer: What do you expect those dotted lines to mean?
 > Participant: Umm, I think dotted lines would mean that it will give me a definition." {{< var pilot.participants.PPT-HA >}}
 
 > "It's not exactly a hyperlink, but it might give you a definition or something like that " {{< var pilot.participants.PPT-VS >}}
 
 However, a couple of participants thought the lines might signify hyperlinks, and another thought it was a misspelt word because it looked like Microsoft Word's autocorrect feature.
 
-> "I'm honestly not sure whether I see just a highlight or it's a link. Or what it is Usually links are in blue completely in blue." {{< var pilot.participants.PPT-WH >}}
+> "I'm honestly not sure whether I see just a highlight or it's a link. Usually links are in blue, completely in blue." {{< var pilot.participants.PPT-WH >}}
 
 > "I think uh, there are some misspelled words" {{< var pilot.participants.PPT-SK >}}
 
@@ -64,9 +66,7 @@ Overall, participants welcomed the structure and navigation features, including 
 
 **Participants liked having extra content as notes, but footnotes might not be optimal implementation**
 
-When an SRQR item contained extra context or explanation not relevant to all users, I moved this into a note. I wa not sure of the best way to implement notes. 
-
-I tried footnotes, but participants expected the footnote identifiers (superscript numbers) to be references, and did not like how reading the footnote took them to the bottom of the page, away from where they had been reading:
+When an SRQR item contained extra context or explanation not relevant to all users, I moved this information to a footnote, but participants expected the footnote identifiers (superscript numbers) to be references, and did not like how reading the footnote took them to the bottom of the page, away from where they had been reading:
 
 > "I think it's a citation. So uh linked to a reference. But I think it may also be foot note." {{< var pilot.participants.PPT-VS >}}
 
@@ -76,19 +76,19 @@ I tried footnotes, but participants expected the footnote identifiers (superscri
 
 **Menu navigation was useful but could be more prominent and go one level deeper**
 
-The redesigned SRQR guideline has a side navigation menu so users can easily navigate to the Introduction, Methods, Results, and Discussion guidance sections, or to the FAQs and citation information. A few participants did not notice the menu, or suggested it could be more prominent, and one suggested it would be useful if the menu listed all reporting items. 
+The redesigned SRQR guideline has a side navigation menu so users can easily navigate to the Introduction, Methods, Results, and Discussion guidance sections, or to the FAQs and citation information. A few participants did not notice the menu, or suggested it could be more prominent, and one suggested it would be useful if the menu listed all reporting items (ie. not just _Methods_, but also the item titles within). 
 
 > "when I scrolling I forgot to pay attention to the menu on the side. So [...] I suddenly realized it was a menu there [...] Maybe make it much more, like, the characters larger or, like, the colour, maybe change it, because now it is so light and I didn't pay attention to that. But this menu is useful if I pay attention to this." {{< var pilot.participants.PPT-YD >}}
 
-Each reporting item has its own menu so users can jump to the item's justification, examples, or related resources. The same participant described these item menus as a useful way to help "find the detailed part" they desired.
+Each reporting item has its own menu within the collapsible content, so users can jump to the item's justification, examples, or related resources. The same participant described these item menus as a useful way to help "find the detailed part" they desired.
 
 **Section URLs could be more intuitive**
 
-When the mouse hovers above a reporting item heading, a button would appear to allow users to a copy the URL to that specific section. One participant did not find this intuitive, and thought the button would take them to more information instead. 
+When the mouse hovers above a reporting item heading, a button would appear to allow users to a copy the URL to that section. One participant did not find this intuitive, and thought the button would take them to more information instead. 
 
 **Participants may desire a summary of the guidance**
 
-In the think aloud, one participant said they would prefer to browse the checklist above the full guidance because "in my head, like the checklist probably has these things already" {{< var pilot.participants.PPT-RW >}}, and expected the checklist to act as a summary. This expectation may explain why another participant said "I just want to see what this thing is and at the moment I don't know. Should I read the guidelines or checklist?", perhaps because they desired an overview {{< var pilot.participants.PPT-CW >}}. 
+In the think aloud, one participant said they would prefer to browse the checklist above the full guidance because "in my head, like the checklist probably has these things already" {{< var pilot.participants.PPT-RW >}}. They expected the checklist to act as a summary. This expectation may explain why another participant said "I just want to see what this thing is and at the moment I don't know. Should I read the guidelines or checklist?", perhaps because they desired an overview {{< var pilot.participants.PPT-CW >}}. 
 
 "So maybe not the full guideline, but I'm not sure how how you can present it. Maybe one paragraph, or, uh, or you could present a mind map. Maybe you can present a mind map and you can put the keywords of this guideline. So if people want to see, for example, [...] introduction, literature review, methodology, blah blah. Something like this." {{< var pilot.participants.PPT-JZ >}}
 
@@ -106,9 +106,9 @@ In the think aloud, one participant said they would prefer to browse the checkli
 
 **The relationship between the website and publication could be clearer**
 
-The top of the guideline page references the original SRQR publication. Some participants said this helped them trust the website, but others were confused about the relationship between the publication and the content of the webpage, whether the guidance matched, and which one they should cite. 
+The top of the guideline page references the original SRQR publication. Some participants said this helped them trust the website, but others voiced confusion about the relationship between the publication and webpage, whether the guidance matched, and which they should cite. 
 
-> "I know I have the old information to look for the paper and I could find it. So yeah, it is been inspires trust and it's amazing to have it here." {{< var pilot.participants.PPT-MJ >}}
+> "I know I have the information to look for the paper and I could find it. So yeah, it inspires trust and it's amazing to have it here." {{< var pilot.participants.PPT-MJ >}}
 
 > "Is this [content on the website] now this article? Because if it is the article then I'm not clear on that [...] [After reading through the item titles] Do they match?...Yes, they match." {{< var pilot.participants.PPT-CW >}}
 
@@ -132,7 +132,7 @@ However, some participants still felt the guidance appeared very long, and this 
 
 > "So I kind of know how long this page is based on seeing [the scroll bar] move. I don't want to read the whole thing [...] I don't want to spend 17 min on that" {{< var pilot.participants.PPT-RW >}}
 
-In the first iteration, the poage was even longer because of content in the introduction before the guidance began (e.g. information about the guideline's scope, development, or how to use it).
+In the first iteration, the page was even longer because of content in the introduction before the guidance began (e.g. information about the guideline's scope, development, or how to use it).
 
 > "There's so much going on [at the top of the page, before the guidance]. [...] Yo, this is getting annoying. All I want is the guideline or the document" {{< var pilot.participants.PPT-CW >}}
 
@@ -150,7 +150,7 @@ Each reporting item had a link to its own discussion page. Participants welcomed
 
 **The button could be clearer**
 
-The link to the discussion page was a button with just an icon of a speech bubble, no text, and not all participants knew what to expect this button to do or where it might take them. One participant said this button would be easier to understand if it used text, and recommended it be placed at the end of the expandable content for each item.
+The link to the discussion page was a button with an icon of a speech bubble, no text, and not all participants knew what this button would do or where it might take them. One participant said this button would be easier to understand if it used text, and recommended it be placed at the end of the expandable content for each item.
 
 > "Maybe the blog? No, I don't know." {{< var pilot.participants.PPT-MJ >}}
 
@@ -178,7 +178,7 @@ Everyone recognised the website was for researchers, as opposed to editors. Most
 
 > "It can be useful for academics. It can be useful for people who do research on daily basis or as a regular part of their job" {{< var pilot.participants.PPT-SK >}}
 
-Some participants specified the target might be early career researchers, but not absolute beginners nor younger students. 
+Some participants specified the target might be _early career_ researchers or university students. 
 
 > "those who are just getting started in the career journey in research....\[pause\]...definitely students?...umm.... people who don't really have that much experience in writing." {{< var pilot.participants.PPT-OMK >}}
 
@@ -194,7 +194,7 @@ Some participants hinted that seeing terms specific to their field signalled tha
 
 ## digestible-structure
 
-Participants welcomed item's was structure and said they preferred it to unstructured text. 
+Participants welcomed items' structure and said they preferred it to unstructured text. 
 
 > "It was more structured and and the guide was more easy to follow." {{< var pilot.participants.PPT-MJ >}}
 
@@ -206,8 +206,7 @@ One participant questioned whether they might prefer full sentences over bullet 
 > * why these differences may have occurred,
 > * how this might affect the findings."
 
-The participant suggested changing this to "Why the difference has occurred and how it might affect the findings.
-So one line and you're done with it", instead of taking up four lines of text. {{< var pilot.participants.PPT-SK >}}
+The participant suggested changing this to "Why the difference has occurred and how it might affect the findings. So one line and you're done with it", instead of taking up four lines of text." {{< var pilot.participants.PPT-SK >}}
 
 ## describe-scope
 
@@ -217,7 +216,7 @@ One participant was not clear whether SRQR applied to survey studies, and said t
 
 ## search-function
 
-The website featured search buttons (one in the navigation menu, one at the top of the landing page), but the search buttons did not work, so participants could not explore the search functionality. However, many participants commented on the search buttons and instinctively knew what they were.
+The website featured search buttons (one in the navigation menu, one at the top of the home page), but the search buttons did not work, so participants could not explore the search functionality. However, many participants commented on the search buttons and instinctively knew what they were.
 
 ## testimonials-who-benefit
 
@@ -228,8 +227,6 @@ The redesigned SRQR guidance featured quotes in the margin of some items from pe
 > "I think it makes this....how can I say?...practical from a different point of view. Like why exactly you need this [reporting item]. So now this person [in the quote] is telling from her own perspective how useful it is that you have [the item] described clearly, so it makes it such that if I'm trying to describe [this item], I'll try to keep that in mind that." {{< var pilot.participants.PPT-WH >}}
 
 > "I like it because each of them tells me the why...umm...you know, kind of gives a plain language reason for [...] why it's a useful thing. [...] That's gives it, you know, humanity." {{< var pilot.participants.PPT-HA >}}
-
-> "This is encouraging because it's a feedback from a person working at the journal with responsibility for publishing. The editor." {{< var pilot.participants.PPT-BH >}}
 
 However, some participants questioned whether these quotes were from real people.
 
@@ -247,7 +244,7 @@ Some participants didn't find the quotes useful, or described them as distractin
 
 ## testimonials-nervous
 
-Some of the fictitious quotes contained reassurance from researchers who had felt nervous when using a reporting guidelines becuase they felt unsure about being so transparent about parts of their work they knew were not perfect. There were only a couple of quotes of this kind, and few authors noticed or commented on them.
+Some of the fictitious quotes contained reassurance from researchers who had felt nervous when using a reporting guidelines because they felt unsure about being so transparent about parts of their work they knew were not perfect. There were only a couple of quotes of this kind, and few authors noticed or commented on them.
 
 > "That makes it relatable to a user, particularly a new user, because we can see that all of these people are, you know, they were first time users once." {{< var pilot.participants.PPT-HA >}}
 
@@ -255,7 +252,7 @@ Some of the fictitious quotes contained reassurance from researchers who had fel
 
 **The title _How to cite_ was misleading to one participant**
 
-Participants expected citation instructions and were not surprised to see them in a section called _How to cite_. However, one participant questioned whether the section would tell them how to cite the guidance, or how to cite resources in general. 
+Participants expected citation instructions and most were not surprised to see them in a section called _How to cite_. However, one participant questioned whether the section would tell them how to cite the guidance, or how to cite resources in general. 
 
 > "I want to see, like, if it says right away, a certain citation style like, are you talking about Chicago?" {{< var pilot.participants.PPT-RW >}}
 
@@ -273,11 +270,11 @@ One participant said they had sought the original paper because they "wanted to 
 
 **Some participants included sub headings for each reporting item in their writing sample**
 
-Many participants noticed and welcomed the instruction that SRQR does not prescribe structure. Nobody objected to it.
+Many participants noticed and welcomed the clarification that SRQR does not prescribe structure. Nobody objected to it.
 
 > "I think this is very clear. If you say that did not prescribe order nor structure. [...] Yes, that's great. [...] I like it very much because I think it helps me understand that the guideline is not a standardized one, but it depends on the user. To use this kind guide in their own context. So I think this one this sentence is is very important." {{< var pilot.participants.PPT-JZ >}}
 
-However, in the writing task, two participants used subheadings for the items they wrote. When asked about these subheadings in the second interview, both said they intended to remove at least of the subheadings. One participant replied "One of our reviewers wanted more structure, so of course we leave some [subheadings] in, but not all" {{< var pilot.participants.PPT-MJ >}}. Another said "I'll probably not include them [in my final article], but the information, that's what I'm I'm going to maintain, yeah." {{< var pilot.participants.PPT-OMK >}}
+In the writing task, two participants used subheadings for the items they wrote. When asked about these subheadings in the second interview, both said they intended to remove at least some of the subheadings. One participant replied "One of our reviewers wanted more structure, so of course we leave some [subheadings] in, but not all" {{< var pilot.participants.PPT-MJ >}}. Another said "I'll probably not include them [in my final article], but the information, that's what I'm I'm going to maintain, yeah." {{< var pilot.participants.PPT-OMK >}}
 
 ## item-link-to-how-to-do
 
@@ -293,7 +290,7 @@ However, participants wanted links to other resources, including resources to he
 
 The top of the guideline page included information on SRQR's scope and links to other, related guidelines. Participants said they liked these links. Most found the explanations clear, including the instructions of when _not_ to use SRQR. 
 
-> "This part, _when it should do not use_, I think it is much useful for me to understand whether I use the right guideline or not. Yeah. [...] I need this judgment." {{< var pilot.participants.PPT-YD >}}
+> "This part, _when I should not use this guideline_, I think it is much useful for me to understand whether I use the right guideline or not. Yeah. [...] I need this judgment." {{< var pilot.participants.PPT-YD >}}
 
 > "[Reading out loud] _Do not use it for writing a qualitative evidence synthesis. use this instead_. OK, that could be useful." {{< var pilot.participants.PPT-WH >}}
 
@@ -307,17 +304,17 @@ The top of the guideline page included information on SRQR's scope and links to 
 
 **The website did not sufficiently address participants' need for writing training** 
 
-The top of the SRQR guideline page had some very short instruction about how to apply the reporting guideline whilst writing but for many participants, this was not enough. Many participants expressed desire for training on _how_ to write an article (as opposed to _what_ to write). 
+The top of the SRQR guideline page had short instructions about how to apply the reporting guideline whilst writing but for many participants, this was not enough. Many participants expressed desire for training on _how_ to write an article (as opposed to _what_ to write). 
 
 One participant wanted training on how to "write in a concise manner" {{< var pilot.participants.PPT-OMK >}}
 
 Another talked about their struggle to apply training and guidance to their own writing process.
 
 > "When I try to look at your guidance on your website, I really want to use it in my own writing, but it is very strange because when I try to, uh, connect the information on the website with my own writing, I found there there might be a great gap because I think everything on your website is very clear (actually they are very specific, those suggestions), but when I try to connect those information with my own writing, I found it just a little bit difficult to to generate some some specific ideas to start my writing.
-
-So I'm thinking if that's because the problem of my writing is not the lack of specific guidance but some other thing like my motivation or, I don't know...it's just a little bit strange. 
-
-And I also talk about this with my friends because lots of my friends, they are also PhD students and they are struggling at writing too. So ask them if they have some guidance, uh, if they have looked at some guidance and if [they] have put those guidelines in [their] own writing and and their answers were, like, quite similar with me and and they all talk about that, "yes, we we look at lots of guidance we try to look at lots of those writing books to teach you how to write, to teach you how to structure your writing." But it's still very hard, and when you, when you really, when you really sit down and start writing, actually you couldn't, uh, call up [the information]." {{< var pilot.participants.PPT-JZ >}}
+>
+> So I'm thinking if that's because the problem of my writing is not the lack of specific guidance but some other thing like my motivation or, I don't know...it's just a little bit strange.
+> 
+> And I also talk about this with my friends because lots of my friends, they are also PhD students and they are struggling at writing too. So ask them if they have some guidance, uh, if they have looked at some guidance and if [they] have put those guidelines in [their] own writing and and their answers were, like, quite similar with me and and they all talk about that, _'yes, we we look at lots of guidance we try to look at lots of those writing books to teach you how to write, to teach you how to structure your writing. But it's still very hard'_. When you really sit down and start writing, actually you couldn't, uh, call up [the information]." {{< var pilot.participants.PPT-JZ >}}
 
 ## why-item-is-important
 
@@ -355,7 +352,9 @@ However, one participant suggested the information could be a little longer: "I 
 
 **Participants questioned whether quotes were credible**
 
-The website included (fake) quotes from authors exalting the benefit reporting guidelines have brought to their job. However, some participants worried these quotes were bias, fake, or vague.
+The website included (fake) quotes from authors exalting the personal benefit reporting guidelines have brought to their job (e.g. easier writing, smoother publishing). Some participants found these compelling, but others worried these quotes were biassed, fake, or vague.
+
+> "This is encouraging because it's a feedback from a person working at the journal with responsibility for publishing. The editor." {{< var pilot.participants.PPT-BH >}}
 
 > "If you're using quotes on a website, my first thought is you could be biasing, you know, how useful the website is, because you've picked out great quotes so, you know, until I've looked at this and used it myself, I might not agree" {{< var pilot.participants.PPT-CW >}}
 
@@ -409,11 +408,13 @@ Perhaps because participants did not intuitively understand how they could use a
 
 **Participants were confused when different words referred to the same thing**
 
-Two participants questioned why the home page referred to "guidelines" _and_ "reporting guidelines" and asked whether there was a difference. Another asked whether "guidance" and "guideline" were the same. Another participant noticed that an example used a word differently to the SRQR guideline.
+Two participants questioned why the home page referred to "guidelines" _and_ "reporting guidelines" and asked whether there was a difference. Another asked whether "guidance" and "guideline" were the same. Another participant noticed that an SRQR item 18 uses the word 'integration' in two different contexts: whereas the item asks authors to integrate their work with others', the example uses the word 'integrating' differently when discussing how their study combined modes of teaching.
 
 ## remove-patronizing-language
 
 No participants mentioned feeling patronized.
+
+#ASK I could mention how a lady at Oxford's RDS did describe the comments as patronizing. This anecdote could go in the discussion? 
 
 When asked, one participant described the tone as "suitable" and said "simple comments" and "explaining like this, \[is not patronizing\] because I also need a lot to learn." {{< var pilot.participants.PPT-YD >}}
 
@@ -435,7 +436,7 @@ The guidance advises readers that it may take 16 minutes to read. One participan
 
 But another felt like 16 minutes was too long, especially if you only found the guideline as part of manuscript submission "Uh, it will be frustrating. Now again, you waste a lot of time." {{< var pilot.participants.PPT-BH >}}. 
 
-And a third worried they would feel bad if the guidance took them longer than the stated time:
+And a third (not a native english speaker) worried they would feel bad if the guidance took them longer than the stated time:
 
 > "I think this is, like, useful, but I'm not sure whether some... when some people read it, they may feel stressful because, from my teaching experience before, some of my students may say to me if, like, there is guidance saying that you may need, like, 60 minute to read it, sometimes, if they take longer, they may feel confused, or lose a little bit [of] confidence [and worry that] they read it so slow or they are not, like, normal one. I think this [estimated time] _may_ be a good [information] because, like, nowadays I found, like, many websites use it. But actually, for me sometimes this part is useful, but sometimes it is not." {{< var pilot.participants.PPT-YD >}}
 
@@ -449,13 +450,13 @@ Some reporting items in SRQR ask authors to explain their reasoning behind desig
 
 **Only one participant commented on this instruction**
 
-In the introduction to SRQR, where its scope is explained, the instruction mentions that there are no better reporting guidelines for writing _protocols_ for qualitative research, and instead recommends authors use certain items from SRQR. The participant annotated this explanation and said they liked it ({{< var pilot.participants.PPT-JZ >}})
+In the introduction to SRQR, where its scope is explained, the instruction mentions that there are no better reporting guidelines for writing _protocols_ for qualitative research, and instead recommends authors use certain items from SRQR. One participant annotated this explanation and said they liked it ({{< var pilot.participants.PPT-JZ >}}).
 
 ## location-alternatives
 
 **Only one participant commented on instructions of where content can be reported**
 
-Very little of the guideline text deals with alternative reporting locations, and so it was not surprising that only one participant noticed it and said "I like the reminder" {{< var pilot.participants.PPT-CW >}}.
+Very little of the guideline text deals with _where_ content can be reported (e.g. in the article body, in an appendix, a table, a figure). Only one participant noticed it and said "I like the reminder" {{< var pilot.participants.PPT-CW >}}.
 
 ## reassure-just-guidelines
 
@@ -463,7 +464,7 @@ Very little of the guideline text deals with alternative reporting locations, an
 
 Throughout the homepage and SRQR page I had tried to convey that reporting guidelines are recommendations, and I took care not to use words like _rules_ or _standards_. Only one participant commented explicitly about this, but no participants talked about the guideline as if it were a set of rules. 
 
-> "So I think this explanation here is very clear that it helps searches to know that definitely they can have their own ideas and this guideline is it is kind of like a a supporting one but not the but not a rule, not a standardized rule." {{< var pilot.participants.PPT-JZ >}}
+> "So I think this explanation here is very clear that it helps researchers to know that definitely they can have their own ideas and this guideline is, it is kind of like a supporting one, but not a rule, not a standardized rule." {{< var pilot.participants.PPT-JZ >}}
 
 ## ready-to-use
 
@@ -481,9 +482,7 @@ No participants commented on this.
 
 The website explains the societal and community importance of complete reporting in a few places: the justification subsections of each item, quotes in the margin, and briefly on the home page. 
 
-Although participants commented on the quotes from research consumers, and on the _Justification_ sections within each reporting item, nobody talked about why complete reporting to the scientific community in general.  One participant seemed confused by the _benefits to readers_ section on the home page:
-
-> "So this is a bit weird. So is the point here that this one is for the writers. And now it's saying, OK, but we can also help readers.OK, I suppose that's interesting" {{< var pilot.participants.PPT-CW >}}
+Although participants commented on the quotes from research consumers, and on the _Justification_ sections within each reporting item, nobody talked about the negative impact of poor reporting on the scientific community at scale.
 
 ## allow-guideline-developers-to-edit
 
@@ -504,3 +503,5 @@ This component was not tested and no participants commented on this.
 ## if-then-rules
 
 Although participants commented on the links to related guidelines, they did not comment on the "if...then..." structure of these links.
+
+#TODO I need to check that the untested components are listed as such in the methods table and in the defining content chapter. 

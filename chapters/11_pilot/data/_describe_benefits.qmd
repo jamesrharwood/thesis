@@ -7,9 +7,9 @@ _Barriers addressed: {{< var intervention-components.describe-benefits.barriers 
 
 **Benefits are clear, but could be communicated quicker**
 
-We wanted website visitors to immediately expect the website to benefit them as researchers and authors. The website headline is one of the first things visitors see, and so was an important feature for communicating benefits. In the first iteration the heading was _"Research articles, made simple"_, but participants thought this was about _reading_ or _explaining_ research articles. In the second iteration, we changed this heading to _"Want help writing up research?"_. 
+I wanted website visitors to immediately expect the website to benefit them as researchers and authors. The website headline is one of the first things visitors see, and so was an important feature for communicating benefits. 
 
-All participants talked about benefits or help. None talked about the opposite (e.g., rules, requirements, or red tape). In the 5 second test, some of these descriptions were vague:
+All participants talked about benefits or help. None talked about the opposite (e.g., rules, requirements, or red tape). In the 5 second test, participants generally talked about _help_ in a general sense:
 
 > "I see research and writing. So i'm thinking. This is to help me with something with my job." {{< var pilot.participants.PPT-RW >}}
 
@@ -21,7 +21,7 @@ Under the headline, we included a short statement: _'reporting guidelines help y
 
 > "And then there's something to do with _'reporting guidelines help you describe research quickly, confidently in completely'_. This information is not really telling me much" {{< var pilot.participants.PPT-OMK >}}
 
-However, they seemed to understand the reported benefits after reading the top of the home page in more detail, and after vieweing the section below where benefits are stated more clearly (e.g.,). Similarly, other participants began to understand the benefits and link them to their own experiences as authors. 
+However, they seemed to understand the reported benefits after reading the top of the home page in more detail, and after viewing the section below where benefits are stated more clearly (e.g.,). Similarly, other participants began to understand the benefits and link them to their own experiences as authors. 
 
 > "OK, I think this part is very great because when I when I see something like _"easy writing"_, _"smoother publishing"_ I think _"Ohh, that's great. That's what I want."_" {{< var pilot.participants.PPT-JZ >}}
 
@@ -29,17 +29,15 @@ However, they seemed to understand the reported benefits after reading the top o
 >
 > Interviewer: OK.
 >
-> Participant: I'm getting that might be a useful resource. That actually, umm, because these areas I think for... early career researchers like me, I'd say I'd be very interested to come in and see this." {{< var pilot.participants.PPT-OMK >}}
+> Participant: I'm getting that it might be a useful resource. That actually, umm, because these are, I think, for... early career researchers like me, I'd say I'd be very interested to come in and see this." {{< var pilot.participants.PPT-OMK >}}
 
 Participants seemed to understand how reporting guidelines might make publishing "smoother". 
 
-> "it gives me an impression that maybe this website will help me write my work easily and it will also help me increase the chance of my work getting published" - {{< var pilot.participants.PPT-BH >}}
-
-> "Umm, just aligning myself to this standard that already many people use. And hopefully, In doing that, I'll be up to standard and then I won't stress myself too much later." {{< var pilot.participants.PPT-BH >}}
+> "it gives me an impression that maybe this website will help me write my work easily and it will also help me increase the chance of my work getting published [...] Umm, just aligning myself to this standard that already many people use. And hopefully, In doing that, I'll be up to standard and then I won't stress myself too much later." {{< var pilot.participants.PPT-BH >}}
 
 **Making a distinction between benefits to authors and readers may lead to confusion about the intended user**
 
-Further down the home page, the section title _'Helping authors and readers'_ made one participant expect the website to also host resources for readers.
+Further down the home page, the section title _'Helping authors and readers'_ made one participant believe the website also hosts resources for readers.
 
 "So this is a bit weird. So is the point here that this one is for the writers. And now it's saying, OK, but we can also help readers. OK, I suppose that's interesting." PPT-CW
 

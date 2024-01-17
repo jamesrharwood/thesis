@@ -2,7 +2,9 @@
 
 ### Recruitment
 
-I recruited participants between 21/03/2023 until 9/08/2023. The number of people expressing interest, eligible, consenting, and participating and shown in @tbl-interview-recruitment, as are the reasons for drop out. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, first language, and experience in using reporting guidelines. Six participants had never heard of reporting guidelines before. One had, but did not remember which one they had used. Three participants had used a reporting guideline before, and one had used many reporting guidelines before. The first interview lasted between 45 minutes - 1.5 hours, and the second interview lasted 30-45 minutes.
+I recruited participants between 21/03/2023 until 9/08/2023. The number of people who expressed interest, were eligible, consented, and participated are shown in @tbl-interview-recruitment. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, and first language. Six participants had never heard of reporting guidelines before. One had, but did not remember which. Three others had used a reporting guideline before, and one had used many reporting guidelines before. The first interview lasted between 45 minutes - 1.5 hours, and the second interview lasted 30-45 minutes.
+
+#ASK How important is it for me to mention drop out in discussion? 
 
 {{< include _table_recruitment.md >}}
 
@@ -14,16 +16,16 @@ I had originally planned to finish data collection before making any changes to 
 
 Briefly, the changes we made included:
 
--   Editing the text at the top of the home page for clarity and to emphasise benefits.
--   Adding images to home page to make the page more attractive and to convey meaning of accompany text.
--   Addition of publisher logos to foster trust
--   Reorganisation of the introduction to SRQR to make it appear shorter.
+- Editing the text at the top of the home page for clarity and to emphasise benefits.
+- Adding images to make the home page more attractive and to convey meaning of accompany text.
+- Adding publisher logos to foster trust
+- Reorganising the introduction to SRQR to make it appear shorter.
 
 The results below include quotes and discussion pertaining to these changes.
 
 ### Main findings
 
-I identified {{< var.counts.pilot.deficiencies >}} deficiencies. Table @tbl-deficiencies-by-component shows deficiencies, quotes, and codes, for each intervention component. The table also lists seven intervention components that received no mention. Three of these were purposefully not tested, three others were perhaps too subtle, and one was about _removing_ aversive stimulus, so it was good that no participants commented on the presence of ugly or judgemental design.
+I identified {{< var.counts.pilot.deficiencies >}} deficiencies. Table @tbl-deficiencies-by-component shows deficiencies, quotes, and codes, for each intervention component. Seven intervention components received no mention. Three of these were purposefully not tested, three others were perhaps too subtle, and one was about _removing_ aversive design, so it was good that no participants commented on the presence of ugly or judgemental design. These unmentioned components are also in table @tbl-deficiencies-by-component.
 
 I have chosen to describe a few deficiencies in more detail, either because I deemed them important, they were frequently mentioned, or involved interactions between components.
 
@@ -41,20 +43,21 @@ I have chosen to describe a few deficiencies in more detail, either because I de
 
 #### Barriers
 
-Participants naturally discussed barriers and facilitators they encountered when applying guidance, either during this study or in their previous experience. These factors were external to the website being tested, and I had identified many of them in my previous work (chapters {{< var.chapters.synthesis >}}-{{< var chapters.web-audit >}}. 
+Participants naturally discussed barriers and facilitators they encountered when applying guidance, either during this study or in their previous experience. These factors were external to the website being tested, and beyond the scope of my intervention components and hence I did not code them as deficiencies. I had identified many of them in my previous work (chapters {{< var.chapters.synthesis >}}-{{< var chapters.web-audit >}}. 
 
-One barrier involved authors feeling frustrated when asked to use a reporting guideline or checklist when they have already finalised their manuscript and are submitting to a journal. Using a checklist so late in publishing causes frustration because authors are short of time, consider the work finished, and are trying to get their job done. One participant articulated this concisely ({{< var pilot.participants.PPT-CW >}}), when she reflected in her first session, they were "annoyed by stuff" because they were "working on something at the time, not really exploring". They were "just trying to get to where [they] wanted to be so that [they] could finish the work [they were] doing and [they] didn't want all the additional sort of stuff". 
 
-However, after using the reporting guideline in their own time, their opinion had totally changed by the second session: "when you specifically asked me to look at this and I used it [to write my] discussion, I was embracing it in a different way". They found the guideline "really helpful" for writing, and then "enjoyed looking at all the different checklists and reporting guidelines", ultimately deciding that "in a new journal that I'm a deputy editor [of], I've just said that in our in our scope and guidance for authors, we have to say that we require the use of reporting guidelines". This change of heart reflected a shift in context: whereas in the first session the participant was looking to get a job done quickly, by the second session, they had given the guideline time and used it in its intended way.
+One barrier involved authors feeling frustrated when asked to use a reporting guideline or checklist when they have already finalised their manuscript and are submitting to a journal. Using a checklist so late in publishing causes frustration because authors are short of time, consider the work finished, and are trying to get their job done. One participant articulated this concisely ({{< var pilot.participants.PPT-CW >}}), when reflecting on their first interview session, when they felt "annoyed by stuff" because they were "working on something at the time" and so instead of "exploring" the website they were "just trying to get to where [they] wanted to be so that [they] could finish the work [they were] doing". They wanted the reporting guidance as a short checklist "didn't want all the additional stuff", referring to the longer reporting item explanations, the guideline introductory text, or the persuasive home page content.
 
-Participants mentioned:
+However, after using the reporting guideline in their own time their opinion had totally changed by the second session: "when you specifically asked me to look at this and I used it [to write my] discussion, I was embracing it in a different way". They found the guideline "really helpful" for writing, and then "enjoyed looking at all the different checklists and reporting guidelines", ultimately deciding that "in a new journal that I'm a deputy editor [of], I've just said that in our in our scope and guidance for authors, we have to say that we require the use of reporting guidelines". This change of heart came after a shift in context: whereas in the first session the participant was looking to get a job done quickly, by the second session, they had given the guideline time and used it in its intended way.
+
+Other barriers participants mentioned included:
 
 - Not having known what reporting guidelines were earlier in their career
 - (Previously) finding the checklist, but not the full guidance
 - Being limited by journal requirements and word limits
 - Struggling to keep writing concise and fluid
 - Needing more guidance
-- Being unable to report an item because it is their colleague's responsibility, or because they hadn't done what was being asked when designing their study or collecting data.
+- Being unable to report an item because it is their colleague's responsibility, or because they had not done what was being asked when designing their study or collecting data.
 - Paywalls
 - Using reporting guidelines for teaching students
 - Wanting guidance for funding applications
@@ -69,9 +72,11 @@ Participants also mentioned barriers I had not identified previously. These incl
 - Not wanting to read on a screen
 - Not understanding the relationship between the EQUATOR Network and the guidelines or guideline developers.
 
+#TODO I need to discuss these. I may also add them to my list of barriers in the appendix. But first I need to introduce that list (maybe at the end of the website service evaluation chapter?)
+
 #### Comparisons between the website being tested and the old EQUATOR website & guideline publications.
 
-A few participants ended up exploring the _original_ EQUATOR website and the _original_ SRQR publication during their interviews. Participant's drove these unplanned explorations and comparisons. One wanted to retrace their steps to show me the guideline they had used previously. Two others wanted to continue using reporting guidelines in the future and asked me where the original SRQR guidance could be found. Some others spontaneously reflected on their previous experience.
+A few participants ended up exploring the _original_ EQUATOR website and the _original_ SRQR publication during their interviews. Participant's instigated these unplanned explorations and comparisons for different reasons. One wanted to retrace their steps to show me the guideline they had used previously. Two others wanted to continue using reporting guidelines in the future and asked me where the original SRQR guidance could be found. Some others spontaneously reflected on their previous experience.
 
 Recounting their experience of seeing the original EQUATOR website for the first time between interview sessions, one participant {{< var pilot.participants.PPT-MJ >}} said "Ohh no I didn't like it. The [new] one is much, much better" because it looked more "trustworthy, more organised" and they preferred the font and colours. Another participant described the original website as "boring", "outdated" and "text heavy" before recounting their experience of using it: 
 
@@ -79,16 +84,16 @@ Recounting their experience of seeing the original EQUATOR website for the first
 
 I witnessed another participant {{< var pilot.participants.PPT-OMK >}} experience similar confusion. They wanted to find the original SRQR guidance to continue using it after the study finished. Sharing their screen and thinking aloud, they started on the EQUATOR Network home page and tried to find the original SRQR guidance without my help. Although at first they thought EQUATOR's home page looked "full" and "rich", they were quickly "confused" by both EQUATOR's website and the SRQR publication. After eight minutes and giving up three times, they eventually found the checklist but not the supplement containing the full guidance. 
 
-A second participant {{< var pilot.participants.PPT-CW >}} achieved the same outcome a few minutes faster. Because examples only appear in the full guidance (which they hadn't found) they instead looked through "the reference list to see if there was potentially an example paper" and then planned to "go back to PubMed and search for an article that used these guidelines". The participant appeared to have little interest in the article's text, saying they did not "care what [the guideline developers] did to come up with it". 
+A second participant {{< var pilot.participants.PPT-CW >}} achieved the same outcome a few minutes faster. Because examples only appear in the (unfound) supplement they instead looked through "the reference list to see if there was potentially an example paper" and then planned to "go back to PubMed and search for an article that used these guidelines". The participant appeared to have little interest in the article's text, saying they did not "care what [the guideline developers] did to come up with it". 
 
 Another participant {{< var pilot.participants.PPT-SK >}} echoed this opinion when comparing the original SRQR publication with the redesigned version. They said they "don't need" to know how SRQR was made when they are trying to use it, and they felt the redesigned guidance is "a bit more precise and to the point". When I showed them the original SRQR full guidance (the supplement), they said:
 
 > "Participant: That's too heavy on the content.
 > 
-> Interviewer: So if if the option was between this this version that you're looking at now [the supplement] and the the website that you saw first, which do you think you prefer to use?
+> Interviewer: So if if the option was between this this version that you're looking at now [the original supplement] and the the website that you saw first, which do you think you prefer to use?
 > 
 > Participant: I think [the website] is far better than the [supplement]. Yeah, this one [the website] is far better."
 
 Another participant reflected on their previous experience of using the PRISMA guidelines and explanation document. They said:
 
-> "I rather prefer this form [the website] of guidance than the other one. There can be a lot more information that are being presented in this way. [...] That's better because it it's more (how can I say?) well presented, well laid out, so that where I need to go deeper, I can go easily. Where I need just surface information or the parts that I'm already familiar with, I can just scroll through [...] So I think I'll prefer something presented in this way than the than the document that I read" {{< var pilot.participants.PPT-WH >}}.
+> "I rather prefer this form of guidance [the website] than the other one [the publication]. There can be a lot more information presented in this way. [...] That's better because it's more (how can I say?) well presented, well laid out, so that where I need to go deeper, I can go easily. Where I need just surface information or the parts that I'm already familiar with, I can just scroll through [...] So I think I'll prefer something presented in this way than the than the document that I read" {{< var pilot.participants.PPT-WH >}}.

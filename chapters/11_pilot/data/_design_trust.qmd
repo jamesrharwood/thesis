@@ -4,11 +4,11 @@ _Relevant website features: {{< var intervention-components.design-trust.descrip
 
 _Barriers addressed: {{< var intervention-components.design-trust.barriers >}}_
 
-When participants talked about trust, they mentioned whether the website appeared professional, credible, and believable. This intervention component is complex because content and design throughout the entire website influenced judgements regarding trust. In particular, participants wanted to know who made the website and why they could be trusted, and identified some design elements that could look more professional. 
+When participants talked about trust, they mentioned whether the website came across as professional, credible, and believable. This intervention component is complex because content and design throughout the entire website influenced judgements regarding trust. In particular, participants wanted to know who made the website and why they could be trusted, and identified some design elements that could look more professional. 
 
 **EQUATOR's introduction could be more prominent**
 
-Apart from its logo, EQUATOR is not mentioned at the top of the page. Participants who did know about EQUATOR said that its brand lent credibility: 
+Apart from its logo, EQUATOR was not mentioned at the top of the page. Participants who already knew about EQUATOR said that its brand lent credibility: 
 
 > "and then I picked up the top my top left hand corner with the EQUATOR logo so it seemed from reputable source." {{< var pilot.participants.PPT-VS >}}
 
@@ -18,13 +18,13 @@ Participants unfamiliar with EQUATOR expressed wanting to know who developed the
 
 > "I really don't get an idea of [...] who's responsible for the website [...] would I trust the the developers of the website?" {{< var pilot.participants.PPT-OMK >}}
 
-The EQUATOR Network is introduced towards the bottom of the home page. Participants recommended moving this introduction (or parts of it) up to the top, using an updated photo, and adding EQUATOR's affiliations and awards. 
+The home page introduced EQUATOR at the very bottom. Participants recommended moving this introduction (or parts of it) up to the top, using an updated photo, and adding EQUATOR's affiliations and awards. 
 
 > "So most places put the the _about_ stuff at the bottom and I would have liked to have seen what [EQUATOR stands for] explained right at the top." {{< var pilot.participants.PPT-CW >}}
 
 > "And then this is the thing on the bottom that I want to look at on every website... because I want to see if they have an actual office. So usually I click this "about us" first" {{< var pilot.participants.PPT-RW >}}
 
-> "Participant: Oh, so this is your mission. So here my question is _What is this group? What is EQUATOR?_ So this is my first question because from my background, which is not from medicine, I'm not very familiar with this group. So I want to know what is this and the second feeling I have, I think I might want to see this information at the very first beginning...I want to know who this website is created by? Because I want to use a professional website, so I think the reason I read this paragraph is I want to find some evidence to prove that your group is very professional.
+> "Participant: Oh, so this is your mission. So here my question is _What is this group? What is EQUATOR?_ So this is my first question because from my background, which is not from medicine, I'm not very familiar with this group. So I want to know what is this and the second feeling I have, I think I might want to see this information at the very first beginning...I want to know who this website is created by. Because I want to use a professional website, so I think the reason I read this paragraph is I want to find some evidence to prove that your group is very professional.
 > Interviewer: Mmm.
 > Participant: Well, maybe you can put [the section about EQUATOR] at the very first beginning and provide a little description about what the group is about, what it is, and what are those people where do they come from something like this." {{< var pilot.participants.PPT-JZ >}}
 
@@ -38,9 +38,9 @@ A design intention was to make the website appear simple. The first iteration wa
 
 "it looks kind of like a blog [...] it's a basic website" {{< var pilot.participants.PPT-RW >}}
 
-"I wouldn't say [it looks] partically trustworthy, but not particularly suspicious either. Kind of in the middle [...] something that will be more trustworthy will be something which is more sophisticated because I know, 'OK, this is someone who actually took his time to do a lot of work... put a lot of work in designing it'. Most of the time if it is a fake website, it's usually much more simple." {{< var pilot.participants.PPT-WH >}}
+"I wouldn't say [it looks] particularly trustworthy, but not particularly suspicious either. Kind of in the middle [...] something that will be more trustworthy will be something which is more sophisticated because I know, 'OK, this is someone who actually took his time to do a lot of work... put a lot of work in designing it'. Most of the time if it is a fake website, it's usually much more simple." {{< var pilot.participants.PPT-WH >}}
 
-One participant viewed both the first and second iterations of the home page (their second interview session occurred after the iteration), and they described the second iteration as better because "It's like more trustable [...] Scientific. Evidence based. Yeah, of course, legit." Others decribed the second iteration as "clean" and "uncluttered" {{< var pilot.participants.PPT-HA >}}, "straightforward" and "open" {{< var pilot.participants.PPT-BH >}}, and even as "calming" {{< var pilot.participants.PPT-VS >}}.
+One participant viewed both the first and second iterations of the home page (their second interview session occurred after the iteration), and they described the second iteration as better because "It's like more trustable [...] Scientific. Evidence based. Yeah, of course, legit." ({{< var pilot.participants.PPT-MJ >}})
 
 However, one participant still questioned the second iteration simplicity and trustworthiness, and drew a comparison with another website that she _did_ trust:
 
@@ -53,13 +53,13 @@ Participants noticed that the first iteration had no logos:
 > "I don't know if this is just me, but I kinda want some logos. So I know who will
 vouch for [the website] right away. Like, usually [...] there's some, like, other medical societies that are, like, "We we are on the EQUATOR network" {{< var pilot.participants.PPT-RW >}}
 
-Inspired by these comments, we added logos to the second iteration home page to show publishers endorsing reporting guidelines. All participants liked these, but some suggested they could appear at the top of the home page so they are immediately visible.
+I added logos to the second iteration's home page to show publishers endorsing reporting guidelines. All participants liked these, but some suggested they could appear at the top of the home page so they are immediately visible.
 
 > "Leading publishers....Wow, this is good...Nature. Really? Elsevier, BMJ. Yes, this is good. And this brings some sense of trust and authenticity in the website." {{< var pilot.participants.PPT-BH >}}
 
 > "[The publishers' logos are] encouraging, because these are all publishing houses with mostly reputable journals, probably all reputable journals. [...] You know, if these were higher up, then [...] that would have made me feel a little bit more like ohh, this is good." {{< var pilot.participants.PPT-CW >}}
 
-**Reporting guideline endorsements and citations lend credibility, but may not be intuitive**
+**Numbers showing reporting guideline endorsements and citations lend credibility, but may not be intuitive**
 
 The top of the SRQR guideline page included widgets displaying the number of journal endorsements, and the number of times the reporting guideline had been cited. Some people commented that this information lent credibility: 
 
@@ -87,4 +87,4 @@ Others were not sure whether the citation information pertained to the website o
 
 **Not everybody considered the image at the top of the home page to be trustworthy**
 
-For the second iteration, I added an image to the top of the home page comprising of three icons to represent the process of writing a manuscript. On participant described this image as a "bit naff [...] I actually think this [image] reduces [the website's] score on the first impressions of trustworthiness kind of thing. Just because [the icons making up the image] are so, umm, ubiquitous, and, uh cheap?" {{< var pilot.participants.PPT-HA >}}
+For the second iteration, I added an image to the top of the home page comprising of three icons to represent the process of writing a manuscript. One participant described this image as a "bit naff [...] I actually think this [image] reduces [the website's] score on the first impressions of trustworthiness kind of thing. Just because [the icons making up the image] are so, umm, ubiquitous, and, uh cheap?" {{< var pilot.participants.PPT-HA >}}
