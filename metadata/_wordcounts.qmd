@@ -9,7 +9,7 @@
 * focus-groups: 8713 (inc. tables: 9130)
 * defining-content: 1378 (inc. tables: 6719)
 * redesign: 3312 (inc. tables: 3312)
-* pilot: 8710 (inc. tables: 18113)
-* discussion: 4370 (inc. tables: 4370)
+* pilot: 11390 (inc. tables: 21012)
+* discussion: 4451 (inc. tables: 4451)
 
-**TOTAL: 52770 (inc. tables: 75639)**
+**TOTAL: 55531 (inc. tables: 78619)**

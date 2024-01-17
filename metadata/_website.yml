@@ -47,10 +47,10 @@ website:
         file: ""
       - text: "10. Development"
         file: chapters/10_redesign/index.qmd
-      - text: "<span class='text-warning'>11. Pilot</span>"
+      - text: "11. Pilot"
         file: chapters/11_pilot/index.qmd
-      - text: "<span class='text-muted'>12. Discussion</span>"
-        file: ""
+      - text: "12. Discussion"
+        file: chapters/12_discussion/index.qmd
       - section: "Appendix"
         contents:
           - text: "Search Strategies"
