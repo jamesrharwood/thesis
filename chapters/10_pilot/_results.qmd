@@ -16,10 +16,28 @@ I had originally planned to finish data collection before making any changes to 
 
 Briefly, the changes we made included:
 
-- Editing the text at the top of the home page for clarity and to emphasise benefits.
-- Adding images to make the home page more attractive and to convey meaning of accompany text.
+- Editing the text at the top of the home page for clarity and to emphasise benefits. I edited it from "Writing research, made simple. Write confidently using guidelines created by the research community" to "Want help writing up research? Reporting guidelines help you describe research quickly, confidently, and completely."
+- Adding images to make the home page more attractive and to convey meaning of accompany text (see @fig-before-after-home).
 - Adding publisher logos to foster trust
-- Reorganising the introduction to SRQR to make it appear shorter.
+- Reorganising the introduction to SRQR to make it appear shorter (see @fig-before-after-rg).
+
+::: {#fig-before-after-home layout-ncol=2}
+
+![Before](chapters/9_defining_content/figures/home.png){#fig-home-v1}
+
+![After initial revision](data/home-v2.png){#fig-home-v2}
+
+The home page before and after initial revisions based on feedback from the first five participants.
+:::
+
+::: {#fig-before-after-rg layout-ncol=2}
+
+![Before](chapters/9_defining_content/figures/rg-intro.png){#fig-home-v1}
+
+![After initial revision](data/rg-v2.png){#fig-home-v2}
+
+The home page before and after initial revisions based on feedback from the first five participants.
+:::
 
 The results below include quotes and discussion pertaining to these changes.
 
