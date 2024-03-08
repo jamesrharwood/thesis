@@ -8,7 +8,7 @@ render: add_footer update_wordcounts create_tables create_appendix
 	@quarto render
 
 create_tables:
-	@python chapters/11_pilot/data/create_methods_table.py
+	@python chapters/10_pilot/data/create_methods_table.py
 
 create_appendix: 
 	@bash chapters/appendix/create_appendix.sh
