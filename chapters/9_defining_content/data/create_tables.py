@@ -133,6 +133,8 @@ describe-when-to-use
 describe-what-rgs-are
 clarify-tasks
 tools-for-early-use
+link-related-rgs
+link-resources
 """
 
 create_sub_table('rg_intro.md', INTRO, INTRO_DUPLICATES)

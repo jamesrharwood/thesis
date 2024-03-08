@@ -7,12 +7,12 @@ format:
         output-file: JH-chapter-pilot.docx
 ---
 
-{{< include /chapters/11_pilot/_background.qmd >}}
+{{< include /chapters/10_pilot/_background.qmd >}}
 
-{{< include /chapters/11_pilot/_methods.qmd >}}
+{{< include /chapters/10_pilot/_methods.qmd >}}
 
-{{< include /chapters/11_pilot/_results.qmd >}}
+{{< include /chapters/10_pilot/_results.qmd >}}
 
-{{< include /chapters/11_pilot/_discussion.qmd >}}
+{{< include /chapters/10_pilot/_discussion.qmd >}}
 
 {{< pagebreak >}}

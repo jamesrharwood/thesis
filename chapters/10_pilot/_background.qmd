@@ -1,6 +1,6 @@
 ## Introduction
 
-Having defined intervention components and built a prototype (chapter {{< var chapters.redesign >}}) I wanted to refine the home page and SRQR guidance page ("the website") by getting feedback from authors. 
+Having defined intervention components and built a prototype (chapter {{< var chapters.redesign >}}) I wanted to refine the home page and SRQR guidance page (which I'm going to refer to as "the website" in this chapter) by getting feedback from authors. 
 
 The MRC guidance on complex interventions, the Person Based Approach, and the Behaviour Change Wheel all stress the importance of including service users in the design of complex interventions @skivingtonNewFrameworkDeveloping2021; @michieBehaviourChangeWheel2011; @yardleyPersonBasedApproachIntervention2015. Service users can help identify deficiencies which, if addressed, would make the intervention more successful @skivingtonNewFrameworkDeveloping2021. Involving service users can also help researchers better understand barriers, and whether intervention components are functioning as intended.
 

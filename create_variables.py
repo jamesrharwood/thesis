@@ -6,8 +6,8 @@ import frontmatter
 
 from data import BARRIERS, CHANGES, STAKEHOLDERS, STAGES
 
-count_deficiencies = importlib.import_module("chapters.11_pilot.data.count_deficiencies")
-participant_ids = importlib.import_module("chapters.11_pilot.data.participant_ids")
+count_deficiencies = importlib.import_module("chapters.10_pilot.data.count_deficiencies")
+participant_ids = importlib.import_module("chapters.10_pilot.data.participant_ids")
 
 
 participants = 16 #TODO
@@ -136,9 +136,8 @@ FILEPATHS=[
     "chapters/7_workshops/index.qmd",
     "chapters/8_focus_groups/index.qmd",
     "chapters/9_defining_content/index.qmd",
-    "chapters/10_redesign/index.qmd",
-    "chapters/11_pilot/index.qmd",
-    #"output/chapters/discussion"
+    "chapters/10_pilot/index.qmd",
+    "chapters/11_discussion/index.qmd",
 ]
 
 titles = {}
@@ -152,6 +151,14 @@ for fp in FILEPATHS:
 
 PARTICIPANT_IDS = {key: f"({value})" for key, value in participant_ids.PARTICIPANT_IDS.items()}
 pilot = {'participants': PARTICIPANT_IDS}
+
+APPENDIX = {
+    'search': 'A',
+    'barriers': 'B',
+    'ideas': 'C',
+    'advert': 'D',
+    'ict': 'E'
+}
 
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)
@@ -172,6 +179,7 @@ with open(filename, 'r+') as file_:
     variables.update({'titles': titles})
     variables.update({'intervention-components': ICs})
     variables.update({'pilot': pilot})
+    variables.update({'appendix': APPENDIX})
     variables.update()
     yaml.dump(variables, file_, width=1000)
     file_.truncate()

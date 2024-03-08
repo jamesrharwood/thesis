@@ -2,7 +2,7 @@
 
 ### Intervention components table 
 
-From the initial list of {{< var counts.ideas >}} I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} barriers. The full intervention component table can be viewed in the Appendix, where components are labelled with the barriers they address, the intervention functions they work through, and the behaviour change technique they employ (#TODO). This table was so long it disrupted the narrative of this chapter, and so instead I have divided it into smaller tables for each intervention part below, and summarised each component only by the intervention function it employs. 
+From the initial list of {{< var counts.ideas >}} ideas I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} barriers. The full intervention component table can be viewed in the Appendix {{< var appendix.ict >}}, where components are labelled with the barriers they address, the intervention functions they work through, and the behaviour change technique they employ. This table is so long it disrupted the narrative of this chapter, and so I moved it to the appendix. Instead, I have divided it into smaller tables for each intervention part below, and summarised each component only by the intervention function it employs. 
 
 ### Intervention description
 
@@ -69,9 +69,9 @@ The result contrasts to EQUATOR's current home page (see @fig-home-b4 compared t
 
 Although many journals direct authors to EQUATOR's home page, many others send authors straight to EQUATOR's database records for a particular reporting guidelines. Because so many authors land on these guideline-specific pages, I decided that many of the components appearing on the home page should also appear at the top of guideline pages (such as basic information on what reporting guidelines, how to use them, when to use them, and why). 
 
-Additionally, I decided that the top of the guideline page should introduce the guideline, why it can be trusted, when it applies and when it does _not_ apply, how to use it, how to cite it, and links to related guidance, translations, and associated checklists, templates and other tools in ready-to-use formats. This introduction positions the reporting guideline as a set of recommendations, not rules, clarifies that it is for reporting research, not designing it, and that the guideline does not prescribe structure. 
+Additionally, I decided that the top of the guideline page should introduce the guideline, why it can be trusted, when it applies and when it does _not_ apply, how to use it, how to cite it, and links to related guidance, translations, and associated checklists, templates and other tools in ready-to-use formats. This introduction positions the reporting guideline as a set of recommendations, not rules, clarifies that it is for reporting research, not designing it, and that the guideline does not prescribe structure (see @fig-rg-intro). 
 
-My aim for this introduction was to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and if it does, to convince them to use it. In contrast, most traditional reporting guideline publications begin with lengthy descriptions of how the guidance was made and justifications of why it is needed. Although this information is important (and is still present later in my design), I felt it wasn't what authors needed when making quick decisions about whether to engage with the guideline. 
+My aim for this introduction was to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and if it does, to convince them to use it. In contrast, most traditional reporting guideline publications begin with lengthy descriptions of how the guidance was made and justifications of why it is needed (see @fig-rg-intro-b4). Although this information is important (and is still present later in my design), I felt it wasn't what authors needed when making quick decisions about whether to engage with the guideline. Although EQUATOR's database pages for each guideline do include some explanation of when the guideline should be used, and links to related guidelines and tools, this information was quite hard to find and the pages lacked many other intervention components (see @fig-db-b4)
 
 <!-- ## FIG-RG-INTRO-B4 -->
 ![The SRQR publication, captured on the 5th April, 2023. Limitations of reporting guideline publications may include:  
@@ -102,6 +102,15 @@ My aim for this introduction was to help authors quickly understand what the gui
 12) Citation information (area K) 
 13) Information on how the guidance was developed and why it can be trusted (area L) 
 ](figures/rg-after.png){#fig-rg-intro height=200mm}
+
+<!-- ## FIG-DB-B4 -->
+![The existing EQUATOR page for SRQR, as captured on 5th April, 2023. Limitations include:  
+1) The actual guidance is hard to find. Area A includes 3 links. The first two send users to an article describing how SRQR was developed. The actual guidance appears in a supplement of that article, which is the third link in area A. The label "relevant URLs" is vague. 
+2) Little instruction regarding what the RG is or can be used for other than "Qualitative research" 
+3) Links to related guidelines that are hard to find or, for SRQR, absent 
+4) No metrics around how many authors use this RG (e.g. citation counts) 
+5) The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance. 
+](figures/db_page_b4.png){#fig-db-b4 height=200mm}
 
 {{< include data/tables/rg_intro.md >}}
 

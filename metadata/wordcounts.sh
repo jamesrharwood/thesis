@@ -13,9 +13,8 @@ FILEPATHS=(
     "output/chapters/7_workshops"
     "output/chapters/8_focus_groups"
     "output/chapters/9_defining_content"
-    "output/chapters/10_redesign"
-    "output/chapters/11_pilot"
-    "output/chapters/12_discussion"
+    "output/chapters/10_pilot"
+    "output/chapters/11_discussion"
 )
 
 for dir in ${FILEPATHS[@]}

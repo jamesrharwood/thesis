@@ -25,7 +25,7 @@ VAR_FILE = os.path.join(DIR, '_variables.yml')
 with open(VAR_FILE, 'r', encoding='utf-8') as file_:
     VAR = yaml.load(file_.read(), yaml.Loader)
 
-INPUT = os.path.join(DIR, 'chapters', '11_pilot', 'data', '_results_data.qmd')
+INPUT = os.path.join(DIR, 'chapters', '10_pilot', 'data', '_results_data.qmd')
 SEPARATOR = re.compile(r'\n+##\s')
 
 with open(INPUT, 'r') as file_:

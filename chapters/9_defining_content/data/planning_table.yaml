@@ -4,7 +4,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
     ingredients:
       Describe what reporting guidelines are where they are first encountered:
         before: No prominent description of what reporting guidelines are on EQUATOR home page or in reporting guidelines resources. 
-        before_example: See @fig-home-b4, @fig-rg-intro-b4, @fig-checklist-b4, @fig-journal-instructions 
+        before_example: See @fig-home-b4, @fig-rg-intro-b4
         now: Prominent definition on home page and guideline page.
         now_example: See @fig-home, @fig-rg-intro
         future: Advise stakeholders on how to introduce reporting guidelines.^*^
@@ -206,7 +206,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
     ingredients:
       Provide translations:
         before: Some guidelines have been translated, but many haven't. Links to translations are present on reporting guideline database pages but these links may not be easy to find. The EQUATOR website has an automatic translation tool which will translate content on web pages, but this doesn't cover the guidance itself. 
-        before_example: SRQR was available in French but the translation wasn't advertised on the main guidance. See @fig-db-b4
+        before_example: SRQR was available in French but the translation wasn't advertised on the main guidance or database page. See @fig-rg-b4 and @fig-db-b4
         now: Translations are prominently listed above the guidance
         now_example: See @fig-rg-intro
         future: List translations on checklists and templates
@@ -322,7 +322,7 @@ Apply reporting guidance to writing:
     ingredients:
       link all resources to each other:
         before: Reporting guideline development articles, example and elaboration articles, and checklist files may not link to each other.
-        before_example: See @fig-checklist-b4
+        before_example: 
         now: Guidance links to all tools and development article
         now_example: See @fig-rg-intro
         future: All tools to link back to guidance on an item-by-item basis.
@@ -358,7 +358,7 @@ Apply reporting guidance to writing:
         id: evidence-benefits
       Include design, features, and language to foster trust:
         before: Website design looked amateur. Citation metrics are available for guideline publications, but are not displayed on the EQUATOR website or within the guidance publications or checklists themselves. Guidelines were often preceeded by lengthy explanations of development.
-        before_example: See @fig-db-b4
+        before_example: See @fig-rg-b4
         now: Professional design. EQUATOR's Logo remains prominent. Citation metrics are presented at the top the reporting guidance. Information about who developed the guidelines, how they developed it, and why the guidance is credible is still provided, and easily findable from the top of the guidance.
         now_example: See @fig-rg-intro
         IF: Persuasion
@@ -531,7 +531,7 @@ Apply reporting guidance to writing:
       For each item, provide examples of reporting in different contexts:
         before: Not all reporting guidelines provide examples. Examples may not cover different contexts.
         now: SRQR already had some examples. No more examples added
-        before_example: See @ fig-item-b4
+        before_example: See @fig-item-b4
         now_example: See @fig-item
         future: Add more examples
         IF: Modelling
@@ -749,7 +749,7 @@ Apply reporting guidance to writing:
         before: Updating page numbers in a checklist is time consuming. It takes editors time to double check page numbers and content. Checklists may not include instructions of how to complete them.
         now: No changes made
         future: Create an online checklist that is easier to update and easy for editors to verify
-        before_example: See @fig-checklist-b4
+        before_example:
         now_example:
         IF: Enablement
         BCT: Adding objects to the environment

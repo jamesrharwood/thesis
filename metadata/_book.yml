@@ -71,7 +71,7 @@ book:
           file: "chapters/4_survey_content/index.qmd"
         - text: "EQUATOR website evaluation"
           file: "chapters/5_website_audit/index.qmd"
-    - part: "Defining intervention content"
+    - part: "Identifying intervention changes"
       chapters:
         - text: "The Behaviour Change Wheel"
           file: chapters/6_bcw/index.qmd
@@ -79,16 +79,14 @@ book:
           file: chapters/7_workshops/index.qmd
         - text: "Focus groups"
           file: chapters/8_focus_groups/index.qmd
-        - text: "Defining Content"
-          file: chapters/9_defining_content/index.qmd
-    - part: "Redesigning a reporting guideline and EQUATOR's home page"
+    - part: "Defining, developing, and refining intervention content"
       chapters:
-        - text: "Redesign"
-          file: chapters/10_redesign/index.qmd
-        - text: "Pilot (todo)"
-          file: chapters/11_pilot/index.qmd
-    - text: "Discussion (todo)"
-      file: chapters/12_discussion/index.qmd
+        - text: "Defining and developing intervention content"
+          file: chapters/9_defining_content/index.qmd
+        - text: "Piloting with authors"
+          file: chapters/10_pilot/index.qmd
+    - text: "Discussion"
+      file: chapters/11_discussion/index.qmd
     - part: "Appendix"
       chapters:
           - text: "A: Search Strategies"
