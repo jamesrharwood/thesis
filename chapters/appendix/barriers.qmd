@@ -1,10 +1,5 @@
-## Barriers {.appendix #app-barriers}
+## Barriers {.appendix #app-barriers .unnumbered}
 
-```{python}
-#| output: asis
-#| echo: false
+The following list of barriers was generated from my thematic synthesis, review of survey questions, and my evaluation of EQUATOR's website.
 
-from data.create_table import create_barriers_text
-
-print(create_barriers_text())
-```
+{{< include barriers.md >}}

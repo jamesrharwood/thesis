@@ -206,8 +206,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
     ingredients:
       Provide translations:
         before: Some guidelines have been translated, but many haven't. Links to translations are present on reporting guideline database pages but these links may not be easy to find. The EQUATOR website has an automatic translation tool which will translate content on web pages, but this doesn't cover the guidance itself. 
-        before_example: SRQR was available in French but the translation wasn't advertised on the main guidance.
-        before_example: See @fig-db-b4
+        before_example: SRQR was available in French but the translation wasn't advertised on the main guidance. See @fig-db-b4
         now: Translations are prominently listed above the guidance
         now_example: See @fig-rg-intro
         future: List translations on checklists and templates
@@ -803,17 +802,17 @@ Apply reporting guidance to writing:
         duplicate: true
         evaluation_methods: 
         id: discussion-spaces
-      Make it possible for guideline developers to make small edits without having to publish new articles:
-        before: Developers would have to publish a new article
-        now: Developers can make small updates any time
-        before_example:
-        now_example:
-        future: Integrate with a DOI provider so versions can be cited
-        IF: Enablement
-        BCT: Restructuring the physical environment
-        done: true
-        evaluation_methods: 
-        id: allow-guideline-developers-to-edit
+      # Make it possible for guideline developers to make small edits without having to publish new articles:
+      #   before: Developers would have to publish a new article
+      #   now: Developers can make small updates any time
+      #   before_example:
+      #   now_example:
+      #   future: Integrate with a DOI provider so versions can be cited
+      #   IF: Enablement
+      #   BCT: Restructuring the physical environment
+      #   done: true
+      #   evaluation_methods: 
+      #   id: allow-guideline-developers-to-edit
   need-to-reconcile:
     ingredients:
       Explain when reporting guidelines do not intended to prescribe structure:

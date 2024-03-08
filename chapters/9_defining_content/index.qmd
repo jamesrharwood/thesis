@@ -1,86 +1,16 @@
 ---
-title: Defining Intervention Content
+title: "Defining intervention components and developing a prototype"
 format: 
     html:
         output-file: index.html
-        css: styles.css
     docx:
-        output-file: JH-chapter-defining-content.docx
+        output-file: JH-chapter-define-and-redesign.docx
 ---
 
-## Introduction
+{{< include background.qmd >}}
 
-In this chapter I describe how I brought together the outputs of all previous research chapters to create a intervention planning table containing intervention components.
+{{< include methods.qmd >}}
 
-In chapters {{< var chapters.synthesis >}}-{{< var chapters.web-audit >}} I described how I identified barriers influencing whether authors adhere to reporting guidelines. In chapter {{< var chapters.workshops >}} I described how ran workshops with EQUATOR staff to define our target behaviour, prioritise intervention functions and policy categories, and how we decided to prioritise redesigning reporting guidelines and the EQUATOR Network's website hope page. In chapter {{< var chapters.focus-groups >}} I described how I asked guideline developers, publishers, and other stakeholders to build upon our workshop outputs by brainstorming solutions to barriers. 
+{{< include results.qmd >}}
 
-Consequently, at this point in my thesis I had multiple lists; a list of barriers, lists of intervention options, and a list of ideas. Not all ideas were relevant to the the EQUATOR Network or aligned with our prioritised intervention options, and although ideas referenced barriers, the links between ideas, barriers, intervention functions, and behaviour change techniques were not fully explicit.
-
-What remained was to selected ideas to implement and turn them into intervention components, defined as @michieBehaviourChangeWheel2014:
-
-1. a designed element that uses one or more behaviour change technique,
-2. theorized to work through one or more intervention functions 
-3. to target one or more behavioural drivers. 
-
-Michie et al. @michieBehaviourChangeWheel2014 describe this step as "identify[ing] intervention content in terms of which [behaviour change techniques] best serve intervention functions", where a behaviour change technique is "an active component" that is "observable, replicable, [and] irreducible". Defining intervention content in this way is useful because it helps intervention developers understand why the component added (or removed), how it is theorised to work and, therefore, how its effectiveness may be tested.
-
-In this chapter I describe how I selected ideas to implement, and how I defined them as intervention components.
-
-## Methods
-
-I started with a list of {{< var counts.ideas >}} ideas. These were the 128 ungrouped ideas originating from my focus groups (chapter {{< var chapters.focus-groups >}}), plus {{< var counts.sub_ideas >}} ideas I had whilst I was writing my focus group chapter (see Appendix {{< var appendices.ideas >}}).
-
-I labelled each idea with:
-
-1.  The barrier(s) it addresses (derived from chapters {{< var chapters.synthesis >}}, {{< var chapters.review >}}, {{< var chapters.web-audit >}}, and {{< var chapters.workshops >}}).
-2. The behavioural driver it targets (from step four of the workshops described in chapter {{< var chapters.workshops >}}).
-3. The intervention functions it uses.
-4. The behaviour change techniques it uses, selected from Michie et al.'s taxonomy @michieBehaviorChangeTechnique2013.
-
-I asked a colleague with experience in behaviour change taxonomies to double check my coding, and we resolved disagreements through discussion.
-
-For each idea, I then considered:
-
-5. Whether it was implementable by redesigning guidelines or by modifying the EQUATOR website. If not, I removed it from the list.
-6. Whether its intervention function aligned with the intervention options EQUATOR and I had prioritised during our workshops (see workshop steps 5 & 6 in chapter {{< var chapters.workshops >}}). If not, I removed it from the list.
-
-To give structure to this list, I grouped intervention components according to the sub-behaviours they targeted: 1) engaging with guidance and 2) applying it (see section on specifying the target behaviour in chapter {{< var chapters.workshops >}}).
-
-To provide extra context and clarity, I described each component in more detail and how it compares to the status quo. In doing these comparisons I made generalisations about how popular reporting guidelines are written and disseminated by drawing on evidence from my qualitative synthesis ({{< var chapters.synthesis >}}), looking at how the EQUATOR website is currently, referring back to workshop discussions (from chapter {{< var chapters.workshops >}}).
-
-Components were abstract at this stage, described only as words. I had not built anything when I made the list, but to make the components easier to understand I have referenced figures from the next chapter, where I describe how I turned these hypothetical intervention components into a working prototype.
-
-## Results
-
-From the initial list of {{< var counts.ideas >}} I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} barriers. 
-
-See table @tbl-int-plan for all intervention components, labelled with the barriers they address, the intervention functions they work through, and the behaviour change technique they employ.
-
-## Discussion
-
-In this chapter I have demonstrated how I have used behaviour change theory to create a list of intervention components. This list brings together the outputs of all of my previous thesis chapters and links them together; each component comes from an idea (chapter {{< var chapters.focus-groups >}}), addresses one or more barriers (chapters {{< var chapters.synthesis >}}-{{< var chapters.web-audit >}}), using intervention options ranked favourably by EQUATOR staff (chapter {{< var chapters.workshops >}}). Hence the table presented here crystallises the preceding chapters. 
-
-The table includes components derived from all ideas pursuant to the intervention options EQUATOR staff and I prioritised in our workshops. Because I filtered out ideas _not_ in line with these priorities, the list is not exhaustive. Stakeholders using the same set of initial ideas would create different components because of their different priorities and implementation opportunities. For example, a funder may have generated more components related to reporting guidance for applications or protocols, or relating to their application criteria and submission systems. Stakeholders with the power to grant approval (for funding/ethics/publication) may have components related to enforcement. Consequently, although I hope this list will help readers understand the intervention changes I have made and why I have made them, I would encourage other intervention designers to go through this process themselves instead of using this list verbatim.
-
-Throughout the table I have drawn comparisons between the proposed components and existing reality. These comparisons are vague; I use terms like "some" or "rarely". Where possible, I refer to images or examples. Some examples came from my qualitative synthesis (chapter {{< var chapters.synthesis >}}), others came arose organically in my workshops (chapter {{< var chapters.workshops >}}) when participants shared long-standing frustrations with the website or guidelines. Other times, after discussing a barrier or idea, we would look at a few guidelines to see how things are done currently. So this comparison was ad-hoc, and I have included them only to provide context to the proposed changes. I considered making this comparison formal, by systematically coding BCTs employed by EQUATOR's website and popular guidelines or by counting how frequently intervention components appear currently. Ultimately, I decided this would not be helpful nor practical. With so many components and so many guidelines, this would have taken time and I decided instead to prioritise building and testing a prototype. Secondly, this audit would not have dramatically influenced the intervention components we designed, but would merely quantify how different my proposed intervention is to the current set-up. I believed my prototype would be markedly different from the status quo, and so I doubted the benefit of quantifying a difference I expected would be obvious. Should need arise in the future, an audit like this would still be possible.
-
-### Conclusions
-
-By linking components with barriers, functions, and behaviour change techniques, I have justified components using evidence and described how they are theorized to work. This table will help other intervention developers and stakeholders understand what changes I have made and why. The next two chapters make use of this table. In chapter {{< chapters.pilot >}} I describe how I referred to this table when designing a study to refine components. But first, in the next chapter, I describe how I used this table to redesign a reporting guideline and the EQUATOR Network's home page. 
-
-{{< pagebreak >}}
-
-
-## Tables
-
-
-:::{.column-page-right}
-{{< include _table.qmd >}}
-:::
-
-{{< pagebreak >}}
-
-## Figures 
-
-{{< include _figures.qmd >}}
-
+{{< include discussion.qmd >}}

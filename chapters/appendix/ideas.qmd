@@ -1,20 +1,5 @@
-## Ideas generated from workshops and focus groups {.appendix #app-ideas}
+## Ideas generated from workshops and focus groups {.appendix #app-ideas .unnumbered}
 
-```{python}
-#| echo: false
-#| output: asis
-#| cache: false
+The following list of ideas were generated from my workshops with EQUATOR staff and focus groups with guideline developers, journal staff, and academics.
 
-from collections import defaultdict
-from data.create_table import create_recommendations_text
-from data import STAGES, CHANGES_BY_STAGE
-from collections import defaultdict
-
-changes_by_stage = defaultdict(list)
-for change in CHANGES_BY_STAGE:
-    changes_by_stage[change.stage].append(change)
-
-for stage in changes_by_stage:
-    print(f"## {STAGES[stage]}\n\n\n\n")
-    print(create_recommendations_text(changes_by_stage[stage]))
-```
+{{< include ideas.md >}}

@@ -4,11 +4,14 @@ preview: create_tables
 publish: create_vars render 
 	@quarto publish gh-pages --no-render
 
-render: add_footer update_wordcounts create_tables
+render: add_footer update_wordcounts create_tables create_appendix
 	@quarto render
 
 create_tables:
 	@python chapters/11_pilot/data/create_methods_table.py
+
+create_appendix: 
+	@bash chapters/appendix/create_appendix.sh
 
 commitID = $(shell git rev-parse --short --verify HEAD)
 date = $(shell date)

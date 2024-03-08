@@ -58,8 +58,10 @@ website:
           - section: Workshop outputs
             contents: 
             - text: "Barriers"
-              file: chapters/appendix/barriers.qmd
+              file: chapters/appendix/barriers.md
             - text: <span class="text-muted">Worksheets</span>
           - text: "Ideas generated from workshops and focus groups"
-            file: "chapters/appendix/ideas.qmd"
+            file: "chapters/appendix/ideas.md"
+          - text: "Intervention Components Table"
+            file: "chapters/appendix/intervention_component_table.md"
           

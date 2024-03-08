@@ -1,25 +1,30 @@
-::: {.landscape}
+"Creates intervention component table"
 
-```{python}
-#| column: page
-#| echo: false
-#| output: asis
 import os
 import yaml
-from IPython.display import Markdown, display
-from tabulate import tabulate
-from data import BARRIERS
+
 import texttable
+
+from data import BARRIERS
+
+TEXT = ""
 
 SEE_ABOVE = ""
 
-COLS = ['Intervention Ingredient', "Behaviour Change Technique", 'Intervention Function', 'Before', 'Now', ]
+COLS = [
+    'Intervention Ingredient',
+    "Behaviour Change Technique",
+    'Intervention Function', 
+    'Before', 
+    'Now', 
+]
+COLS = [f"**{col}**" for col in COLS]
 COL_RANGE = range(len(COLS))
 WIDTHS = [400, 200, 200, 400, 400]
 ALIGNMENTS = ['l' for _ in COL_RANGE]
 DIR = os.getcwd()
-FP = os.path.join(DIR, 'chapters', '9_defining_content', 'planning_table.yaml')
-with open(FP, 'r') as f:
+FP = os.path.join(DIR, 'chapters', '9_defining_content', 'data', 'planning_table.yaml')
+with open(FP, 'r', encoding='utf-8') as f:
     data = yaml.safe_load(f)
 table = texttable.Texttable()
 table.header(COLS)
@@ -34,7 +39,7 @@ for key_behaviour, barriers in data.items():
         text += f'[**Behavioural driver: {target}**]{{.nowrap}}'
         table.add_row([text, '', '', '', ''])
         ingredients = details['ingredients']
-        if type(ingredients)==dict:
+        if isinstance(ingredients, dict):
             for desc, values in ingredients.items():
                 try:
                     before = f'{values["before"] or SEE_ABOVE}'
@@ -47,18 +52,16 @@ for key_behaviour, barriers in data.items():
                         now += f'\n\nExample: {examples}'
                     BCT = values['BCT'] or 'See above'
                     done = values['done']
-                    assert type(done) is bool
+                    assert isinstance(done, bool)
                     if not done:
                         desc += "*"
                 except Exception as e:
                     print(values)
-                    raise Exception(desc)
+                    raise Exception(desc) from e # type: ignore
                 IF = values.get('IF', 'See above')
                 table.add_row([desc, BCT, IF, before, now])
-print(table.draw())
-```
+TEXT += table.draw() # type: ignore
 
-: Intervention Planning Table. Intervention components labelled with the behaviour change techniques and intervention functions they employ, and grouped according to the key behaviours, barriers, and behavioural drivers that they aim to target. Where possible, examples demonstrate how components were (or were not) used originally (Before) and, how they are included within the redesigned intervention (Now). {#tbl-int-plan}
-
-::: 
-<!-- end of landcape -->
+OUT_FP = os.path.join(DIR, 'chapters', 'appendix', 'intervention_component_table.md')
+with open(OUT_FP, 'w', encoding='utf-8') as file_:
+    file_.write(TEXT)
