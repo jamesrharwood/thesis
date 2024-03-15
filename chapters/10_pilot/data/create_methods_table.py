@@ -9,7 +9,7 @@ COL_RANGE = range(len(COLS))
 WIDTHS = [500, 500]
 ALIGNMENTS = ['l' for _ in COL_RANGE]
 DIR = os.getcwd()
-FP = os.path.join(DIR, 'chapters', '9_defining_content', 'planning_table.yaml')
+FP = os.path.join(DIR, 'chapters', '9_defining_content', 'data', 'planning_table.yaml')
 OUTPUT = os.path.join(DIR, 'chapters', '10_pilot', 'data', '__methods_table.md')
 
 

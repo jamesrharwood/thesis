@@ -1,4 +1,4 @@
-#### {{< var intervention-components.clarify-tasks.title >}}
+#### Deficient component: {{< var intervention-components.clarify-tasks.title >}}
 
 _Relevant website features: {{< var intervention-components.clarify-tasks.description >}}_
 

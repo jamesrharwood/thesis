@@ -1,4 +1,4 @@
-#### {{< var intervention-components.design-trust.title >}}
+#### Deficient component: {{< var intervention-components.design-trust.title >}}
 
 _Relevant website features: {{< var intervention-components.design-trust.description >}}_
 

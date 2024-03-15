@@ -1,4 +1,4 @@
-#### {{< var intervention-components.examples.title >}}
+#### Deficient component: {{< var intervention-components.examples.title >}}
 
 **Many participants said they wanted more, varied examples**
 

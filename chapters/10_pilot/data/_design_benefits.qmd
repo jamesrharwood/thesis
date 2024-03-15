@@ -1,8 +1,8 @@
-#### {{< var intervention-components.design-benefits.title >}}
+#### Deficient component: {{< var intervention-components.design-benefits.title >}}
 
 **Participant's described the design as simple, but some parts could be simpler still, and simplicity may come across as basic**
 
-We were aiming to communicate simplicity and that the website was there to make life easier, not more complicated. 
+We were aiming to communicate simplicity and that the website was there to help, to make life easier, not more complicated. 
 
 My original design was too simple. Participants described the first version as "clinical" PT-RW, "basic" {{< var pilot.participants.PPT-VS >}}, "just the bones of a website" {{< var pilot.participants.PPT-RW >}}, and although it was "welcoming and straightforward" {{< var pilot.participants.PPT-BH >}}, participants recommended "more vivid colour" {{< var pilot.participants.PPT-MJ >}} or "animations" {{< var pilot.participants.PPT-BH >}}.
 

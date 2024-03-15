@@ -97,3 +97,5 @@ book:
             file: "chapters/appendix/ideas.qmd"
           - text: "D: Intervention Components Table"
             file: "chapters/appendix/intervention_component_table.qmd"
+          - text: "E: Deficiencies"
+            file: "chapters/appendix/deficiencies.qmd"

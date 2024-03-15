@@ -1,4 +1,4 @@
-## DIscussion
+## Discussion
 
 The purpose of this study was to identify deficiencies in a website for disseminating reporting guidance. I interviewed {{< var counts.pilot.participants >}} and used multiple qualitative methods to identify {{< var counts.pilot.deficiencies >}} pertaining to {{< var.pilot.deficient_components >}} intervention components. 
 

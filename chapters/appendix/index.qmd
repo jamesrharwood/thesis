@@ -7,3 +7,5 @@
 {{< include ideas.qmd >}}
 
 {{< include intervention_component_table.qmd >}}
+
+{{< include deficiencies.qmd >}}

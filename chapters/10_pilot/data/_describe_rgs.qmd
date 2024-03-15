@@ -1,4 +1,4 @@
-#### {{< var intervention-components.describe-what-rgs-are.title >}}
+#### Deficient component: {{< var intervention-components.describe-what-rgs-are.title >}}
 
 _Relevant website features: {{< var intervention-components.describe-what-rgs-are.description >}}_
 

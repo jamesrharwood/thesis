@@ -1,4 +1,4 @@
-#### {{< var intervention-components.describe-benefits.title >}}
+#### Deficient component: {{< var intervention-components.describe-benefits.title >}}
 
 _Relevant website features: {{< var intervention-components.describe-benefits.description >}}_
 
