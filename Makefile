@@ -1,10 +1,10 @@
 preview: create_tables
 	@quarto preview --watch-inputs
 
-publish: create_vars render 
+publish: render add_footer
 	@quarto publish gh-pages --no-render
 
-render: add_footer update_wordcounts create_tables create_appendix
+render: create_vars update_wordcounts create_tables create_appendix
 	@quarto render
 
 create_tables:

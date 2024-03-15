@@ -30,11 +30,7 @@ This chapter reports focus groups where I collected ideas on how intervention op
 
 **Chapter {{< var chapters.defining-content >}} - {{< var titles.defining_content >}}**
 
-In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components. 
-
-**Chapter {{< var chapters.redesign >}} - {{< var titles.redesign >}}**
-
-This chapter concerns my third objective; implementing the intervention changes by redesigning a reporting guideline (SRQR) and the EQUATOR Network website's home page.
+In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components. I then describe how I implemented these components by redesigning a reporting guideline (SRQR) and the EQUATOR Network website's home page.
 
 **Chapter {{< var chapters.pilot >}} - {{< var titles.pilot >}}**
 

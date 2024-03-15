@@ -25,7 +25,7 @@ for change in CHANGES:
 
 ## Intervention components count
 DIR = os.getcwd()
-FP = os.path.join(DIR, 'chapters', '9_defining_content', 'planning_table.yaml')
+FP = os.path.join(DIR, 'chapters', '9_defining_content', 'data', 'planning_table.yaml')
 ICs_TOTAL = 0
 ICs_INCLUDED = 0
 ICs_UNIQUE = 0
@@ -151,13 +151,15 @@ for fp in FILEPATHS:
 
 PARTICIPANT_IDS = {key: f"({value})" for key, value in participant_ids.PARTICIPANT_IDS.items()}
 pilot = {'participants': PARTICIPANT_IDS}
+counts['pilot'].update({'participants': len(PARTICIPANT_IDS.keys())}) #type: ignore
 
 APPENDIX = {
     'search': 'A',
     'barriers': 'B',
     'ideas': 'C',
     'advert': 'D',
-    'ict': 'E'
+    'ict': 'E',
+    'deficiencies': 'F',
 }
 
 with open(filename, 'r+') as file_:

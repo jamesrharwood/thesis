@@ -88,7 +88,7 @@ IFSecs:
   promote: promote-reporting-guidelines
   ready-to-use: make-resources-ready-to-use
   reporting-champions: install-reporting-champions
-  rg-introductionsDELETE-ME: describe-each-reporting-guideline-fully
+  rg-introductions: describe-each-reporting-guideline-fully
   support: provide-additional-teaching
   testimonials: provide-testimonials
   updating: make-updating-guidelines-easier
@@ -117,7 +117,7 @@ IFs:
   promote: Promote reporting guidelines
   ready-to-use: Make resources ready-to-use
   reporting-champions: Install reporting champions
-  rg-introductionsDELETE-ME: Describe each reporting guideline fully
+  rg-introductions: Describe each reporting guideline fully
   support: Provide additional teaching
   testimonials: Provide testimonials
   updating: Make updating guidelines easier
@@ -126,6 +126,13 @@ appendices:
   barriers: A
   ideas: C
   ideas_document: B
+appendix:
+  advert: D
+  barriers: B
+  deficiencies: F
+  ict: E
+  ideas: C
+  search: A
 chapters:
   bcw: 6
   defining-content: 9
@@ -171,16 +178,17 @@ counts:
   participants: 16
   pilot:
     deficiencies: 53
+    participants: 11
   publishers: 3
   redesign:
     barriers-targeted: 32
     bcts-used: 18
     intervention-components:
-      included: 58
-      included_unique: 46
+      included: 57
+      included_unique: 45
       not_included_unique: 17
-      total: 81
-      unique: 63
+      total: 80
+      unique: 62
     intervention-functions-used: 6
   stakeholders: 10
   sub_ideas: 136
@@ -199,10 +207,6 @@ intervention-components:
     barriers: Researchers may be asked to remove reporting guideline content
     description: Advice given in FAQ
     title: Provide advice regarding how to respond if asked to remove reporting guideline content by a colleague, editor, or reviewer
-  allow-guideline-developers-to-edit:
-    barriers: reporting guidelines can become outdated
-    description: Developers can make small updates any time
-    title: Make it possible for guideline developers to make small edits without having to publish new articles
   centralised-hosting:
     barriers: Guidance may be difficult to find
     description: A core set of frequently accessed guidelines are now presented on a single website.
@@ -473,11 +477,11 @@ stages:
   planning: Before developing guidance
 titles:
   bcw: Selecting the Behaviour Change Wheel framework
-  defining_content: Defining Intervention Content
+  defining_content: Defining intervention components and developing a prototype
+  discussion: Discussion
   focus_groups: 'Generating ideas to address factors limiting reporting guideline impact: workshops with EQUATOR and focus groups with developers, publishers, and experts'
   introduction: Introduction
   pilot: 'Refining the intervention: qualitative study with authors'
-  redesign: Developing intervention components into a prototype
   reflexivity: Reflections on starting my DPhil
   survey_content: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
   synthesis: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'

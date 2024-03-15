@@ -484,10 +484,6 @@ The website explains the societal and community importance of complete reporting
 
 Although participants commented on the quotes from research consumers, and on the _Justification_ sections within each reporting item, nobody talked about the negative impact of poor reporting on the scientific community at scale.
 
-## allow-guideline-developers-to-edit
-
-This component was not tested and no participants commented on this. 
-
 ## item-what-to-describe-when-not-done
 
 This component was not tested and no participants commented on this. 
