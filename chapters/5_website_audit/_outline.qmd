@@ -1,0 +1,48 @@
+Summary of findings
+
+Suggest poor engagement
+
+Synthesising with previous chapters
+* Might not understand what reporting guidelines are
+* If the website is hard to use, this adds to the costs of using RGs
+* That few return suggest few find the website useful
+* that checklists are used more often than guidance suggests these are the primary document, therefore supporting my synthesis' claim that some researchers may use checklists but never read the full guidance. 
+* that few guidelines are accessed suggests authors aren't finding what they need. 
+
+Checklists vs guidelines
+
+Few guidelines accessed
+
+# Limitations
+
+
+Understanding why
+
+Understanding referral traffic
+* Updating links
+
+GA cookie expiration
+
+
+Comparisons with other websites not possible
+
+# Implications for future research
+
+Number 1 - lots of metrics have room for improvement. But to be improved need to understand why. Why don't users stay? Why don't users return? 
+
+Possible reasons for poor engagement
+
+Improvement work should consider who is using the website. 
+* Foreign traffic - need to cater for E2L authors. 
+* Non returns - primary audience should be novice users, but should also explore why users don't return 
+
+During writing, cannot help but think of what this imprvement work might consist of. 
+* SEO
+* How EQ could help non-native speakers
+
+
+# Conclusions
+
+
+
+

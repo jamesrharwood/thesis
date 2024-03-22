@@ -81,6 +81,10 @@ Two studies asked participants whether they had heard of the EQUATOR Network, no
 
 In the next chapter I describe EQUATOR's website and key characteristics of its web traffic, before discussing how well it is helping authors find reporting guidance and what may be limiting its success.
 
+## Reflections on reporting this chapter
+
+This chapter could have been combined with the one before. They came from the same starting idea, and their findings are intertwined. I separated them because I felt like my first chapter was already getting too long, and I wanted to keep its structure simple, familiar, and in line with ENTREQ. Would I have made this decision if ENTREQ did not exist? Possibly not. Separating the chapters draws a distinction between their objectives and methods, but in drawing this line I am diverging from the true origin story of this chapter. The two were not designed as separate studies, so in presenting them as such am I twisting the truth so it falls in line with a reporting guideline? This might not matter for these exploratory studies, but it made me wonder whether other researchers feel pressure to package a messy research journey into a neat-and-tidy reporting guideline format. 
+
 ::: landscape
 
 ## Tables
