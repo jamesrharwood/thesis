@@ -6,7 +6,7 @@ Before describing my workshop and focus group methods in detail, I will briefly 
 
 ### Workshopping Ideas with EQUATOR
 
-I described the workshops I ran with EQUATOR in chapter {{< chapters.workshops >}}, including the techniques I used to encourage rich discussion and to navigate my position as a participating researcher, contributing ideas myself whilst facilitating others' to share their voices. For this particular step, I asked workshop participants to consider each intervention function in turn and suggest ideas that would employ that function. After the workshop, I then labelled each idea with the influence(s) it would be addressing to create an "ideas document" with two columns: influences were described in the left hand column, and ideas in the right hand column. I invited workshop participants to review and edit this document, thereby co-producing lists of influences and ideas. The file can be seen in Appendix #TODO.
+I described the workshops I ran with EQUATOR in chapter {{< var chapters.workshops >}}, including the techniques I used to encourage rich discussion and to navigate my position as a participating researcher, contributing ideas myself whilst facilitating others' to share their voices. In those workshops, I asked participants to consider each intervention function in turn and suggest ideas employing it. After the workshop, I then labelled each idea with the influence(s) it would be addressing to create an "ideas document" with two columns: influences were described in the left hand column, and ideas in the right hand column. I invited workshop participants to review and edit this document, thereby co-producing lists of influences and ideas. The file can be seen in Appendix #TODO.
 
 ### Focus groups with external stakeholders
 
@@ -40,11 +40,7 @@ An example entry in the Ideas Document that was co-edited by participants. Exist
 
 I conducted focus groups between May-July 2022 online using Zoom. Before each focus group, I asked participants to spend some time thinking about barriers and facilitators. I did this because I wanted participants to get into the frame of mind and come to the focus group "armed" with influences they were ready to discuss. I was also interested to see whether participants would contribute influences that I did not identify in chapters {{< var chapters.synthesis >}}-{{< var chapters.web-audit >}}. 
 
-#ASK CA Is this combatting recall bias? https://catalogofbias.org/biases/recall-bias/
-
 Each focus group lasted 2 hours. Following standard practice, I began by introducing myself and the project in a way that I hoped would help participants relax and to think open-mindedly, not defensively. I explained where the list of influences had come from, and that the influences were in reference to reporting guidelines _in general_, and not necessarily a comment on _their_ guideline. I encouraged participants to think beyond the guideline documents themselves, and to consider all stakeholders and resources involved. I explained the goal was to brainstorm as many ideas as possible, and not worry about whether ideas were good or bad.
-
-#ASK CA I say that I wanted to put participants at ease. Is that addressing apprehension bias and hawthorne effect? https://catalogofbias.org/biases/apprehension-bias/ https://catalogofbias.org/biases/hawthorne-effect/ 
 
 It was not possible for a single focus group to cover all influences within a reasonable amount of time, so I allowed participants to select which items they wanted to discuss. I did this by giving them a few minutes to read through a list of influences, raise any additional influences they felt were missing, and mark those that they wanted to talk about. I occasionally selected influences to discuss myself, either because they had been neglected by previous groups or because I expected participants to have insight into it.
 
@@ -66,13 +62,13 @@ I used qualitative description for my analysis (@bradshawEmployingQualitativeDes
 I grouped ideas inductively in ways that felt cohesive and made the results easy for my intended audience (the reporting guideline community) to understand and act upon. For example, I aggregated "ask authors to cite reporting guidelines" and "display citation metrics on reporting guideline resources" into a group about "Citations", even though they target different barriers (discoverability and perceived trustworthiness) and employ different intervention functions (education and persuasion). 
 <!-- # TODO: ensure wording matches results. -->
 
-I discussed and refined my coding, aggregating and summarising with JdB. I sent the aggregated, summarised ideas to focus group participants and EQUATOR members, inviting them to check that it reflected their ideas faithfully. I also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
+I discussed and refined my coding, aggregating and summarising with one of my supervisors, Jennifer de Beyer. I sent the aggregated, summarised ideas to focus group participants and EQUATOR members, inviting them to check it reflected their ideas faithfully. I also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
 
 ### Reflexivity & Trust
 
 In chapter {{< var chapters.workshops >}} I described my active role within my workshops with EQUATOR and I argued that my subjectivity was an asset within the workshops. In contrast, I tried to remain objective when running focus groups with external stakeholders, in order to capture the perspectives of participants without influencing them. My research paradigm for the focus groups was post-positivist, in that I considered that ideas were "out there", but that differences in context, experience, and opinion would affect what I (and participants) observed, understood, and concluded.
 
-I wanted to ensure my results could be trusted as an account of participants' views. Lincoln and Guba @lincolnNaturalisticInquiry1985 argue that for a study to be trustworthy, the researcher must show that the findings are credible ('true'), transferable (applicable to other contexts), dependable (consistent and repeatable), and confirmable (shaped by participants, not by the researcher's bias or motivation). Lincon and Guba propose a number of techniques to achieve these criteria, and I describe the techniques I used in @tbl-trust.
+I wanted to ensure my results could be trusted as an account of participants' views. Lincoln and Guba @lincolnNaturalisticInquiry1985 argue that for a study to be trustworthy, the researcher must show that the findings are credible ('true'), transferable (applicable to other contexts), dependable (consistent and repeatable), and confirmable (shaped by participants, not by the researcher's bias or motivation). Lincoln and Guba propose a number of techniques to achieve these criteria, and I describe the techniques I used in @tbl-trust.
 
 #ASK CA: I haven't named an approach. I've tried to be clear with what I did, but I've struggled to find the correct label for it. We talked previously about Active Research but I don't think this is correct for this chapter. 
 

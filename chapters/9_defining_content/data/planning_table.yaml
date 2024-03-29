@@ -9,7 +9,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-home, @fig-rg-intro
         future: Advise stakeholders on how to introduce reporting guidelines.^*^
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: 5 second test, interview
         id: describe-what-rgs-are
@@ -19,7 +19,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Clear instruction and differentiation of resources
         now_example: See @fig-home, @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: 5 second test, think aloud, interview
         id: clarify-tasks
@@ -31,7 +31,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Consistent instruction to cite reporting guidelines
         now_example:
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: think aloud, interview
         id: instruct-to-cite
@@ -99,7 +99,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         future: Allow extensions to be embedded within parent guidelines
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: false
         evaluation_methods: false
         id: embed-related-rgs
@@ -171,7 +171,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-rg-intro
         future: Checklists, templates and other tools will include scope descriptions.
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: think aloud, interview
         id: describe-scope
@@ -183,7 +183,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Reporting guidelines clearly and consistently point authors to more appropriate guidance when appropriate, using if-then rules. These links can be updated any time. 
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: think aloud
         id: if-then-rules
@@ -193,7 +193,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Reporting guidelines warn authors when no better guidance exists for a use case, and how the current guidance can be adapted instead
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: think aloud
         id: no-better-rg
@@ -211,7 +211,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-rg-intro
         future: List translations on checklists and templates
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: think aloud
         id: translations
@@ -246,7 +246,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:  see @fig-item
         future: Collect testimonials
         IF: Persuasion
-        BCT: Demonstration of the behavior
+        BCT: Demonstration of the behaviour
         done: true
         evaluation_methods: think aloud, interview
         id: testimonials-nervous
@@ -264,7 +264,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
       Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape:
         before: EQUATOR's website looked cluttered and visually unappealing. Guidance published in articles can look unappealing and dense. When justifying why authors should use reporting guidelines, guideline developers frequently referenced research waste, (lack of) transparency, bias, and poor design. 
         before_example: See @fig-home-b4 #TODO judgemental quote 
-        now: A clean, simple interface for the home page and guidance pages. Text makes less use of to judgemental phrases and fewer references to the negative consequences of poor reporting.
+        now: A clean, simple interface for the home page and guidance pages. Text makes less use of judgemental phrases and fewer references to the negative consequences of poor reporting.
         now_example: See @fig-home #TODO reassuring quote
         future: Further work on tone of voice
         IF: Coercion (Removal of)
@@ -424,7 +424,7 @@ Apply reporting guidance to writing:
         now_example: #TODO quote
         future: Continue to make language easier and easier to understand.
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: plus minus, writing evaluation
         id: plain-language
@@ -435,7 +435,7 @@ Apply reporting guidance to writing:
         now_example: See @fig-item
         future: Add glossaries to all other guidelines.
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: interview, plus minus
         id: define-terms
@@ -446,7 +446,7 @@ Apply reporting guidance to writing:
         now_example: #TODO example?
         future: Repeat for other reporting guidelines.
         IF: Enablement
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: false
         evaluation_methods: false
         id: consistent-terms
@@ -493,7 +493,7 @@ Apply reporting guidance to writing:
       #   now_example:
       #   hypothetical: Add information for all reporting guidelines
       #   IF: Education
-      #   BCT: Instruction on how to perform the behavior
+      #   BCT: Instruction on how to perform the behaviour
       Explain importance of complete reporting to the scientific community:
         before: EQUATOR and most reporting guidelines do this already
         before_example:
@@ -512,7 +512,7 @@ Apply reporting guidance to writing:
         now: Links included when relevant.
         now_example: See @fig-item
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: think aloud, plus minus
         id: item-link-to-how-to-do
@@ -524,7 +524,7 @@ Apply reporting guidance to writing:
         before_example: See @fig-item-b4
         now_example: See @fig-item
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: writing evaluation, plus minus, interview
         id: item-what-to-describe
@@ -535,7 +535,7 @@ Apply reporting guidance to writing:
         now_example: See @fig-item
         future: Add more examples
         IF: Modelling
-        BCT: Demonstration of the behavior
+        BCT: Demonstration of the behaviour
         done: true
         evaluation_methods: plus minus, interview
         id: examples
@@ -558,7 +558,7 @@ Apply reporting guidance to writing:
         before_example: See @fig-item-b4
         now_example: See @fig-item
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true #TODO really?
         evaluation_methods: false
         id: item-what-to-describe-when-not-done
@@ -569,7 +569,7 @@ Apply reporting guidance to writing:
         now_example: 
         future: Add more examples
         IF: Modelling
-        BCT: Demonstration of the behavior
+        BCT: Demonstration of the behaviour
         done: false
         evaluation_methods: false
         id: examples-imperfect
@@ -602,14 +602,14 @@ Apply reporting guidance to writing:
       #   before_example:
       #   now_example:
       #   IF: Enablement
-      #   BCT: Instruction on how to perform the behavior
+      #   BCT: Instruction on how to perform the behaviour
       Tell authors how long the guidance will take to read:
         before: Estimated reading time not given
         now: Estimated reading time given
         before_example:
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: think aloud
         id: time-to-read
@@ -620,7 +620,7 @@ Apply reporting guidance to writing:
         before_example:
         now_example: No changes made
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: false
         evaluation_methods: false
         id: time-to-apply
@@ -632,7 +632,7 @@ Apply reporting guidance to writing:
         before_example:
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: interview
         id: describe-when-to-use
@@ -698,7 +698,7 @@ Apply reporting guidance to writing:
         before_example:
         now_example: See @fig-rg-intro
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: interview
         id: location-alternatives
@@ -709,7 +709,7 @@ Apply reporting guidance to writing:
         now_example: 
         future: Wordy items could include examples of concise reporting
         IF: Modelling
-        BCT: Demonstration of the behavior
+        BCT: Demonstration of the behaviour
         done: false
         evaluation_methods: 
         id: examples-concise-reporting
@@ -822,7 +822,7 @@ Apply reporting guidance to writing:
         now_example: see @fig-rg-intro
         future:
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: interview
         id: explain-when-structure-not-prescribed
@@ -905,7 +905,7 @@ Apply reporting guidance to writing:
         before_example: See @fig-item-b4
         now_example: See @fig-item
         IF: Education
-        BCT: Instruction on how to perform the behavior
+        BCT: Instruction on how to perform the behaviour
         done: true
         evaluation_methods: interview
         id: encourage-explanation

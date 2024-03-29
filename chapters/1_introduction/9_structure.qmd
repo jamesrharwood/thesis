@@ -14,7 +14,7 @@ This chapter builds on the previous one by identifying additional possible influ
 
 **Chapter {{< var chapters.web-audit >}} - {{< var titles.website_audit >}}**
 
-This chapter describes a service evaluation of the EQUATOR Network website which, although an important piece of the reporting guideline infrastructure, was rarely explored by studies reviewed in the previous two chapters. From this evaluation, I then infer possible barriers that authors may encounter when trying to find and access reporting guidelines from EQUATOR's website.
+This chapter describes the characteristics and behaviour of visitors to the EQUATOR Network website. This website, although an important piece of the reporting guideline infrastructure, was rarely explored by studies reviewed in the previous two chapters. This evaluation adds further context to barriers identified in the previous chapters, and goes on to inform discussions and decisions in later chapters. 
 
 **Chapter {{< var chapters.bcw >}} - {{< var titles.bcw >}}**
 
@@ -22,7 +22,7 @@ The next 4 chapters pertain to my second objective - identifying intervention ch
 
 **Chapter {{< var chapters.workshops >}} - {{< var titles.workshops >}}**
 
-This chapter describes how I lead workshops with UK EQUATOR center staff to identify intervention options using Behaviour Change Wheel framework.
+This chapter describes how I lead workshops with reporting guideline experts from the UK EQUATOR center to identify intervention options using Behaviour Change Wheel framework.
 
 **Chapter {{< var chapters.focus-groups >}} - {{< var titles.focus_groups >}}**
 

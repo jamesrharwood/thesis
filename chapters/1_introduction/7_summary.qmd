@@ -1,6 +1,6 @@
 ## Summary 
 
-In summary, I've explained that a lot of medical research is poorly reported, and that this makes it difficult for other researchers to understand, appraise, synthesize, or replicate studies. This, in turn, makes research less useful to patients. 
+In summary, I've explained that a lot of medical research is poorly reported, and that this makes it difficult for other researchers to understand, appraise, synthesize, or replicate studies. This, in turn, makes research less useful to patients and potentially harmful if it distorts the evidence base.
 
 I've introduced reporting guidelines, created by the research community with the aim to improve reporting quality. I've described the system of tools, websites, people, and policy that has organically grown around reporting guidelines, and I have argued that this system forms a complex behaviour change intervention with the goal of altering what authors write. 
 

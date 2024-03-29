@@ -90,11 +90,11 @@ Stakeholders suggested that resources should be in ready-to-use formats. For ins
 
 ##### {{< var IFs.easy-understand >}}
 
-"Make guidance easier to understand" was written as a solution to help authors who misinterpret, or can't understand, guidance. Stakeholders suggested developers could "make guidance as 'plain language' as possible" os "create plain language versions of existing guidance", whilst being "mindful of language that may appear patronizing".
+"Make guidance easier to understand" was written as a solution to help authors who misinterpret, or can't understand, guidance. Stakeholders suggested developers could "make guidance as 'plain language' as possible" or "create plain language versions of existing guidance", whilst being "mindful of language that may appear patronizing".
 
 Stakeholders suggested defining "key words or phrases in a glossary or tooltips", using consistent terms across related resources, translating guidelines and examples, and ensuring these translations are easy to find by making them "searchable", "linked properly" to each other, and "more evident on [the] EQUATOR site".
 
-Stakeholders recognised a need to collect and respond to feedback from "international researchers" representative of the user base across disciplines and institutions, and that this could be sought when developing guidance to "test" it, but also on an ongoing basis to "continually revisit the items in the guidelines that may be confusing or difficult to implement". As an example, one guideline developer contributed that collecting feedback had lead them to remove "the word 'context' because users struggled to understand it".
+Stakeholders recognised a need to collect and respond to feedback from "international researchers" representative of the user base across disciplines and institutions, and that this could be sought when developing guidance to "test" it, but also on an ongoing basis to "continually revisit the items in the guidelines that may be confusing or difficult to implement". As an example, one guideline developer contributed that collecting feedback had led them to remove "the word 'context' because users struggled to understand it".
 
 ##### {{< var IFs.persuade >}}
 
