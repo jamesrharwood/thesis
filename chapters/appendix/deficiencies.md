@@ -172,7 +172,7 @@ However, some participants still felt the guidance appeared very long, and this 
 
 > "So I kind of know how long this page is based on seeing [the scroll bar] move. I don't want to read the whole thing [...] I don't want to spend 17 min on that" {{< var pilot.participants.PPT-RW >}}
 
-In the first iteration, the page was even longer because of content in the introduction before the guidance began (e.g. information about the guideline's scope, development, or how to use it).
+In the first iteration, the page was even longer because of content in the introduction before the guidance began (e.g., information about the guideline's scope, development, or how to use it).
 
 > "There's so much going on [at the top of the page, before the guidance]. [...] Yo, this is getting annoying. All I want is the guideline or the document" {{< var pilot.participants.PPT-CW >}}
 
@@ -452,7 +452,7 @@ However, one participant suggested the information could be a little longer: "I 
 
 **Participants questioned whether quotes were credible**
 
-The website included (fake) quotes from authors exalting the personal benefit reporting guidelines have brought to their job (e.g. easier writing, smoother publishing). Some participants found these compelling, but others worried these quotes were biassed, fake, or vague.
+The website included (fake) quotes from authors exalting the personal benefit reporting guidelines have brought to their job (e.g., easier writing, smoother publishing). Some participants found these compelling, but others worried these quotes were biassed, fake, or vague.
 
 > "This is encouraging because it's a feedback from a person working at the journal with responsibility for publishing. The editor." {{< var pilot.participants.PPT-BH >}}
 
@@ -484,7 +484,7 @@ Another participant, who had not noticed the advice, nevertheless said they woul
 
 **Participants did not understand all words**
 
-I had tried to use plain language on the home page and introduction to SRQR, but participants still questioned the meaning of some words (e.g. "synthesis"), including words commonly used by EQUATOR staff (e.g. "transparency"). Even the term "reporting guidelines" confused some participants, especially when used at the start of a sentence, where some participants interpreted the word "reporting" to be a verb, instead of part of a compound noun. 
+I had tried to use plain language on the home page and introduction to SRQR, but participants still questioned the meaning of some words (e.g., "synthesis"), including words commonly used by EQUATOR staff (e.g., "transparency"). Even the term "reporting guidelines" confused some participants, especially when used at the start of a sentence, where some participants interpreted the word "reporting" to be a verb, instead of part of a compound noun. 
 
 ### link all resources to each other
 
@@ -608,7 +608,7 @@ In the introduction to SRQR, where its scope is explained, the instruction menti
 
 **Only one participant commented on instructions of where content can be reported**
 
-Very little of the guideline text deals with _where_ content can be reported (e.g. in the article body, in an appendix, a table, a figure). Only one participant noticed it and said "I like the reminder" {{< var pilot.participants.PPT-CW >}}.
+Very little of the guideline text deals with _where_ content can be reported (e.g., in the article body, in an appendix, a table, a figure). Only one participant noticed it and said "I like the reminder" {{< var pilot.participants.PPT-CW >}}.
 
 ### Reassure when guidelines are _just_ guidelines
 

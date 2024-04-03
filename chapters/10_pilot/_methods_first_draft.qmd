@@ -66,7 +66,7 @@ Wanted to know whether:
 
 * the participants realised the website was about guidance to help you *write-up* (as opposed to design or conduct) research
 * the ppt realised the guidance should be used during writing (as opposed to editing)
-* the ppt realised the guidance should help *them* in some way (as opposed to other people), e.g. quicker, confidence. 
+* the ppt realised the guidance should help *them* in some way (as opposed to other people), e.g., quicker, confidence. 
 
 Testing the written content and design. 
 
@@ -168,7 +168,7 @@ Coloured headings
 What are RGs before Search for RGs button
 Move logos to top
 Add Oxford Logo and/or EQUATOR logo? 
-At top of RG page, explain what the reader can expect to find on the page e.g. "list of item, each describing what you need to write, why it is important, and with examples and training."
+At top of RG page, explain what the reader can expect to find on the page e.g., "list of item, each describing what you need to write, why it is important, and with examples and training."
 The "learn more" buttons in the "what are RGs" panel are confusing. People think it is going to take them to a list of templates, or a checking tool. Replace with a single link that is clearly to a case study?
 Make acronym definition more obvious
 Move "What are RG button to the left"

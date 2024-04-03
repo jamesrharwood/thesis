@@ -29,7 +29,7 @@ Assert acceptability?
     * Can that even be done qualitatively?
     * Perhaps we could set quantitative stopping criteria e.g.
         * At least 8/10 people muse be able to describe what reporting guidelines are after 5 second test
-        * But would that tell us how to fix? Need qualitative follow-up. E.g. "What would be a better description?"
+        * But would that tell us how to fix? Need qualitative follow-up. E.g., "What would be a better description?"
     * Could use [task scenarios](https://www.nngroup.com/articles/task-scenarios-usability-testing/)
 
 Demonstrate hypothesis potential?
@@ -37,7 +37,7 @@ Demonstrate hypothesis potential?
 On reflection I'm deciding against this. Doing a quantitative comparison would require a much higher sample size. We could embed a qualitative assessment as part of it. But I suspect this could be better to do _next_, perhaps as a kinda "phase 1" randomised study, in preparation for a "phase 2" randomised study where we actually deploy a new website version and look at impact on reporting in a real journal.
 
     * Is there sufficient grounds to believe that our modified intervention will be better than existing?
-    * E.g. Compare 5 second test performance between old and new site
+    * E.g., Compare 5 second test performance between old and new site
     * Could use [Microsoft Desirability Toolkit](https://www.nngroup.com/articles/desirability-reaction-words/), here is a [case study](https://dl.acm.org/doi/epdf/10.1145/1753846.1754217)
     * Could record videos if we face objections from RG developers
     * could embed qualitative info into a randomised evaluation of:

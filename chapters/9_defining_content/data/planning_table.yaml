@@ -139,7 +139,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         evaluation_methods: false
         id: seo
       Permanent document object identifiers (DOIs):
-        before: Although guideline publications have DOIs, tools (commonly hosted on guideline developer's websites) do not. EQUATOR's website does not use document object identifiers. If resources move (e.g. a website is reorganised or depreciated) then links can "die".
+        before: Although guideline publications have DOIs, tools (commonly hosted on guideline developer's websites) do not. EQUATOR's website does not use document object identifiers. If resources move (e.g., a website is reorganised or depreciated) then links can "die".
         before_example:
         now: No change
         now_example:
@@ -321,7 +321,7 @@ Apply reporting guidance to writing:
   what-resources-exist:
     ingredients:
       link all resources to each other:
-        before: Reporting guideline development articles, example and elaboration articles, and checklist files may not link to each other.
+        before: Reporting guideline development articles, explanation and elaboration articles, and checklist files may not link to each other.
         before_example: 
         now: Guidance links to all tools and development article
         now_example: See @fig-rg-intro
@@ -412,7 +412,7 @@ Apply reporting guidance to writing:
       #   before_example:
       #   now: No changes made
       #   now_example:
-      #   hypothetical: EQUATOR could create resources (e.g. lesson plans / project plans) for educators/trainers, so that their students can experience the consequences of incomplete reporting when attempting a systematic review or replication study.
+      #   hypothetical: EQUATOR could create resources (e.g., lesson plans / project plans) for educators/trainers, so that their students can experience the consequences of incomplete reporting when attempting a systematic review or replication study.
       #   IF: Training
       #   BCT: Behavioral practice/rehearsal
   understanding:

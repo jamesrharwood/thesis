@@ -11,7 +11,7 @@ Do I need to code line by line, or can I just code problems? How long will codin
 
 * Discipline
 * Experience level (years)
-* Sector of work (e.g. academia, industry, clinician)
+* Sector of work (e.g., academia, industry, clinician)
 * English proficiency (self reported?)
 * Location
 
@@ -72,4 +72,4 @@ So if each participant took 90 min then that would cost:
 
 An alternative could be TRINT or Zoom - AI transcript software. Check University rule.
 
-Analysis: Framework analysis by Ritchie et al 1994 e.g. https://delvetool.com/blog/frameworkanalysis
+Analysis: Framework analysis by Ritchie et al 1994 e.g., https://delvetool.com/blog/frameworkanalysis

@@ -27,7 +27,7 @@ Troubleshooting:
 Choice supporting:
 
 * aims to identify the pros and cons of alternative forms of presentation
-* E.g. choices between styles (narrative vs imperative, text vs tables)
+* E.g., choices between styles (narrative vs imperative, text vs tables)
 * Can be quantitative or qualitative
 
 Troubleshooting and choice can, if done well, will ensure the document is better than the original or alternative, but not that it is actually good enough. Deficiencies may be "wired in". So they don't give a "product guarantee" but rather a "process guarantee".
@@ -44,13 +44,13 @@ At second level - selecting content within the document
 * Can users find the information they are looking for?
 * User protocols (participants are given tasks and asked to read and think aloud as they search the document). Limited by number of search tasks can be tested
 * performance test - a way of including more search tasks in a pretest. It is verification-only. Measures the degree to which the task is performed correctly. Can only be used for instructional documents.
-* reading behaviour registration - actual reading process is observed and registered by means of technical devices (e.g. eye-movement procedures).
+* reading behaviour registration - actual reading process is observed and registered by means of technical devices (e.g., eye-movement procedures).
 
 ## Comprehension
 
 * Cloze test - verification method
 * Comprehension test - also veritifcation
-* Any of the non-specific troubleshooting methods (e.g. plus minus) with the caveat that it won't catch _mis_-comprehension errors and that participants may search hard for things to satisfy the researchers.
+* Any of the non-specific troubleshooting methods (e.g., plus minus) with the caveat that it won't catch _mis_-comprehension errors and that participants may search hard for things to satisfy the researchers.
 
 ## Application
 

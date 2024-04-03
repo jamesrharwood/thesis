@@ -4,7 +4,7 @@ First described by Ericsson and Simon in 1984 (#REF). Developed within cognitive
 
 Verablizations "as indicators of what information was heeded and in what order, a sort of time stamp of the contents of short-term memory (STM)."
 
-Ericsson and Simon talk about 3 levels of data - Level 1 requires no processing (e.g. numbers while working out a sum), level 2 requires translations into words (e.g. describing an image), level 3 requires extra cognition (e.g. filtering info) or info which is influenced by long term recall or external factors. E & S argue against using level 3, but I was interested in it. Ericsson and Simon described a model that was quite rigid. For example, prompts were "keep talking" after a predetermined time, and users were to be given a protocol. 
+Ericsson and Simon talk about 3 levels of data - Level 1 requires no processing (e.g., numbers while working out a sum), level 2 requires translations into words (e.g., describing an image), level 3 requires extra cognition (e.g., filtering info) or info which is influenced by long term recall or external factors. E & S argue against using level 3, but I was interested in it. Ericsson and Simon described a model that was quite rigid. For example, prompts were "keep talking" after a predetermined time, and users were to be given a protocol. 
 
 Originally designed for cognitive psychology but became adopted into other fields, including usability. Whereas the primary goal in cog psy was to understand cognitive processes, the aim for usability testing is different: "support the development of usable systems by identifying system deficiencies; building robust models of human cognition is not a central concern".
 

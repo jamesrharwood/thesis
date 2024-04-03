@@ -33,7 +33,7 @@ I explain how I created these figures in chapter {{< var chapters.redesign >}}. 
 1) The actual guidance is hard to find. Area A includes 3 links. The first two send users to an article describing how SRQR was developed. The actual guidance appears in a supplement of that article, which is the third link in area A. The label "relevant URLs" is vague. 
 2) Little instruction regarding what the RG is or can be used for other than "Qualitative research" 
 3) Links to related guidelines that are hard to find or, for SRQR, absent 
-4) No metrics around how many authors use this RG (e.g. citation counts) 
+4) No metrics around how many authors use this RG (e.g., citation counts) 
 5) The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance. 
 ](figures/db_page_b4.png){#fig-db-b4 height=200mm}
 
@@ -63,7 +63,7 @@ I explain how I created these figures in chapter {{< var chapters.redesign >}}. 
 <!-- ## FIG-CHECKLIST-B4 -->
 ![The SRQR checklist. Limitations of RG checklists may include:  
 1) Checklists may not define what RGs are, what they can be used for, or their benefits. 
-2) Checklists may not be in a usable format (e.g. a PDF that cannot be filled in, or a table that cannot be copied) 
+2) Checklists may not be in a usable format (e.g., a PDF that cannot be filled in, or a table that cannot be copied) 
 3) Checklists may not include instruction of how to complete them. 
 4) Checklists may not link to the underlying guidance, or other related resources. 
 5) Content may lack nuance of full guidance and may appear dictatorial and administrative

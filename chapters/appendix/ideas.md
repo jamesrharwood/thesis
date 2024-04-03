@@ -286,10 +286,10 @@ Create tools for different tasks:
 
 Link resources:
 
-* Ensure all resources link to each other. For example, checklists should link to example and elaboration documents and vice versa.
+* Ensure all resources link to each other. For example, checklists should link to explanation and elaboration documents and vice versa.
 * Related reporting guidelines should link to each other.
 * Reporting guidelines and resources should link to translations
-* Links should be permanent (e.g. DOIs) where possible and old links should be maintained or redirected. Broken links should be replaced.
+* Links should be permanent (e.g., DOIs) where possible and old links should be maintained or redirected. Broken links should be replaced.
 
 Make searching easy:
 
@@ -303,7 +303,7 @@ Names reporting guidelines to make them easy to discover and find:
 
 <!-- #TODO check data. Is the point about acronyms being meaningless my addition? -->
 * Reporting guideline names could be descriptive, as acronyms may be meaningless to novice users.
-* Related reporting guidelines should use consistent names to show relationships (e.g. PRISMA and PRISMA-P appear more related than CONSORT and SPRIT).
+* Related reporting guidelines should use consistent names to show relationships (e.g., PRISMA and PRISMA-P appear more related than CONSORT and SPRIT).
 
 ######## Who could do this: Guideline developers, EQUATOR Network
 
@@ -356,7 +356,7 @@ Organise information so it is easy to navigate and not overwhelming.
     * what personal benefits to expect
     * the importance to others.
 
-* Descriptions could be succinct (e.g. on journal instruction pages) or long (e.g. in publications) ^JH^
+* Descriptions could be succinct (e.g., on journal instruction pages) or long (e.g., in publications) ^JH^
 * A generalised description can go where authors first encounter reporting guidelines e.g., journal author guidelines, EQUATOR's home page.
 * A reporting guideline-specific description could go at the top of guidance documents, checklists, and templates.
   * Consider specifying whether the reporting guideline is also a design guideline.

@@ -157,7 +157,7 @@ I present an overview in box (#TODO). I provide detailed descriptions of methods
 
     -   Not a good method to explore understanding guidance because
 
-        -   articulating thoughts can break up the reading experience. E.g. we stopped and started on the home page.
+        -   articulating thoughts can break up the reading experience. E.g., we stopped and started on the home page.
 
         -   understanding or opinions on the text might change as one tries to apply it to one's own writing. Participant's needed time to be able to read, understand, apply, and reflect. Therefore, needed an asynchronous method that could be done in the participant's own time, outside of the session.
 
@@ -193,7 +193,7 @@ Prior knowledge/attitudes towards reporting guidelines.
 
 ##### End of study
 
-Also an opportunity to ask about guidance now that they are more familiar. E.g. do they think the website accurately depicted the resource?
+Also an opportunity to ask about guidance now that they are more familiar. E.g., do they think the website accurately depicted the resource?
 
 ##### Overview
 

@@ -35,7 +35,7 @@ Hence I've created a platform that will be easy to maintain, extend, and scale.
 This reporting guideline platform will have big impact on guideline development groups.
 - most have small funding that barely covers delphi process, let alone user testing or dissemination. 
 - Some guideline budgets for context. In focus groups, funding was always listed as a pain point for developers.
-- Even those with budgets may lack technical skills to create their own websites. E.g. CONSORT and PRISMA websites went down during my thesis and stayed down.
+- Even those with budgets may lack technical skills to create their own websites. E.g., CONSORT and PRISMA websites went down during my thesis and stayed down.
 Thus transformative to all current and future guideline development groups.
 
 Home page is comparatively humble but equally as important.
@@ -67,12 +67,12 @@ Where EQUATOR has previously had to shoehorn meta-research into grants focussing
 
 Example of how guideline content could be evaluated. Esp in recruiting diversity, asking ppts to write in their own time, and use of plus minus method. Could use other methods suggested by de Jong and Schellens.
 
-Approach could inspire grass roots movements adjacent to EQUATOR. E.g. pre-registration, data citation. 
+Approach could inspire grass roots movements adjacent to EQUATOR. E.g., pre-registration, data citation. 
 - Not exact copy, although some findings might be pertinent
-    - e.g. tone of voice
+    - e.g., tone of voice
 - Similarly, not an exact copy of my methods either. 
 - Rather, the principles might generalise:
-    - e.g. systematic methods, stakeholder engagement, mixed methods approach with rich qualitative data from diverse groups.
+    - e.g., systematic methods, stakeholder engagement, mixed methods approach with rich qualitative data from diverse groups.
     - or familiarity with behaviour change frameworks. For example (UKCORI account - see file)
 
 ## Strengths and Limitations
@@ -125,13 +125,13 @@ There are some limitations that permeate through the whole thesis. These are...
 #### Chosen framework 
 
 I used BCW because it is evidence based, accessible to non-behaviour change experts and so easy to include other EQUATOR staff. But perhaps I went too granular. Perhaps I could have benefited from UX framework. Other researchers should not feel pressure to continue using BCW: there are other approaches. 
-- I could have used. E.g. TDF etc. But they differ in evidence base, accessibility, reputation/adoption within medical sciences. 
+- I could have used. E.g., TDF etc. But they differ in evidence base, accessibility, reputation/adoption within medical sciences. 
 - In chapter BCW I described why I picked BCW over and above TDF or PBA but I did not address others. 
 - I could have written a comparison of all methods but comparison was not my aim. Neither was perfection. I was interested in demonstrating a new approach, so the right path for me was the path of least resistance.
 - For example, for future website development, additional UX heuristics or frameworks would be useful. 
 
 But it was not perfect. I went more granular than other studies using BCW. 
-- E.g. Alcohol intervention had modules - essentially pages. Whereas some of my components were tiny. 
+- E.g., Alcohol intervention had modules - essentially pages. Whereas some of my components were tiny. 
 - Find 3 other examples of "big intervention studies"
 - These interventions set components at the "resource level" - the resource (an app) was separated into 6 components. 
 
@@ -141,10 +141,10 @@ But in contrast, the ones I could feasibly enact were the smaller ones. In contr
 - I do still have segregation, for example reporting items are structured, and the home page has sections for different components.
 - But lots of subtly too
 - Subtle in that components are small, or distributed across a single page. 
-    - E.g. tone of voice, design are components (whereas Drink Less makes no mention of these). 
+    - E.g., tone of voice, design are components (whereas Drink Less makes no mention of these). 
     - Negative space
     - Normative feedback
-- And the structure/segregation that I do have may diminish. E.g. one participant recommended the two sections of home page could be combined.
+- And the structure/segregation that I do have may diminish. e.g., one participant recommended the two sections of home page could be combined.
 
 - So some might feel disappointed that my final output looks "small". 
 - To these naysayers I would argue:
@@ -187,7 +187,7 @@ I decided not to make an logic model:
  - @millsAdvancingComplexityScience2019 argues logic models are limited when it comes to capturing complexity and variation. Instead, they argue logic models can usefully depict _complicated_ interventions with lots of components, but it is difficult to make one where purposeful flexibility allows (and encourages) components/roles/relationships to differ across contexts/implementations.
  - Type 4 models address this by being less detailed than type 3. They become more abstract, turning more into guiding principles. 
  - In abstraction, type 4 models replaces concrete lists of inputs, outputs, actions for abstract principles. 
- - E.g. PARIHS #REF Hack et al. which explains success/failure of a project in terms of evidence, context, and facilitation.
+ - e.g., PARIHS #REF Hack et al. which explains success/failure of a project in terms of evidence, context, and facilitation.
  I could still do this when I come to publish, as it might be a useful, digestible way to present guiding principles.
 
 #### Focussing on author behaviour 
@@ -198,7 +198,7 @@ If I had created a logic model and managed to capture context and variation, it 
 - Publishing and funding managers could influence it at a policy level.
 - Colleagues, educators, could also. 
 - These groups will have their own influencing factors. 
-- E.g. peer reviewers need guidance on what counts as completely reported. Editors in my focus groups said how checklists aren't useful to them. 
+- e.g., peer reviewers need guidance on what counts as completely reported. Editors in my focus groups said how checklists aren't useful to them. 
 - So future work could explore and address factors influencing behaviours of stakeholders adjacent to authors. 
 And programme theory / logic models should include these people as a more accurate representation of reality. 
 
@@ -234,14 +234,14 @@ Made no attempt to quantify frequency or perceived importance of factors, ideas,
 - Such quantification would have taken a long time, not lead to change directly, ultimately less impactful thesis.
 
 But other researchers will have different interests and objectives for which quantification may be useful. For example:
-- Some ideas are more costly. E.g. developing advice for funding applications, or developing software for automated checking. Before starting on something expensive, large scale, quantitative surveys could provide justification for expense by demonstrating theoretical interest or expected user volumes. E.g. before creating protocol guidance for STROBE, it might be useful to get an estimate of how many epidemiologists write protocols. Or how many funders would consider endorsing reporting guidelines for funding applications. 
+- Some ideas are more costly. e.g., developing advice for funding applications, or developing software for automated checking. Before starting on something expensive, large scale, quantitative surveys could provide justification for expense by demonstrating theoretical interest or expected user volumes. e.g., before creating protocol guidance for STROBE, it might be useful to get an estimate of how many epidemiologists write protocols. Or how many funders would consider endorsing reporting guidelines for funding applications. 
 - Sceptical guideline developers may not believe the barriers without quantifiable "proof" of their existence and prevalence. So even if quantifying barriers may not be necessary to justify intervention changes, it might be necessary for changing the hearts and minds of guideline developers. 
 
 
 #### Comparison 
 
 This proof could also come from comparing my redesign with the existing version. This would address another limitation of my thesis: I made no attempt to compare.
-- But this would be useful. Could be preference study (proportion prefering each version), a before-and-after process evaluation (e.g. proportion of researchers accessing guidance, engagement times, returning visitors) (more on this later...), or an ambitious interrupted time series analysis comparing reporting quality over time. 
+- But this would be useful. Could be preference study (proportion prefering each version), a before-and-after process evaluation (e.g., proportion of researchers accessing guidance, engagement times, returning visitors) (more on this later...), or an ambitious interrupted time series analysis comparing reporting quality over time. 
 - But qualitative data should be collected too, to understand the results and make further improvements. 
 
 These two limitations; no quantification nor comparison, were consequences of my relatively narrow objectives, limited to identifying and understanding, not counting, or evaluating efficacy. Future research _should_ seek to quantify, compare, and evaluate the efficacy of changes to the reporting guideline dissemination.

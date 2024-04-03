@@ -10,7 +10,7 @@ Learn as collecting data. If we find more reasons for difficulty then should sam
 
 #### Study Aim: Broad vs Narrow?
 
-We could make ours more narrow by narrowing the question to e.g. early career researchers or a particular guideline.
+We could make ours more narrow by narrowing the question to e.g., early career researchers or a particular guideline.
 
 Given that experience was one dimension that was flagged, is that sensible?
 

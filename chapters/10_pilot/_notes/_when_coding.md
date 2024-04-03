@@ -33,7 +33,7 @@ Reassurance about structure / customisability could be dotted throughout the gui
 Example solutions to make guidance easier to apply:
 
 * simplest for title and abstract, because those are easy to write
-* harder for e.g. intro because a lot of variation for structure
+* harder for e.g., intro because a lot of variation for structure
 * Questions like "When did you recruit?" could be useful, especially at the beginning. 
 * Examples would also be useful
 * Links to general writing training could be useful

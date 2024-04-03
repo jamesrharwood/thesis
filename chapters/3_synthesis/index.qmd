@@ -240,7 +240,7 @@ Researchers noted that scope could be made broader by removing items or, more co
 
 > "omit "(benefits or harms)" from the checklist item to be more inclusive of reviews that do not examine effects of interventions"[@pageUpdatingGuidanceReporting2021]
 >
-> "If the new PRISMA will more explicitly embrace topics other than interventions (which I think it should), then some additional examples could be added to the parenthesis (e.g. sensitivity and specificity, disease prevalence, regression coefficient)"[@pageUpdatingGuidanceReporting2021]
+> "If the new PRISMA will more explicitly embrace topics other than interventions (which I think it should), then some additional examples could be added to the parenthesis (e.g., sensitivity and specificity, disease prevalence, regression coefficient)"[@pageUpdatingGuidanceReporting2021]
 
 However, extending guidance with options can make the guidance appear longer and means researchers must work out which parts apply to them.
 

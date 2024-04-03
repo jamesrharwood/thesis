@@ -64,7 +64,7 @@ Researchers may not know when more specific guidance exists. An author's “perf
 
 ### 5: Researchers may not know what resources exist for a reporting guideline{#sec-what-resources-exist}
 
-Resources include the guidance itself, checklists, E&E files, templates, and web tools (e.g. PRISMA flow chart maker). Not all resources exist for each reporting guideline and researchers may be unaware of the ones that do. Many researchers may only use the checklist. Sometimes this is purposeful, but other times it may be because researchers don’t know that full guidance and examples exist.
+Resources include the guidance itself, checklists, E&E files, templates, and web tools (e.g., PRISMA flow chart maker). Not all resources exist for each reporting guideline and researchers may be unaware of the ones that do. Many researchers may only use the checklist. Sometimes this is purposeful, but other times it may be because researchers don’t know that full guidance and examples exist.
 
 ######## Ideas to address this barrier:
 
@@ -90,7 +90,7 @@ Researchers may not know when they should use reporting guidelines in their rese
 
 ### 7: Researchers may misunderstand{#sec-understanding}
 
-Researchers may not understand concepts, terms or words within the guidance, or they may understand them differently to how the developers intended. Some items (or entire guidelines) might be new concepts. E.g. SQUIRE guidelines written at a time where Quality Improvement was still a new concept to many people, and some items (e.g. Context, Study of the intervention) were less familiar than others. Researchers may have nowhere to turn for help should they not understand something.
+Researchers may not understand concepts, terms or words within the guidance, or they may understand them differently to how the developers intended. Some items (or entire guidelines) might be new concepts. e.g., SQUIRE guidelines written at a time where Quality Improvement was still a new concept to many people, and some items (e.g., Context, Study of the intervention) were less familiar than others. Researchers may have nowhere to turn for help should they not understand something.
 
 ######## Ideas to address this barrier:
 

@@ -21,7 +21,7 @@ Opportunity:
 
 Funding. Need long term funding to evaluate and revise guidance. This new website could help support applications because we solicit feedback. Ready-made evidence gatherer to identify areas in need of improvement. 
 
-Long term funding to support service provision. E.g. New CONSORT website as an example, they need to pay all costs up front.
+Long term funding to support service provision. E.g., New CONSORT website as an example, they need to pay all costs up front.
 
 Equally, could support a shift towards community-driven resources.
 
