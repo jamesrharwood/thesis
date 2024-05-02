@@ -10,6 +10,7 @@ citations = 0
 table_words = 0
 citation_words = 0
 references_words = 0
+appendix_words = 0
 div = 0
 divs = 0
 

@@ -3,23 +3,29 @@ echo "" > $OUTPUT_FP
 total=0
 totalWithoutTables=0
 
-FILEPATHS=(
-    "output/chapters/1_introduction"
-    "output/chapters/2_reflexivity"
-    "output/chapters/3_synthesis"
-    "output/chapters/4_survey_content"
-    "output/chapters/5_website_audit"
-    "output/chapters/6_bcw"
-    "output/chapters/7_workshops"
-    "output/chapters/8_focus_groups"
-    "output/chapters/9_defining_content"
-    "output/chapters/10_pilot"
-    "output/chapters/11_discussion"
-)
+if ls output/chapters/1_introduction/*.docx 1> /dev/null 2>&1; then
+    FILEPATHS=(
+        "output/chapters/1_introduction"
+        "output/chapters/2_reflexivity"
+        "output/chapters/3_synthesis"
+        "output/chapters/4_survey_content"
+        "output/chapters/5_website_audit"
+        "output/chapters/6_bcw"
+        "output/chapters/7_workshops"
+        "output/chapters/8_focus_groups"
+        "output/chapters/9_defining_content"
+        "output/chapters/10_pilot"
+        "output/chapters/11_discussion"
+    );
+    NAME='JH*.docx'
+else
+    FILEPATHS=(output/)
+    NAME='Refining*.docx'
+fi
 
 for dir in ${FILEPATHS[@]}
 do
-    file=$( (find $dir -name 'JH*.docx') 2>&1 )
+    file=$( (find $dir -name $NAME) 2>&1 )
     if [ -z "$file" ];
     then
         echo "No docx file for $dir"
