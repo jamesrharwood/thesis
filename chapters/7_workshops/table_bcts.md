@@ -80,4 +80,4 @@
 |                             | Restructuring physical environment                                                                                          |
 +-----------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 
-: Favoured techniques from the Behaviour Change Technique taxonomy v1.0 @michieBehaviorChangeTechnique2013 {#tab-bcts}
+: Favoured techniques from the Behaviour Change Technique taxonomy v1.0 @michieBehaviorChangeTechnique2013 {#tbl-bcts}

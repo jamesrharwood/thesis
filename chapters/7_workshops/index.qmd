@@ -10,7 +10,7 @@ format:
 
 ##  Introduction
 
-Having identified factors that may limit the impact of reporting guidelines (chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}}) and selected the Behaviour Change Wheel as a framework @michieBehaviourChangeWheel2011 (chapter {{< var chapters.bcw >}}), my next step was to use the framework to turn reporting guidelines into a behaviour change intervention. In my introduction I describe how the reporting guideline system grew organically and I justified why I wanted to redesign this system and the guidelines themselves using evidence and behaviour change theory.
+Having identified factors influencing whether authors adhere to reporting guidelines (chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}}) and selected the Behaviour Change Wheel as a framework @michieBehaviourChangeWheel2011 (chapter {{< var chapters.bcw >}}), my next step was to use the framework to turn reporting guidelines into a behaviour change intervention. In my introduction I describe how the reporting guideline system grew organically and I justified why I wanted to redesign this system and the guidelines themselves using evidence and behaviour change theory.
 
 <!-- #ASK: I think I'll have justified my approach already in the introduction. So is this enough here? -->
 
@@ -125,9 +125,9 @@ Hence, given that we didn't want to choose a "broad approach", and given that th
 
 Instead, I did this step on my own. I was well placed to do this because I was familiar with the taxonomy and the Behaviour Change Wheel Guide, I had led all workshops, and I was most familiar with the barriers we were trying to address. I went through each intervention function the group had favoured in step 5 (Enablement, Education, Training, Persuasion, Modelling, and Environmental Restructuring) and considered all relevant behaviour change techniques. 
 
-Although I did not ask EQUATOR members to consider all behaviour change techniques in turn, I did ask them to consider each of our favoured intervention components and to brainstorm solutions to barriers. I then deduced which behaviour change techniques these ideas used and cross checked them against my list of favoured behaviour change techniques, adding any I had missed. The final list is shown in @tab-bcts.
+Although I did not ask EQUATOR members to consider all behaviour change techniques in turn, I did ask them to consider each of our favoured intervention functions and to brainstorm solutions to barriers. I then deduced the behaviour change techniques these ideas used and cross checked them against my list of favoured behaviour change techniques, adding any I had missed. The final list is shown in @tbl-bcts.
 
-{{< include /table_bcts.md >}}
+{{< include /chapters/7_workshops/table_bcts.md >}}
 
 ### 8. Identifying delivery options
 

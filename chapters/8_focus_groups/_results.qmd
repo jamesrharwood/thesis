@@ -32,7 +32,7 @@ When discussing how modules or extensions could be "harmonized" so that they "sp
 
 ##### {{< var IFs.avoid-prescribing-structure >}}
 
-Stakeholders suggested that "[reporting] guidelines should avoid prescribing structure as [it] may clash with journal guidelines".
+Stakeholders suggested that "[reporting] guidelines should avoid prescribing structure as [it] may clash with journal guidelines". A good example of a structure clash is abstract subheadings; most journals have strict requirements about whether abstracts should have subheadings and what those headings should be. Authors can struggle if reporting guidelines suggest an alternative structure.
 
 ##### {{< var IFs.design-agnostic >}}
 

@@ -182,7 +182,7 @@ counts:
   publishers: 3
   redesign:
     barriers-targeted: 32
-    bcts-used: 18
+    bcts-used: 17
     intervention-components:
       included: 57
       included_unique: 45
@@ -377,7 +377,7 @@ intervention-components:
     title: Reassure that all research has limitations to encourage explanation over perfect design
   remove-aversive-design:
     barriers: Researchers may expect the costs to outweigh benefits
-    description: A clean, simple interface for the home page and guidance pages. Text makes less use of to judgemental phrases and fewer references to the negative consequences of poor reporting.
+    description: A clean, simple interface for the home page and guidance pages. Text makes less use of judgemental phrases and fewer references to the negative consequences of poor reporting.
     title: Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape
   remove-patronizing-language:
     barriers: Researchers may feel patronized
@@ -479,13 +479,13 @@ titles:
   bcw: Selecting the Behaviour Change Wheel framework
   defining_content: Defining intervention components and developing a prototype
   discussion: Discussion
-  focus_groups: 'Generating ideas to address factors limiting reporting guideline impact: workshops with EQUATOR and focus groups with developers, publishers, and experts'
+  focus_groups: 'Generating ideas to address factors limiting reporting guideline impact: focus groups with reporting guideline developers, advocates, and publishers'
   introduction: Introduction
   pilot: 'Refining the intervention: qualitative study with authors'
   reflexivity: Reflections on starting my DPhil
   survey_content: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
   synthesis: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'
-  website_audit: A service evaluation of equator-network.org
-  workshops: 'Following the BCW Guide: Workshops with EQUATOR'
+  website_audit: Describing who visits EQUATOR's website for disseminating reporting guidelines, and how visitors use it
+  workshops: 'Following the behaviour change wheel guide: Workshops with reporting guideline experts'
 website-github-repo-url: https://github.com/jamesrharwood/equator-guidelines-website
 website-url: https://jamesrharwood.github.io/equator-guidelines-website/

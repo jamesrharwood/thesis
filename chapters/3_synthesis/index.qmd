@@ -15,6 +15,24 @@ Researcher's behaviour may be influenced by any part of the reporting guideline 
 
 In this chapter, my objective was to identify behavioural influences that may affect whether an author adheres to reporting guidelines. I did this by synthesising qualitative studies exploring authors' experiences of reporting guidelines.
 
+<!--
+https://www.youtube.com/watch?v=BcWMGzhtHCM&ab_channel=TheAustralianPreventionPartnershipCentre
+
+False dualisms critiqued in sociology in 1990s. They say they are sceptical of barrier & facilitator papers especially when focussing on complex context-dependent processes in complex systems. 
+
+Gives an impression of a framework but actually is not one, and so causes tunnel vision and bypasses critical thinking, leading to shallow findings that neglect context and complexity. 
+
+Many barriers in health care are 'wicked' - characterised by emergence, uncertainty, and flux. But B&Es often identify static problems and suggest universally applicable gold standard "best practice" solutions. 
+
+I could have used a framework, theory, or sensitising ideas to structure my enquiry
+
+Maybe 
+
+
+
+
+-->
+
 ## Methods
 
 I performed a thematic synthesis of qualitative research that explored researchers' experiences of reporting guidelines. When writing this chapter, I used the ENTREQ guidelines for reporting qualitative evidence syntheses and the PRISMA-S guidelines for reporting systematic searches [@rethlefsenPRISMASExtensionPRISMA2021; @tongEnhancingTransparencyReporting2012].
