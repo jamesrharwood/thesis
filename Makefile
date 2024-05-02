@@ -4,7 +4,9 @@ preview: create_tables
 publish: render add_footer
 	@quarto publish gh-pages --no-render
 
-render: create_vars update_wordcounts create_tables create_appendix
+render: create_vars create_tables create_appendix actual_render update_wordcounts
+
+actual_render: 
 	@quarto render
 
 create_tables:
