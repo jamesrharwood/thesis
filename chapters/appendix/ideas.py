@@ -4,9 +4,8 @@ import os
 from collections import defaultdict
 from data.create_table import create_recommendations_text
 from data import STAGES, CHANGES_BY_STAGE
-from collections import defaultdict
 
-TEXT = "# Ideas generated from workshops and focus groups {.appendix #app-ideas}\n\n"
+TEXT = ""
 
 changes_by_stage = defaultdict(list)
 for change in CHANGES_BY_STAGE:

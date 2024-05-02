@@ -1,5 +1,3 @@
-# Ideas generated from workshops and focus groups {.appendix #app-ideas}
-
 ## Before developing guidance
 
 

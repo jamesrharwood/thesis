@@ -666,7 +666,7 @@ This component was not tested and no participants commented on this.
 
 ### Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape
 
-######## Relevant website features: A clean, simple interface for the home page and guidance pages. Text makes less use of to judgemental phrases and fewer references to the negative consequences of poor reporting.
+######## Relevant website features: A clean, simple interface for the home page and guidance pages. Text makes less use of judgemental phrases and fewer references to the negative consequences of poor reporting.
 
 ######## Barriers addressed: Researchers may expect the costs to outweigh benefits
 

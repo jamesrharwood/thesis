@@ -1,5 +1,3 @@
-# Barriers {.appendix #app-barriers}
-
 ### 1: Researchers may not know what reporting guidelines are{#sec-what-are-rgs}
 
 Researchers may have never heard the term "reporting guideline" or may misunderstand it. Researchers may more commonly use terms like “writing” or “writing up” and the word "reporting" may get interpreted as a formal task (such as reporting progress to a funder). The word "guideline" may be interpreted by some as rules (as per journal "author guidelines") and others as recommendations. Some researchers may perceive reporting guidelines as a set of design requirements, especially if they only use checklists, which typically lack the instructions and nuances included in the full guidance.

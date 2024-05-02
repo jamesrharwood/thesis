@@ -1,6 +1,6 @@
 {{< pagebreak >}}
 
-## Deficiencies {.appendix #app-ideas .unnumbered}
+## Appendix E: Deficiencies {.appendix #app-ideas .unnumbered}
 
 Intervention components found to be deficient by one or more authors during qualitative interviews, as described in chapter {{< var chapters.pilot >}}. 
 
