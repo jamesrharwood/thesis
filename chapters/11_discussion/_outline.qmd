@@ -23,7 +23,7 @@ Finally, in chapter {{< var chapters.pilot >}} I described how I evaluated the r
 
 ## Overview of resources resulting from this thesis
 
-Of course I intend to publish chapters as articles. In particular chapters {{< var chapters.synthesis >}}, {{< var chapters.survey >}}, {{< var chapters.workshops >}} & {{< var chapters.focus-groups >}} (probably together), {{< var chapters.pilot >}} after testing more iterations and resolving deficiencies as far as possible. I hope to update the intervention table presented in chapter {{< var chapters.defining-content >}} to reflect the final iteration of redesigned guidance, and publish it in an article that references and summarizes the articles that came before. This will be the article that brings together the pieces and presents them as a whole 
+Of course I intend to publish chapters as articles. In particular chapters {{< var chapters.synthesis >}}, {{< var chapters.review >}}, {{< var chapters.workshops >}} & {{< var chapters.focus-groups >}} (probably together), {{< var chapters.pilot >}} after testing more iterations and resolving deficiencies as far as possible. I hope to update the intervention table presented in chapter {{< var chapters.defining-content >}} to reflect the final iteration of redesigned guidance, and publish it in an article that references and summarizes the articles that came before. This will be the article that brings together the pieces and presents them as a whole 
 
 But my main thesis output is a redesigned reporting guideline and EQUATOR Network home page. 
 - RG redesign could be copied by other guidelines
