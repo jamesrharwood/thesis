@@ -1,3 +1,5 @@
+.SECONDARY:
+
 preview: create_tables
 	@quarto preview --watch-inputs
 

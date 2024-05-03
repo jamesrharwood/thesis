@@ -1,11 +1,11 @@
 # Appendix {.appendix}
 
-{{< include synthesis_search_strategies.qmd >}}
+{{< include _synthesis_search_strategies.qmd >}}
 
-{{< include barriers.qmd >}}
+{{< include _barriers.qmd >}}
 
-{{< include ideas.qmd >}}
+{{< include _ideas.qmd >}}
 
-{{< include intervention_component_table.qmd >}}
+{{< include _intervention_component_table.qmd >}}
 
-{{< include deficiencies.qmd >}}
+{{< include _deficiencies.qmd >}}

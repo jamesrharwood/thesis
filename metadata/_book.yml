@@ -38,15 +38,5 @@ book:
           file: chapters/10_pilot/index.qmd
     - text: "Discussion"
       file: chapters/11_discussion/index.qmd
-    - part: "Appendix"
-      chapters:
-          - text: "A: Search Strategies"
-            file: "chapters/appendix/synthesis_search_strategies.qmd"
-          - text: "B: Barriers"
-            file: chapters/appendix/barriers.qmd
-          - text: "C: Ideas generated from workshops and focus groups"
-            file: "chapters/appendix/ideas.qmd"
-          - text: "D: Intervention Components Table"
-            file: "chapters/appendix/intervention_component_table.qmd"
-          - text: "E: Deficiencies"
-            file: "chapters/appendix/deficiencies.qmd"
+    - text: "Appendix"
+      file: "chapters/appendix/index.qmd"
