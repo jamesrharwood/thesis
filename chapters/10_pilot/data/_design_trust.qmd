@@ -24,9 +24,7 @@ The home page introduced EQUATOR at the very bottom. Participants recommended mo
 
 > "And then this is the thing on the bottom that I want to look at on every website... because I want to see if they have an actual office. So usually I click this "about us" first" {{< var pilot.participants.PPT-RW >}}
 
-> "Participant: Oh, so this is your mission. So here my question is _What is this group? What is EQUATOR?_ So this is my first question because from my background, which is not from medicine, I'm not very familiar with this group. So I want to know what is this and the second feeling I have, I think I might want to see this information at the very first beginning...I want to know who this website is created by. Because I want to use a professional website, so I think the reason I read this paragraph is I want to find some evidence to prove that your group is very professional.
-> Interviewer: Mmm.
-> Participant: Well, maybe you can put [the section about EQUATOR] at the very first beginning and provide a little description about what the group is about, what it is, and what are those people where do they come from something like this." {{< var pilot.participants.PPT-JZ >}}
+> "Oh, so this is your mission. So here my question is _What is this group? What is EQUATOR?_ So this is my first question because from my background, which is not from medicine, I'm not very familiar with this group. So I want to know what is this and the second feeling I have, I think I might want to see this information at the very first beginning...I want to know who this website is created by. Because I want to use a professional website, so I think the reason I read this paragraph is I want to find some evidence to prove that your group is very professional...Well, maybe you can put [the section about EQUATOR] at the very first beginning and provide a little description about what the group is about, what it is, and what are those people where do they come from something like this." {{< var pilot.participants.PPT-JZ >}}
 
 > "I also did some research with my Chinese colleagues and sometimes some prestigious university's logo will add trust, yeah." {{< var pilot.participants.PPT-YD >}}
 
@@ -34,15 +32,15 @@ The home page introduced EQUATOR at the very bottom. Participants recommended mo
 
 **The site's design could be more professional**
 
-A design intention was to make the website appear simple. The first iteration was apparently _too_ simple and one participant explained how its simplicity made it less trustworthy:
+I tried to create an aesthetic that would make the website appear simple. The first iteration was apparently _too_ simple and one participant explained how its simplicity made it less trustworthy:
 
 "it looks kind of like a blog [...] it's a basic website" {{< var pilot.participants.PPT-RW >}}
 
 "I wouldn't say [it looks] particularly trustworthy, but not particularly suspicious either. Kind of in the middle [...] something that will be more trustworthy will be something which is more sophisticated because I know, 'OK, this is someone who actually took his time to do a lot of work... put a lot of work in designing it'. Most of the time if it is a fake website, it's usually much more simple." {{< var pilot.participants.PPT-WH >}}
 
-One participant viewed both the first and second iterations of the home page (their second interview session occurred after the iteration), and they described the second iteration as better because "It's like more trustable [...] Scientific. Evidence based. Yeah, of course, legit." ({{< var pilot.participants.PPT-MJ >}})
+One participant viewed both the first and second iterations of the home page (their second interview session occurred after the iteration), and they described the second iteration as better because "It's like more trustable [...] Scientific. Evidence based. Yeah, of course, legit." {{< var pilot.participants.PPT-MJ >}}
 
-However, one participant still questioned the second iteration simplicity and trustworthiness, and drew a comparison with another website that she _did_ trust:
+However, one participant still questioned the second iteration's simplicity and trustworthiness, and drew a comparison with another website that she _did_ trust:
 
 > "So I'm saying it's kind of basic, that the format itself is kind of basic [...] [When] I'm looking for information on PUB Med, just the outlet itself gives you the picture that, you know, somehow you can trust it. You know it looks as if there was more work put in it." {{< var pilot.participants.PPT-OMK >}}
 

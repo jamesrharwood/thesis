@@ -26,7 +26,7 @@ Even though participants could not download templates or checklists, they had ex
 
 **Using a reporting guideline "for planning" was not intuitive**
 
-The same second described how to use reporting guidelines when planning or conducting research. The SRQR page had a button to download a "log book" where researchers could document the decisions and data they would later need to report. However, no participants understood what this log book might be:
+The same section described how to use reporting guidelines when planning or conducting research. The SRQR page had a button to download a "log book" where researchers could document the decisions and data they would later need to report. However,  in contrast to the checklist and template, no participants understood what this log book might be:
 
 > "it's not immediately intuitive what a log book might be" {{< var pilot.participants.PPT-BH >}}
 
@@ -36,7 +36,7 @@ The same second described how to use reporting guidelines when planning or condu
 
 The word "planning" was not intuitive either. One thought this meant planning a manuscript, and so confused the purpose of the log book with that of the template. Another interpreted it as guidance for writing a research proposal.
 
-> "When I when I'm reading planning research, I think maybe I have already done this when I design my own outline." {{< var pilot.participants.PPT-JZ >}}
+> "When I'm reading planning research, I think maybe I have already done this when I design my own outline." {{< var pilot.participants.PPT-JZ >}}
 
 > "To write can help you plan a study. Yeah, I guess it's... I I would have thought this might be useful if you're writing a research grant or a research proposal." {{< var pilot.participants.PPT-VS >}}
 

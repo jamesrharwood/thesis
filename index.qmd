@@ -1,8 +1,6 @@
 ::: {.content-visible when-format="html"}
 
-# Refining reporting guidance dissemination: identifying and addressing barriers using behaviour change theory {.unnumbered}
-
-#ASK Alterantively: Refining reporting guidelines using behaviour change theory.
+# Refining reporting guidelines dissemination using behaviour change theory {.unnumbered}
 
 **James Harwood**
 
@@ -40,8 +38,6 @@ Known todos for DOCX output:
 * Title page 
 * Appendices should come after references
 * Table and figure formatting
-* Add "Reflections on this chapter" paragraphs to end of research chapters
-* Need to write: Abstract, Interviews chapter, Discussion
 * Lists of tables & figures at start (necessary?)
 
 :::
@@ -52,7 +48,7 @@ Known todos for DOCX output:
 
 ## Word Count Tallies: 
 
-Actual word counts will be lower as these numbers include tables and references for each chapter. 
+Actual word counts will be lower as these numbers include tables, references, and appendices. 
 
 {{< include metadata/_wordcounts.qmd >}}
 

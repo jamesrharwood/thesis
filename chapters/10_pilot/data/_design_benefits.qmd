@@ -13,5 +13,5 @@ I'm like, where should I read first?" {{< var pilot.participants.PPT-CW >}}
 
 **The tone of voice could be friendlier**
 
-SRQR item 3 asked authors to describe "gaps in current knowledge (the problem statement)". One participant said "I think it it's probably a bit short [...]" and suggested something like  "_'what is currently known about this topic and where do the gaps lie?'_" might be a "friendlier way of writing it" whilst reducing ambiguity ({{< var pilot.participants.PPT-VS >}}).
+SRQR item 3 asked authors to describe "gaps in current knowledge (the problem statement)". One participant said "I think it it's probably a bit short [...]" and suggested something like  "_'what is currently known about this topic and where do the gaps lie?'_" might be a "friendlier way of writing it" whilst reducing ambiguity {{< var pilot.participants.PPT-VS >}}.
 

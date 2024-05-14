@@ -15,13 +15,13 @@ All participants talked about benefits or help. None talked about the opposite (
 
 > "so it's going to assist me in research. It's going to help me somehow. Make things easier for me." {{< var pilot.participants.PPT-MJ >}}
 
-Under the headline, we included a short statement: _'reporting guidelines help you describe research quickly, confidently in completely'_. Two participants did not find this brief text meaningful in the five second test:
+Under the headline, I included a short statement: _'reporting guidelines help you describe research quickly, confidently in completely'_. Two participants did not find this brief text meaningful in the five second test:
 
 > "I tried to read the sub headline just below the biggest one and it says help you blah blah confidently and blah blah. [...] So I think this information maybe be meaningless for me [...] because it sounds like it didn't provide some concrete information. It's just a sentence that tried to cheer me up." {{< var pilot.participants.PPT-JZ >}}
 
 > "And then there's something to do with _'reporting guidelines help you describe research quickly, confidently in completely'_. This information is not really telling me much" {{< var pilot.participants.PPT-OMK >}}
 
-However, they seemed to understand the reported benefits after reading the top of the home page in more detail, and after viewing the section below where benefits are stated more clearly (e.g.,). Similarly, other participants began to understand the benefits and link them to their own experiences as authors. 
+However, they seemed to understand the reported benefits after reading the top of the home page in more detail, and after viewing the section below where benefits are stated more clearly.
 
 > "OK, I think this part is very great because when I when I see something like _"easy writing"_, _"smoother publishing"_ I think _"Ohh, that's great. That's what I want."_" {{< var pilot.participants.PPT-JZ >}}
 

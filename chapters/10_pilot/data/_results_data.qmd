@@ -258,7 +258,7 @@ Participants expected citation instructions and most were not surprised to see t
 
 **Some participants did not know whether to cite the website or the publication**
 
-One participant said they had sought the original paper because they "wanted to add the citation" ({{< var pilot.participants.PPT-MJ >}}) to their article. Another asked "Do you reference the EQUATOR network or do you reference the original article?" ({{< var pilot.participants.PPT-CW >}})
+One participant said they had sought the original paper because they "wanted to add the citation" {{< var pilot.participants.PPT-MJ >}} to their article. Another asked "Do you reference the EQUATOR network or do you reference the original article?" {{< var pilot.participants.PPT-CW >}}.
 
 **Some participants recommended the citation instruction be more prominent**
 
@@ -444,13 +444,13 @@ And a third (not a native english speaker) worried they would feel bad if the gu
 
 **Only one participant noticed this instruction**
 
-Some reporting items in SRQR ask authors to explain their reasoning behind design choices. Only one participant noticed one of these sentences. They reflected that researchers often "follow this path of only mentioning [what we did] but not explaining how we did it and why it was important to apply this strategy" ({{< var pilot.participants.PPT-MJ >}}). 
+Some reporting items in SRQR ask authors to explain their reasoning behind design choices. Only one participant noticed one of these sentences. They reflected that researchers often "follow this path of only mentioning [what we did] but not explaining how we did it and why it was important to apply this strategy" {{< var pilot.participants.PPT-MJ >}}. 
 
 ## no-better-rg
 
 **Only one participant commented on this instruction**
 
-In the introduction to SRQR, where its scope is explained, the instruction mentions that there are no better reporting guidelines for writing _protocols_ for qualitative research, and instead recommends authors use certain items from SRQR. One participant annotated this explanation and said they liked it ({{< var pilot.participants.PPT-JZ >}}).
+In the introduction to SRQR, where its scope is explained, the instruction mentions that there are no better reporting guidelines for writing _protocols_ for qualitative research, and instead recommends authors use certain items from SRQR. One participant annotated this explanation and said they liked it {{< var pilot.participants.PPT-JZ >}}.
 
 ## location-alternatives
 

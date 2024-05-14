@@ -1,12 +1,19 @@
 .SECONDARY:
 
-preview: create_tables
+preview: pre_render
 	@quarto preview --watch-inputs
+
+preview_int: pre_render
+	@quarto preview --no-browser --watch-inputs
 
 publish: render add_footer
 	@quarto publish gh-pages --no-render
 
-render: create_vars create_tables create_appendix actual_render update_wordcounts
+pre_render: create_vars create_tables create_appendix
+
+post_render: update_wordcounts
+
+render: pre_render actual_render post_render
 
 actual_render: 
 	@echo 'Rendering...'

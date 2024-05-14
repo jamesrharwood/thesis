@@ -4,8 +4,6 @@
 
 I recruited participants between 21/03/2023 until 9/08/2023. The number of people who expressed interest, were eligible, consented, and participated are shown in @tbl-interview-recruitment. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, and first language. Six participants had never heard of reporting guidelines before. One had, but did not remember which. Three others had used a reporting guideline before, and one had used many reporting guidelines before. The first interview lasted between 45 minutes - 1.5 hours, and the second interview lasted 30-45 minutes.
 
-#ASK How important is it for me to mention drop out in discussion? 
-
 {{< include _table_recruitment.md >}}
 
 {{< include _table_participants.md >}}
@@ -17,33 +15,24 @@ I had originally planned to finish data collection before making any changes to 
 Briefly, the changes we made included:
 
 - Editing the text at the top of the home page for clarity and to emphasise benefits. I edited it from "Writing research, made simple. Write confidently using guidelines created by the research community" to "Want help writing up research? Reporting guidelines help you describe research quickly, confidently, and completely."
-- Adding images to make the home page more attractive and to convey meaning of accompany text (see @fig-before-after-home).
+- Adding images and colour to make the home page more attractive and to convey meaning of the accompanying text (see @fig-before-after-home).
 - Adding publisher logos to foster trust
-- Reorganising the introduction to SRQR to make it appear shorter (see @fig-before-after-rg).
+- Reorganising the introduction to SRQR to make it appear shorter.
 
 ::: {#fig-before-after-home layout-ncol=2}
 
-![Before](figures/home-v1.png){#fig-home-v1}
+![Before](figures/home-v1-2.png){#fig-home-v1}
 
 ![After initial revision](figures/home-v2.png){#fig-home-v2}
 
 The home page before and after initial revisions based on feedback from the first five participants.
 :::
 
-::: {#fig-before-after-rg layout-ncol=2}
-
-![Before](figures/rg-v1.png){#fig-home-v1}
-
-![After initial revision](figures/rg-v2.png){#fig-home-v2}
-
-The home page before and after initial revisions based on feedback from the first five participants.
-:::
-
-The results below include quotes and discussion pertaining to these changes.
+The results below include quotes and discussion pertaining to these changes, along with all other deficiencies.
 
 ### Main findings
 
-I identified {{< var.counts.pilot.deficiencies >}} deficiencies. Appendix {{< var appendix.deficiencies >}} lists the deficiencies identified for each intervention component with supporting quotes. I have chosen to describe a few deficiencies in more detail, either because I deemed them important, they were frequently mentioned (and, therefore, salient), or involved multiple parts of the website. I then provide a summary of the remaining deficiencies. 
+I identified {{< var counts.pilot.deficiencies >}} deficiencies. Appendix {{< var appendix.deficiencies >}} lists the deficiencies identified for each intervention component with supporting quotes. I have chosen to describe a few deficiencies in more detail, either because I deemed them important, they were frequently mentioned (and, therefore, salient), or involved multiple parts of the website. I then provide a summary of the remaining deficiencies. 
 
 {{< include data/_describe_rgs.qmd >}}
 
@@ -59,11 +48,11 @@ I identified {{< var.counts.pilot.deficiencies >}} deficiencies. Appendix {{< va
 
 Many intervention components focussed on structuring guidance to make it appear short, navigable and digestible. All participants liked the structure, and said it made the guidance "more easy to follow" {{< var pilot.participants.PPT-MJ >}} compared to the original reporting guideline. Nobody disliked content hidden in collapsible content, but some felt the guidance still appeared very long. One suggested presenting items on separate web pages instead {{< var pilot.participants.PPT-VS >}} and another requested a summary {{< var pilot.participants.PPT-RW >}}. A few participants suggested making the item headings and side-navigation menu more prominent.
 
-All participants realised that the website was aimed at researchers. This is perhaps not surprising as our study advert said we wanted to speak with qualitative researchers "about a new website. Even though we did not specify who the intended audience was, perhaps it was heavily implied. Indeed, some participants had assumed the website was aimed at _qualitative_ researchers (we had specific qualitative because of our test guideline), suggesting their perception of target audience had been influenced by our recruitment materials. However, these same participants voiced that the website felt "more open" {{< var pilot.participants.PPT-OMK >}}, like it was aimed at medical researchers more generally (which it is). Hence although our recruitment materials may have primed participants to expect the website to be aimed at qualitative researchers, that they correctly identified it to be for medical researchers in general suggests our intervention components were working as intended. This was further evidenced by participants who described the intended audience as "those who are just getting started in the career" {{< var pilot.participants.PPT-OMK >}} or "master research or higher degrees and also for some junior scholars" {{< var pilot.participants.PPT-YD >}}". 
+All participants realised that the website was aimed at researchers. This is perhaps not surprising as our study advert said we wanted to speak with qualitative researchers "about a new website". Even though we did not specify who the intended audience was, perhaps it was  implied. Indeed, some participants had assumed the website was aimed at _qualitative_ researchers (I had specifically advertised for qualitative researchers because of our test guideline), suggesting their perception of target audience had been influenced by our recruitment materials. However, these same participants voiced that the website felt "more open" {{< var pilot.participants.PPT-OMK >}}, like it was aimed at medical researchers more generally (which it is). Hence although our recruitment materials may have primed participants to expect the website to be aimed at qualitative researchers, that they correctly identified it to be for medical researchers in general suggests our intervention components were working as intended. This was further evidenced by participants who described the intended audience as "those who are just getting started in the career" {{< var pilot.participants.PPT-OMK >}} or "master research or higher degrees and also for some junior scholars" {{< var pilot.participants.PPT-YD >}}". 
 
 In general, all participants were able to understand and use the interactive website elements. Only a few participants had difficulty with any features. For example, one thought the dotted lines representing a pop-up definitions were "misspelled words" {{< var pilot.participants.PPT-SK >}}" (because that's how Microsoft Word highlights errors). A few voiced confusion about the discussion board for each item. Another described feeling frustrated when clicking a footnote caused the page to scroll unexpectedly, and preferred when notes were placed within each item instead of at the bottom of the page. Nobody was surprised by the drop down expandable boxes or by the search button. 
 
-A few components required clarifying the relationships between the website, the EQUATOR Network, the guideline developers, and the original publications. For example, a couple of participants were not immediately sure whether the guidance on the website was the same as the guidance within the publication. Some asked whether the citation and journal data (which was supposed to instil trust) were pertaining to the publication or the website, and which one they themselves should cite. When I asked participants where they might look for clarification, all referred to the FAQ and felt reassured after reading how the guidance was developed, but suggested this explanation be summarised and signposted earlier. Similarly, a couple of participants suggested that EQUATOR should be introduced briefly earlier on the home page.
+A few components required clarifying the relationships between the website, the EQUATOR Network, the guideline developers, and the original publications. For example, a couple of participants were not immediately sure whether the guidance on the website was the same as the guidance within the publication. Some asked whether the citation and journal data (which was supposed to instil trust) were pertaining to the publication or the website, and which one they themselves should cite. When I asked participants where they might look for clarification, all referred to the FAQ and felt reassured after reading how the guidance was developed, but suggested this explanation be summarised and signposted earlier. 
 
 A couple of components involved adding quotes to the home page and guideline page. On the whole participants liked or felt neutral about these quotes. For example, one described how the quotes were
 
@@ -87,21 +76,21 @@ Seven intervention components received no mention. Three of these were purposefu
 
 #### Barriers
 
-Participants naturally discussed barriers and facilitators they encountered when applying guidance, either during this study or in their previous experience. These factors were external to the website being tested, and beyond the scope of my intervention components and hence I did not code them as deficiencies. I had identified many of them in my previous work (chapters {{< var.chapters.synthesis >}}-{{< var chapters.web-audit >}}. 
+Participants naturally discussed barriers and facilitators they encountered when applying guidance, either during this study or in their previous experience. These factors were external to the website being tested, and beyond the scope of my intervention components and hence I did not code them as deficiencies. I had identified many of them in my previous work (chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}}). 
 
-For example, in my thematic synthesis (chapter {{< var.chapters.synthesis >}}) I described how giving reporting advice at journal submission was a bad time because authors lack the time and motivation to change their writing. When making the website, we acknowledged that most authors would encounter it during journal submission. None of our intervention components seek to alter that initial encounter context directly (doing so would require changing our acquisition channels by, for example, getting more funders to link to our website). Consequently, I expect many authors will arrive at the website in the mindset of journal submission. One participant articulated this concisely ({{< var pilot.participants.PPT-CW >}}), when reflecting on their first interview session, when they felt "annoyed by stuff" because they were "working on something at the time" and so instead of "exploring" the website they were "just trying to get to where [they] wanted to be so that [they] could finish the work [they were] doing". They wanted the reporting guidance as a short checklist "didn't want all the additional stuff", referring to the longer reporting item explanations, the guideline introductory text, or the persuasive home page content.
+For example, in my thematic synthesis (chapter {{< var chapters.synthesis >}}) I described how giving reporting advice at journal submission was a bad time because authors lack the time and motivation to change their writing. When making the website, I acknowledged that most authors would encounter it during journal submission. None of my intervention components seek to alter that initial encounter context directly (doing so would require changing our acquisition channels by, for example, getting more funders to link to our website). Consequently, I expect many authors will arrive at the website in the busy mindset of journal submission and wanting to get things done quickly. One participant articulated this concisely {{< var pilot.participants.PPT-CW >}}, when reflecting on their first interview session, when they felt "annoyed by stuff" because they were "working on something at the time" and so instead of "exploring" the website they were "just trying to get to where [they] wanted to be so that [they] could finish the work [they were] doing". They wanted the reporting guidance as a short checklist and "didn't want all the additional stuff", referring to the longer reporting item explanations, the guideline introductory text, and the persuasive home page content.
 
-However, after using the reporting guideline in their own time their opinion had totally changed by the second session: "when you specifically asked me to look at this and I used it [to write my] discussion, I was embracing it in a different way". They found the guideline "really helpful" for writing, and then "enjoyed looking at all the different checklists and reporting guidelines", ultimately deciding that "in a new journal that I'm a deputy editor [of], I've just said that in our in our scope and guidance for authors, we have to say that we require the use of reporting guidelines". This change of heart came after a shift in context: whereas in the first session the participant was looking to get a job done quickly, by the second session, they had given the guideline time and used it in its intended way. The participant attributed this shift in context to being "specifically asked" to use the guideline for writing. However, many components seek to achieve such a shift by convincing authors to come back and use the website earlier when writing up their next piece of research (see previous sub sections on describing what reporting guidelines are, when they are best used, and what they are best used for).
+However, after using the reporting guideline in their own time their opinion had totally changed by the second session: "when you specifically asked me to look at this and I used it [to write my] discussion, I was embracing it in a different way". They found the guideline "really helpful" for writing, and then "enjoyed looking at all the different checklists and reporting guidelines", ultimately deciding that "in a new journal that I'm a deputy editor [of], I've just said that in our in our scope and guidance for authors, we have to say that we require the use of reporting guidelines". This change of heart came after a shift in context: whereas in the first session the participant was looking to get a job done quickly, by the second session, they had given the guideline time and used it in its intended way. The participant attributed this shift in context to being "specifically asked" to use the guideline for writing. Many components seek to achieve such a shift by convincing authors to come back and use the website earlier when writing up their next piece of research (see previous sub sections on describing what reporting guidelines are, when they are best used, and what they are best used for).
 
 Another barrier I identified in my thematic synthesis but did not address in this website was how to incorporate reporting guidelines into one's writing process, or what to do when you don't have a writing process at all. Although some components communicated that reporting guidelines should be used when drafting or writing manuscripts, none explained _how_ (although one component involved directing authors towards training already delivered by EQUATOR). One participant eloquently described the challenge of adopting writing advice into their own practice. 
 
-> "When I try to look at your guidance on your website, I really want to use it in my own writing, but it is very strange because when I try to, uh, connect the information on the website with my own writing, I found there there might be a great gap because I think everything on your website is very clear (actually they are very specific, those suggestions), but when I try to connect those information with my own writing, I found it just a little bit difficult to to generate some some specific ideas to start my writing.
+> "When I try to look at your guidance on your website, I really want to use it in my own writing, but it is very strange because when I try to, uh, connect the information on the website with my own writing, I found there there might be a great gap because I think everything on your website is very clear (actually they are very specific, those suggestions), but when I try to connect those information with my own writing, I found it just a little bit difficult to generate some specific ideas to start my writing.
 >
 > So I'm thinking if that's because the problem of my writing is not the lack of specific guidance but some other thing like my motivation or, I don't know...it's just a little bit strange.
 > 
 > And I also talk about this with my friends because lots of my friends, they are also PhD students and they are struggling at writing too. So ask them if they have some guidance, uh, if they have looked at some guidance and if [they] have put those guidelines in [their] own writing and and their answers were, like, quite similar with me and and they all talk about that, _'yes, we we look at lots of guidance we try to look at lots of those writing books to teach you how to write, to teach you how to structure your writing. But it's still very hard'_. When you really sit down and start writing, actually you couldn't, uh, call up [the information]." {{< var pilot.participants.PPT-JZ >}}
 
-Participants' echoed other barriers I'd identified in my thematic synthesis when reflecting on their prior writing experiences, including:
+Participants' echoed other barriers I had identified in my thematic synthesis when reflecting on their prior writing experiences, including:
 
 - Not having known what reporting guidelines were earlier in their career
 - (Previously) finding the checklist, but not the full guidance
@@ -116,7 +105,7 @@ Participants' echoed other barriers I'd identified in my thematic synthesis when
 
 Participants also mentioned barriers I had not identified previously. These included:
 
-- When guideline author names appear Western, some (non western) participants expected the guidance to be less relevant to them.
+- When guideline author names appear western, some (non western) participants expected the guidance to be less relevant to them.
 - The loading speed of websites (thankfully, this was not an issue for the website being tested)
 - Not understanding reviewer feedback
 - Not wanting to read on a screen
@@ -125,7 +114,7 @@ Participants also mentioned barriers I had not identified previously. These incl
 
 #### Comparisons between the website being tested and the old EQUATOR website & guideline publications.
 
-A few participants ended up exploring the _original_ EQUATOR website and the _original_ SRQR publication during their interviews. Participant's instigated these unplanned explorations and comparisons for different reasons. One wanted to retrace their steps to show me the guideline they had used previously. Two others wanted to continue using reporting guidelines in the future and asked me where the original SRQR guidance could be found. Some others spontaneously reflected on their previous experience.
+A few participants ended up exploring the original EQUATOR website and the original SRQR publication during their interviews. Participant's instigated these unplanned explorations and comparisons for different reasons. One wanted to retrace their steps to show me the guideline they had used previously. Two others wanted to continue using reporting guidelines in the future and asked me where the original SRQR guidance could be found. Some others spontaneously reflected on their previous experience.
 
 Recounting their experience of seeing the original EQUATOR website for the first time between interview sessions, one participant {{< var pilot.participants.PPT-MJ >}} said "Ohh no I didn't like it. The [new] one is much, much better" because it looked more "trustworthy, more organised" and they preferred the font and colours. Another participant described the original website as "boring", "outdated" and "text heavy" before recounting their experience of using it: 
 
@@ -141,7 +130,7 @@ Another participant {{< var pilot.participants.PPT-SK >}} echoed this opinion wh
 > 
 > Interviewer: So if if the option was between this this version that you're looking at now [the original supplement] and the the website that you saw first, which do you think you prefer to use?
 > 
-> Participant: I think [the website] is far better than the [supplement]. Yeah, this one [the website] is far better."
+> Participant: I think the website is far better than the [supplement]. Yeah, this website is far better."
 
 Another participant reflected on their previous experience of using the PRISMA guidelines and explanation document. They said:
 

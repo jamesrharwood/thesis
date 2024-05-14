@@ -11,7 +11,7 @@ I explain how I created these figures in chapter {{< var chapters.redesign >}}. 
 ![A simplified layout of the existing EQUATOR Network website, as of the 5th of April, 2023. Users must navigate through up to 5 different web pages to reach reporting guidance. The proportion of users navigating between each step is shown in the width of the links. Links in grey are estimated proportions. "Exit" means leaving the website. For simplicity, I have not included the 7% of authors viewing pages within the "Library" subdirectory, nor the 1% visiting other content categories.](figures/sankey-before.png){#fig-sankey-b4 width=100%}
 
 <!-- Journey after -->
-![The layout of the new web-intervention. Users must now only need to navigate to 2 pages to access reporting guidance. The proportion of users navigating between each step is shown in the width of the links. All links in are estimated proportions, based on a realistic aim to reduce the exit rate from the home page and database page by 50%.](figures/sankey-after.png){#fig-sankey-after width=100%}
+![The layout of the new web-intervention. Users now only need to navigate 2 pages to access reporting guidance. The width of the links represent estimated proportions, based on a realistic aim to reduce the exit rate from the home page and database page by 50%.](figures/sankey-after.png){#fig-sankey-after width=100%}
 
 <!-- BEFORE -->
 

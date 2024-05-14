@@ -46,7 +46,9 @@ do
         #filename="$(basename -- $filepath)" 2>&1
         chaptername="${filename/JH-chapter-/}"
         chaptername="${chaptername/.docx/}"
-        echo "* $chaptername: $wordcountWithoutTables (inc. tables: $wordcount)" >> $OUTPUT_FP
+        if [[ ${#FILEPATHS[@]} -gt 1 ]]; then
+            echo "* $chaptername: $wordcountWithoutTables (inc. tables: $wordcount)" >> $OUTPUT_FP
+        fi
         total=$(($total + $wordcount))
         totalWithoutTables=$(($totalWithoutTables + $wordcountWithoutTables))
     fi

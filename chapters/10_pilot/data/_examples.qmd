@@ -28,7 +28,7 @@ Many participants wanted examples from their own field, or even entire publicati
 
 > "...if you can list some [...] papers who use the SRQR, you can put it here." {{< var pilot.participants.PPT-JZ >}}
 
-> "I've searched and pubmed to find an example of a research article that's used these standards so I could copy or check how they've laid it out, which subheadings they've used." {{< var pilot.participants.PPT-CW >}}
+> "I've searched on pubmed to find an example of a research article that's used these standards so I could copy or check how they've laid it out, which subheadings they've used." {{< var pilot.participants.PPT-CW >}}
 
 **Citations may be less credible if they are old or not referenced**
 
@@ -36,7 +36,7 @@ In the original SRQR publication, all examples are referenced. I had not include
 
 > "Well, there's no references there, so is that a very good example? No, I don't know the source of these things. [...] You know, I don't know, where did it come from? Where's the reference?" {{< var pilot.participants.PPT-CW >}}
 
-When I asked about hypothetically labelling examples as fake if they were made up, the participant said "Yeah, I guess that would be alright". 
+When I asked about hypothetically labelling examples as illustrative if they were made up, the participant said "Yeah, I guess that would be alright". 
 
 The same participant also noted that an example was quite old (10 years). 
 

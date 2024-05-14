@@ -1,18 +1,5 @@
 ## Discussion
 
-### Description of findings
-
-<!-- 
-* short summary of the main findings
-* include some interpretation of the data in the context of previous findings, experiences, theory, or a guiding paradigm or approach.
-* The discussion provides authors an opportunity to:
-  * elaborate on their findings in relation to their research question(s) and study purpose(s);
-  * connect their findings to prior empirical work, theories, and/or frameworks; 
-  * and discuss implications:
-    * describe how findings contribute to or advance the field
-    * Implications may include transferability, or specifying the appropriate scope for generalization of the findings beyond the study (e.g., to other settings, populations, time periods, circumstances).
--->
-
 ### Summary of results
 
 My objective was to identify ideas to address factors that may influence adherence to reporting guidelines by running workshops with the EQUATOR Network and focus groups with guideline developers, publishers, and other experts. Stakeholders identified {{< var counts.sub_ideas_pre_jh >}} ideas employing all intervention functions. There were ideas to consider before, during, and after creating guidance, ideas to consider when writing the guidance down, ideas about tools to help guidance application, ideas about ongoing activities to support or promote guidance use, and ideas about refining guidance over time in response to feedback. Many of these ideas could be enacted by guideline developers, publishers, and EQUATOR, but participants also saw opportunities for ethics committees, funders, academics, registries, and syllabus writers; stakeholders who are typically less frequently considered.

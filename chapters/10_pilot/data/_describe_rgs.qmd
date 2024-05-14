@@ -16,7 +16,7 @@ All participants realised the website was about research. Some researchers reali
 
 > "how to go about writing something" {{< var pilot.participants.PPT-SK >}}
 
-However, other participants gleaned only vague understandings like "support for doing research" ({{< var pilot.participants.PPT-JZ >}}) or "guidelines of some sorts, I think in relation to research" ({{< var pilot.participants.PPT-OMK >}}), and one expected the website to be about methodological guidance:
+However, other participants gleaned only vague understandings like "support for doing research" {{< var pilot.participants.PPT-JZ >}} or "guidelines of some sorts, I think in relation to research" {{< var pilot.participants.PPT-OMK >}}, and one expected the website to be about methodological guidance:
 
 > "methodology guidelines one can use or follow when conducting research" {{< var pilot.participants.PPT-VS >}}
 

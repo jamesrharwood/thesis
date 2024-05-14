@@ -1,53 +1,16 @@
-+----------------------------------------------------+----------------------+--------------------------------+
-| Intervention component                             | Intervention         | BCT                            |
-|                                                    | Function             |                                |
-+====================================================+======================+================================+
-| Cater to different kinds of user (readers vs       | Environmental        | Restructuring the physical     |
-| dippers) by structuring guidance with headings,    | restructuring        | environment                    |
-| itemisation, hyperlinking to particular sections,  |                      |                                |
-| and with optional content                          |                      |                                |
-+----------------------------------------------------+----------------------+--------------------------------+
-| Make guidance appear shorter by removing           | Environmental        | Restructuring the physical     |
-| superfluous information, hiding optional content,  | restructuring        | environment                    |
-| splitting long guidelines, using concise language, |                      |                                |
-| and separating design advice                       |                      |                                |
-+----------------------------------------------------+----------------------+--------------------------------+
-| Decrease fear of judgement by making reporting     | Coercion (Removal    | Remove aversive stimulus       |
-| guidelines design agnostic                         | of)                  |                                |
-+----------------------------------------------------+----------------------+--------------------------------+
-| Present design advice separately to reporting      | Coercion (removal    | Restructuring the physical     |
-| advice                                             | of)                  | environment                    |
-+----------------------------------------------------+----------------------+--------------------------------+
-| Use plain language                                 | Enablement           | Instruction on how to perform  |
-|                                                    |                      | the behavior                   |
-+----------------------------------------------------+----------------------+--------------------------------+
-| Define key terms                                   | Education            | Instruction on how to perform  |
-|                                                    |                      | the behavior                   |
-+----------------------------------------------------+----------------------+--------------------------------+
-| Use consistent terms                               | Enablement           | Instruction on how to perform  |
-|                                                    |                      | the behavior                   |
-+----------------------------------------------------+----------------------+--------------------------------+
-| _Educate authors about writing as a process_       | Education            | Instruction on how to perform  |
-|                                                    |                      | a behaviour                    |
-+----------------------------------------------------+----------------------+--------------------------------+
-| _Describe personal benefits and benefits to others | Education            | Information about emotional    |
-| where reporting guidelines are introduced (home    |                      | consequences, Information      |
-| page, on resources, in communications)_            |                      | about others' approval,        |
-|                                                    |                      | Information about social and   |
-|                                                    |                      | environmental consequences     |
-+----------------------------------------------------+----------------------+--------------------------------+
-| _Include testimonials from research users who      | Persuasion           | Salience of consequence        |
-| benefit from complete reporting_                   |                      |                                |
-+----------------------------------------------------+----------------------+--------------------------------+
-| _Include testimonials from researchers who were    | None                 | None                           |
-| nervous about being punished for reporting         |                      |                                |
-| transparently (see _Include testimonials from      |                      |                                |
-| researchers who were nervous about being punished  |                      |                                |
-| for reporting transparently_)_                     |                      |                                |
-+----------------------------------------------------+----------------------+--------------------------------+
-| _Gather and communicate evidence for benefits_     | Persuasion           | Information about emotional    |
-|                                                    |                      | consequences, Information      |
-|                                                    |                      | about others' approval,        |
-|                                                    |                      | Information about social and   |
-|                                                    |                      | environmental consequences     |
-+----------------------------------------------------+----------------------+--------------------------------+
+| Intervention component                                                                                                                                                                                                  | Intervention Function       | BCT                                                                                                                                   |
+|---------------------------------|------------------|---------------------|
+| Cater to different kinds of user (readers vs dippers) by structuring guidance with headings, itemisation, hyperlinking to particular sections, and with optional content                                                | Environmental restructuring | Restructuring the physical environment                                                                                                |
+| Make guidance appear shorter by removing superfluous information, hiding optional content, splitting long guidelines, using concise language, and separating design advice                                              | Environmental restructuring | Restructuring the physical environment                                                                                                |
+| Decrease fear of judgement by making reporting guidelines design agnostic                                                                                                                                               | Coercion (Removal of)       | Remove aversive stimulus                                                                                                              |
+| Present design advice separately to reporting advice                                                                                                                                                                    | Coercion (removal of)       | Restructuring the physical environment                                                                                                |
+| Use plain language                                                                                                                                                                                                      | Enablement                  | Instruction on how to perform the behavior                                                                                            |
+| Define key terms                                                                                                                                                                                                        | Education                   | Instruction on how to perform the behavior                                                                                            |
+| Use consistent terms                                                                                                                                                                                                    | Enablement                  | Instruction on how to perform the behavior                                                                                            |
+| *Educate authors about writing as a process*                                                                                                                                                                            | Education                   | Instruction on how to perform a behaviour                                                                                             |
+| *Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications)*                                                                              | Education                   | Information about emotional consequences, Information about others' approval, Information about social and environmental consequences |
+| *Include testimonials from research users who benefit from complete reporting*                                                                                                                                          | Persuasion                  | Salience of consequence                                                                                                               |
+| *Include testimonials from researchers who were nervous about being punished for reporting transparently (see Include testimonials from researchers who were nervous about being punished for reporting transparently*) | None                        | None                                                                                                                                  |
+| *Gather and communicate evidence for benefits*                                                                                                                                                                          | Persuasion                  | Information about emotional consequences, Information about others' approval, Information about social and environmental consequences |
+
+: Intervention components pertaining to the content and organisation of reporting guideline items, alongside the intervention functions and behaviour change techniques (BCT) they employ. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses.

@@ -4,8 +4,8 @@ The purpose of this study was to identify deficiencies in a redesigned reporting
 
 My objectives were to:
 
-* explore the experience of a diverse sample of authors,
-* and to identify and understand deficiencies.
+* explore the experience of a diverse sample of authors, and
+* to identify and understand deficiencies.
 
 ### Sampling strategy
 
@@ -13,8 +13,8 @@ My purposive sample of authors varied in their:
 
 * years of academic experience,
 * subject area,
-* their first language,
-* and their country of residence. 
+* their first language, and
+* their country of residence. 
 
 This variation was important because my thematic synthesis (chapter {{< var chapters.synthesis >}}) suggested inexperienced authors may have the most to benefit from reporting guidelines, but also face the most hurdles. Inexperience may be due to early career stage, being new to a field or study design, or new to academic writing. My synthesis also suggested language barriers could hinder adherence, and my service evaluation of EQUATOR's existing website (chapter {{< var chapters.web-audit >}}) revealed a highly international userbase.
 
@@ -23,7 +23,7 @@ Authors were eligible to participate if they were currently engaged in research 
 I recruited through four channels:
 
 1. I posted on X (called Twitter at the time). 
-2. I advertised through Penelope.ai @PenelopeAi, the manuscript checker I created before starting my PhD. Many medical journals offer the tool to submitting authors. BMJ Open is the largest of these journals, and enjoys a large, international, author base. 
+2. I advertised through Penelope.ai @PenelopeAi, the manuscript checker I created before starting my PhD. Many medical journals offer the manuscript checker to submitting authors. BMJ Open is the largest of these journals, and enjoys a large, international, author base. 
 3. I invited researchers from a research consultancy in the Philippines.
 4. I wrote to Chinese researchers who had published qualitative research and about the experience of doing qualitative research in China, and I asked them to share my recruitment advert. One of the researchers I contacted posted the advert on internet forums used by Chinese students. 
 
@@ -46,14 +46,14 @@ Time and money limited my target sample size to 10 participants. As argued by Ni
 
 #ASK are data collection sessions called interviews, even if the semi structured interview was just one component? 
 
-I wanted my study to resemble the ways authors will experience the website in real life. Firstly, interview sessions took place online using Microsoft Teams. This meant participants could view the website on their own computer, using their normal browser, in their usual place of work. This would allow me to identify problems with slow-loading over bad internet connections and display problems on different screen resolutions, whilst avoiding difficulties of asking a participant to use an unfamiliar computer or browser. 
+I wanted my study to resemble the ways authors will experience the website in real life. Firstly, interview sessions took place online using Microsoft Teams. This meant participants could view the website on their own computer, using their normal browser, in their usual place of work. This would allow me to identify problems like slow-loading over bad internet connections or display problems on different screen resolutions, whilst avoiding complications stemming from asking a participant to use an unfamiliar computer or browser. 
 
 Secondly, I wanted to replicate the experience of encountering a new website as a naïve user, gradually exploring content, and then reading and applying guidance to one's own writing. I did this by using a variety of methods: 
 
 1. 5 second test to capture initial reactions
-2. Think aloud to capture exploration
-3. Plus-minus task
-4. A writing evaluation
+2. Think aloud to capture real-time exploration within the interview session
+3. Plus-minus task to capture exploration between interview sessions
+4. A writing evaluation to explore interpretation
 5. Semi structured interviews throughout. 
 
 I have outlined the order of data collection methods in @tbl-process-interviews. 
@@ -68,7 +68,7 @@ I began sessions by introducing myself as part of team creating a new website. T
 
 Until this point, participants had no idea what the website was about. My recruitment materials and interview introduction made no mention of writing nor reporting guidelines, and so participants were blind to the website's purpose.
 
-The five second test is an "in the moment" survey method @UXFiveSecondRules2014. By sharing my screen, I showed participants the top of the home page for five seconds before removing it and asking questions. The test limits exposure to five seconds because although a participant can absorb much information (colours, words, shapes), five seconds is rarely sufficient to make sense of everything as a whole. The aim is to capture participant's immediate reactions to salient design elements (like images, large words) before they have a change to consider the content more critically. Furthermore, this five second limit was relevant because my website service evaluation found many authors leave EQUATOR's website within five seconds without interacting with it.
+The five second test is an "in the moment" survey method @UXFiveSecondRules2014. By sharing my screen, I showed participants the top of the home page for five seconds before removing it and asking questions. The test limits exposure to five seconds because although a participant can absorb much information (colours, words, shapes), five seconds is rarely sufficient to make sense of everything as a whole. The aim is to capture participant's immediate reactions to salient design elements (like images, large words) before they have a chance to consider the content more critically. Furthermore, this five second limit was relevant because my website service evaluation found many authors leave EQUATOR's website (chapter {{< var chapters.web-audit >}}) within five seconds without interacting with it.
 
 This test was appropriate for the top of the home page because, as per best practice, the area has little text, all relevant content is visible in one frame, and I asked few questions:
 
@@ -85,9 +85,9 @@ After the five second test it was no longer necessary to keep participants blind
 
 #### Think aloud 1 - home screen
 
-Website designers often ask participant's to "think aloud" as they complete a task or view a website as a way of exploring participants' thought processes (e.g., @szinayInfluencesUptakeHealth2021; @yardleyUnderstandingReactionsInternetdelivered2010). Think aloud as a method was first described by cognitive psychologists Ericsson and Simon @laffalEricssonAndersSimon1985. Their strict approach viewed verbalizations as "indicators of what information was heeded and in what order, a sort of time stamp of the contents of short-term memory" @borenThinkingAloudReconciling2000. As user experience testers adopted the method, they used it more flexibly to additionally capture participants' thoughts, feelings, and expectations @borenThinkingAloudReconciling2000. Whereas cognitive psychologists use the method to understand cognitive processes, usability testers use it to "support the development of usable systems by identifying system deficiencies". Because "building robust models of human cognition is not a central concern", Ericsson and Simon's fixed approach is less appropriate, and testers use a more flexible and pragmatic approach to data collection and interpretation @borenThinkingAloudReconciling2000.
+Website designers often ask participant's to "think aloud" as they complete a task or view a website as a way of exploring participants' thought processes [@szinayInfluencesUptakeHealth2021; @yardleyUnderstandingReactionsInternetdelivered2010]. Think aloud as a method was first described by cognitive psychologists Ericsson and Simon @laffalEricssonAndersSimon1985. Their strict approach viewed verbalizations as "indicators of what information was heeded and in what order, a sort of time stamp of the contents of short-term memory" @borenThinkingAloudReconciling2000. As user experience testers adopted the method, they used it more flexibly to additionally capture participants' thoughts, feelings, and expectations @borenThinkingAloudReconciling2000. Whereas cognitive psychologists use the method to understand cognitive processes, usability testers use it to "support the development of usable systems by identifying system deficiencies". Because "building robust models of human cognition is not a central concern", Ericsson and Simon's strict approach is less appropriate, and usability testers use a more flexible and pragmatic approach to data collection and interpretation @borenThinkingAloudReconciling2000.
 
-As per best practice @borenThinkingAloudReconciling2000 I began by explaining the task, and giving instruction to continually verbalize a train of thought. I then demonstrated by sharing my screen, opening up a different website, and "thinking aloud" for a minute. Participants then shared their screen as they explored the home page. Whenever participants stopped talking, I would prompt them openly to continue by asking "What are you thinking?". I acknowledged participants' verbalizations with neutral sounds like "uh-hu" and "mmm", which encourage further talk, but do not show agreement or disgareement. These verbalizations and prompts are also considered best practice @borenThinkingAloudReconciling2000.
+As per best practice @borenThinkingAloudReconciling2000 I began by explaining the task, and giving instruction to continually verbalize a train of thought. I then demonstrated by sharing my screen, opening up a different website, and "thinking aloud" for a minute. Participants then shared their screen as they explored the home page. Whenever participants stopped talking, I would prompt them to continue by asking "What are you thinking?". I acknowledged participants' verbalizations with neutral sounds like "uh-hu" and "mmm", which encourage further talk, but do not show agreement or disgareement. These verbalizations and prompts are also considered best practice @borenThinkingAloudReconciling2000.
 
 #### Semi-structured interview 2 - home page
 
@@ -95,29 +95,27 @@ Once participants had explored the entire home page, I asked participants about 
 
 #### Think aloud 2 - SRQR guideline page
 
-I asked participants to find the relevant guideline for reporting qualitative research, and then to continue thinking aloud as they explored it. The top of the SRQR page included information about the guideline, such as its scope, and the number of journals endorsing it. 
+I asked participants to find the relevant guideline for reporting qualitative research, and then to continue thinking aloud as they explored it. The top of the SRQR page included information about the guideline, such as its scope, and the number of journals endorsing it. Participants thought aloud as they contuined down the page. Because the SRQR guidance is long, I stopped participants from thinking aloud once they reached the first reporting item.
 
 #### Semi-structured interview 3 - SRQR guideline page
 
-Because the SRQR guidance is long, I stopped participants from thinking aloud once they reached the guidance itself. I then used semi-structured interview questions to explore any intervention components missed by the think aloud, and to explore participants' expectations of four key features within in guidance: defined words (signified by a dotted underlines), footnotes (signified by a superscript number), links to discussion boards (signified by an icon), and drop down content (signified by a chevron icon). I pointed to an example of each and asked participants what they expected to happen if they clicked on it.
+I then used semi-structured interview questions to explore any intervention components in the introduction missed by the think aloud. Moving down to the reporting guideline itself, I asked questions to explore participants' expectations of four key features within in guidance: defined words (signified by a dotted underlines), footnotes (signified by a superscript number), links to discussion boards (signified by an icon), and drop down content (signified by a chevron icon). I pointed to an example of each and asked participants what they expected to happen if they clicked on it.
 
 This marked the end of the first interview session. I then explained the plus-minus and writing tasks participants needed to complete before the second session.
 
 #### Plus-Minus task:
 
-In their review of methods to solicit text evaluations from readers, de Jong and Schellens @dejongReaderFocusedTextEvaluation1997 distinguish between evaluation goals: selection (whether readers will engage with the text), comprehension, application (being able to apply information in a real world setting), acceptance (including credibility), appreciation, and relevance and completeness. I was not interested in selection (participants had no option other than to engage with the text), and my study scope did not extend to SRQR's relevence nor completeness. Instead, I was interested in participant's experience of the design decisions I had taken in presenting the SRQR guideline, including the layout, structure, optional content, definitions, and tone of voice.
+In their review of methods to solicit text evaluations from readers, de Jong and Schellens @dejongReaderFocusedTextEvaluation1997 distinguish between evaluation goals: selection (whether readers will engage with the text), comprehension, application (being able to apply information in a real world setting), acceptance (including credibility), appreciation, relevance, and completeness. I was not interested in selection (participants had no option other than to engage with the text), and my study scope did not extend to SRQR's relevence nor completeness. Instead, I was interested in participant's experience of the design decisions I had taken in presenting the SRQR guideline, including the layout, structure, optional content, definitions, and tone of voice.
 
 de Jong and Schellens describe methods to target comprehension, acceptance, appreciation in isolation, but because my interest included all three, I chose a nonspecific method, the Plus-Minus task. In this task, readers are asked to annotate a document with plus and minus signs to signify positive and negative reading experiences and then discuss annotations retrospectively. 
 
-I asked participants to select and annotate 2 or 3 reporting items relevant to whatever they happened to writing-up in the time between interviews. I created duplicates of the SRQR guidance page and gave participants unique URLs so they did not see each other's annotations. I used a web annotation tool called Hypothes.is #REF. Participants could optionally add comments. Participants explained their annotations in the second interview.
+I asked participants to select and annotate 2 or 3 reporting items relevant to whatever they happened to be writing-up in the time between interviews. I created duplicates of the SRQR guidance page and gave participants unique URLs so they did not see each other's annotations. I used a web annotation tool called Hypothes.is [@Hypothes]. Participants could optionally add comments alongside their plus and minus signs. Participants explained their annotations in the second interview.
 
-As de Jong and Schellens note @dejongReaderFocusedTextEvaluation1997, the plus-minus method is advantageous over other nonspecific methods (reading think aloud #REF, and signalled stopping technique #REF) because it collect data without disturbing participants' natural reading process. Additionally, it was useful in this study as participants could make annotations in their own time, as part of their normal work pattern.
-
-Although the plus-minus task will detect text that participants consider incomprehensible, it cannot detect whether participants comprehend guidance correctly or whether they are able to apply it to their writing. To address this, I used a writing evaluation.
+As de Jong and Schellens note @dejongReaderFocusedTextEvaluation1997, the plus-minus method is advantageous over other nonspecific methods (like thinking aloud whilst reading) because it collects data without disturbing participants' natural reading process. Additionally, it was useful in this study as participants could make annotations in their own time, as part of their normal work pattern.
 
 #### Writing Evaluation
 
-In the plus-minus task described above, I asked participants to select a few reporting items relevent to what they happened to be writing at the time. For the writing evaluation, I asked participants to send me the paragraphs they had written before our next interview. I read the excerpts and noted reporting items (and sub items) as present or missing. 
+Although the plus-minus task will detect text that participants consider incomprehensible, it cannot detect whether participants comprehend guidance correctly or whether they are able to apply it to their writing. To address this, I used a writing evaluation. I asked participants to use the reporting items they labelled in the plus minus task when writing up their own research in between interview sessions, and to send me what they wrote before the second interview. I read the excerpts and noted reporting items (and sub items) as present or missing. 
 
 In the second interview, inspired by Davies et al.'s SQUIRE guidelines evaluation @daviesFindingsNovelApproach2016, I asked participants to identify parts of their writing pertaining to reporting items. When I considered an item (or sub item) to be missing, I asked the participant whether they had reported this information. If they felt they had, I asked them to point out where, and then explored any misinterpretations. If they had _not_ reported information, I asked why. 
 
@@ -133,21 +131,19 @@ Each method targeted multiple intervention components. For example, in the 5 sec
 * _Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for_, and
 * _Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications)_.
 
-Components that required participants to read text could be best explored in the plus minus-task, and I hoped the writing evaluation would reveal how participants interpreted and applied instruction. I hoped the think aloud would capture opinions on salient features, and the semi structured interviews would allow me to explore remaining, un-noticed, features. 
-
-I did not attempt to explore three intervention components. I did not expect participants to know about or comment on search engine optimization, especially as a large amount of optimization occurs in the website meta data and is thus invisible. Although I built the website so as to allow guideline developers to make incremental updates, I did not expect participants to comment on this either. Finally, because I did not want to edit the _meaning_ of the SRQR guidelines (just its layout), I did not want to add instructions aboutwhat to report when an item was not done, could not be done, or does not apply.
-
-In table @tbl-methods-for-components I detail the intervention components I expected each method to explore. The intervention componetns are defined in chapter {{< var chapters.defining-content >}}, where I also list the web elements related to each component.
+Components that required participants to read text could be best explored in the plus minus-task, and I hoped the writing evaluation would reveal how participants interpreted and applied instruction. I hoped the think aloud would capture opinions on salient features, and the semi structured interviews would allow me to explore remaining, un-noticed, features. In table Table 10.2 I detail the intervention components I expected each method to explore. The intervention components are defined in chapter 9, where I also list the web elements related to each component.
 
 {{< include data/__methods_table.md >}}
 
+I did not attempt to explore two intervention components. I did not expect participants to know about or comment on search engine optimization, especially as a large amount of optimization occurs in the website meta data and is thus invisible. Secondly, because I did not want to edit the _meaning_ of the SRQR guidelines (just its layout), I did not want to add instructions aboutwhat to report when an item was not done, could not be done, or does not apply.
+
 ### Data processing and analysis
 
-I recorded video and audio transcriptions using Microsoft Teams. Because automatic audio transcription was not always accurate, I corrected them by rewatching the videos. I de-identified transcripts by replacing names with participant codes, before uploading them to NVivo for coding @qsrinternationalptyltd.NVivo2020.
+I recorded video and audio transcriptions using Microsoft Teams. Because automatic audio transcription was not always accurate, I corrected them by rewatching the videos. I de-identified transcripts by replacing names with participant codes before uploading them to NVivo for coding @qsrinternationalptyltd.NVivo2020.
 
-I used my intervention ingredient table (see chapter {{< var chapters.defining-content >}}) as a framework to code transcripts line by line. I did this deductively; whenever a participant said anything about a component, I coded text to that component. Because some website features implemented multiple components (for example, an image can both educate and persuade), I sometimes coded text to multiple components. In this way, I created categories of codes, and each category was an intervention component.
+I used my intervention component table (see chapter {{< var chapters.defining-content >}} and appendix {{< var appendix.ict >}}) as a framework to code transcripts line by line. I did this deductively; whenever a participant said anything about a component, I coded text to that component. Because some website features implemented multiple components (for example, an image can both educate and persuade), I sometimes coded text to multiple components. In this way, I created categories of codes, and each category was an intervention component.
 
-Once all transcripts were coded, I grouped my categorised codes into deficiencies. If a single component was deficient in multiple ways, I created a code group for each deficiency. If there was disagreement about a deficiency (e.g., some people disliked a component, but others liked it), then I created sub-groups within each deficiency. Although positive feedback did not directly address my objective of identifying deficiencies, I kept these codes because they provided context and counter-evidence to deficiencies.
+Once all transcripts were coded, I grouped codes within categories into deficiencies. If a single component was deficient in multiple ways, I created a code group for each deficiency. If there was disagreement about a deficiency (e.g., some people disliked a component, but others liked it), then I created sub-groups within each deficiency. Although positive feedback did not directly address my objective of identifying deficiencies, I kept these codes because they provided context and counter-evidence to deficiencies.
 
 Some participants spontaneously suggested modifications. In these instances, I coded the proposed modification and the underlying deficiency. Because some participants spontaneously shared prior experiences using reporting guidelines I coded these using my list of barriers from {{< var chapters.workshops >}} as a framework. I decided to create new codes for any barriers not previously identified. 
 
