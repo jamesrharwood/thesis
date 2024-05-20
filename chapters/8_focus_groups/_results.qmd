@@ -76,7 +76,7 @@ Many stakeholders suggested including examples to help authors understand and ap
 
 Because examples from the published literature can be "difficult to [...] find and list", stakeholders suggested that examples could be "real or generated" by developers. Examples should be "easy to find" from within the guidance resources. Others suggested a searchable "bank" of examples, or ways to showcase "exemplar papers (e.g., badges)".
 
-Finally, stakeholders discussed the pros and cons of including item-specific design advice, procedural instructions, and appraisal advice, and the different ways of doing it (see [{{< var IFs.design-agnostic >}}](@sec-{{< var IFSecs.design-agnostic >}})).
+Finally, stakeholders discussed the pros and cons of including item-specific design advice, procedural instructions, and appraisal advice, and the different ways of doing it (see _{{< var IFs.design-agnostic >}}_).
 
 ##### {{< var IFs.rg-introductions >}}
 
@@ -94,7 +94,7 @@ Noting that it might not be obvious how or when to use guidance, participants su
 
 "Make guidance shorter" wrote one stakeholder, and "Make checklists shorter", wrote another, when considering how "guideline length [...] may put researchers off" as "long guidelines appear more complex and time consuming" and can challenge word limits.
 
-One stakeholder posited that guidelines could be shorter if developers were "realistic about what they ask for". Another challenged developers to "try using a guideline from start to finish and see how the manuscript ends up". Others wrote that guidelines could be shortened by linking out to content that wasn't directly related to reporting, like design or appraisal advice (see [{{< var IFs.design-agnostic >}}](@sec-{{< var IFSecs.design-agnostic >}})). Guidelines that are "very long or [have] lots of optional items" could be split into multiple versions (see STROBE as an example in [{{< var IFs.avoid-proliferation >}}](@sec-{{< var IFSecs.avoid-proliferation >}})).
+One stakeholder posited that guidelines could be shorter if developers were "realistic about what they ask for". Another challenged developers to "try using a guideline from start to finish and see how the manuscript ends up". Others wrote that guidelines could be shortened by linking out to content that wasn't directly related to reporting, like design or appraisal advice (see _{{< var IFs.design-agnostic >}}_). Guidelines that are "very long or [have] lots of optional items" could be split into multiple versions (see STROBE as an example in _{{< var IFs.avoid-proliferation >}}_).
 
 Others suggested presenting guidance online with non-essential content collapsed so that guidance appeared short but authors could choose to "display or hide" content. Stakeholders noted that "itemisation can make guidance more digestible, but can also make it harder to get the bigger picture" and makes text appear longer.
 
@@ -122,7 +122,7 @@ Reassurance seemed especially important to stakeholders when considering how to 
 
 ##### {{< var IFs.create-tools >}}
 
-Stakeholders noted that checklists may be easier to use if they are editable (see [{{< var IFs.ready-to-use >}}](@sec-{{< var IFSecs.ready-to-use >}})), and if authors could complete them with "the relevant text, rather than [the] page/section number" which can be frustrating to keep updated. Although one stakeholder, a publisher, noted that checklists completed with text are difficult to double check, and therefore it would be most useful to include the text _and_ the page number.
+Stakeholders noted that checklists may be easier to use if they are editable (see _{{< var IFs.ready-to-use >}}_), and if authors could complete them with "the relevant text, rather than [the] page/section number" which can be frustrating to keep updated. Although one stakeholder, a publisher, noted that checklists completed with text are difficult to double check, and therefore it would be most useful to include the text _and_ the page number.
 
 To aid writing, stakeholders suggested "templates for drafting" manuscripts, interactive forms and "writing tools (e.g., COBWEB)", "tools for creating figures and tables like PRISMA's flowchart generator", and tools for generating text, like TIDIER's tool for generating intervention description @TIDieRAuthorTool. However, one stakeholder warned that structured writing tools "provide opportunities for inclusion [of reporting items] but there is always the risk that they exclude more [important items] that are outside the boundaries of the template".
 
@@ -144,7 +144,7 @@ Stakeholders acknowledged that authors' needs may differ between tasks (e.g., dr
 
 One suggested way of doing this may be to "structure guidance using navigation menus and subheadings" so that "it is easy to find the information you need", making reporting guidelines faster to use and less overwhelming. Another noted that checklists can also be designed, citing TIDIER as "a nice example" that has  "integrated the intervention and placebo into one table" with the active intervention and placebo in adjacent columns.
 
-Dynamically hiding and showing content was floated here again (as it was in [{{< var IFs.keep-short >}}](@sec-{{< var IFSecs.keep-short >}})), with one stakeholder suggesting that users could "filter out" irrelevant content, to only see instructions for their task (e.g., planning, writing, reviewing) or specific to their study. This could be done with a "decision tree" or "branching questions" to determine specific features of the study ("e.g., a systematic review _with_ network meta-analysis _of_ individual participant data"). Answers to these questions could then be used to to "modify" items to create "personalised guidelines", or to generate a "customised reporting checklist" that includes all "main and relevant extension items".
+Dynamically hiding and showing content was floated here again (as it was in _{{< var IFs.keep-short >}}_), with one stakeholder suggesting that users could "filter out" irrelevant content, to only see instructions for their task (e.g., planning, writing, reviewing) or specific to their study. This could be done with a "decision tree" or "branching questions" to determine specific features of the study ("e.g., a systematic review _with_ network meta-analysis _of_ individual participant data"). Answers to these questions could then be used to to "modify" items to create "personalised guidelines", or to generate a "customised reporting checklist" that includes all "main and relevant extension items".
 
 Dynamic content was also seen as a favourable way to embed guideline extensions, with the aim of making them easier to discover without overwhelming the author. For example, noting that "some guidelines 'fit together'...e.g., PRISMA and PRISMA-Abstracts", stakeholders wrote that PRISMA-Abstracts could be "embedded" as collapsed content that interested authors could expand.
 
@@ -217,13 +217,13 @@ Most simply, stakeholders suggested “telling” or “encouraging” authors t
 
 Stakeholders suggested "including \[reporting guidelines\] in the university teaching and training curriculum and text books" so that students learn about them before running or writing up their first study.
 
-Stakeholders suggested creating reporting guidance for early research outputs like funding applications and protocols (as previously described in [{{< var IFs.create-early-guidance >}}](@sec-{{< var IFSecs.create-early-guidance >}})), and advertising resources through funders, ethics committees, and writing training programmes.
+Stakeholders suggested creating reporting guidance for early research outputs like funding applications and protocols (as previously described in _{{< var IFs.create-early-guidance >}}_), and advertising resources through funders, ethics committees, and writing training programmes.
 
 When considering whether authors may need reminders to use a reporting guideline for their next study, stakeholders suggested publishers and EQUATOR could use "email reminders" or strategies used by e-commerce sites "like when you buy something from an online business...then they work hard to gain your custom again".
 
 ##### {{< var IFs.endorse-enforce >}}
 
-Stakeholders suggested "encouraging more journals to endorse guidelines" and drew a distinction between endorsing reporting guidelines and promoting them on a website, social media, or email (see [{{< var IFs.promote >}}](@sec-{{< IFSecs.promote >}})). Endorsement was described as a long term commitment to recommend or encourage guideline use, requiring buy-in from organisational leaders, and possibly changes to policies, instructions, infrastructure, and workflows. Promotion, conversely, was described as ephemeral and does not require organisational changes.
+Stakeholders suggested "encouraging more journals to endorse guidelines" and drew a distinction between endorsing reporting guidelines and promoting them on a website, social media, or email (see _{{< var IFs.promote >}}_). Endorsement was described as a long term commitment to recommend or encourage guideline use, requiring buy-in from organisational leaders, and possibly changes to policies, instructions, infrastructure, and workflows. Promotion, conversely, was described as ephemeral and does not require organisational changes.
 
 Stakeholders drew another distinction between endorsement and enforcement, whereby enforcement meant reporting guidelines are "a requirement" or "condition". Enforcement was further divided into enforcing checklist completion or, noting that checklists may not always accurately reflect manuscript content, checking text for adherence to guidance.
 
@@ -233,7 +233,7 @@ When considering _who_ could enforce guidelines, stakeholders noted that reporti
 
 Stakeholders suggested that benefits may be more believable if there were evidenced. This could be "evidence that \[reporting guidelines\] improve the completeness and transparency of the output". For quantifiable benefits, the suggestion was to collect and report data on “acceptance rates, publishing speed, writing speed”. One stakeholder posited that "more transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study" and another suggested to "provide statistics about processing times of articles that follow / don’t follow reporting standards" would help evidence this claim and "emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification". However, some stakeholders were sceptical whether data on acceptance rates would show any benefit at all: "Likelihood of being accepted might not be heavily influenced – bad research well reported would still be rejected".
 
-For experiential benefits that cannot be quantified, stakeholders suggested providing case studies or testimonials (see [{{< var IFs.testimonials >}}](@sec-{{< var IFSecs.testimonials >}})).
+For experiential benefits that cannot be quantified, stakeholders suggested providing case studies or testimonials (see _{{< var IFs.testimonials >}}_).
 
 ##### {{< var IFs.apparent-priority >}}
 
@@ -249,7 +249,7 @@ Promotion could occur online. Most obviously, on stakeholder guidance web pages.
 
 "Conferences and workshops at institutions" were cited as channels to promote reporting guidelines offline, as were "seminars, webinars, and presentations" especially in "hard to reach countries/fields". These events were described as useful ways "to assist in the interpretation and use of the guidelines" and could be opportunities for "universities/funders/journals [to speak] together about the importance of reporting guidelines".
 
-To reach students, participants suggested that universities could include reporting guidelines in their curricula, learning materials, or through reporting champions (see [{{< var IFs.reporting-champions >}}](@sec-{{< var IFSecs.reporting-champions >}})).
+To reach students, participants suggested that universities could include reporting guidelines in their curricula, learning materials, or through reporting champions (see _{{< var IFs.reporting-champions >}}_).
 
 Stakeholders wrote that "promotion can begin before a guideline has been published so that researchers know about guidelines being developed" and suggested "the provision of a time buffer/phasing period for updating new reporting guidelines which would allow researchers to have information about these new guidelines".
 
