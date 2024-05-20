@@ -330,7 +330,7 @@ Participants expected citation instructions and most were not surprised to see t
 
 **Some participants did not know whether to cite the website or the publication**
 
-One participant said they had sought the original paper because they "wanted to add the citation" {{< var pilot.participants.PPT-MJ >}} to their article. Another asked "Do you reference the EQUATOR network or do you reference the original article?" {{< var pilot.participants.PPT-CW >}}
+One participant said they had sought the original paper because they "wanted to add the citation" {{< var pilot.participants.PPT-MJ >}} to their article. Another asked "Do you reference the EQUATOR network or do you reference the original article?" {{< var pilot.participants.PPT-CW >}}.
 
 **Some participants recommended the citation instruction be more prominent**
 

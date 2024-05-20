@@ -146,7 +146,7 @@ chapters:
   web-audit: 5
   workshops: 7
 counts:
-  EQUATOR_ideas: TODO
+  EQUATOR_ideas: '#TODO'
   EQUATOR_meetings: 7
   EQUATOR_staff: 6
   EQUATOR_staff_invited: 7
@@ -478,12 +478,12 @@ titles:
   bcw: Selecting the Behaviour Change Wheel framework
   defining_content: Defining intervention components and developing a prototype
   discussion: Discussion
-  focus_groups: 'Generating ideas to address factors limiting reporting guideline impact: focus groups with reporting guideline developers, advocates, and publishers'
+  focus_groups: 'Generating ideas to address barriers limiting reporting guideline impact: focus groups with reporting guideline developers, advocates, and publishers'
   introduction: Introduction
   pilot: 'Refining the intervention: qualitative study with authors'
   reflexivity: Reflections on starting my DPhil
-  survey_content: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
-  synthesis: 'What facilitators and barriers might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'
+  survey_content: 'What barriers might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
+  synthesis: 'What barriers might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'
   website_audit: Describing who visits EQUATOR's website for disseminating reporting guidelines, and how visitors use it
   workshops: 'Following the behaviour change wheel guide: Workshops with reporting guideline experts'
 website-github-repo-url: https://github.com/jamesrharwood/equator-guidelines-website

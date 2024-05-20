@@ -7,13 +7,6 @@ format:
         output-file: JH-chapter-focus-groups.docx
 ---
 
-::: {.callout}
-Known todos: 
-
-* Multi-panel figure not rendering nicely in docx format
-* I need to name and cite bias in methods section
-:::
-
 {{< include _introduction.qmd >}}
 
 {{< include _methods.qmd >}}

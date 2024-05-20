@@ -92,7 +92,7 @@ The result was a set of {{< var counts.barriers >}} factors that we felt needed 
 
 ::: {.callout}
 
-This needs unpacking. I should make it clear how many barriers came from chapters 3, 4 and 5, and how many new ones came up through discussion.
+This needs unpacking. I should make it clear how many barriers came from chapters 3, 4 and 5, and how many new ones came up through discussion. #TODO
 
 :::
 

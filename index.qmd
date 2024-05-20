@@ -36,7 +36,6 @@ Some of the tables and figures aren't rendering nicely yet, especially in Word f
 Known todos for DOCX output:
 
 * Title page 
-* Appendices should come after references
 * Table and figure formatting
 * Lists of tables & figures at start (necessary?)
 

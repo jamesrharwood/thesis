@@ -12,6 +12,8 @@ In the first iteration the heading was _"Research articles, made simple"_, but s
 
 All participants realised the website was about research. Some researchers realised the website was about writing within 5 seconds: 
 
+#TODO format quotes
+
 > "From what I have seen, I think probably the website should be about, uh, helping you try to discover....identify the guidelines that you will use for writing your study quickly." {{< var pilot.participants.PPT-BH >}}
 
 > "how to go about writing something" {{< var pilot.participants.PPT-SK >}}

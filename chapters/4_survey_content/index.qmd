@@ -7,15 +7,6 @@ format:
         output-file: JH-chapter-survey-content.docx
 ---
 
-::: {.callout}
-
-Known todos:
-
-* Some citations need fixing
-* I may add a reflexivity paragraph
-
-:::
-
 ## Background 
 
 In the previous chapter I describe my systematic search and thematic synthesis of qualitative research exploring authors' experiences of using reporting guidelines. I identified potential influences that may affect whether an author adheres to reporting guidelines. Many of the studies I included used mixed methods surveys and my search also identified purely quantitative survey studies. Despite not including these quantitative data in my qualitative synthesis, I decided the quantitative _questions_ were important to investigate for three reasons. 
