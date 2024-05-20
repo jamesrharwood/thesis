@@ -99,7 +99,7 @@ Consider linking to external design or appraisal tools instead.
 
 For each item, authors may need to know the following:
 
-* What needs to be reported – a brief description could go in all resources (checklists, templates etc) with a longer description in the full guideline document.
+* What needs to be reported – a brief description could go in all resources (checklists, templates etc.) with a longer description in the full guideline document.
 * Why the information is important, and to whom
 * Any circumstances where the item is not applicable and what to write
 * Indicate priority, and any circumstances that modify importance

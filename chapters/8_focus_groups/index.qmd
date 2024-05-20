@@ -1,5 +1,5 @@
 ---
-title: "Generating ideas to address factors limiting reporting guideline impact: focus groups with reporting guideline developers, advocates, and publishers"
+title: "Generating ideas to address barriers limiting reporting guideline impact: focus groups with reporting guideline developers, advocates, and publishers"
 format: 
     html:
         output-file: index.html

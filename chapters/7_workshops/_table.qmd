@@ -5,60 +5,9 @@
 **Techniques for establishing transferability** |
 *Thick description*                             | Although perhaps most relevant to ethnographic studies, I nevertheless drew on relevant aspects of ‘thick description’. I encouraged participants to describe ideas in detail and to document disagreement and context. Our aim was to document ideas in sufficient detail so they could be transferable across different reporting guidelines and stakeholders.
 **Techniques for establishing confirmability**  |
-*Reflexivity*                                   | I wrote down my own ideas before each workshop, and made notes at the end of each workshop to reflect on the process. I would invite participants to consider the worksheet on their own or in pairs. I did this so that everybody would engage with the task and have an opportunity to think before being influenced by others. We then discussed ideas as a group, with members agreeing, disagreeing, and bouncing off each other. I withheld my own ideas until the end of a session or task, whereupon I would invite discussion on any ideas that I felt hadn't been covered already. This allowed me to contribute my experience from previous PhD work, as an author, and as a software developer and give others a chance to discuss my thoughts, without biasing or narrowing discussion.  I also actively acknowledge, and reflect on, my own role in knowledge creation throughout this chapter.
+*Reflexivity*                                   | I wrote down my own ideas before each workshop, and made notes at the end of each workshop to reflect on the process. I would invite participants to consider the worksheet on their own or in pairs. I did this so that everybody would engage with the task and have an opportunity to think before being influenced by others. We then discussed ideas as a group, with members agreeing, disagreeing, and bouncing off each other. I withheld my own ideas until the end of a session or task, whereupon I would invite discussion on any ideas that I felt hadn't been covered already. This allowed me to contribute my experience from previous DPhil work, as an author, and as a software developer and give others a chance to discuss my thoughts, without biasing or narrowing discussion.
 *Audit trail*                                   | All worksheets were stored on the University One Drive account which performs automatic saves and versioning. This created an audit trail which meant I could look at how a worksheet changed over time as participants added and edited content.
 
 
-: Techniques for establishing trustworthiness. Based on Lincoln and Guba's Evaluative Criteria @lincolnNaturalisticInquiry1985 {#tbl-trust}{tbl-colwidths="[30,70]"}
+: Techniques for establishing trustworthiness. Based on Lincoln and Guba's Evaluative Criteria @lincolnNaturalisticInquiry1985 {#tbl-trust-workshops}{tbl-colwidths="[30,70]"}
 
-<!-- |**Techniques for establishing dependability**|
-|Inquiry audit Could do #ASK. "External audits involve having a researcher not involved in the research process examine both the process and product of the research study.  The purpose is to evaluate the accuracy and evaluate whether or not the findings, interpretations and conclusions are supported by the data."| -->
-
-<!-- 
-   * Data reduction and analysis products - including summaries such as condensed notes, unitized informaiton and quantitative summaries and theoretical notes
-    * Data reconstruction and synthesis products - including structure of categories (themes, definitions, and relationships), findings and conclusions and a final report including connections to existing literatures and an integration of concepts, relationships, and interpretations
-
-" Definition
-
-This is when data, analytic categories, interpretations and conclusions are tested with members of those groups from whom the data were originally obtained.
-
-This can be done both formally and informally as opportunities for member checks may arise during the normal course of observation and conversation.
-
-Typically, member checking is viewed as a technique for establishing to the validity of an account. 
-
-Lincoln and Guba posit that this is the most crucial technique for establishing credibility.  However, this technique is controversial.
-
-"
-
-* Peer debriefing
-
-Definition
-
-"It is a process of exposing oneself to a disinterested peer in a manner paralleling an analytical sessions and for the purpose of exploring aspects of the inquiry that might otherwise remain only implicit within the inquirer's mind" (Lincoln & Guba, 1985, p. 308)
-
-Purpose of debriefing
-
-through analytical probing a debriefer can help uncover taken for granted biases, perspectives and assumptions on the researcher's part
-through this process the researcher can become aware of his/her posture toward data and analysis
-this is an opportunity to test and defend emergent hypotheses and see if they seem reasonable and plausible to a disinterested debriefer
-provide the researcher with an opportunity for catharsis
-
-Not done: 
-
-* Prolonged Engagement
-* Persistent Observation
-* Triangulation
-* Peer debriefing
-* Negative case analysis
-* Referential adequacy
-
-kept personal notes 
-* Reflexivity: "Reflexivity is an attitude of attending systematically to the context of knowledge construction, especially to the effect of the researcher, at every step of the research process. 
-
-"A researcher's background and position will affect what they choose to investigate, the angle of investigation, the methods judged most adequate for this purpose, the findings considered most appropriate, and the framing and communication of conclusions" (Malterud, 2001, p. 483-484).
-
-The perspective or position of the researcher shapes all research - quantitative, qualitative, even laboratory science."
-
-Not done: 
-* triangulation - not done. 
-* Confirmability audit (basically same as inquiry audit) -->

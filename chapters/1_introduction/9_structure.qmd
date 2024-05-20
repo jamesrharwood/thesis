@@ -2,7 +2,7 @@
 
 **Chapter {{< var chapters.reflexivity >}} - {{< var titles.reflexivity >}}**
 
-I reflect on my background and my prior held opinions, and those of my supervision team, and how these may have influenced the direction of this thesis. 
+I reflect on my background, my prior held opinions, and those of my supervision team, and how these may have influenced the direction of this thesis. 
 
 **Chapter {{< var chapters.synthesis >}} - {{< var titles.synthesis >}}**
 
@@ -18,7 +18,7 @@ This chapter describes the characteristics and behaviour of visitors to the EQUA
 
 **Chapter {{< var chapters.bcw >}} - {{< var titles.bcw >}}**
 
-The next 4 chapters pertain to my second objective - identifying intervention changes. This chapter introduces the Behaviour Change Wheel, which is a framework for designing and defining behaviour change interventions. I explain how my thesis gained form at this point in time; my view of reporting guidelines as a system crystallised, and Charlotte Albury joined my supervision team as my plans took an unexpected qualitative turn. I wanted my thesis to accurately reflect the twists and turns of my DPhil, and so I introduce my chosen framework in this middle chapter instead of the introduction which may be more customary.
+The next 3 chapters pertain to my second objective - identifying intervention changes. This chapter introduces the Behaviour Change Wheel, which is a framework for designing and defining behaviour change interventions. I explain how my thesis gained form at this point in time; my view of reporting guidelines as a system crystallised, and Charlotte Albury joined my supervision team as my plans took an unexpected qualitative turn. I wanted my thesis to accurately reflect the twists and turns of my DPhil, and so instead of introducing my chosen framework at start of my thesis (which may customary), I introduce it in the middle to more accurately reflect my journey.
 
 **Chapter {{< var chapters.workshops >}} - {{< var titles.workshops >}}**
 
@@ -35,3 +35,7 @@ In this chapter, I bring together the outputs of the previous two chapters to cr
 **Chapter {{< var chapters.pilot >}} - {{< var titles.pilot >}}**
 
 In this chapter I address my final objective by refining the intervention in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors. 
+
+**Chapter {{< var chapters.discussion >}} - {{< var titles.discussion >}}**
+
+After summarising my findings and outputs, I reflect on the strengths and limitations of my approach, next steps, and the impact I hope my work will have on the scholarly publishing, the meta-research community, and implications for policy.

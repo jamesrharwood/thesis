@@ -3,7 +3,7 @@ format:
     html:
         shift-heading-levels-by: 2
 ---
-I explain how I created these figures in chapter {{< var chapters.redesign >}}. I have included them in this chapter to give context to the components in the table above.
+I explain how I created these figures in chapter {{< var chapters.defining-content >}}. I have included them in this chapter to give context to the components in the table above.
 
 <!-- JOURNEYS -->
 

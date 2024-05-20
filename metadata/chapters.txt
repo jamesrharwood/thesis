@@ -7,6 +7,5 @@ bcw
 workshops
 focus-groups
 defining-content
-redesign
 pilot
 discussion
