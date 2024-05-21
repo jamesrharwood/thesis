@@ -295,7 +295,6 @@ Make searching easy:
 
 Names reporting guidelines to make them easy to discover and find:
 
-<!-- #TODO check data. Is the point about acronyms being meaningless my addition? -->
 * Reporting guideline names could be descriptive, as acronyms may be meaningless to novice users.
 * Related reporting guidelines should use consistent names to show relationships (e.g., PRISMA and PRISMA-P appear more related than CONSORT and SPRIT).
 

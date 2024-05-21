@@ -10,11 +10,11 @@ count_deficiencies = importlib.import_module("chapters.10_pilot.data.count_defic
 participant_ids = importlib.import_module("chapters.10_pilot.data.participant_ids")
 
 
-participants = 16 #TODO
-focus_groups = 7 #TODO
-guideline_developers = 11 #TODO
-publishers = 3 #TODO
-academics = 2 #TODO
+participants = 16
+focus_groups = 7
+guideline_developers = 11
+publishers = 3
+academics = 2
 
 sub_idea_count = 0
 jh_ideas_count = 0
@@ -50,7 +50,7 @@ for key_behaviour in data.keys():
                 ICs_UNIQUE += 1
                 IC_INTERVENTION_FUNCTIONS.add(ingredient['IF'])
                 for bct in ingredient['BCT'].split(','):
-                    IC_BCTs.add(bct.strip()) #TODO some components have multiple BCTs listed. Either reduce to only one, or split on comma
+                    IC_BCTs.add(bct.strip()) 
                 ICs[ingredient['id']]['title'] = ingredient_name
                 ICs[ingredient['id']]['description'] = ingredient['now']
             if ingredient['done']:

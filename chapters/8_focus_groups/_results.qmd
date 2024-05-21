@@ -265,8 +265,6 @@ In addition to learning about a particular guideline, stakeholders suggested tha
 
 To gain experience in using reporting guidelines, stakeholders suggested students could develop "research protocols (as Bachelor or Master Theses) using reporting guidelines" and that these could "be assessed based on the compliance with the appropriate reporting guideline" in addition to "other criteria more related with methodology". To make this easier, stakeholders suggested structuring courses around reporting guideline items "for example: a course on [randomized controlled trials] covering every single SPIRIT or CONSORT item".
 
-<!-- #TODO consider moving "understanding that reporting is a stage of work" to the budgeting section? -->
-
 ##### {{< var IFs.updating >}}
 
 Stakeholders acknowledged that "researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed" and that "this information could be useful to guideline developers". Some stakeholders went further, expressing that guidance and websites should be updated "in response to user feedback or changes in the field". Others suggested that "developers could consult different user groups when creating guidance" and "engage as many health professions as possible" so that "professional cultural issues can be usefully accommodated."

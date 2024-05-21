@@ -64,9 +64,7 @@ Participants wanted more definitions within the guidance (some struggled with wo
 
 > "A qualitative evidence synthesis. What's that? Is that like a review?" {{< var pilot.participants.PPT-CW >}}
 
-#TODO decide whether to move to component related to reassurance?
-
-When reading a list of guidelines for different study types on the home page, one participant explained how not understanding terms like "cohort study" led her to feel anxious and worried. 
+When reading a list of guidelines for different study types on the home page, one participant explained how not understanding terms like "cohort study" led her to feel anxious and worried.
 
 > "Actually, I feel a little anxious because I'm not sure whether it shows that I am not good at something or I am ignorant or something. So when I saw all of these and, like half of them, I didn't know. I may feel anxious and maybe, like, lose confidence sometimes." {{< var pilot.participants.PPT-YD >}}
 
@@ -685,6 +683,3 @@ This component was not tested and no participants commented on this.
 ######## Barriers addressed: Researchers may not know what reporting guideline is their best fit
 
 Although participants commented on the links to related guidelines, they did not comment on the "if...then..." structure of these links.
-
-#TODO I need to check that the untested components are listed as such in the methods table and in the defining content chapter. 
-

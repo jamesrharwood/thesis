@@ -47,7 +47,7 @@ I will explain how I achieved these two concerns - diverse sample, and "real lif
 
 -   Paradigm: I am assuming there are multiple subjective realities and that these will differ between participants but also within the same participant, between time points/contexts. #-ASK: paradigm. Interpretivist? Constructivitist?
 
--   Approach: #TODO Framework? General Inductive Approach (but that seeks to establish a framework)?
+-   Approach: #-TODO Framework? General Inductive Approach (but that seeks to establish a framework)?
 
 \`\`\`
 
@@ -111,7 +111,7 @@ Experience breaks up into parts, so we used different methods:
 
 -   Also used interviews to explore prior experience of reporting guidelines and intervention components not covered by the methods above.
 
-I present an overview in box (#TODO). I provide detailed descriptions of methods below.
+I present an overview in box (#-TODO). I provide detailed descriptions of methods below.
 
 #### 5 second test
 
@@ -207,7 +207,7 @@ Hence writing evaluation, plus minus task, and think aloud all included an inter
 
     -   Also included topic guide so that I could ask questions about anything that did not come up naturally in think aloud. I would add to this topic guide over time, as it became evident that some intervention components were rarely mentioned, or as new considerations arose.
 
-    -   For example...patronization. #TODO
+    -   For example...patronization. #-TODO
 
 #### Data processing
 
@@ -243,7 +243,7 @@ Hence writing evaluation, plus minus task, and think aloud all included an inter
 
 #### Trustworthiness
 
-#TODO table
+#-TODO table
 
 -   Double coding with disinterested peer
 

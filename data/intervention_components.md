@@ -97,8 +97,6 @@ intervention_fn_ids: [enablement]
 
 ## Case studies/quotes for experiential benefits
 
-<!-- #TODO -->
-
 ## Consistent ordering of item content
 
 ## Structure item content with headings
@@ -119,8 +117,6 @@ intervention_fn_ids: [enablement]
 
 ## Indicate priority
 
-<!-- #TODO -->
-
 ## Describe where (in manuscript) items can be reported
 
 ## Instruct for null case
@@ -131,7 +127,7 @@ intervention_fn_ids: [enablement]
 
 ## Examples of reporting in different locations
 
-## Examples of well reported "imperfect" items #TODO
+## Examples of well reported "imperfect" items
 
 ## Links to external design advice
 

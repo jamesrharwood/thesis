@@ -50,7 +50,7 @@ Once participants had discussed all of their own ideas, I would reveal the ideas
 
 After each focus groups I made notes on how the session went and reflected on what I could have done differently. I made a copy of the ideas document and then turned the text in the ideas column white again, ready for the next group. Taking copies after each group created a paper trail of how the document had evolved after each session. I counted the number of additions so that I could monitor how many new ideas had been added and, therefore, whether I could stop data collection. 
 
-<!-- #STRETCH As a stretch goal, I may go through my audit trail and count the number of ideas added from each group, report these in the results section -->
+<!-- #TODO go through my audit trail and count the number of ideas added from each group, report these in the results section -->
 
 ### Data processing and analysis
 

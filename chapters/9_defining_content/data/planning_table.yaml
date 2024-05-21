@@ -197,11 +197,6 @@ Engage with (read) appropriate reporting guidance as early as possible:
         done: true
         evaluation_methods: think aloud
         id: no-better-rg
-      # Decision tools (see above):
-      #   before:
-      #   before_example:
-      #   now:
-      #   now_example:
   need-translations:
     ingredients:
       Provide translations:
@@ -263,9 +258,9 @@ Engage with (read) appropriate reporting guidance as early as possible:
         id: design-agnostic
       Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape:
         before: EQUATOR's website looked cluttered and visually unappealing. Guidance published in articles can look unappealing and dense. When justifying why authors should use reporting guidelines, guideline developers frequently referenced research waste, (lack of) transparency, bias, and poor design. 
-        before_example: See @fig-home-b4 #TODO judgemental quote 
+        before_example: See @fig-home-b4 
         now: A clean, simple interface for the home page and guidance pages. Text makes less use of judgemental phrases and fewer references to the negative consequences of poor reporting.
-        now_example: See @fig-home #TODO reassuring quote
+        now_example: See @fig-home 
         future: Further work on tone of voice
         IF: Coercion (Removal of)
         BCT: Remove aversive stimulus
@@ -285,11 +280,10 @@ Engage with (read) appropriate reporting guidance as early as possible:
   feel-not-my-job:
     ingredients:
       Address communications to authors:
-        before: It wasn't immediately clear whether the EQUATOR guideline website was aimed at authors, editors, reviewers, or all. 
-        # TODO are there any examples of "articles should include..." or "studies should report...", examples where the author isn't explicitly mentioned.
-        before_example: #TODO quote in 3rd person
+        before: It wasn't always clear whether reporting guidelines and the EQUATOR Network website were aimed at authors, editors, reviewers, or all. 
+        before_example: 
         now: All resources and website copy are directed predominantly at authors.
-        now_example: #Quote in 1st person
+        now_example: 
         IF: Persuasion
         BCT: Instruction on how to perform a behaviour
         done: true
@@ -388,14 +382,6 @@ Apply reporting guidance to writing:
         id: design-benefits
   care-about-benefits:
     ingredients:
-      # Create new benefits that are more meaningful e.g., by offering recognition of good reporting through a certification service:
-      #   before: Benefits to the scientific community were often described. Personal benefits were rarely described, suggesting they aren't always considered by developers.
-      #   before_example: #TODO quote
-      #   now: No new benefits created
-      #   now_example:
-      #   hypothetical: EQUATOR could run a certification service. Certified articles could be attractive to journals, or could be used as examples of good reporting (and therefore attract attention)
-      #   IF: Incentivization
-      #   BCT:  Incentive and Reward (outcome) 
       Include testimonials from research users who benefit from complete reporting:
         before: Testimonials not included in reporting guidelines.
         before_example:
@@ -419,9 +405,9 @@ Apply reporting guidance to writing:
     ingredients:
       Use plain language:
         before: Although developers aspire to write clearly, authors may misinterpret guidance or fail to understand it completely.
-        before_example: #TODO quote
+        before_example: 
         now: SRQR is edited to use plainer language.
-        now_example: #TODO quote
+        now_example: 
         future: Continue to make language easier and easier to understand.
         IF: Enablement
         BCT: Instruction on how to perform the behaviour
@@ -441,9 +427,9 @@ Apply reporting guidance to writing:
         id: define-terms
       Use consistent terms:
         before: Guidelines may use different terms to refer to the same thing (or the converse - use the same term to refer to different things). A single guideline may do this too.
-        before_example: #TODO example?
+        before_example:  
         now: SRQR uses consistent terms across items.
-        now_example: #TODO example?
+        now_example: 
         future: Repeat for other reporting guidelines.
         IF: Enablement
         BCT: Instruction on how to perform the behaviour
@@ -559,7 +545,7 @@ Apply reporting guidance to writing:
         now_example: See @fig-item
         IF: Education
         BCT: Instruction on how to perform the behaviour
-        done: true #TODO really?
+        done: true
         evaluation_methods: false
         id: item-what-to-describe-when-not-done
       Provide examples of reporting "imperfect" items:
@@ -826,7 +812,7 @@ Apply reporting guidance to writing:
         done: true
         evaluation_methods: interview
         id: explain-when-structure-not-prescribed
-      Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated (see _Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated_): #TODO replace all see above with specific item numbers or text
+      Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated (see above): 
         before:
         now:
         before_example:
@@ -957,7 +943,7 @@ Apply reporting guidance to writing:
         id: reassure-just-guidelines
   feel-patronized:
     ingredients:
-      Create spaces for authors to discuss reporting guidelines with others (see _Create spaces for authors to discuss reporting guidelines with others_): #Create discussion spaces for authors to voice disagreements and contribute to revisions (see above):
+      Create spaces for authors to discuss reporting guidelines with others (see above):
         before:
         now:
         before_example:
@@ -1002,5 +988,3 @@ Repeat engagement with reporting guidelines for subsequent studies:
         duplicate: true
         evaluation_methods: 
         id: prompts-to-use-early
-
-#TODO: IDs for duplicates
