@@ -51,8 +51,6 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 * Instead, give options for where items can be reported.
 * Include options beyond the article body where authors can report information, like tables, figures, or appendices be.
 
-<!---#ASK: Is this an example of _not_ including an Education intervention?-->
-
 ######## Who could do this: Guideline developers
 
 ######## Barriers addressed: 
@@ -67,8 +65,6 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 ### 2: Keep reporting guidelines agnostic to design choices{#sec-design-agnostic}
-
-<!-- #ASK Olga: is this negative coercion, negative education? -->
 
 Ask authors to describe methods transparently without making assumptions about, or prescribing, methods or design choices. For example, an instruction to "describe how you determined your sample size" may be more helpful than "report your sample size calculation" for authors who encounter checklists at submission and did not perform a sample size calculation before collecting data.
 

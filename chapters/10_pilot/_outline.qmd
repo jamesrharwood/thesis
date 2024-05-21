@@ -41,11 +41,11 @@ I will explain how I achieved these two concerns - diverse sample, and "real lif
 
 \`\`\`
 
-#ASK where should this go?
+#-ASK where should this go?
 
 ### Qualitative approach and research paradigm
 
--   Paradigm: I am assuming there are multiple subjective realities and that these will differ between participants but also within the same participant, between time points/contexts. #ASK: paradigm. Interpretivist? Constructivitist?
+-   Paradigm: I am assuming there are multiple subjective realities and that these will differ between participants but also within the same participant, between time points/contexts. #-ASK: paradigm. Interpretivist? Constructivitist?
 
 -   Approach: #TODO Framework? General Inductive Approach (but that seeks to establish a framework)?
 
@@ -65,7 +65,7 @@ I will explain how I achieved these two concerns - diverse sample, and "real lif
 
     -   discipline
 
--   Why did I seek this variation? I sought this variation because my thematic synthesis (chapter {{< var chapters.synthesis >}}) identified primary language and experience in research and academic writing. My synthesis highlighted that less experienced researchers may have most to benefit from reporting guidelines, and yet face the most barriers when trying to use them (quote and #REF). I sought participants from China because my service evaluation of the EQUATOR website found a large proportion of website visitors are in China, but little research has sought feedback from Chinese authors (#REF). I hoped this strategy would help me capture the experiences of authors that visit EQUATOR's website currently *and* authors from groups who I expect to face additional barriers, but whose voices have rarely been sought.
+-   Why did I seek this variation? I sought this variation because my thematic synthesis (chapter {{< var chapters.synthesis >}}) identified primary language and experience in research and academic writing. My synthesis highlighted that less experienced researchers may have most to benefit from reporting guidelines, and yet face the most barriers when trying to use them (quote and REF). I sought participants from China because my service evaluation of the EQUATOR website found a large proportion of website visitors are in China, but little research has sought feedback from Chinese authors (REF). I hoped this strategy would help me capture the experiences of authors that visit EQUATOR's website currently *and* authors from groups who I expect to face additional barriers, but whose voices have rarely been sought.
 
 -   Recruitment: Twitter, Penelope.ai, Contacting researchers.
 

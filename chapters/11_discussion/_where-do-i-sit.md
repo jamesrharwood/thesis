@@ -2,7 +2,7 @@
 
 Many of the problems being tackled by open science enthusiasts are, at their core, behaviour change projects, but they are not treated as such. When attending conferences I have found myself wondering how behaviour change could be applied to other projects. Often the intended behaviour might be implicit, or poorly defined. Projects may jump to a solution without considering all options or how the solution is intended to work. Often these solutions are whatever is most familiar (e.g., education or training course), most rewarding to the project team (a publication), determined by funding (E.g., it might be easier to get funding to develop a _thing_ rather than to run a service). 
 
-Some projects focussed on a particular tool rather than behaviour (#REF octopus, RCT report card). This might be because tools are easier to fund. Some researchers were fixated on one particular intervention type - often regulation. 
+Some projects focussed on a particular tool rather than behaviour (REF octopus, RCT report card). This might be because tools are easier to fund. Some researchers were fixated on one particular intervention type - often regulation. 
 
 I was excited to attend the Wellcome Trust, 2022 conference Reproducibility, Replicability and Trust in Science. Its theme was  "to position the challenge of reproducibility and replicability as a behaviour-change problem". Yet of the scores of presentations and posters, I was the only researcher using behaviour change theory. This leaves me feeling that although behaviour change theory is well established in health research, applying it to behaviour change in research systems is not commonplace. 
 

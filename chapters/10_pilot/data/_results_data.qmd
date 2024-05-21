@@ -412,11 +412,7 @@ Two participants questioned why the home page referred to "guidelines" _and_ "re
 
 ## remove-patronizing-language
 
-No participants mentioned feeling patronized.
-
-#ASK I could mention how a lady at Oxford's RDS did describe the comments as patronizing. This anecdote could go in the discussion? 
-
-When asked, one participant described the tone as "suitable" and said "simple comments" and "explaining like this, \[is not patronizing\] because I also need a lot to learn." {{< var pilot.participants.PPT-YD >}}
+No participants mentioned feeling patronized. When asked, one participant described the tone as "suitable" and said "simple comments" and "explaining like this, \[is not patronizing\] because I also need a lot to learn." {{< var pilot.participants.PPT-YD >}}
 
 ## centralised-hosting
 

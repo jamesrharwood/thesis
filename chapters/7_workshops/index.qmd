@@ -6,7 +6,6 @@ format:
     docx:
         output-file: JH-chapter-workshops.docx
 ---
-#ASK are these workshops or focus groups?
 
 ##  Introduction
 
@@ -151,12 +150,6 @@ Using a framework helped participants to systematically consider a full range of
 We may also have been limited by group-think @parrilloGroupthink2008. All workshop participants had worked for the EQUATOR Centre for many years and had many shared opinions and experiences. Including other stakeholders in these workshops would have helped address this but would have been impractical to coordinate. To mitigate this, I decided to gather input from guideline developers, publishers, and authors through separate pieces of work which I describe in chapters {{< var chapters.focus-groups >}} and {{< var chapters.pilot >}}.
 
 In conclusion, by working through Michie et al's suggested approach to applying the Behaviour Change Wheel @michieBehaviourChangeWheel2014 in a series of workshops with members of the EQUATOR Network, we defined our target behaviour as _"Researchers should use reporting guidance as early as possible in their research pipeline. They will do this for every piece of research, at their place of work, on their own but in the context of collaboration"_. We broke this down into two sub behaviours: 1) engage with reporting guidelines as early as possible (ie access and read them) and, 2) apply the guidance to their writing as intended by the guideline developer. We identified {{< var counts.barriers >}} factors that could affect this target behaviour. We favoured Enablement, Education, Training, Persuasion, Modelling, and Environmental Restructuring as intervention functions, and we favoured Environmental Planning, Communication, Service Provision, and Guidelines as policy categories. I identified 39 behaviour change techniques that could be used, and we decided that our focus (and the focus of the rest of my thesis) should be on redesigning reporting guidelines and the EQUATOR Network home page.
-
-<!-- * Would have been better if all participants had been familiar with BCW before hand
-* Group dynamics - some may have held their tongue?
-* I could have recorded each session and analysed transcripts. Perhaps I missed some things that were discussed but not added to the document? No recollection of that happening though.  -->
-
-<!-- #ASK: Integration with prior work, implications, transferability, and contribution(s) to the field. Seems unnecessary for this chapter? -->
 
 {{< pagebreak >}}
 

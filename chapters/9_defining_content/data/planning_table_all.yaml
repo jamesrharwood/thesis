@@ -9,14 +9,14 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example: See @fig-home, @fig-rg-intro
         future: Advise stakeholders on how to introduce RGs.^*^
         IF: Education
-        BCT: #ASK
+        BCT: #-ASK
       Differentiate resources and advice aimed at different tasks (writing vs designing vs appraising):
         before: No clear instruction on what tasks RGs can and cannot be used for.
         before_example: See @fig-home-b4, @fig-db-b4, @fig-rg-intro-b4
         now: Clear instruction and differentiation of resources
         now_example: See @fig-home, @fig-rg-intro
         IF: Education
-        BCT: #ASK
+        BCT: #-ASK
   what-rgs-exist:
     ingredients:
       Instruct authors to cite reporting guidelines:
@@ -25,7 +25,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: Consistent instruction to cite reporting guidelines
         now_example:
         IF: Education
-        BCT: #ASK
+        BCT: #-ASK
       Encourage journals, ethics committees, funders, and other stakeholders to endorse reporting guidelines:
         before: Many journals endorsed reporting guidelines
         before_example:
@@ -41,7 +41,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now_example:
         hypothetical: All stakeholders could run promotional campaigns
         IF: Education
-        BCT: #ASK not a BCT? Could include multiple bcts
+        BCT: #-ASK not a BCT? Could include multiple bcts
       Install reporting champions; individuals that promote reporting guidelines within their organisation or peer group:
         before: Champions may exist informally
         before_example:
@@ -211,13 +211,13 @@ Engage with (read) appropriate reporting guidance as early as possible:
         now: All resources and website copy are directed predominantly at authors.
         now_example: #Quote in 1st person
         IF: Persuasion
-        BCT: Instruction on how to perform a behaviour #ASK not self as role model
+        BCT: Instruction on how to perform a behaviour #-ASK not self as role model
       Communicate why reporting is the responsibility of the author and not an editor or reviewer:
         before: Because it wasn't clear how reporting guidelines and checklists should be used, they (especially checklists) could appear as administrative tasks that should be the responsibility of the editor or reviewer. 
         before_example:
         now: Clearer description of how guidelines and tools should be used and who should use them. #DECIDE
         now_example: See @fig-rg-intro
-        BCT: Instruction on how to perform a behaviour #ASK
+        BCT: Instruction on how to perform a behaviour #-ASK
   feel-not-a-job:
     ingredients:
       Educate about writing as a process:

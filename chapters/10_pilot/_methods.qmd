@@ -31,7 +31,7 @@ My recruitment advert is in appendix #TODO. The advert said I was "looking to sp
 
 All channels invited authors to signal their interest by email. To check applicants' eligibility as qualitative researchers, I asked them to describe their research methods in a few sentences over email. I excluded applicants if their descriptions made no reference of a qualitative method.
 
-I sent all eligible applicants the participant information sheet and consent form. I used JISC Online Surveys #REF to obtain consent and ask the following demographic questions:
+I sent all eligible applicants the participant information sheet and consent form. I used JISC Online Surveys @OnlineSurveys to obtain consent and ask the following demographic questions:
 
 * How many years have you done research?
 * Please describe your research in a couple of sentences

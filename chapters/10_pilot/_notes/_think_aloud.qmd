@@ -1,6 +1,6 @@
 Notes from Boren and Ramey 2000
 
-First described by Ericsson and Simon in 1984 (#REF). Developed within cognitive psychology.
+First described by Ericsson and Simon in 1984 (REF). Developed within cognitive psychology.
 
 Verablizations "as indicators of what information was heeded and in what order, a sort of time stamp of the contents of short-term memory (STM)."
 

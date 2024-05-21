@@ -187,7 +187,7 @@ I decided not to make an logic model:
  - @millsAdvancingComplexityScience2019 argues logic models are limited when it comes to capturing complexity and variation. Instead, they argue logic models can usefully depict _complicated_ interventions with lots of components, but it is difficult to make one where purposeful flexibility allows (and encourages) components/roles/relationships to differ across contexts/implementations.
  - Type 4 models address this by being less detailed than type 3. They become more abstract, turning more into guiding principles. 
  - In abstraction, type 4 models replaces concrete lists of inputs, outputs, actions for abstract principles. 
- - e.g., PARIHS #REF Hack et al. which explains success/failure of a project in terms of evidence, context, and facilitation.
+ - e.g., PARIHS REF Hack et al. which explains success/failure of a project in terms of evidence, context, and facilitation.
  I could still do this when I come to publish, as it might be a useful, digestible way to present guiding principles.
 
 #### Focussing on author behaviour 
