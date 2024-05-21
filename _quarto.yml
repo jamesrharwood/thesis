@@ -9,7 +9,7 @@ crossref:
   sec-prefix: Chapter
 project:
   title: "Thesis"
-  type: website
+  type: book
   output-dir: output
   execute-dir: project
   preview:
