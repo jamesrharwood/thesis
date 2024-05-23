@@ -1,0 +1,72 @@
+## Appendix {{< var appendix.pilot_emails >}}: Emails for author interviews {.appendix #app-pilot-emails .unnumbered}
+
+### Email 1: recruitment
+
+Title: Seeking feedback on a website for researchers
+
+Dear [NAME]
+
+I am James Harwood, a researcher at the University of Oxford.
+
+We are looking for volunteers to give feedback on a website for people doing research to help us understand what works and what might be improved.
+
+We would love to hear from you if:
+•	You are currently doing qualitative research as part of your job or studies
+•	You are conducting, or writing-up a study
+
+You will be given $50 for attending two, 45-minute online interviews and completing a short reading and writing task in between. Participants from the UK will be given a £50 Amazon voucher instead.
+
+Please contact james.harwood@stx.ox.ac.uk to take part or ask questions. You can read the full information for participants here.
+
+With many thanks,
+
+James
+
+### Email 2: consent
+
+Title: Feedback on a website for researchers - consent
+
+Dear [NAME],
+
+Thank you for your interest in taking part in this study. We would love to hear your views. 
+
+Please could you:
+1.	Read the information for participants
+2.	Complete this informed consent form
+3.	Suggest some days and times for a 45 minute online interview within the next month. Please include your time zone.
+4.	Suggest some days and times for a second 45-minute online interview, within a month after the first. You will need enough time between interviews to spend some time working on your own research project. 
+
+Many thanks, 
+
+James
+
+### Email 3: scheduling
+
+Title: Feedback on a website for researchers - confirmation
+
+Dear [NAME],
+
+Thank you for filling in the consent form and for sending those dates. I have sent you two calendar invites with the links for joining the Zoom meeting. 
+
+Let me know if you need to reschedule. 
+
+Many thanks, 
+
+James
+
+### Email 4: confirmation of second interview
+
+Title: Feedback on a website for researchers - confirmation of second interview
+
+Dear [NAME],
+
+Thank you for sharing your opinions with me today. As discussed, items [insert item numbers] apply to the work you plan on doing before we next meet. As you read the guidance and write your work, please annotate the website with “+” or “-“ signs whenever you feel positive or negative towards it .
+
+Please share your writing with me before we next speak. It can be a draft or work in progress. Nobody else will see it. 
+
+We will talk about your writing, annotations, and experiences using the website at our next meeting at [insert time and date].
+
+Many thanks, 
+
+James
+

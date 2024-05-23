@@ -27,7 +27,7 @@ I recruited through four channels:
 3. I invited researchers from a research consultancy in the Philippines.
 4. I wrote to Chinese researchers who had published qualitative research and about the experience of doing qualitative research in China, and I asked them to share my recruitment advert. One of the researchers I contacted posted the advert on internet forums used by Chinese students. 
 
-My recruitment advert is in appendix #TODO. The advert said I was "looking to speak with people performing qualitative research about a new website". It did not specify what the website was about, who it was for, or whether it would help with their job, because I wanted authors to be naïve when first viewing the website. This mimics the real world, where authors might be sent to EQUATOR's website by a journal with only minimal information on what to expect from it.
+My recruitment advert is in appendix {{< var appendix.pilot_recruitment_image >}}. The advert said I was "looking to speak with people performing qualitative research about a new website". It did not specify what the website was about, who it was for, or whether it would help with their job, because I wanted authors to be naïve when first viewing the website. This mimics the real world, where authors might be sent to EQUATOR's website by a journal with only minimal information on what to expect from it.
 
 All channels invited authors to signal their interest by email. To check applicants' eligibility as qualitative researchers, I asked them to describe their research methods in a few sentences over email. I excluded applicants if their descriptions made no reference of a qualitative method.
 

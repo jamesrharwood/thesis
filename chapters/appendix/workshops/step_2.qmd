@@ -1,0 +1,71 @@
+## Appendix {{< var appendix.workshops_step_2 >}}: Step 2: Select the Target Behaviour
+
+*Instructions: Select the target behaviour*
+
+*Generate a long list of candidate target behaviours that could bring about the desired outcome. This list can include the behaviour of other people too e.g., editors, guideline developers.*
+
+*E.g.:*
+
+-   *Keep sterile items in packaging until use*
+-   *Wash patients as appropriate*
+-   *Clean wards, toilets, offices, theatres*
+-   *Clean hands with soap*
+-   *Clean hands with alcohol gel*
+
+SK, CS
+
+-   Supervisors must encourage and endorse use of guideline
+-   Authors could ask for help when writing
+-   RG developers could respond to feedback / help authors
+
+(JdB, PL)
+
+-   Find appropriate guidance/guidelines
+-   Read guidance (especially E&E) in full
+-   Use guidance when planning
+-   Use guidance when drafting (subheadings/comments)
+-   Peer reviewers check articles against guidelines, tell authors what is missing, insisting missing items are added
+-   Editors & journal staff check articles against guidelines, tell authors what is missing, insisting missing items are added. Additionally, check and support peer reviewer behaviours
+
+JH
+
+-   Study guidance (in an abstract way)
+-   Considering guidance when planning
+-   Drafting - Reporting guidance content in funding proposals/drafting
+-   Editing - Checking articles against guidance before submitting to a journal
+-   Reviewing – checking articles written by someone else against guidance (editor, peer reviewer , co-author)
+
+Retrospective thoughts:
+
+-   JH: Could have included the behaviour of funders e.g. requesting guidance adherance
+-   SK: Could have specified using guidance for writing protocols, but not everyone writes a protocol
+-   JH: We could distinguish between using an E&E and using a checklist. E.g. “Authors should use E&E document when drafting” v.s. “Authors should use checklist when drafting”. Or maybe distinguishing between checklist & E&E can come in step 4.
+
+*Instructions: Prioritise the behaviours.*
+
+-   *Impact: How much of an impact changing the behaviour will have on the desired outcome*
+-   *Likelihood: How likely it is that the behaviour can be changed (think about the capability, opportunity, and motivation to change of those performing the behaviour)*
+-   *Spill-over: How likely it is that the behaviour (or group of behaviours) will have a positive or negative impact on other, related behaviours*
+-   *Measurement: How easy it will be to measure the behaviour*
+
+*Key: Unacceptable (1), unpromising but worth considering (2), promising (3), very promising (4)*
+
+|                                                                                                         |            |                |                |                 |
+|---------------------------------------------------------------------------------------------------------|------------|----------------|----------------|-----------------|
+| **Potential target behaviour**                                                                          | **Impact** | **Likelihood** | **Spill-over** | **Measurement** |
+| Supervisors encourage use of guidance                                                                   | 3,4,4,4,2  | 2,2,3,2,2      | 4,4,4,3,4      | 4,1,2,2,1       |
+| Authors ask for help when writing                                                                       | 3,3,3,4    | 2,3,3,3        | 3,4,3,3        | 4,2,2,2         |
+| Find appropriate guidance                                                                               | 4,3,4,3    | 3,3,3,2        | 3,2,4,2        | 4,3,3,2         |
+| Read/study guidance in full (esp E&E)                                                                   | 4,3,3,2    | 2,2,3,2        | 4,2,3,2        | 1,1,1,2         |
+| Consider guidance when planning                                                                         | 3,3,3,3    | 2,2,2,3        | 3,3,3,3        | 1,2,1,2         |
+| Report guidance when writing funding applications                                                       | 3,3,3,3    | 3,2,3,3        | 3,3,3,3        | 4,3,4,3         |
+| Report guidance when drafting (subheadings/comments)                                                    | 4,3,4,4    | 3,3,3,2        | 3,1,3,2        | 4,2,2,3         |
+| Check submitted articles against guidance & insist on missing items being added (peer reviewer)         | 4,4,4,3    | 3,2,4,2        | 4,1,4,3        | 4,4,3,3         |
+| Check submitted articles against guidance & insist on missing items being added (editor)                | 4,4,4,3    | 3,2,4,2        | 4,1,4,3        | 2,1,2,3         |
+| Check article drafts against guidance during preparation and insist missing items are added (co-author) | 4,4,4,2    | 2,2,3,2        | 4,1,3,2        | 1,1,2,2         |
+
+: Behaviours scored for impact, likelihood, spill-over, and measurement
+
+*Target behaviour selected:*
+
+No clear winner so we decided to take a few different target behaviours on to step 3.

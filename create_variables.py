@@ -1,4 +1,4 @@
-import yaml, os, importlib
+import yaml, os, importlib, string
 
 from collections import defaultdict
 
@@ -153,14 +153,27 @@ PARTICIPANT_IDS = {key: f"({value})" for key, value in participant_ids.PARTICIPA
 pilot = {'participants': PARTICIPANT_IDS}
 counts['pilot'].update({'participants': len(PARTICIPANT_IDS.keys())}) #type: ignore
 
-APPENDIX = {
-    'search': 'A',
-    'barriers': 'B',
-    'ideas': 'C',
-    'advert': 'D',
-    'ict': 'E',
-    'deficiencies': 'F',
-}
+APPENDIX = [
+    'search',
+    'workshop_stage_1',
+    'workshop_stage_2',
+    'workshop_stage_2',
+    'workshop_stage_4',
+    'workshop_stage_5',
+    'workshop_stage_6',
+    'workshop_stage_7',
+    'workshop_stage_8',
+    'barriers',
+    'ideas',
+    'ict',
+    'pilot_recruitment_image',
+    'pilot_participant_information',
+    'pilot_emails',
+    'pilot_interview_schedule',
+    'deficiencies',
+]
+
+APPENDIX = {appendix: string.ascii_uppercase[idx] for idx, appendix in enumerate(APPENDIX)}
 
 with open(filename, 'r+') as file_:
     variables = yaml.safe_load(file_)

@@ -1,0 +1,84 @@
+## Appendix {{< var appendix.workshops_step_3 >}}: Step 3: Specify the Target Behaviour
+
+_Instructions: Specify the target behaviour_
+
+* Who needs to perform the behaviour? 
+* What does the person need to do differently in order to achieve the desired change? 
+* When will they do it? 
+* Where will they do it? (Research institute, office etc).  
+* How often will they do it? 
+* With whom will they do it? 
+
+**CS**
+
+Lead researcher use RGs (and other EQUATOR resources) to plan research, when planning and again throughout the project, for each piece of research, with collaborators.  
+
+**MS**
+
+First authors will use RG finder tools to find appropriate RG when they begin drafting a manuscript, for each paper they write, on their own with collaborators. 
+
+Lead researcher use RG to write funding applications, when applying for funding, for each applications, with collaborators.  
+
+ECRs seek external help to support their writing, when drafting papers (until they feel confident enough to not need help), every paper, on their own, with coauthors.  
+
+**JdB**
+ 
+First authors need to use RGs to plan a manuscript before starting to write, for every paper, with co-authors support and approval 
+
+Peer reviewers must request missing items, for each manuscript they review, with support from editors.
+
+**PL**
+
+Reviewers must use RGs when they check every manuscript for content, they must report about RGs use (or non-use, misuse) in their review reports, the place they do that is journals and liaise with editor, with journals requiring it first. 
+
+Co-authors should check RGs content items in all manuscripts they participate, during drafting/editing, on their own in context of collaborators.  
+
+All authors, editors, reviewers should read the E&E at least once in their life time 
+
+**SK**
+
+Authors should read E&E (not just the checklist), as early as possible in the research pipeline (ideally before writing), for each study and at multiple points within each study, on their own but in collaborative context 
+
+**JH**
+
+First authors should fully report each item when writing, as early as possible in the writing process, for each piece of research they write.
+
+Co-authors should add missing items when reviewing research, as early as possible in editing process, for every piece of research they are involved in. 
+
+Peer reviewers should request missing items when reviewing research, for every article they review.
+
+Research teams should consider items when planning their research reporting, for each piece of research they plan.
+
+**General themes**
+
+There were some themes that came out of this step & the previous one. 
+
+* Authoring – the earlier the better. Use E&E over and above the checklist 
+* Co-authoring – use to check work you are involved with 
+* Reviewing – use to review reporting of work you aren’t involved with 
+* Planning reporting – use to plan how you will report something 
+* Asking for help – seeking help and advice with writing 
+ 
+**Retrospective thoughts:**
+
+Are we too quick to talk about checklists & E&Es. I know they exist, but perhaps there is a better format to deliver guidance. I used the abbreviation RG for convenience (which we all probably read as Reporting Guideline) but perhaps I should have used “reporting guidance” instead to clarify that we are still talking about the conceptual guidance, not a particular document.  
+
+Is “report each item” actually too strict? Some guidelines specify that authors need not report every item (e.g.GRIPP2) but still want authors to consider each item. I suppose other guideline groups are more strict and want every item to be reported, even if it didn’t happen or isn’t very important to that particular study. Maybe we re-word to “adhere to guidance” or “report all necessary items”. 
+
+How early can RGs be used, in reality? Is design stage too early? Is there a sweet spot?
+
+**Proposed revision:**
+
+Problem behaviour: We want research teams to adhere to guidance when reporting their work.
+
+Target behaviour:
+
+Researchers should use reporting guidance as early as possible in their research pipeline. They will do this for every piece of research, at their place of work, on their own but in the context of collaboration.
+
+Justification: 
+
+We’ve distinguished between considering guidance and actually writing. I know these are two separate behaviours but they are so coupled that I think we can combine them.  
+
+“As early as possible” – keeping this vague. It might differ between guidelines. The main point is that this needs to happen way before editing/submission.  
+
+We’ve removed mention of E&Es and checklists. Because maybe in our blue sky thinking we want to do away with these documents as neither do a great job of communicating guidance.

@@ -154,8 +154,6 @@ Dynamic content was also seen as a favourable way to embed guideline extensions,
 
 When first introducing reporting guidelines stakeholders suggested telling authors what reporting guidelines are, "when and how best to use" them, and what benefits to expect. This information could go wherever authors are advised to use reporting guidelines (like like journal instruction pages, registries), EQUATOR's website, social media campaigns, at the start of the guidelines, and could go at the beginning of checklists too "in case people don't read the whole [guideline] paper". This introductory text could be "short, sweet, and to the point". Benefits could be even more prominent by putting them "in a box, or [by using] font or positioning".
 
-<!-- #TODO: check that personal benefits are included elsewhere. E.g., Researchers report caring more about personal, immediate benefits compared to hypothetical benefits to others; More transparent reporting / structured reporting may lead to faster editorial processes as it becomes easy for peer reviewers and editors to review papers about their study, Provide statistics about processing times of articles that follow / don’t follow reporting standards. Emphasise to researchers that clear reporting will minimise the number of times others contact them for clarification -->
-
 ##### {{< var IFs.accessible >}}
 
 Stakeholders wrote "Ensure guidance is open access" so that all authors can it. Stakeholders also noted that if guidance is published under a permissive license then others can reuse the content to extend the guidance or build new tools.
@@ -191,23 +189,6 @@ Stakeholders suggested "offer[ing] some sort of tangible reward/benefit" to moti
 Multiple barriers lead stakeholders to suggest "create[ing] spaces for researchers to connect with other researchers to celebrate and share experiences". These spaces could include "forums, meetings, tea clubs, [and] clinics both in real life and virtual". Such spaces could help authors solicit help and could act as social proof, as seeing "others using and talking about the guidance" may be motivational.
 
 Online discussion spaces were also considered a useful way to gather feedback from users directly (by asking for it) and indirectly (by monitoring discussions). Stakeholders wrote that feedback channels "could be useful to guideline developers", and may also "cultivate a feeling of community ownership" by "communicating an invitational attitude", thereby making guidelines appear less bureaucratic.
-
-<!-- #TODO: make sure consulting user groups, and SQUIRE quotes included in updating guidance section. "
-
-"How can we enable users to give feedback on guidance?
-Researchers have opinions on how the guidance could be improved including how to make it clearer, and whether items should be rearranged, separated, combined, added or removed. 
-This information could be useful to guideline developers"
-"Allow researchers to give user feedback and ask questions
-"Developers could consult different user groups when creating guidance to make sure all users understand it as intended"
-"Engage as many health professions as possible to use and share examples of guidelines
-"Provide ways for researchers to give feedback to guideline developers"
-"Make it easier for guideline developers to update guidance"
-"Minor updates could be made without publishing a new article"
-"Engage as many health professions and editors as possible"
-
-Communicating an invitational attitude among colleagues in various settings is powerful as an extender of the user community"
-"Downregulating hierarchy is useful – nationally, gender, issues, professional disciplines"
-"Allow researchers to give feedback on guidelines to cultivate a feeling of community ownership" -->
 
 ##### {{< var IFs.early-acquisition >}}
 

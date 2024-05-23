@@ -8,4 +8,12 @@
 
 {{< include _intervention_component_table.qmd >}}
 
+{{< include _pilot_recruitment_image.qmd >}}
+
+{{< include _pilot_participant_information.qmd >}}
+
+{{< include _pilot_emails.qmd >}}
+
+{{< include _pilot_interview_schedule.qmd >}}
+
 {{< include _deficiencies.qmd >}}

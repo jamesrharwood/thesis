@@ -1,0 +1,13 @@
+## Appendix {{< var appendix.workshops_step_1 >}}: Step 1: Define the problem in behavioural terms 
+
+_Instructions: Define the problem in behavioural terms , including:_
+
+* _What behaviour? e.g., Improve hygiene practices in all opportunities identified by national or local guidelines_
+* _Where does the behaviour occur? e.g., Hospital wards_
+* _Who is involved in performing the behaviour? e.g., Hospital nursing staff_
+
+JdB, PL: To report completely in a journal article. When people are writing a journal article we want them to add in important details that all users will need to judge and understand the work. Occurs when writing articles (e.g., universities, RIs, hospitals, editing firms). Involves anybody writing about biomedical research.  
+
+CS, SK: Writing up research. Happens at work places/homes. Solitary activity.  
+
+JH: Report research in line with guidelines. Work computer. Biomedical researchers.

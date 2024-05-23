@@ -1,0 +1,5 @@
+## Appendix {{< var appendix.pilot_recruitment_image >}}: Author interview recruitment image {.appendix #app-pilot-recruitment-image .unnumbered}
+
+![](assets/TwitterImage.png)
+
+: Image posted to Twitter / X to recruit authors {#fig-recruitment-image}

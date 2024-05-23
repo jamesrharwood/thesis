@@ -122,16 +122,16 @@ IFs:
   testimonials: Provide testimonials
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
-appendices:
-  barriers: A
-  ideas: C
-  ideas_document: B
 appendix:
   advert: D
   barriers: B
   deficiencies: F
   ict: E
   ideas: C
+  pilot_emails: '#TODO'
+  pilot_interview_schedule: '#TODO'
+  pilot_participant_information: '#TODO'
+  pilot_recruitment_image: '#TODO'
   search: A
 chapters:
   bcw: 6
