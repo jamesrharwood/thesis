@@ -14,7 +14,7 @@ book:
       file: chapters/1_introduction/index.qmd  
     - text: "Reflexivity"
       file: chapters/2_reflexivity/index.qmd
-    - part: "**Identifying barriers**"
+    - part: "**Identifying influences**"
       chapters: 
         - text: "Qualitative Evidence Synthesis"
           file: "chapters/3_synthesis/index.qmd"
@@ -38,5 +38,41 @@ book:
           file: chapters/10_pilot/index.qmd
     - text: "Discussion"
       file: chapters/11_discussion/index.qmd
-    - text: "Appendix"
-      file: "chapters/appendix/index.qmd"
+    - part: "Appendices"
+      chapters:
+        - text: "{{< var appendix.search >}}. Search Strategies"
+          file: chapters/appendix/_synthesis_search_strategies.qmd
+        - text: "{{< var appendix.workshop_step_1 >}}. BCW Step 1"
+          file: chapters/appendix/workshops/step_1.qmd
+        - text: "{{< var appendix.workshop_step_2 >}}. BCW Step 2"
+          file: chapters/appendix/workshops/step_2.qmd
+        - text: "{{< var appendix.workshop_step_3 >}}. BCW Step 3"
+          file: chapters/appendix/workshops/step_3.qmd
+        - text: "{{< var appendix.workshop_step_4 >}}. BCW Step 4"
+          file: chapters/appendix/workshops/step_4.qmd
+        - text: "{{< var appendix.workshop_step_5 >}}. BCW Step 5"
+          file: chapters/appendix/workshops/step_5.qmd
+        - text: "{{< var appendix.workshop_step_6 >}}. BCW Stage 6"
+          file: chapters/appendix/workshops/step_6.qmd
+        - text: "{{< var appendix.workshop_step_7 >}}. BCW Stage 7"
+          file: chapters/appendix/workshops/step_7.qmd
+        - text: "{{< var appendix.barriers >}}. Influences/What needs to change"
+          file: chapters/appendix/_barriers.qmd
+        - text: "{{< var appendix.focus_group_emails >}}. Focus groups - emails"
+          file: chapters/appendix/focus_groups/emails.qmd
+        - text: "{{< var appendix.focus_group_information >}}. Focus groups - participant information"
+          file: chapters/appendix/focus_groups/participant_information.qmd
+        - text: "{{< var appendix.ideas >}}. Ideas generated from focus groups and workshops"
+          file: chapters/appendix/_ideas.qmd
+        - text: "{{< var appendix.ict >}}. Intervention component table"
+          file: chapters/appendix/_intervention_component_table.qmd
+        - text: "{{< var appendix.pilot_recruitment_image >}}. Authors interviews - recruitment image"
+          file: chapters/appendix/_pilot_recruitment_image.qmd
+        - text: "{{< var appendix.pilot_participant_information >}}. Author interviews - participant information"
+          file: chapters/appendix/_pilot_participant_information.qmd
+        - text: "{{< var appendix.pilot_emails >}}. Author interviews - emails"
+          file: chapters/appendix/_pilot_emails.qmd
+        - text: "{{< var appendix.pilot_interview_schedule >}}. Author interviews - interview schedule"
+          file: chapters/appendix/_pilot_interview_schedule.qmd
+        - text: "{{< var appendix.deficiencies >}}. Author interviews - deficiencies"
+          file: chapters/appendix/_deficiencies.qmd

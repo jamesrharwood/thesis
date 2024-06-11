@@ -1,6 +1,8 @@
-## Appendix {{< var appendix.workshops_step_2 >}}: Step 2: Select the Target Behaviour
+## Appendix {{< var appendix.workshop_step_2 >}}: Step 2: Select the Target Behaviour {.unnumbered}
 
-*Instructions: Select the target behaviour*
+Instructions @michieBehaviourChangeWheel2014: 
+
+*Select the target behaviour*
 
 *Generate a long list of candidate target behaviours that could bring about the desired outcome. This list can include the behaviour of other people too e.g., editors, guideline developers.*
 

@@ -15,6 +15,7 @@ focus_groups = 7
 guideline_developers = 11
 publishers = 3
 academics = 2
+equator_ideas = 24
 
 sub_idea_count = 0
 jh_ideas_count = 0
@@ -84,7 +85,7 @@ counts = dict(
     sub_ideas = sub_idea_count,
     sub_ideas_pre_jh = sub_idea_count - jh_ideas_count,
     jh_ideas = jh_ideas_count,
-    EQUATOR_ideas = '#TODO', #TODO
+    EQUATOR_ideas = equator_ideas,
     participants = participants,
     focus_groups = focus_groups,
     guideline_developers = guideline_developers,
@@ -155,15 +156,17 @@ counts['pilot'].update({'participants': len(PARTICIPANT_IDS.keys())}) #type: ign
 
 APPENDIX = [
     'search',
-    'workshop_stage_1',
-    'workshop_stage_2',
-    'workshop_stage_2',
-    'workshop_stage_4',
-    'workshop_stage_5',
-    'workshop_stage_6',
-    'workshop_stage_7',
-    'workshop_stage_8',
+    'workshop_step_1',
+    'workshop_step_2',
+    'workshop_step_3',
+    'workshop_step_4',
+    'workshop_step_5',
+    'workshop_step_6',
+    'workshop_step_7',
+    'workshop_step_8',
     'barriers',
+    'focus_group_emails',
+    'focus_group_information',
     'ideas',
     'ict',
     'pilot_recruitment_image',

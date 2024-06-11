@@ -1,0 +1,47 @@
+## Appendix {{< var appendix.focus_group_emails >}}: Focus Groups - emails {.unnumbered}
+
+### Recruitment Email
+
+Dear \[Name\], 
+
+I would like to introduce myself and invite you to participate in a study that I hope you may find interesting - *Improving the dissemination of reporting guidance using behaviour change theory: focus groups with guideline developers and editors*.
+
+I am a PhD student at the UK EQUATOR Centre, University of Oxford, supervised by Professor Gary Collins, and I’m interested in making reporting guidelines easier to use.
+
+In December 2021 we held a series of internal workshops at the UK EQUATOR Centre where we used the [Behaviour Change Wheel](#0) to identify possible improvements to how reporting guidance is disseminated. The Behaviour Change Wheel is a method for designing behaviour change interventions, built on top of the COM-B model of behaviour, and is very accessible to non-behavioural experts.
+
+We are now seeking input from the broader community of guideline developers and publishing professionals.
+
+I believe the study’s output will be useful to guideline developers, and will include:
+
+-   Ideas and justification for future funding applications
+
+-   Advice on how to design user-friendly guidance, checklists, and E&E documents
+
+-   Ideas to improve guideline websites, the EQUATOR Network website, and a complete redesign of [goodreports.org](http://www.goodreports.org/) with user feedback channels ‘baked in’ so guideline development groups can collect feedback automatically
+
+-   The basis of a subsequent feasibility study and randomised evaluation of some of the identified improvements
+
+If you decide to take part you will be invited to attend a 2-hour, online focus group where we will edit a document together. You will be asked to spend some time before the focus group thinking about reasons that authors may fail or succeed to successfully use reporting guidelines. During the workshop we will discuss these reasons and consider possible ways to improve how reporting guidance is disseminated. You can read the full information for participants here: <https://osf.io/esn4j/?view_only=1dcddadfdcbe4479a38d79f8f0f4dd52>.
+
+This is an open invitation so please do share it with your colleagues. If you are interested, then please let me know some dates and times that would suit you for a focus group. I am in London, UK and will try my best to accommodate time zones. We can organise a focus group for you and your colleagues, or I can invite you to a focus group with other participants.
+
+Should you be interested but unable to attend a focus group, I would be happy to share the outputs for you to give feedback on at your leisure.
+
+Yours sincerely,
+
+James Harwood
+
+### Confirmation Email
+
+Dear \[Name\],
+
+Thank you for agreeing to join a focus group for the study, *Improving the dissemination of reporting guidance using behaviour change theory: focus groups with guideline developers and editors*.
+
+I’m looking forward to seeing you on \[DATE AND TIME OF MEETING\]. You can use this link to attend the meeting: \[LINK\].
+
+Before we meet, please make sure to read through the [participant information sheet](https://osf.io/esn4j/?view_only=1dcddadfdcbe4479a38d79f8f0f4dd52) and **provide your consent by completing [this online form](https://oxford.onlinesurveys.ac.uk/reporting-guideline-focus-groups)**. If you have time before we meet, please take 10 minutes to **think about facilitators and barriers that may affect whether authors use reporting guidelines successfully and note these down in \[THIS SHARED FILE\]**. These barriers may come from evidence, theory, or personal experience.
+
+Yours sincerely,
+
+James Harwood

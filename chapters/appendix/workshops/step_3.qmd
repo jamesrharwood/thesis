@@ -1,6 +1,8 @@
-## Appendix {{< var appendix.workshops_step_3 >}}: Step 3: Specify the Target Behaviour
+## Appendix {{< var appendix.workshop_step_3 >}}: Step 3: Specify the Target Behaviour {.unnumbered}
 
-_Instructions: Specify the target behaviour_
+Instructions @michieBehaviourChangeWheel2014: 
+
+_Specify the target behaviour_
 
 * Who needs to perform the behaviour? 
 * What does the person need to do differently in order to achieve the desired change? 

@@ -1,6 +1,8 @@
-## Appendix {{< var appendix.workshops_step_1 >}}: Step 1: Define the problem in behavioural terms 
+## Appendix {{< var appendix.workshop_step_1 >}}: Step 1: Define the problem in behavioural terms {.unnumbered}
 
-_Instructions: Define the problem in behavioural terms , including:_
+Instructions @michieBehaviourChangeWheel2014: 
+
+_Define the problem in behavioural terms , including:_
 
 * _What behaviour? e.g., Improve hygiene practices in all opportunities identified by national or local guidelines_
 * _Where does the behaviour occur? e.g., Hospital wards_

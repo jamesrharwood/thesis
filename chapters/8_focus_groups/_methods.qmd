@@ -57,7 +57,6 @@ After each focus groups I made notes on how the session went and reflected on wh
 I used qualitative description for my analysis [@bradshawEmployingQualitativeDescription2017; @kimCharacteristicsQualitativeDescriptive2017], which involved aggregating and summarising ideas. I imported the final ideas document into NVivo and applied descriptive codes to ideas. If a sentence contained multiple ideas, I coded each idea separately. I also coded the barriers and stakeholders that were related to each idea. I did not interpret data as doing so would erase the views captured during co-production. 
 
 I grouped ideas inductively in ways that felt cohesive and made the results easy for my intended audience (the reporting guideline community) to understand and act upon. For example, I aggregated "ask authors to cite reporting guidelines" and "display citation metrics on reporting guideline resources" into a group about "Citations", even though they target different barriers (discoverability and perceived trustworthiness) and employ different intervention functions (education and persuasion). 
-<!-- # TODO: ensure wording matches results. -->
 
 I discussed and refined my coding, aggregating and summarising with one of my supervisors, Jennifer de Beyer. I sent the aggregated, summarised ideas to focus group participants and EQUATOR staff members, inviting them to check it reflected their ideas faithfully. I also invited feedback from guideline developers who had shown an interest in the study but had been unable to attend a focus group.
 

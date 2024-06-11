@@ -123,16 +123,25 @@ IFs:
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
 appendix:
-  advert: D
-  barriers: B
-  deficiencies: F
-  ict: E
-  ideas: C
-  pilot_emails: '#TODO'
-  pilot_interview_schedule: '#TODO'
-  pilot_participant_information: '#TODO'
-  pilot_recruitment_image: '#TODO'
+  barriers: J
+  deficiencies: S
+  focus_group_emails: K
+  focus_group_information: L
+  ict: N
+  ideas: M
+  pilot_emails: Q
+  pilot_interview_schedule: R
+  pilot_participant_information: P
+  pilot_recruitment_image: O
   search: A
+  workshop_step_1: B
+  workshop_step_2: C
+  workshop_step_3: D
+  workshop_step_4: E
+  workshop_step_5: F
+  workshop_step_6: G
+  workshop_step_7: H
+  workshop_step_8: I
 chapters:
   bcw: 6
   defining-content: 9
@@ -146,7 +155,7 @@ chapters:
   web-audit: 5
   workshops: 7
 counts:
-  EQUATOR_ideas: '#TODO'
+  EQUATOR_ideas: 24
   EQUATOR_meetings: 7
   EQUATOR_staff: 6
   EQUATOR_staff_invited: 7
