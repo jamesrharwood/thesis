@@ -43,7 +43,7 @@ I explained the objectives and any background theory at the start of each step. 
 
 ### 1. Defining the problem in behavioural terms 
 
-Michie et al.'s first step is to define the problem in terms of _who_ needs to do _what_. For example, _weight loss_ is not a behaviour, but _increasing physical activity_ is, and could be specified further as _walking 10,000 steps a day_. We were all in alignment here: _we want researchers to include important details in their articles, in line with the relevant reporting guidelines._
+Michie et al.'s first step is to define the problem in terms of _who_ needs to do _what_. For example, _weight loss_ is not a behaviour, but _increasing physical activity_ is, and could be specified further as _walking 10,000 steps a day_. We were all in alignment here: _we want researchers to include important details in their articles, in line with the relevant reporting guidelines._ Our notes from the workshop are in Appendix {{< var appendix.workshop_step_1 >}}.
 
 ### 2 & 3. Selecting and defining the target behaviour
 
@@ -57,14 +57,14 @@ This exercise helped us break down things that we hadn't questioned previously. 
 
 Similarly, where we may previously have thought of "writing" as a single task, we began to consider how authors could "use guidance when planning", "drafting", "editing [their own work]", or "checking". We discussed how these behaviours required researchers to be open-minded to assistance and wondered if we could encourage them to "ask for help when writing". 
 
-Ultimately we ended up with a longlist of 18 possible target behaviours. The next step was to select a behaviour from our longlist by considering:
+Ultimately we ended up with a longlist of 14 possible target behaviours. The next step was to select a behaviour from our longlist by considering:
 
 1. The expected impact if the behaviour were to be performed
 2. How easy we expected behaviour change to be
 3. The centrality of behaviour - how close it was to our desired behaviour
 4. How easy the behaviour will be to measure
 
-Criteria two, three, and four lead us to prioritise the behaviour of authors above that of editors or peer reviewers. We felt authors to be central as ultimately they have control over what gets written. Editors, peer reviewers and other stakeholders are less central because all they can do is ask an author to edit their writing. We also felt that changing the behaviour of editors and reviewers would be harder to instigate and to measure. Although journal policies are easy to audit, the actual behaviour of the editorial team and peer reviewers are not. In contrast, we felt authors behaviour was easier to measure through literature audits, surveys, and web analytics for EQUATOR's website. When considering criteria one and two, we felt that authors were most likely to apply guidance if they used it early when writing.
+Criteria two, three, and four lead us to prioritise the behaviour of authors above that of editors or peer reviewers. We felt authors to be central as ultimately they have control over what gets written. Editors, peer reviewers and other stakeholders are less central because all they can do is ask an author to edit their writing. We also felt that changing the behaviour of editors and reviewers would be harder to instigate and to measure. Although journal policies are easy to audit, the actual behaviour of the editorial team and peer reviewers are not. In contrast, we felt authors behaviour was easier to measure through literature audits, surveys, and web analytics for EQUATOR's website. When considering criteria one and two, we felt that authors were most likely to apply guidance if they used it early when writing.  Our workshop notes for step 2 are in Appendix {{< var appendix.workshop_step_2 >}}.
 
 Step three of the Behaviour Change Wheel involved bringing these thoughts together and specifying the behaviour in more detail. Michie et al. suggest defining _who_ needs to perform the behaviour, _what_ do they need to do, _when_ will they do it, _where_ will they do it, how _often_ will they do it, and _with whom_ they will do it. Our final definition of our target behaviour was: **Researchers should use reporting guidance as early as possible in their research pipeline. They will do this for every piece of research, at their place of work, on their own but in the context of collaboration**
 
@@ -77,23 +77,15 @@ By "research pipeline" we mean the many steps involved in a typical project whic
 
 By "apply", we refer to using guidance to plan, write or edit a written description of research (e.g., within a manuscript or application). By "the guidance" we mean the fullest form of the reporting guideline available. Ideally this will be an example and elaboration paper, but for some guidelines it will just be the checklist. Applying guidance may include the use of tools like templates or checklists. Participants discussed specifying "completing a reporting checklist" as a target behaviour, but decided against it as previous research showed that authors who complete checklists upon submission don't necessarily edit their manuscript or comply with guidelines. Participants also recognised that focussing on checklists may be problematic because checklists appear administrative, are used _after_ a manuscript has been written, at which point authors are least able or motivated to edit their work. Nevertheless, participants recognised that checklists will continue to be an important part of how reporting guidance are disseminated, and so they are included within the term "apply the guidance", without being named.
 
-We specified authors should apply guidance "as intended by the guideline developer" because thematic synthesis revealed authors may misinterpret guidelines and believe they are adhering when they are not.
+We specified authors should apply guidance "as intended by the guideline developer" because thematic synthesis revealed authors may misinterpret guidelines and believe they are adhering when they are not. Our workshop notes for step 3 are in Appendix {{< var appendix.workshop_step_3 >}}.
 
-Hence our target behaviour definition specifies the _who_, _what_, _when_,  _where_, _how often_, and _with whom_ but is broad enough to account for differences between researchers' working practices and reporting guidelines.
+Hence our target behaviour definition specifies the _who_, _what_, _when_,  _where_, _how often_, and _with whom_ but is broad enough to account for differences between researchers' working practices and reporting guidelines. 
 
 ### 4. Identify what needs to change
 
 This step involved identifying what needs to change in the person and/or environment to achieve our target behaviour. Michie et al. @michieBehaviourChangeWheel2014 provide a questionnaire to facilitate this step, called the _COM-B Questionnaire_, which asks you to consider each COM-B domain in turn and to consider 23 items like "To perform the target behaviour, authors would...have to know more about why it was important", "...have more time to do it", and "...have more support from others" etc.
 
-Michie et al. @michieBehaviourChangeWheel2014 emphasise the importance of evidence in this step, recommending that data should be "collected from as many relevant sources as possible" and "triangulated", as a consistent picture of behaviour from multiple sources will "increase confidence in the analysis". Consequently, we included all of the barriers that I identified from my previous PhD work (see chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}}) and used the COM-B questionnaire to label each as being driven by capability, opportunity, or motivation. 
-
-The result was a set of {{< var counts.barriers >}} factors that we felt needed to change for our target behaviour to occur. These can be seen in Appendix {{< var appendix.barriers >}}. 
-
-::: {.callout}
-
-This needs unpacking. I should make it clear how many barriers came from chapters 3, 4 and 5, and how many new ones came up through discussion. #TODO
-
-:::
+Michie et al. @michieBehaviourChangeWheel2014 emphasise the importance of evidence in this step, recommending that data should be "collected from as many relevant sources as possible" and "triangulated", as a consistent picture of behaviour from multiple sources will "increase confidence in the analysis". Consequently, after first brainstorming freely, we went through the influences I identified in chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}} and used the COM-B questionnaire to label each as being driven by capability, opportunity, or motivation. Our notes from that session (in Appendix {{< var appendix.workshop_step_4 >}}) contained duplication and some sentences includes multiple thoughts. We included only a little context. Therefore, after the session I consolidated our workshop output into {{< var counts.barriers >}} things that we felt needed to change for our target behaviour to occur each one labelled with the behavioural driver. I added context from our discussion and my previous chapters where I felt appropriate. I circulated this list to workshop attendees for comments and revisions. You can see this list in Appendix {{< var appendix.barriers >}}.
 
 ### 5 & 6. Identify Intervention Functions and Policy Categories
 
@@ -109,7 +101,9 @@ Regarding policy categories, we saw environmental planning as the most affordabl
 
 We recognised communication as a favourable policy category that is already utilised. Communication channels included the website, mailing lists, social media, conferences, and publications. Whilst communication was rated as affordable, practicable, acceptable, safe, and equitable, its effectiveness may be limited. Although communication could promote awareness of reporting guidelines are available, what they are, and how they can be used, EQUATOR members noted that the efficacy of a communications campaign may be undermined if the campaign directs authors to a website that is difficult to use, or guidelines that are difficult to access or understand. Thus communication on its own might not be sufficient, and members suggested that it should come after improving the digital environment.
 
-Service provision was also favoured, as long as the service was financially sustainable. So too were guidelines, specifically guidance to help reporting guideline developers create and disseminate resources. Participants felt that legislation, regulation, and fiscal measures would not be acceptable to researchers and were not practical options for EQUATOR to use.
+Service provision was also favoured, as long as the service was financially sustainable. So too were guidelines, specifically guidance to help reporting guideline developers create and disseminate resources. Participants felt that legislation, regulation, and fiscal measures would not be acceptable to researchers and were not practical options for EQUATOR to use. 
+
+Our notes from steps 5 and 6 are in Appendices {{< var appendix.workshop_step_5 >}} and {{< var appendix.workshop_step_6 >}}.
 
 ### 7. Identify behaviour change techniques
 

@@ -1,5 +1,7 @@
 ## Appendix C: Ideas generated from workshops and focus groups {.appendix #app-ideas .unnumbered}
 
-The following list of ideas were generated from my workshops with EQUATOR staff and focus groups with guideline developers, journal staff, and academics.
+The following list of ideas were generated from my workshops with EQUATOR staff and focus groups with guideline developers, journal staff, and academics (chapters {{< var chapters.workshops >}} and {{< var chapters.focus-groups >}}). Each bullet point is a code, and codes were grouped inductively into broader ideas that felt cohesive. Each group is labelled with the influence(s) (from Appendix {{< var appendix.barriers> }} the idea addresses and the stakeholders involved. 
+
+In chapter {{< var chapters.defining-content >}} I describe how I used this list to define intervention components, and that during this process additional ideas came to me. I've denoted these ideas with ^JH^.
 
 {{< include ideas.md >}}

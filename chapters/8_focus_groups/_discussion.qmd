@@ -6,12 +6,6 @@ My objective was to identify ideas to address factors that may influence adheren
 
 I believed that including perspectives from a range of stakeholders would lead to more ideas. This seems to be the case: EQUATOR staff thought of {{< var counts.EQUATOR_ideas >}} which was then expanded to {{< var counts.sub_ideas_pre_jh >}} through the focus groups. 
 
-::: {.callout}
-
-I'll expand this to reflect expanded results #TODO
-
-:::
-
 This is the first time that guideline developers from different groups have come together with publishers and academics to consider reporting guideline dissemination as a system. I had a fair response rate from guideline groups and of their responses were generally supportive, even if they were unable to take part. Multiple guideline developers volunteered their guideline to be a "guinneapig" and expressed support for my work. All stakeholders were open minded to the barriers I presented except for one developer who expressed scepticism that reporting guidelines were anything but perfect, and requested additional evidence of authors' negative experiences.
 
 ### Implications
