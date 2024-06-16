@@ -192,9 +192,9 @@ counts:
     barriers-targeted: 32
     bcts-used: 17
     intervention-components:
-      included: 57
-      included_unique: 45
-      not_included_unique: 17
+      included: 58
+      included_unique: 46
+      not_included_unique: 16
       total: 80
       unique: 62
     intervention-functions-used: 6
@@ -229,7 +229,7 @@ intervention-components:
     title: Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for
   consistent-terms:
     barriers: Researchers may misunderstand
-    description: SRQR uses consistent terms across items.
+    description: The website uses terms consistently
     title: Use consistent terms
   decision-tools:
     barriers: Researchers may not know what reporting guidelines exist
@@ -342,7 +342,7 @@ intervention-components:
   link-resources:
     barriers: Researchers may not know what resources exist for a reporting guideline
     description: Guidance links to all tools and development article
-    title: link all resources to each other
+    title: Link all resources to each other
   location-alternative:
     barriers: Researchers may struggle to reconcile multiple sets of guidance
     description: null

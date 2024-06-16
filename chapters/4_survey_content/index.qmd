@@ -25,7 +25,9 @@ My objectives, therefore, were to:
 
 ## Methods
 
-My qualitative synthesis included a systematic search that sought to capture all survey studies investigating reporting guidelines (see chapter {{< var chapters.synthesis >}} for full search details). I found 22 studies using quantitative survey questions, 14 of which also included one or more qualitative questions (see @tbl-study-list). My search included Chinese databases, and although I did not find any Chinese qualitative studies to include in my previous chapter, I did find two Chinese quantitative surveys [@fangSurveyAwarenessARRIVE2015; @maSurveyBasicMedical2017]. Yuting Duan from the Chinese EQUATOR Centre translated these two studies into English. I imported files into NVivo, including the full surveys where available, labelled all questions with descriptive codes, creating new codes when necessary, and then inductively grouped related codes into broad categories (see @tbl-codes-from-quant).
+My qualitative synthesis included a systematic search that sought to capture all survey studies investigating reporting guidelines (see chapter {{< var chapters.synthesis >}} for full search details). I found 22 studies using quantitative survey questions, 14 of which also included one or more qualitative questions (see @tbl-study-list). My search included Chinese databases, and although I did not find any Chinese qualitative studies to include in my previous chapter, I did find two Chinese quantitative surveys [@fangSurveyAwarenessARRIVE2015; @maSurveyBasicMedical2017]. Yuting Duan from the Chinese EQUATOR Centre translated these two studies into English. I imported files into NVivo, including the full surveys where available, labelled all questions with descriptive codes, creating new codes when necessary, and then inductively grouped related codes into broad categories.
+
+{{< include tbl_studies.md >}}
 
 ## Results
 
@@ -55,6 +57,10 @@ Survey studies asked participants:
 ### Comparing the focus of quantitative questions with themes derived from qualitative data
 
 The quantitative questions included some novel influences not contained in the qualitative data (shown in bold in @tbl-codes-from-quant), such as training as a possible facilitator [@fullerWhatAffectsAuthors2015], whether authors had heard of the EQUATOR Network [@fullerWhatAffectsAuthors2015; @girayAssessmentKnowledgeAwareness2020a], and whether transparency in guideline development is important [@fullerWhatAffectsAuthors2015]. One study asked whether language may be a barrier to using reporting guidelines for some[@pragerBarriersReportingGuideline2021]. This concern may have been missing from the qualitative studies because they were conducted in English. Both quantitative questions and the qualitative data mentioned journals enforcing reporting guidelines, but only quantitative questions asked whether funders and employers should also enforce them.
+
+{{< include tbl_codes_categories.md >}}
+
+{{< include tbl_codes_themes.md >}}
 
 Most ideas captured in the quantitative questions also appeared in the qualitative data. This may indicate that the quantitative questions asked were pertinent, or perhaps that they influenced participants' responses to subsequent, qualitative questions.
 
@@ -89,16 +95,3 @@ Two studies asked participants whether they had heard of the EQUATOR Network, no
 ## Reflections on reporting this chapter
 
 This chapter could have been combined with the one before. They came from the same starting idea, and their findings are intertwined. I separated them because I felt like my first chapter was already getting too long, and I wanted to keep its structure simple, familiar, and in line with ENTREQ. Would I have made this decision if ENTREQ did not exist? Possibly not. Separating the chapters draws a distinction between their objectives and methods, but in drawing this line I am diverging from the true origin story of this chapter. The two were not designed as separate studies, so in presenting them as such am I twisting the truth so it falls in line with a reporting guideline? This might not matter for these exploratory studies, but it made me consider how other researchers may feel pressure to package a messy research journey into a neat-and-tidy reporting guideline format. 
-
-::: landscape
-
-## Tables
-
-{{< include tbl_studies.md >}}
-
-{{< include tbl_codes_categories.md >}}
-
-{{< include tbl_codes_themes.md >}}
-
-:::
-<!-- landscape -->

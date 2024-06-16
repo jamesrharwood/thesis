@@ -10,4 +10,4 @@
 |**Modelling**                  |Providing an example for people to aspire to or imitate                                                                                                                    |Using TV drama scenes involving safe-sex practices to increase condom use                                                                       |
 |**Enablement**                 |Increasing means/reducing barriers to increase capability (beyond education and training) or opportunity (beyond environmental restructuring)                              |Behavioural support for smoking cessation, medication for cognitive deficits, surgery to reduce obesity, prosthesis to promote physical activity|
 
-: Intervention function definitions and examples, reproduced with permission from the Behaviour Change Wheel guide @michieBehaviourChangeWheel2014 {#tbl-intervention-functions}
+: Intervention function definitions and examples, reproduced from @michieBehaviourChangeWheel2011 used under Creative Commons Attribution License {#tbl-intervention-functions}

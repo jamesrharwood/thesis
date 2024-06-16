@@ -9,4 +9,4 @@
 | **Reflective motivation:** <br><br>Reflective processes involving plans (self-conscious intentions) and evaluations (beliefs about what is good and bad)                                                                   | Intending to stop smoking                                                                       |
 | **Automatic motivation:** <br><br>Automatic process involving emotional reactions, desires (wants and needs), impulses, inhibitions, drive states and reflex responses                                                     | Feeling anticipated pleasure at the prospect of eating a piece of chocolate cake                |
 
-: COM-B model components and examples, reproduced with permission from the Behaviour Change Wheel guide @michieBehaviourChangeWheel2014{#tbl-com-b}
+: COM-B model components and examples, reproduced from @michieBehaviourChangeWheel2011 used under Creative Commons Attribution License{#tbl-com-b}

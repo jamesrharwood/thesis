@@ -25,7 +25,7 @@ website:
         file: "chapters/1_introduction/index.qmd"      
       - text: "2. Reflexivity"
         file: "chapters/2_reflexivity/index.qmd"
-      - text: "<b>Part 1: Identifying barriers</b>"
+      - text: "<b>Part 1: Identifying influences</b>"
         file: ""
       - text: "3. Qualitative Evidence Synthesis"
         file: "chapters/3_synthesis/index.qmd"
@@ -33,18 +33,18 @@ website:
         file: "chapters/4_survey_content/index.qmd"
       - text: "5. EQUATOR website evaluation"
         file: "chapters/5_website_audit/index.qmd"
-      - text: "<b>Part 2: Identifying intervention changes</b>"
+      - text: "<b>Part 2: Identifying and implementing intervention changes</b>"
         file: ""
       - text: "6. The Behaviour Change Wheel"
         file: chapters/6_bcw/index.qmd
       - text: "7. Workshops"
         file: chapters/7_workshops/index.qmd
       - text: "8. Focus Groups"
-        file: chapters/8_focus_groups/index.qmd
-      - text: "<b>Part 3: Defining, developing, and refining intervention content</b>"
-        file: ""
+        file: chapters/8_focus_groups/index.qm
       - text: "9. Defining and developing content"
         file: chapters/9_defining_content/index.qmd
+      - text: "<b>Part 3: Refining the intervention</b>"
+        file: ""
       - text: "10. Pilot"
         file: chapters/10_pilot/index.qmd
       - text: "11. Discussion"

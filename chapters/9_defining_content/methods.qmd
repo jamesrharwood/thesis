@@ -3,7 +3,7 @@
 
 ### Defining intervention components
 
-I started with a list of {{< var counts.sub_ideas >}} ideas. These were the {{< var counts.sub_ideas_pre_jh >}} ungrouped ideas originating from my focus groups (chapter {{< var chapters.focus-groups >}}), plus {{< var counts.jh_ideas >}} ideas I had whilst I was writing my focus group chapter (see Appendix {{< var appendices.ideas >}}).
+I started with a list of {{< var counts.sub_ideas >}} ideas. These were the {{< var counts.sub_ideas_pre_jh >}} ungrouped ideas originating from my focus groups (chapter {{< var chapters.focus-groups >}}), plus {{< var counts.jh_ideas >}} ideas I had whilst I was writing my focus group chapter (see Appendix {{< var appendix.ideas >}}).
 
 I labelled each idea with:
 

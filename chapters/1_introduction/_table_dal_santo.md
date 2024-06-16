@@ -6,4 +6,4 @@
 | STARD and its extensions   | 10                | 0 (0%)   | 6 (60%)    | 0 (0%)  | 2 (20%)  | 2 (20%)    |
 | STROBE and its extensions  | 18                | 2 (11%)  | 6 (33%)    | 0 (0%)  | 0 (0%)   | 10 (56%)   |
 
-: Studies published between August 2020 and June 2022 assessing adherence to CONSORT, PRISMA, STROBE, or STARD and their extensions. Data from Dal Santos et al. @santoMethodsResultsStudies2023
+: Studies published between August 2020 and June 2022 assessing adherence to CONSORT, PRISMA, STROBE, or STARD and their extensions. Data from Dal Santos et al. @santoMethodsResultsStudies2023{#tbl-dal-santo}

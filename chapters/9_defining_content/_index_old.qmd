@@ -28,7 +28,7 @@ In this chapter I describe how I selected ideas to implement, and how I defined 
 
 ## Methods
 
-I started with a list of {{< var counts.ideas >}} ideas. These were the 128 ungrouped ideas originating from my focus groups (chapter {{< var chapters.focus-groups >}}), plus {{< var counts.sub_ideas >}} ideas I had whilst I was writing my focus group chapter (see Appendix {{< var appendices.ideas >}}).
+I started with a list of {{< var counts.ideas >}} ideas. These were the 128 ungrouped ideas originating from my focus groups (chapter {{< var chapters.focus-groups >}}), plus {{< var counts.sub_ideas >}} ideas I had whilst I was writing my focus group chapter (see Appendix {{< var appendix.ideas >}}).
 
 I labelled each idea with:
 

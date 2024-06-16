@@ -10,4 +10,8 @@
 | Explain importance of complete reporting to the scientific community                                                                     | Education             | Information about social and environmental consequences                                                                               |
 | Tell authors when to use reporting guidelines, or that reporting guidelines are best used as early as possible                           | Education             | Instruction on how to perform the behavior                                                                                            |
 
-: Intervention components appearing on the website's home page, alongside the intervention functions and behaviour change techniques (BCT) they employ. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses.
+: Intervention components appearing on the website's home page, alongside the intervention functions and behaviour change techniques (BCT) they employ. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses. {#tbl-ics-home}
+
+<!--
+9 (9)
+-->

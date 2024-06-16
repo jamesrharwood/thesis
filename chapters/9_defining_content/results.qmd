@@ -1,14 +1,16 @@
 ## Results
 
-### Intervention components table 
+### Intervention components 
 
-From the initial list of {{< var counts.sub_ideas >}} ideas I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} barriers. The full intervention component table can be viewed in the Appendix {{< var appendix.ict >}}, where components are labelled with the barriers they address, the intervention functions they work through, and the behaviour change technique they employ. This table is so long it disrupted the narrative of this chapter, and so I moved it to the appendix. Instead, I have divided it into smaller tables for each intervention part below, and summarised each component only by the intervention function it employs. 
+From the initial list of {{< var counts.sub_ideas >}} ideas I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} barriers. The full table is long and disrupted the narrative of this chapter, and so I moved it to Appendix {{< var appendix.ict >}}, where components are labelled with the barriers they address, the intervention functions they work through, and the behaviour change technique they employ. In this chapter I've included shorter tables for each intervention part, and summarised each component only by the intervention function it employs. 
+
+Of these {{< var counts.redesign.intervention-components.unique >}} intervention components I managed to include {{< var counts.redesign.intervention-components.included_unique >}} when redesigning SRQR and EQUATOR's home page. I'll now go through parts of the design and summarize the components in each.
 
 ### Intervention description
 
 #### Site organisation and search
 
-My first meeting with the design advisory group focussed on how the redesigned home page and guideline should link, and whether we needed any steps in between the two. On EQUATOR's existing website, authors starting on the home page must navigate through 5 webpages to reach the full reporting guidance; the home page, guideline database page, PubMed, a publication, and then sometimes a supplement. From my website service evaluation (chapter {{< var chapters.web-audit >}}), we knew many authors leave at each step (see @fig-sankey-b4). Therefore, we wanted our redesigned home page to link directly to the most frequently used guidelines, thereby reducing this this journey to 2 steps, with the aim to increase the proportion of authors reaching the full guidance (see @fig-sankey-after).
+Some intervention components required considering how authors would navigate and search the website (see @tbl-ics-organisation). My first meeting with the design advisory group focussed on how the redesigned home page and guideline should link, and whether we needed any steps in between the two. On EQUATOR's existing website, authors starting on the home page must navigate through 5 webpages to reach the full reporting guidance; the home page, guideline database page, PubMed, a publication, and then sometimes a supplement. From my website service evaluation (chapter {{< var chapters.web-audit >}}), we knew many authors leave at each step (see @fig-sankey-b4). Therefore, we wanted our redesigned home page to link directly to the most frequently used guidelines, thereby reducing this this journey to 2 steps, with the aim to increase the proportion of authors reaching the full guidance (see @fig-sankey-after).
 
 <!-- Journey before -->
 ![A simplified layout of the existing EQUATOR Network website, as of the 5th of April, 2023. Users must navigate through up to 5 different web pages to reach reporting guidance. The proportion of users navigating between each step is shown in the width of the links. Links in grey are estimated proportions. "Exit" means leaving the website. For simplicity, I have not included the 7% of authors viewing pages within the "Library" subdirectory, nor the 1% visiting other content categories.](figures/sankey-before.png){#fig-sankey-b4 width=100%}
@@ -24,7 +26,7 @@ When discussing how authors would navigate the website, we decided to cater to b
 
 #### Intervention components that occur throughout
 
-There were some intervention components that pervaded all parts of the redesign. These components centred on three themes: our target audience, nudging authors towards using guidelines earlier in their writing, and positioning reporting guidelines as helpful rather than administrative.
+There were some intervention components that pervaded all parts of the redesign (see @tbl-ics-throughout). These components centred on three themes: our target audience, nudging authors towards using guidelines earlier in their writing, and positioning reporting guidelines as helpful rather than administrative.
 
 In the methods section I described how EQUATOR and I decided that our primary audience was authors (not editors, reviewers e.t.c.), and _inexperienced_ authors in particular. In my thematic synthesis I found some authors felt reporting checklists were the responsibility of an editor or peer reviewer. In part, this might be because some reporting guidelines are written passively ("Reports should describe..." etc.). In contrast, my design speaks directly to the author ("When writing up _your_ research..." etc.), and I used terminology with inexperienced authors in mind. 
 
@@ -38,7 +40,7 @@ Finally, because my thematic synthesis (chapter {{< var chapters.synthesis >}}) 
 
 The redesigned homepage aims to minimise the proportion of authors leaving the website without engaging with reporting guidelines. The home page explains what reporting guidelines are, what writing tasks to use them for, the personal benefits they offer, and why reporting is important for reproducibility. Short quotes from authors and editors, expounding the benefits of using reporting guidelines aim to convince sceptical authors.
 
-In contrast, EQUATOR's current home page (see @fig-home-b4 compared to @fig-home) does not define what reporting guidelines are, or how or why to use them. Although it is full of content, the overall impression is one of complexity with no clear message.
+In contrast, EQUATOR's current home page (see @fig-home-b4 compared to @fig-home) does not define what reporting guidelines are, or how or why to use them. Although it is full of content, the overall impression is one of complexity with no clear message. Intervention components appearing on the home page are listed in @tbl-ics-home.
 
 <!-- FIG-HOME-B4 -->
 ![The existing EQUATOR home page, as captured on 5th of April, 2023. Limitations include:
@@ -66,7 +68,7 @@ In contrast, EQUATOR's current home page (see @fig-home-b4 compared to @fig-home
 
 #### Introduction to RG
 
-My aim for this introduction was to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and if it does, to convince them to use it. Although some journals direct authors to EQUATOR's home page,  others send authors straight to EQUATOR's database records for a particular reporting guidelines. Because 50% of visitors arrive on these guideline-specific pages, I decided the home page components aimed at naïve authors (such as basic information on what reporting guidelines, how to use them, when to use them, and why) should also appear at the top of guideline pages . 
+My aim for this introduction was to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and if it does, to convince them to use it. Although some journals direct authors to EQUATOR's home page,  others send authors straight to EQUATOR's database records for a particular reporting guidelines. Because 50% of visitors arrive on these guideline-specific pages, I decided the home page components aimed at naïve authors (such as basic information on what reporting guidelines, how to use them, when to use them, and why) should also appear at the top of guideline pages (see @tbl-ics-rg-intro)
 
 Additionally, I decided the guideline page should begin by briefly introducing the guideline, why it can be trusted, when it applies and when it does _not_ apply, how to use it, how to cite it, and should link to related guidance, translations, and associated checklists, templates and other tools in ready-to-use formats. This introduction positions the reporting guideline as a set of recommendations, not rules, clarifies it is for reporting research, not designing it, and that the guideline does not prescribe structure (see @fig-rg-intro). 
 
@@ -116,9 +118,9 @@ In contrast, most traditional reporting guideline publications begin with length
 
 #### RG content
 
-Although I did not change the meaning of guidance, I did give it additional structure and edit how it was phrased. To increase clarity, I used plain language, consistent terms, and added definitions when I felt necessary. I wanted to cater to authors who read from start to finish as well as those who dip in and out, and so I created navigation menus so authors can jump to items. 
+Although I did not change the meaning of guidance, I did give it additional structure and edit how it was phrased. To increase clarity, I used plain language, consistent terms, and added definitions when I felt necessary. I wanted to cater to authors who read from start to finish as well as those who dip in and out, and so I created navigation menus so authors can jump to items. Intervention components applying to the entire reporting guideline content (which includes but is not limited to reporting items) appear in @tbl-ics-rg-content.
 	
-For each reporting item, I prioritized instructions of what to write. I placed remaining content in an expandable box, thus making the guidance appear shorter at first glance. Each expandable box includes why the reporting item is important and to whom, examples, links to related advice, and any other content that isn't an instruction of what to write. Each item links to its own discussion channel. Two intervention components required presenting design advice separately to reporting advice, but this was not necessary as SRQR made few design assumptions or recommendations. 
+For each reporting item, I prioritized instructions of what to write. I placed remaining content in an expandable box, thus making the guidance appear shorter at first glance. Each expandable box includes why the reporting item is important and to whom, examples, links to related advice, and any other content that isn't an instruction of what to write. Each item links to its own discussion channel. Two intervention components required presenting design advice separately to reporting advice, but this was not necessary as SRQR made few design assumptions or recommendations. Intervention components applying to reporting items appear in @tbl-ics-item.
 
 <!-- ## FIG-ITEM-B4 -->
 ![An example item from the SRQR guideline. Limitations may include:  
@@ -145,9 +147,11 @@ For each reporting item, I prioritized instructions of what to write. I placed r
 
 {{< include data/tables/rg_content.md >}}
 
+{{< include data/tables/rg_item.md >}}
+
 #### FAQ
 
-At the end of the guideline, an FAQ section includes information that was too lengthy to be fully discussed in the page's introduction. This includes a longer description of how the guideline's development (and link to the original publication), citation instruction, and advice on how to respond if an editor or co-worker asks you to remove guideline content.
+At the end of the guideline, an FAQ section includes information that was too lengthy to be fully discussed in the page's introduction (see @tbl-ics-faq). This includes a longer description of how the guideline's development (and link to the original publication), citation instruction, and advice on how to respond if an editor or co-worker asks you to remove guideline content.
 
 {{< include data/tables/faq.md >}}
 

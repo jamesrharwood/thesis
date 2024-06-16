@@ -484,7 +484,7 @@ Another participant, who had not noticed the advice, nevertheless said they woul
 
 I had tried to use plain language on the home page and introduction to SRQR, but participants still questioned the meaning of some words (e.g., "synthesis"), including words commonly used by EQUATOR staff (e.g., "transparency"). Even the term "reporting guidelines" confused some participants, especially when used at the start of a sentence, where some participants interpreted the word "reporting" to be a verb, instead of part of a compound noun. 
 
-### link all resources to each other
+### Link all resources to each other
 
 ######## Relevant website features: Guidance links to all tools and development article
 
@@ -524,7 +524,7 @@ Perhaps because participants did not intuitively understand how they could use a
 
 ### Use consistent terms
 
-######## Relevant website features: SRQR uses consistent terms across items.
+######## Relevant website features: The website uses terms consistently
 
 ######## Barriers addressed: Researchers may misunderstand
 

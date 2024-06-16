@@ -314,7 +314,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
 Apply reporting guidance to writing:
   what-resources-exist:
     ingredients:
-      link all resources to each other:
+      Link all resources to each other:
         before: Reporting guideline development articles, explanation and elaboration articles, and checklist files may not link to each other.
         before_example: 
         now: Guidance links to all tools and development article
@@ -426,14 +426,14 @@ Apply reporting guidance to writing:
         evaluation_methods: interview, plus minus
         id: define-terms
       Use consistent terms:
-        before: Guidelines may use different terms to refer to the same thing (or the converse - use the same term to refer to different things). A single guideline may do this too.
+        before: Guidelines may use different terms to refer to the same thing (or the converse - use the same term to refer to different things). A single guideline may do this too, as can websites.
         before_example:  
-        now: SRQR uses consistent terms across items.
+        now: The website uses terms consistently
         now_example: 
-        future: Repeat for other reporting guidelines.
+        future: Ensure reporting guidelines use terms consistently within themselves, and between different guidelines.
         IF: Enablement
         BCT: Instruction on how to perform the behaviour
-        done: false
+        done: true
         evaluation_methods: false
         id: consistent-terms
       Provide translations:
@@ -673,7 +673,7 @@ Apply reporting guidance to writing:
         now_example:
         IF: Enablement
         BCT: Adding objects to the environment
-        done: true
+        done: false
         evaluation_methods: interview
         id: tools-for-early-use
   need-concise-writing:
@@ -866,12 +866,12 @@ Apply reporting guidance to writing:
       Present design advice separately to reporting advice:
         before: Some reporting guideline E&Es include design advice
         now: No changes made
-        before_example: 
+        before_example: SRQR did not include design advice
         now_example: 
         future: Present design advice separately
         IF: Coercion (removal of)
         BCT: Restructuring the physical environment
-        done: false
+        done: true
         evaluation_methods: 
         id: provide-design-advice-separately
       Make reporting guidelines agnostic to design choices (see _Decrease fear of judgement by making reporting guidelines design agnostic_):
@@ -948,7 +948,7 @@ Apply reporting guidance to writing:
         now:
         before_example:
         now_example:
-        IF: Persuasion
+        IF:
         BCT: 
         done: true
         duplicate: true

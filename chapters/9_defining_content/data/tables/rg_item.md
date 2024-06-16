@@ -7,9 +7,14 @@
 | For each item, provide examples of reporting in different contexts                                                                  | Modelling             | Demonstration of the behavior                                         |
 | Create spaces for authors to discuss reporting guidelines with others                                                               | Persuasion            | Social comparison, Credible source, Adding objects to the environment |
 | Provide clear instruction of what needs to be described when an item was not done, could not be done, or does not apply             | Education             | Instruction on how to perform the behavior                            |
-| Provide examples of reporting "imperfect" items                                                                                     | Modelling             | Demonstration of the behavior                                         |
 | Provide instruction as to how and where information can be reported without breaching word count limits or making articles bloated. | Education             | Instruction on how to perform the behavior                            |
-| Provide examples of concise reporting                                                                                               | Modelling             | Demonstration of the behavior                                         |
 | Encourage explanation even when choices are unusual or not optimal                                                                  | Education             | Instruction on how to perform the behavior                            |
 
-: Intervention components appearing in reporting guideline items, alongside the intervention functions and behaviour change techniques (BCT) they employ. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses.
+: Intervention components appearing in reporting guideline items, alongside the intervention functions and behaviour change techniques (BCT) they employ. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses. {#tbl-ics-item}
+
+<!--
+9 (9)
+-->
+
+<!-- | Provide examples of concise reporting                                                                                               | Modelling             | Demonstration of the behavior                                         | -->
+<!-- | Provide examples of reporting "imperfect" items                                                                                     | Modelling             | Demonstration of the behavior                                         | -->

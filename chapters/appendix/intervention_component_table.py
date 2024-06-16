@@ -50,7 +50,7 @@ for key_behaviour, barriers in data.items():
                     examples = values["now_example"]
                     if examples: 
                         now += f'\n\nExample: {examples}'
-                    BCT = values['BCT'] or 'See above'
+                    BCT = values['BCT'] or SEE_ABOVE
                     done = values['done']
                     assert isinstance(done, bool)
                     if not done:
@@ -58,7 +58,7 @@ for key_behaviour, barriers in data.items():
                 except Exception as e:
                     print(values)
                     raise Exception(desc) from e # type: ignore
-                IF = values.get('IF', 'See above')
+                IF = values.get('IF', SEE_ABOVE)
                 table.add_row([desc, BCT, IF, before, now])
 TEXT += table.draw() # type: ignore
 
