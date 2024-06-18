@@ -21,7 +21,7 @@ format:
     toc-depth: 4
     theme: [cosmo, theme.scss]
     smooth-scroll: true
-    downloads: [docx]
+    downloads: [docx, pdf]
     highlight-style: github
     include-in-header: metadata/noindex.html
   docx:
@@ -30,6 +30,13 @@ format:
       toc: true
       toc-depth: 2
       highlight-style: github
+  pdf: 
+      #pdf-engine: wkhtmltopdf
+      toc: true
+      toc-depth: 2
+      number-sections: true 
+      documentclass: report
+      toc-title: Table of Contents
 number-depth: 2
 
 metadata-files:

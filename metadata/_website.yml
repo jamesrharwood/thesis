@@ -9,18 +9,18 @@ website:
   sidebar:
     search: true
     contents: 
-      - text: "<span class='text-muted'>Abstract</span>"
-        file: index.qmd
-      - text: <span class="text-muted">Acknowledgements</span>
-        file: ""
-      - text: <span class="text-muted">Glossary of key terms</span>
-        file: ""
-      - text: <span class="text-muted">List of Abbreviations</span>
+      - text: "Abstract"
+        file: "chapters/0_Abstract/index.qmd"
+      - text: Acknowledgements
+        file: "chapters/acknowledgements.qmd"
+      - text: Glossary of key terms
+        file: "chapters/glossary.qmd"
+      - text: List of Abbreviations
         file: "chapters/abbreviations.qmd"
-      - text: <span class="text-muted">List of tables</span>
-        file: ""
-      - text: <span class="text-muted">List of Figures</span>
-        file: ""
+      - text: List of tables
+        file: "chapters/list_of_tables.qmd"
+      - text: List of Figures
+        file: "chapters/list_of_figures.qmd"
       - text: "1. Introduction"
         file: "chapters/1_introduction/index.qmd"      
       - text: "2. Reflexivity"

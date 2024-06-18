@@ -38,7 +38,7 @@ I sent all eligible applicants the participant information sheet and consent for
 * What is your first language?
 * What country do you work and live in?
 
-I offered participants £50 reimbursement in return for an expected 2 hour commitment. This was a delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My email templates and information sheet are in Appendices {{< var appendix.pilot_emails >}} and {{< var appendix.pilot_information >}}. 
+I offered participants £50 reimbursement in return for an expected 2 hour commitment. This was a delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My email templates and information sheet are in Appendices {{< var appendix.pilot_emails >}} and {{< var appendix.pilot_participant_information >}}. 
 
 Time and money limited my target sample size to 10 participants. As argued by Nielsen and Launder @nielsenMathematicalModelFinding1993, small samples (fewer than 10) are often sufficient to identify the majority of deficiencies. In chapter {{< var chapters.focus-groups >}} I introduced information power @malterudSampleSizeQualitative2016 as a concept to guide sample size in qualitative research, and I drew upon it again in this study. I maximised information power firstly by using methods to elicit rich information from each participant. Secondly, I used my table of intervention components ({{< var chapters.defining-content >}}) as an analysis framework. Hence I anticipated a sample of 10 to sufficiently inform at least one design iteration at the end of data collection.
 

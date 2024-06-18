@@ -1,0 +1,7 @@
+---
+format: pdf
+---
+
+# List of Tables {.unnumbered}
+
+\listoftables

@@ -1,15 +1,23 @@
 book: 
-  title: "Refining reporting guidelines using behaviour change theory: Draft-1-May-2024"
-  author: "James Harwood\n\nORCID: 0000-0003-3530-3231\n\nDoctor of Philosophy\n\nNuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences\n\nThe University of Oxford\n\n{{< pagebreak >}}"
-  downloads: [docx]
+  title: "Refining reporting guidelines using behaviour change theory: Draft-20-June-2024"
+  # author: "James Harwood\n\nORCID: 0000-0003-3530-3231\n\nDoctor of Philosophy\n\nNuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences\n\nThe University of Oxford\n\n{{< pagebreak >}}"
+  downloads: [docx, pdf]
   page-navigation: true
   chapters: 
     - text: "Title Page"
       file: "index.qmd"
-    - text: "List of Abbreviations"
+    - text: Acknowledgements
+      file: "chapters/acknowledgements.qmd"
+    - text: Glossary of key terms
+      file: "chapters/glossary.qmd"
+    - text: List of Abbreviations
       file: "chapters/abbreviations.qmd"
-    - text: "Abstract*"
-      file: "chapters/abstract.qmd"
+    - text: List of tables
+      file: "chapters/list_of_tables.qmd"
+    - text: List of Figures
+      file: "chapters/list_of_figures.qmd"
+    - text: "Abstract"
+      file: "chapters/0_Abstract/index.qmd"
     - text: "Background"
       file: chapters/1_introduction/index.qmd  
     - text: "Reflexivity"

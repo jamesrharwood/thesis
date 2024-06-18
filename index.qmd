@@ -1,25 +1,12 @@
-::: {.content-visible when-format="html"}
+---
+format: 
+    html:
+        number-sections: false
+---
+# Draft-20-June-2024 {.unnumbered}
 
-# Refining reporting guidelines dissemination using behaviour change theory {.unnumbered}
 
-**James Harwood**
-
-ORCID: 0000-0003-3530-3231
-
-Doctor of Philosophy
-
-January 2024
-
-Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
-
-The University of Oxford
-
-{{< pagebreak >}}
-
-:::
-<!-- content-visible -->
-
-:::{.callout}
+<!-- :::{.callout}
 Here is the working version of my thesis. 
 
 :::{.content-visible when-format="html"}
@@ -36,8 +23,6 @@ Some of the tables and figures aren't rendering nicely yet, especially in Word f
 Known todos for DOCX output:
 
 * Title page 
-* Table and figure formatting
-* Lists of tables & figures at start (necessary?)
 
 :::
 
@@ -51,4 +36,4 @@ Actual word counts will be lower as these numbers include tables, references, an
 
 {{< include metadata/_wordcounts.qmd >}}
 
-:::
+::: -->
