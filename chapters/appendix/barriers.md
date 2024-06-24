@@ -235,7 +235,6 @@ Researchers may not understand the language guidance is written in. A lot of res
 
 ### 16: Researchers may struggle to keep writing concise{#sec-need-concise-writing}
 
-<!-- # ASK: Should I use bold to show the separate parts of a recommendation? -->
 Following a guideline can result in lengthy, bloated reports which are unpleasant to read and breach journals' word limits. Researchers may not know how to keep writing fluid and concise or where they can report an item (e.g., what section, in the text or in a table or figure, in the manuscript or in supplementary material).
 
 ######## Ideas to address this barrier:

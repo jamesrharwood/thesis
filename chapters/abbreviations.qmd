@@ -1,8 +1,8 @@
 # List of abbreviations {.unnumbered}
 
-## Reporting guidelines {#sec-rg-abbreviations}
+### Reporting guidelines {#sec-rg-abbreviations}
 
-Name|Full name
+|
 :-|:----
 AGREE |  Appraisal of Guidelines, REsearch and Evaluation
 ARRIVE | Animal Research: Reporting of In Vivo Experiments
@@ -34,10 +34,11 @@ TRIPOD | Transparent Reporting of a multivariable prediction model for Individua
 
 
 
-## Other Abbreviations {#sec-abbreviations}
+### Other Abbreviations {#sec-abbreviations}
 
 |
 :-|:----
+NICE | National Institute for Health and Care Excellence
 CASP | Critical Appraisal Skills Programme
 EQUATOR | Enhancing the QUAlity and Transparency Of health Research
 GIM | Global Index Medicus

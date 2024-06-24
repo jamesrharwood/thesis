@@ -2,7 +2,7 @@
 
 _Relevant website features: {{< var intervention-components.clarify-tasks.description >}}_
 
-_Barriers addressed: {{< var intervention-components.clarify-tasks.barriers >}}_
+_Influences addressed: {{< var intervention-components.clarify-tasks.barriers >}}_
 
 **Tools for drafting and checking were mostly intuitive, but could be more prominent.**
 

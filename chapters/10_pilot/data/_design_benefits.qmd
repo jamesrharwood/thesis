@@ -1,5 +1,7 @@
 #### Deficient component: {{< var intervention-components.design-benefits.title >}}
 
+#TODO include features and barriers
+
 **Participant's described the design as simple, but some parts could be simpler still, and simplicity may come across as basic**
 
 We were aiming to communicate simplicity and that the website was there to help, to make life easier, not more complicated. 

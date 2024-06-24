@@ -2,7 +2,7 @@
 
 _Relevant website features: {{< var intervention-components.describe-benefits.description >}}_
 
-_Barriers addressed: {{< var intervention-components.describe-benefits.barriers >}}_
+_Influences addressed: {{< var intervention-components.describe-benefits.barriers >}}_
 
 
 **Benefits are clear, but could be communicated quicker**
@@ -39,7 +39,7 @@ Participants seemed to understand how reporting guidelines might make publishing
 
 Further down the home page, the section title _'Helping authors and readers'_ made one participant believe the website also hosts resources for readers.
 
-"So this is a bit weird. So is the point here that this one is for the writers. And now it's saying, OK, but we can also help readers. OK, I suppose that's interesting." PPT-CW
+> "So this is a bit weird. So is the point here that this one is for the writers. And now it's saying, OK, but we can also help readers. OK, I suppose that's interesting" {{< var pilot.participants.PPT-CW >}}.
 
 **The images depicting benefits could be clearer**
 

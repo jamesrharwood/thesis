@@ -2,7 +2,7 @@
 
 _Relevant website features: {{< var intervention-components.design-trust.description >}}_
 
-_Barriers addressed: {{< var intervention-components.design-trust.barriers >}}_
+_Influences addressed: {{< var intervention-components.design-trust.barriers >}}_
 
 When participants talked about trust, they mentioned whether the website came across as professional, credible, and believable. This intervention component is complex because content and design throughout the entire website influenced judgements regarding trust. In particular, participants wanted to know who made the website and why they could be trusted, and identified some design elements that could look more professional. 
 

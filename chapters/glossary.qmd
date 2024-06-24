@@ -1,3 +1,16 @@
 # Glossary of key terms {.unnumbered}
 
+* Reporting guideline
+* E&E
+* Checklist
+* Reporting item
+* Barriers and facilitators/enablers
+* Influence
+* Idea
+* Deficiency
+* Behaviour Change Wheel
+* Behavioural driver
+* Intervention function
+* Policy category
+
 #TODO

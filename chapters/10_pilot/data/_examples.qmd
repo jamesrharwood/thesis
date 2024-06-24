@@ -1,4 +1,6 @@
 #### Deficient component: {{< var intervention-components.examples.title >}}
+ 
+#TODO include features and barriers
 
 **Many participants said they wanted more, varied examples**
 
@@ -30,7 +32,7 @@ Many participants wanted examples from their own field, or even entire publicati
 
 > "I've searched on pubmed to find an example of a research article that's used these standards so I could copy or check how they've laid it out, which subheadings they've used." {{< var pilot.participants.PPT-CW >}}
 
-**Citations may be less credible if they are old or not referenced**
+**Examples may be less credible if they are old or not referenced**
 
 In the original SRQR publication, all examples are referenced. I had not included references for the examples when putting them onto the website because of time constraints. This bothered one participant.
 
@@ -40,7 +42,7 @@ When I asked about hypothetically labelling examples as illustrative if they wer
 
 The same participant also noted that an example was quite old (10 years). 
 
-**Citations could be more useful if explained or annotated**
+**Examples could be more useful if explained or annotated**
 
 Because some reporting items contain multiple sub-items, one participant said annotating examples may be helpful. Taking a discussion item about transferability and integrating findings, they suggested "if you could underline or maybe indicate [in the example] that _this_ [sentence] is now how they are trying to say the result can be transferable, umm, this is another [sentence] trying to say how they're trying to integrate.... something like that." {{< var pilot.participants.PPT-BH >}}
 

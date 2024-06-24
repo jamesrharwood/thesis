@@ -33,7 +33,6 @@ objectives = """
   iv_changes: findability
   methods: time to click
 - id: usable-format-checklist
-  # TODO: is this the right question? Do we want to compare with PDFs?
   title: What would make checklists easier to use?
   colour: blue
   description: What would make checklists (in DOCX format) easier to use?

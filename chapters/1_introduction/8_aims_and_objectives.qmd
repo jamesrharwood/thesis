@@ -1,12 +1,12 @@
 ## Aims and Objectives
 
-My aim was to identify and address barriers preventing authors from adhering to reporting guidelines. I wanted to explore the entire reporting guideline system, and I wanted to be thorough: I wanted to identify as many barriers as possible, and as many solutions as possible, before deciding which to implement.
+My aim was to identify and address the influences affecting whether authors adhere to reporting guidelines. I wanted to explore the entire reporting guideline system, and I wanted to be thorough: I wanted to identify as many influences as possible, and as many solutions as possible, before deciding which to implement.
 
 My objectives were:
 
-* To identify barriers that may limit reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}})
-* To work with key stakeholders to identify intervention changes to address these limiting factors (addressed in chapters {{< var chapters.workshops >}} - {{< var chapters.focus-groups >}})
+* To identify influences that may affect reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}})
+* To work with key stakeholders to identify intervention changes to address these influences (addressed in chapters {{< var chapters.workshops >}} - {{< var chapters.focus-groups >}})
 * To implement these changes (described in {{< var chapters.defining-content >}})
 * To refine the new intervention in response to feedback from authors (addressed in chapter {{< var chapters.pilot >}})
 
-My thesis bares many of the hallmarks of pragmatism. I used both qualitative and quantitative methods. Constraints (like time and access to participants) influenced my decisions. I balanced participants' views with my own; I sought to remove my views as much as possible in all chapters except for the workshops I conducted with EQUATOR (chapter {{< var chapters.workshops >}}) and when designing the intervention (chapter {{< var chapters.defining-content >}}). I balanced inductive and deductive reasoning; my early chapters were exploratory and inductive, and my later chapters became increasingly deductive as my focus narrowed and I relied more heavily on a framework.
+My thesis bares hallmarks of pragmatism. I used both qualitative and quantitative methods. Constraints (like time and access to participants) influenced my decisions. I balanced participants' views with my own; I sought to remove my views as much as possible in all chapters except for the workshops I conducted with EQUATOR (chapter {{< var chapters.workshops >}}) and when designing the intervention (chapter {{< var chapters.defining-content >}}). I balanced inductive and deductive reasoning; my early chapters were exploratory and inductive, and my later chapters became increasingly deductive as my focus narrowed and I relied more heavily on a framework.

@@ -15,7 +15,7 @@ We could make ours more narrow by narrowing the question to e.g., early career r
 Given that experience was one dimension that was flagged, is that sensible?
 
 Sample specificity: Dense or sparse? Specificity means participants who belong to the specified target group whilst also exhibiting some variation within the experiences to be explored.
-<!-- # ASK: I don't understand specificity -->
+<!-- I don't understand specificity -->
 
 Established theory - applied or not? We are using BCW and COM-B as our established theory. Or at least we did, but will we use it again? I think so...?
 

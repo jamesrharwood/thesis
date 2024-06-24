@@ -1,6 +1,6 @@
 # Intended Methods
 
-<!-- # ASK: could someone sit in to do data recording? 
+<!-- could someone sit in to do data recording? 
 Can I avoid recording and coding full interviews? I don't think so.
 I could record both interviews. Do I need to manually transcribe them?
 How long will transcription take? 
@@ -25,7 +25,7 @@ Do I need to code line by line, or can I just code problems? How long will codin
   * What words would you use to describe how the site looked? Why did you choose that word?
 
 Record: mis- or non-understandings, negative feelings or descriptions.
-<!-- # ASK: Is there value in recording positive responses too? -->
+<!-- Is there value in recording positive responses too? -->
 Yes - record positive responses too. They will add context.
 
 ## Ability to use and find information
@@ -48,7 +48,7 @@ Record: moments of confusion & wrong turns
 Record:
 
 * Quotes of text that elicited negative responses, and the reasons for those responses
-<!-- # ASK: What would I do with the plus parts? If nothing, is there point in collecting them? -->
+<!-- What would I do with the plus parts? If nothing, is there point in collecting them? -->
 * Reasons for non-compliance
 
 [Usability of documents](https://www.uxmatters.com/mt/archives/2020/05/how-to-test-the-usability-of-documents.php)

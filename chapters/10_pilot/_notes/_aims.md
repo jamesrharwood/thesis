@@ -47,4 +47,4 @@ On reflection I'm deciding against this. Doing a quantitative comparison would r
       * # that correctly understand what RGs are, how they can be used and their benefits
       * # A measure of satisfaction, like System Usability Scale (NB Usability is defined by ISO as effectiveness, efficiency, and satisfaction).
 
-    <!-- # ASK: Can we obtain ethics for everything just in case, even if we don't do it? Including videos? -->
+    <!-- Can we obtain ethics for everything just in case, even if we don't do it? Including videos? -->

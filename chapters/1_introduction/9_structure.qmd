@@ -6,7 +6,7 @@ I reflect on my background, my prior held opinions, and those of my supervision 
 
 **Chapter {{< var chapters.synthesis >}} - {{< var titles.synthesis >}}**
 
-The next three chapters pertain to my first objective - to identify possible reasons as to why reporting guidelines have had only a limited impact on reporting quality. Chapter {{< var chapters.synthesis >}} describes a thematic synthesis of qualitative studies exploring authors' experiences of using reporting guidelines, where I sought to identify what may influence whether an author successfully adheres to reporting guidance. 
+The next three chapters pertain to my first objective - to identify possible influences affecting whether authors adhere to reporting guidelines. Chapter {{< var chapters.synthesis >}} describes a thematic synthesis of qualitative studies exploring authors' experiences of using reporting guidelines. 
 
 **Chapter {{< var chapters.review >}} - {{< var titles.survey_content >}}**
 
@@ -14,15 +14,15 @@ This chapter builds on the previous one by identifying additional possible influ
 
 **Chapter {{< var chapters.web-audit >}} - {{< var titles.website_audit >}}**
 
-This chapter describes the characteristics and behaviour of visitors to the EQUATOR Network website. This website, although an important piece of the reporting guideline infrastructure, was rarely explored by studies reviewed in the previous two chapters. This evaluation adds evidence and context to influences identified in the previous chapters, and goes on to inform discussions and decisions in later chapters. 
+This chapter describes the characteristics and behaviour of visitors to the EQUATOR Network website. This website, although an important piece reporting guideline infrastructure, was rarely explored by studies reviewed in the previous two chapters. This evaluation adds evidence and context to influences identified in the previous chapters, and goes on to inform discussions and decisions in later chapters. 
 
 **Chapter {{< var chapters.bcw >}} - {{< var titles.bcw >}}**
 
-The next 3 chapters pertain to my second objective &mdash; identifying intervention changes. Chapter {{< var chapters.bcw >}} introduces the Behaviour Change Wheel, which is a framework for designing and defining behaviour change interventions. I explain how my thesis gained form at this point in time; my view of reporting guidelines as a system crystallised, and Charlotte Albury joined my supervision team as my plans took an unexpected qualitative turn. I wanted my thesis to accurately reflect the twists and turns of my DPhil, and so instead of introducing my chosen framework at start of my thesis (which may customary), I introduce it in the middle to more accurately reflect my journey.
+The next 3 chapters pertain to my second objective &mdash; identifying intervention changes. Chapter {{< var chapters.bcw >}} introduces the Behaviour Change Wheel, which is a framework for designing behaviour change interventions. I explain how my thesis gained form at this point in time; my view of reporting guidelines as a system crystallised, and Charlotte Albury joined my supervision team as my plans took an unexpected qualitative turn. I wanted my thesis to accurately reflect the twists of my DPhil, and so instead of introducing my chosen framework at start of my thesis (which may be customary), I introduce it in the middle to more accurately reflect my journey.
 
 **Chapter {{< var chapters.workshops >}} - {{< var titles.workshops >}}**
 
-This chapter describes how I lead workshops with reporting guideline experts from the UK EQUATOR center to identify intervention options using Behaviour Change Wheel framework.
+This chapter describes how I led workshops with reporting guideline experts from the UK EQUATOR Centre to identify intervention options using the Behaviour Change Wheel framework.
 
 **Chapter {{< var chapters.focus-groups >}} - {{< var titles.focus_groups >}}**
 

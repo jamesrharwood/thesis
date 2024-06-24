@@ -2,7 +2,7 @@
 
 _Relevant website features: {{< var intervention-components.describe-what-rgs-are.description >}}_
 
-_Barriers addressed: {{< var intervention-components.describe-what-rgs-are.barriers >}}_
+_Influences addressed: {{< var intervention-components.describe-what-rgs-are.barriers >}}_
 
 Because it is important for website visitors to quickly realise the site contains resources for _writing up_ research articles, as opposed to _designing_ or _appraising_ studies, I used the 5 second test to explore what participants understood the website to be about upon first impression. This was the first time participants saw the website. Before then, they had no idea what it would be about.
 
@@ -11,8 +11,6 @@ In the first iteration the heading was _"Research articles, made simple"_, but s
 **On immediate impression, some participants quickly realised the website was about writing, but some did not, or thought it was about methodological guidelines**
 
 All participants realised the website was about research. Some researchers realised the website was about writing within 5 seconds: 
-
-#TODO format quotes
 
 > "From what I have seen, I think probably the website should be about, uh, helping you try to discover....identify the guidelines that you will use for writing your study quickly." {{< var pilot.participants.PPT-BH >}}
 

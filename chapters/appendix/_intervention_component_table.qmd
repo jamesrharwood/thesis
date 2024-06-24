@@ -1,6 +1,6 @@
 ::: {.landscape .column-screen-inset-right}
 
-## Appendix D: Intervention Components Table {.appendix #app-ict .unnumbered}
+## Appendix {{< var appendix.ict >}}: Intervention Components Table {.appendix #app-ict .unnumbered}
 
 In chapter {{< var chapters.defining-content >}} I described how I combined the outputs of previous chapters to create the intervention components listed below. 
 
