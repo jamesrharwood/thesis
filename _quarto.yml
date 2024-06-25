@@ -31,11 +31,20 @@ format:
       toc-depth: 2
       highlight-style: github
   pdf: 
-      #pdf-engine: wkhtmltopdf
+      documentclass: scrbook
+      pdf-engine: latexmk
+      pdf-engine-opt: --xelatex
+      latex-max-runs: 3
+      keep-tex: false
+      colorlinks: false
+      geometry:
+        - left=3cm
+        - right=3cm
+        - marginparwidth=1.5in
+        - twoside=true
       toc: true
       toc-depth: 2
       number-sections: true 
-      documentclass: report
       toc-title: Table of Contents
 number-depth: 2
 
