@@ -123,25 +123,24 @@ IFs:
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
 appendix:
-  barriers: J
-  deficiencies: S
-  focus_group_emails: K
-  focus_group_information: L
-  ict: N
-  ideas: M
-  pilot_emails: Q
-  pilot_interview_schedule: R
-  pilot_participant_information: P
-  pilot_recruitment_image: O
+  barriers: F
+  deficiencies: R
+  focus_group_emails: J
+  focus_group_information: K
+  ict: M
+  ideas: L
+  pilot_emails: P
+  pilot_interview_schedule: Q
+  pilot_participant_information: O
+  pilot_recruitment_image: N
   search: A
   workshop_step_1: B
   workshop_step_2: C
   workshop_step_3: D
   workshop_step_4: E
-  workshop_step_5: F
-  workshop_step_6: G
-  workshop_step_7: H
-  workshop_step_8: I
+  workshop_step_5: G
+  workshop_step_6: H
+  workshop_step_7: I
 chapters:
   bcw: 6
   defining-content: 9
@@ -204,7 +203,7 @@ counts:
   sub_items: 136
   sub_items_pre_jh: 128
 descriptions:
-  stages: before developing guidance, when developing guidance, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
+  stages: before developing a reporting guideline, when developing a reporting guideline, when writing guidance down and creating resources, when disseminating resources, or on an ongoing basis
   stakeholders: funders, ethics committees, institutions, publishers, equator network, guideline developers, registries, preprint servers, conference organisers, and societies
 intervention-components:
   address-authors:
@@ -479,20 +478,20 @@ pilot:
 root: true
 stages:
   creation: When writing guidance down and creating resources
-  development: When developing guidance
+  development: When developing a reporting guideline
   dissemination: When disseminating resources
   ongoing: On an ongoing basis
-  planning: Before developing guidance
+  planning: Before developing a reporting guideline
 titles:
   bcw: Selecting the Behaviour Change Wheel framework
   defining_content: Defining intervention components and developing a prototype
   discussion: Discussion
-  focus_groups: 'Generating ideas to address barriers limiting reporting guideline impact: focus groups with reporting guideline developers, advocates, and publishers'
+  focus_groups: 'Generating ideas to address influences affecting reporting guideline adherence: focus groups with reporting guideline developers, advocates, and publishers'
   introduction: Introduction
   pilot: 'Refining the intervention: qualitative study with authors'
   reflexivity: Reflections on starting my DPhil
-  survey_content: 'What barriers might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
-  synthesis: 'What barriers might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'
+  survey_content: 'What influences might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys.'
+  synthesis: 'What influences might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis'
   website_audit: Describing who visits EQUATOR's website for disseminating reporting guidelines, and how visitors use it
   workshops: 'Following the behaviour change wheel guide: Workshops with reporting guideline experts'
 website-github-repo-url: https://github.com/jamesrharwood/equator-guidelines-website

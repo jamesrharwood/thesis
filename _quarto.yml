@@ -21,7 +21,7 @@ format:
     toc-depth: 4
     theme: [cosmo, theme.scss]
     smooth-scroll: true
-    downloads: [docx, pdf]
+    downloads: [docx] #, pdf]
     highlight-style: github
     include-in-header: metadata/noindex.html
   docx:
@@ -30,22 +30,35 @@ format:
       toc: true
       toc-depth: 2
       highlight-style: github
-  pdf: 
-      documentclass: scrbook
-      pdf-engine: latexmk
-      pdf-engine-opt: --xelatex
-      latex-max-runs: 3
-      keep-tex: false
-      colorlinks: false
-      geometry:
-        - left=3cm
-        - right=3cm
-        - marginparwidth=1.5in
-        - twoside=true
-      toc: true
-      toc-depth: 2
-      number-sections: true 
-      toc-title: Table of Contents
+  # pdf: 
+  #     documentclass: scrbook
+  #     pdf-engine: xelatex
+  #     pdf-engine-opt: --xelatex
+  #     latex-max-runs: 3
+  #     keep-tex: false
+  #     colorlinks: false
+  #     papersize: a4
+  #     linestretch: 1.5
+  #     geometry:
+  #         - inner=3cm
+  #         - outer=4cm
+  #         - top=3cm
+  #         - bottom=4cm
+  #         - headsep=22pt
+  #         - headheight=11pt
+  #         - footskip=33pt
+  #         - ignorehead
+  #         - ignorefoot
+  #         - heightrounded
+  #     toc: true
+  #     toc-depth: 2
+  #     number-sections: true 
+  #     toc-title: Table of Contents
+  #     fontsize: 12pt
+  #     mainfont: "Times New Roman"
+  #     sansfont: "Arial"
+  #     monofont: "Courier New"
+  #     include-in-header: include-in-header.tex
 number-depth: 2
 
 metadata-files:

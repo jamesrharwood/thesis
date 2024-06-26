@@ -3,37 +3,25 @@ format:
     html:
         number-sections: false
 ---
-# Draft-20-June-2024 {.unnumbered}
+# Notes on this draft {.unnumbered}
 
-
-<!-- :::{.callout}
+:::{.callout}
 Here is the working version of my thesis. 
-
-:::{.content-visible when-format="html"}
-You'll find chapters on the left, and can download Word files for each chapter on the right. 
-
-Chapters that I've not done (including this one) are [this colour]{.text-muted}. Chapters in [this colour]{.text-warning} are a works-in-progress. 
-:::
 
 If you see anything like "\@something", "**?:something**", or "#SOMETHING" then please ignore. 
 
 Some of the tables and figures aren't rendering nicely yet, especially in Word format. You can ignore that too. 
 
-:::{.content-visible when-format="docx"}
-Known todos for DOCX output:
+Known todos:
 
 * Title page 
+* Acknowledgements
+* Glossary
 
-:::
+#### Word Count Tallies: 
 
-:::
-
-::: {.content-visible when-format="html"}
-
-## Word Count Tallies: 
-
-Actual word counts will be lower as these numbers include tables, references, and appendices. 
+Actual word count is ~15k lower as these numbers include references and appendices. 
 
 {{< include metadata/_wordcounts.qmd >}}
 
-::: -->
+:::

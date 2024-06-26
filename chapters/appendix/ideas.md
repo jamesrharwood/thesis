@@ -1,4 +1,4 @@
-## Before developing guidance
+## Before developing a reporting guideline
 
 
 
@@ -41,7 +41,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 
-## When developing guidance
+## When developing a reporting guideline
 
 
 
