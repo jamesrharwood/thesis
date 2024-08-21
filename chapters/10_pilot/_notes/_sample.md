@@ -2,7 +2,7 @@
 
 Purposive
 
-Seeking variance. I want to include varying experiences, backgrounds, english proficiencies etc. But I don't want to do any kind of formal comparison. Just use variation to aid interpretation & because I think it will lead to identification of more problems.
+Seeking variance. I want to include varying experiences, backgrounds, English proficiencies etc. But I don't want to do any kind of formal comparison. Just use variation to aid interpretation & because I think it will lead to identification of more problems.
 
 Learn as collecting data. If we find more reasons for difficulty then should sample more.
 

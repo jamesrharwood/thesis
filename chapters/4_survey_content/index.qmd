@@ -78,7 +78,7 @@ The quantitative survey questions covered few of the themes I identified from qu
 
 ### Limitations of included studies and advice for future research
 
-<!-- #STRETCH I do not describe limitations of this chapter, just limitations of studies. And not all of the limitations below will have limited my study. E.g. recall bias does not matter because I was looking at the questions, not the responses.  -->
+<!-- #STRETCH I do not describe limitations of this chapter, just limitations of studies. And not all of the limitations below will have limited my study. E.g., recall bias does not matter because I was looking at the questions, not the responses.  -->
 
 All included survey studies were subject to recall bias as participants were describing past behaviour or opinions. Future studies could consider methods that allow researchers to document experiences in real time, like observation or think aloud tasks.
 

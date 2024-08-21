@@ -52,7 +52,7 @@ Components were abstract at this stage, described only as words. I had not built
 
 ## Results
 
-From the initial list of {{< var counts.ideas >}} I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} barriers. 
+From the initial list of {{< var counts.ideas >}}, I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} barriers. 
 
 See table @tbl-int-plan for all intervention components, labelled with the barriers they address, the intervention functions they work through, and the behaviour change technique they employ.
 

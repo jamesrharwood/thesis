@@ -16,7 +16,7 @@ However, many participants said they wanted more examples, and greater variation
 
 > "need further explanation and examples" {{< var pilot.participants.PPT-BH >}}
 
-> "it would would have been useful or helpful for me to to have more than just one example." {{< var pilot.participants.PPT-OMK >}}
+> "it would have been useful or helpful for me to have more than just one example." {{< var pilot.participants.PPT-OMK >}}
 
 > "illustrations of how to [report] this information in a concise manner, that would be very helpful as well." {{< var pilot.participants.PPT-OMK >}}
 

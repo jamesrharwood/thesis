@@ -39,9 +39,9 @@ JH
 
 Retrospective thoughts:
 
--   JH: Could have included the behaviour of funders e.g. requesting guidance adherance
+-   JH: Could have included the behaviour of funders e.g., requesting guidance adherance
 -   SK: Could have specified using guidance for writing protocols, but not everyone writes a protocol
--   JH: We could distinguish between using an E&E and using a checklist. E.g. “Authors should use E&E document when drafting” v.s. “Authors should use checklist when drafting”. Or maybe distinguishing between checklist & E&E can come in step 4.
+-   JH: We could distinguish between using an E&E and using a checklist. E.g., “Authors should use E&E document when drafting” v.s. “Authors should use checklist when drafting”. Or maybe distinguishing between checklist & E&E can come in step 4.
 
 *Instructions: Prioritise the behaviours.*
 

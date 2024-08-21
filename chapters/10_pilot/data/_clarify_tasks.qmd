@@ -16,7 +16,7 @@ However, describing these tools further up the page might help visitors "get" wh
 
 > "[it] would actually be very good to appear [higher up the page] because then it would now start opening up one's understanding as to exactly where this kind of guidelines might be applied." {{< var pilot.participants.PPT-OMK >}}
 
-> "If any of these things: *writing research*, *checking manuscripts* and *planning research*, if these can be consolidated on [the top of] your landing page somewhere [...] it might might be beneficial because my thought process is that I need to know what I'm doing and only then reporting guidelines can help me, right? So if I know that this website is gonna help me with writing the manuscripts, checking [...] I think then, reporting guidelines can make a logical progression in that particular case?" {{< var pilot.participants.PPT-SK >}}
+> "If any of these things: *writing research*, *checking manuscripts* and *planning research*, if these can be consolidated on [the top of] your landing page somewhere [...] it might be beneficial because my thought process is that I need to know what I'm doing and only then reporting guidelines can help me, right? So if I know that this website is gonna help me with writing the manuscripts, checking [...] I think then, reporting guidelines can make a logical progression in that particular case?" {{< var pilot.participants.PPT-SK >}}
 
 Even though participants could not download templates or checklists, they had expectations of what these resources might look like.
 

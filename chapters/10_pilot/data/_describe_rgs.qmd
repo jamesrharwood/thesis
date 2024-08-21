@@ -22,7 +22,7 @@ However, other participants gleaned only vague understandings like "support for 
 
 Participants with previous experience using reporting checklists realised the website might be about reporting guidelines:
 
-> "Well, I hadn't seen the the guide that I'm familiar with (that is the COREQ). But I think the other guides also are like COREQ. So that's what comes to my mind. So I think it's a [website] where you are going to find all the checklists or the guides for all the [...] final stages of the research when we are, like, writing the paper, just to [...] double check that everything has been included." {{< var pilot.participants.PPT-MJ >}}
+> "Well, I hadn't seen the guide that I'm familiar with (that is the COREQ). But I think the other guides also are like COREQ. So that's what comes to my mind. So I think it's a [website] where you are going to find all the checklists or the guides for all the [...] final stages of the research when we are, like, writing the paper, just to [...] double check that everything has been included." {{< var pilot.participants.PPT-MJ >}}
 
 > "That's the EQUATOR guidelines, so that's... consensus... expert consensus-developed guidelines for the reporting of different research." {{< var pilot.participants.PPT-HA >}}
 

@@ -16,11 +16,11 @@ Apart from its logo, EQUATOR was not mentioned at the top of the page. Participa
 
 Participants unfamiliar with EQUATOR expressed wanting to know who developed the website. Whilst looking at the top of the home page, one participant said:
 
-> "I really don't get an idea of [...] who's responsible for the website [...] would I trust the the developers of the website?" {{< var pilot.participants.PPT-OMK >}}
+> "I really don't get an idea of [...] who's responsible for the website [...] would I trust the developers of the website?" {{< var pilot.participants.PPT-OMK >}}
 
 The home page introduced EQUATOR at the very bottom. Participants recommended moving this introduction (or parts of it) up to the top, using an updated photo, and adding EQUATOR's affiliations and awards. 
 
-> "So most places put the the _about_ stuff at the bottom and I would have liked to have seen what [EQUATOR stands for] explained right at the top." {{< var pilot.participants.PPT-CW >}}
+> "So most places put the _about_ stuff at the bottom and I would have liked to have seen what [EQUATOR stands for] explained right at the top." {{< var pilot.participants.PPT-CW >}}
 
 > "And then this is the thing on the bottom that I want to look at on every website... because I want to see if they have an actual office. So usually I click this "about us" first" {{< var pilot.participants.PPT-RW >}}
 

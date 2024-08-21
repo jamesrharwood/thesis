@@ -10,7 +10,7 @@ I described the workshops I ran with EQUATOR in chapter {{< var chapters.worksho
 
 ### Focus groups with external stakeholders
 
-Focus groups are researcher-led group discussions that use conversation as a form of data collection @givenFocusGroups2008. A key element of focus groups is interactions between participants as they agree, disagree, challenge, and 'feed off' of each other. I chose focus groups because I expected this interaction to lead to more ideas being generated than if I interviewed participants in isolation. Focus groups are also a practical way to collect data from larger groups of people. This is in contrast to in-depth interviews which are more useful in eliciting rich detail about individuals' perspectives.
+Focus groups are researcher-facilitated group discussions that use conversation as a form of data collection @givenFocusGroups2008. A key element of focus groups is interactions between participants as they agree, disagree, challenge, and 'feed off' of each other. I chose focus groups because I expected this interaction to lead to more ideas being generated than if I interviewed participants in isolation. Focus groups are also a practical way to collect data from larger groups of people. This is in contrast to in-depth interviews which are more useful in eliciting rich detail about individuals' perspectives.
 
 ### Sampling
 

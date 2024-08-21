@@ -8,6 +8,12 @@ format:
 :::{.callout}
 Here is the working version of my thesis. 
 
+When opening in Word you'll get an error: 
+
+`This document contains fields that may refer to other files. Do you want to update the fields in this document?`
+
+Click Yes, then Update Entire Table. 
+
 If you see anything like "\@something", "**?:something**", or "#SOMETHING" then please ignore. 
 
 Some of the tables and figures aren't rendering nicely yet, especially in Word format. You can ignore that too. 

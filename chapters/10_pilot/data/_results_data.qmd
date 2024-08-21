@@ -74,7 +74,7 @@ When an SRQR item contained extra context or explanation not relevant to all use
 
 **Menu navigation was useful but could be more prominent and go one level deeper**
 
-The redesigned SRQR guideline has a side navigation menu so users can easily navigate to the Introduction, Methods, Results, and Discussion guidance sections, or to the FAQs and citation information. A few participants did not notice the menu, or suggested it could be more prominent, and one suggested it would be useful if the menu listed all reporting items (ie. not just _Methods_, but also the item titles within). 
+The redesigned SRQR guideline has a side navigation menu so users can easily navigate to the Introduction, Methods, Results, and Discussion guidance sections, or to the FAQs and citation information. A few participants did not notice the menu, or suggested it could be more prominent, and one suggested it would be useful if the menu listed all reporting items (i.e.,. not just _Methods_, but also the item titles within). 
 
 > "when I scrolling I forgot to pay attention to the menu on the side. So [...] I suddenly realized it was a menu there [...] Maybe make it much more, like, the characters larger or, like, the colour, maybe change it, because now it is so light and I didn't pay attention to that. But this menu is useful if I pay attention to this." {{< var pilot.participants.PPT-YD >}}
 
@@ -308,7 +308,7 @@ One participant wanted training on how to "write in a concise manner" {{< var pi
 
 Another talked about their struggle to apply training and guidance to their own writing process.
 
-> "When I try to look at your guidance on your website, I really want to use it in my own writing, but it is very strange because when I try to, uh, connect the information on the website with my own writing, I found there there might be a great gap because I think everything on your website is very clear (actually they are very specific, those suggestions), but when I try to connect those information with my own writing, I found it just a little bit difficult to to generate some some specific ideas to start my writing.
+> "When I try to look at your guidance on your website, I really want to use it in my own writing, but it is very strange because when I try to, uh, connect the information on the website with my own writing, I found there there might be a great gap because I think everything on your website is very clear (actually they are very specific, those suggestions), but when I try to connect those information with my own writing, I found it just a little bit difficult to generate some some specific ideas to start my writing.
 >
 > So I'm thinking if that's because the problem of my writing is not the lack of specific guidance but some other thing like my motivation or, I don't know...it's just a little bit strange.
 > 
@@ -342,7 +342,7 @@ Whereas many participants spontaneously said how useful examples were, none said
 
 **One participant felt the instructions could be a little longer and less ambiguous**
 
-Each reporting item began with instructions of what to write. Participants welcomed these instructions, as articulated by one participant when describing how they used the guideline for the writing task, "I used it specially for understanding what kind of information, you know, apart from the obvious ones, every section wants me to to write, so it it was really helpful in that respect" {{< var pilot.participants.PPT-MJ >}}.
+Each reporting item began with instructions of what to write. Participants welcomed these instructions, as articulated by one participant when describing how they used the guideline for the writing task, "I used it specially for understanding what kind of information, you know, apart from the obvious ones, every section wants me to write, so it it was really helpful in that respect" {{< var pilot.participants.PPT-MJ >}}.
 
 However, one participant suggested the information could be a little longer: "I guess just a few more words to kind of, articulate [the instruction] better or give it a bit more detail [because it may be ambiguous to] somebody less experienced" {{< var pilot.participants.PPT-VS >}}.
 
@@ -430,7 +430,7 @@ The guidance advises readers that it may take 16 minutes to read. One participan
 
 But another felt like 16 minutes was too long, especially if you only found the guideline as part of manuscript submission "Uh, it will be frustrating. Now again, you waste a lot of time." {{< var pilot.participants.PPT-BH >}}. 
 
-And a third (not a native english speaker) worried they would feel bad if the guidance took them longer than the stated time:
+And a third (not a native English speaker) worried they would feel bad if the guidance took them longer than the stated time:
 
 > "I think this is, like, useful, but I'm not sure whether some... when some people read it, they may feel stressful because, from my teaching experience before, some of my students may say to me if, like, there is guidance saying that you may need, like, 60 minute to read it, sometimes, if they take longer, they may feel confused, or lose a little bit [of] confidence [and worry that] they read it so slow or they are not, like, normal one. I think this [estimated time] _may_ be a good [information] because, like, nowadays I found, like, many websites use it. But actually, for me sometimes this part is useful, but sometimes it is not." {{< var pilot.participants.PPT-YD >}}
 
