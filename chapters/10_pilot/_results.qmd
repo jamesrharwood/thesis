@@ -110,7 +110,7 @@ Participants also mentioned influences I had not identified previously. These in
 - Not understanding reviewer feedback
 - Not wanting to read on a screen
 - Not understanding the relationship between the EQUATOR Network and the guidelines or guideline developers.
-- Describing a guideline as "version 1.0" might make people feel like the guidance is (too) new, and therefore less trustable. This barrier was new to my website as no existing reporting guidelines describe themselves as "1.0". 
+- Describing a guideline as "version 1.0" might make people feel like the guidance is (too) new, and therefore less trustable. This influence was new to my website as no existing reporting guidelines describe themselves as "1.0". 
 
 #### Comparisons between the website being tested and the old EQUATOR website & guideline publications.
 

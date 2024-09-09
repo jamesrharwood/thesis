@@ -4,7 +4,7 @@ from collections import defaultdict
 import yaml
 import texttable
 
-COLS = ['Method', 'Intervention Components (defined in chapter {{< var chapters.defining-content >}})']
+COLS = ['Method', 'Intervention Components (defined in previous chapter)']
 COL_RANGE = range(len(COLS))
 WIDTHS = [500, 500]
 ALIGNMENTS = ['l' for _ in COL_RANGE]
@@ -71,6 +71,7 @@ text = f"""::: {{.landscape .column-page-right}}
 :::
 <!-- end landcape -->
 """
+text = text.replace("+=", "+:") # type: ignore #needed because text table doesn't specify aligntment with colons
 
 with open(OUTPUT, 'w') as file_:
     file_.write(text)

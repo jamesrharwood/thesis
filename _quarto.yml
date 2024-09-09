@@ -24,9 +24,10 @@ format:
     downloads: [docx] #, pdf]
     highlight-style: github
     include-in-header: metadata/noindex.html
+    css: styles.css
   docx:
       from: markdown+grid_tables
-      reference-doc: reference.docx
+      reference-doc: custom-reference-doc.docx
       toc: true
       toc-depth: 2
       highlight-style: github

@@ -1,5 +1,5 @@
 | Intervention component                                                             | Intervention Function       | BCT                                         |
-|---------------------------------|------------------|---------------------|
+|:--------------------------------|:-----------------|:--------------------|
 | Centralised hosting                                                                | Enablement                  | Restructuring the physical environment      |
 | Search function on website                                                         | Enablement                  | Restructuring the physical environment      |
 | Links between related guidelines                                                   | Environmental Restructuring | Restructuring the physical environment      |

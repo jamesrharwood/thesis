@@ -22,6 +22,7 @@ actual_render:
 create_tables:
 	@echo 'Creating tables...'
 	@python -m chapters.10_pilot.data.create_methods_table
+	@python -m chapters.8_focus_groups.create_results_table
 
 create_appendix: 
 	@echo 'Creating appendix...'

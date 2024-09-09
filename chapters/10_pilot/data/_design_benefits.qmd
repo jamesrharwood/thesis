@@ -1,6 +1,8 @@
 #### Deficient component: {{< var intervention-components.design-benefits.title >}}
 
-#TODO include features and barriers
+_Relevant website features: {{< var intervention-components.design-benefits.description >}}_
+
+_Influences addressed: {{< var intervention-components.design-benefits.barriers >}}_
 
 **Participant's described the design as simple, but some parts could be simpler still, and simplicity may come across as basic**
 

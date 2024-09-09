@@ -23,9 +23,11 @@ To give structure to this list, I grouped intervention components according to t
 
 ### Redesigning the SRQR reporting guideline and EQUATOR Network home page
 
-#### Design meetings and process
+#### Co-design meetings and process
 
-I invited the EQUATOR staff who participated in the workshops (chapter {{< var chapters.workshops >}}) to form a design advisory group. The group and I met three times between November 2022 and January 2023. In our first meeting, we decided how the home page and redesigned guideline should join and whether any interim pages were required.
+#ASK sufficient description of co-design? AFAIK there are no definitions, so it's up to the author to describe what they did. 
+
+Throughout the creation process I drew on the principles of co-design: "active collaboration between stakeholders in the design of solutions to a pre-specified problem" @CocreationCodesignCoproduction2022. In this chapter I describe how I worked alongside SRQR's lead developer and reporting guideline experts from the UK EQUATOR Centre, and in the next chapter I describe how I continued these principles by seeking feedback from authors. I invited the EQUATOR staff who participated in the workshops (chapter {{< var chapters.workshops >}}) to form a design advisory group. The group and I met three times between November 2022 and January 2023. In our first meeting, we decided how the home page and redesigned guideline should join and whether any interim pages were required.
 
 In our second meeting, the design advisory group and I sketched ideas for how the home page and reporting guideline page could be laid out and for the positioning of intervention components. These sketches were wireframes: simple illustrations focussing on space allocation, functionalities, and intended behaviours. Wireframes do not include styling. There are no colours, images are represented as blank boxes, and lines represent blocks of text. 
 

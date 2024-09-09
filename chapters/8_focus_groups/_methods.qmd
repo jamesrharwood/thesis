@@ -2,15 +2,15 @@
 
 The purpose of this study was to elicit ideas from experts familiar with RG dissemination, on how to address influences that may affect adherence to reporting guidance. My methods had two parts: 1) brainstorming ideas with EQUATOR during workshops and 2) extending this list through focus-groups with guideline developers, publishers, and guideline advocates. I then describe the combined results. 
 
-Before describing my workshop and focus group methods in detail, I will briefly outline the key differences. Whereas I actively contributed during the EQUATOR workshops, I tried to remain a passive facilitator during the focus groups - I wanted to capture the thoughts of participants whilst minimising my influence as far as possible. Whereas in the workshops, EQUATOR staff and I spent many hours, across multiple sessions, working through influences one at a time, focus group participants had limited time and so selected influences to discuss themselves.
-
 ### Workshopping Ideas with EQUATOR
 
 I described the workshops I ran with EQUATOR in chapter {{< var chapters.workshops >}}, including the techniques I used to encourage rich discussion and to navigate my position as a participating researcher, contributing ideas myself whilst facilitating others' to share their voices. In those workshops, I asked participants to consider each intervention function in turn and suggest ideas employing it. After the workshop, I then labelled each idea with the influence(s) it would be addressing to create an "ideas table" with two columns. The left hand column listed influences. These came from the consolidated list of _what needs to change for our target behaviour to occur_ that came out of step four of the Behaviour Change Wheel workshops in the previous chapter. The right hand column listed ideas of how each influence could be addressed. The table had {{< var counts.barriers >}} rows, one for each influence, and I gave each row a full page so there was a lot of white space to add ideas to, and so that rows could be presented individually on a computer screen (see @fig-ideas-document). I invited workshop participants to review and edit this table, thereby co-producing lists of influences and ideas. 
 
 ### Focus groups with external stakeholders
 
-Focus groups are researcher-facilitated group discussions that use conversation as a form of data collection @givenFocusGroups2008. A key element of focus groups is interactions between participants as they agree, disagree, challenge, and 'feed off' of each other. I chose focus groups because I expected this interaction to lead to more ideas being generated than if I interviewed participants in isolation. Focus groups are also a practical way to collect data from larger groups of people. This is in contrast to in-depth interviews which are more useful in eliciting rich detail about individuals' perspectives.
+Focus groups are researcher-facilitated group discussions that use conversation as a form of data collection @givenFocusGroups2008. A key element of focus groups is interactions between participants as they agree, disagree, challenge, and 'feed off' of each other @givenFocusGroups2008. I chose focus groups because I expected this interaction to lead to more ideas being generated than if I interviewed participants in isolation. Focus groups are also a practical way to collect data from larger groups of people. This is in contrast to in-depth interviews which are more useful in eliciting rich detail about individuals' perspectives @givenFocusGroups2008.
+
+Before describing my focus group methods in detail, I will briefly outline two key differences to the workshops. The workshops sessions described in this chapter were part of the sessions described in the previous chapter, where I explained how I actively because I felt my experience would be useful. However, by the time the focus groups with external stakeholders began I felt I had contributed everything I had to give, and my priority for this study was for stakeholders to shape and build upon what EQUATOR and I had done. Therefore, whereas I actively contributed during the EQUATOR workshops, I tried to remain a passive facilitator during the focus groups. This was the first key difference. The second was that whereas in the workshops, EQUATOR staff and I spent many hours, across multiple sessions, working through influences one at a time, this was not feasible in the focus groups because it would have required multiple sessions and participants had limited time. Instead, focus group participants selected influences to discuss.
 
 ### Sampling
 
@@ -20,17 +20,21 @@ Following best-practice, I used information power @malterudSampleSizeQualitative
 
 I used the dialogue criteria from Information Power to decide when to stop recruiting. By monitoring the number of edits to the co-produced file I could be confident that my information power was good. Once groups began to add fewer and fewer comments, I judged that the benefit of continued recruitment was insufficient given time constraints.
 
+#ASK not mentioning data saturation because a) don't believe a limit exists.  No point claiming that I have reached saturation because I clearly haven't – if I recruited different stakeholders or changed my methods I would get new ideas. b) Data saturation purpose is to demonstrate transparency (which I did) and judge sample adequacy (which I also did). 
+
 ### Materials
 
 I used the ideas table to prompt discussion in the focus groups. However, because ideas generated by previous participants could bias or limit the creativity of current participants <!-- #ASK CA what bias is this? Is it recall bias? -->I initially hid them by turning the text in the ideas column white before sharing the document. I would reveal the text only after participants had exhausted their own imagination (see @fig-ideas-document for an example). All participants could edit this file to record their own ideas or elaborate on other people's ideas. At the end of each focus group, I then turned the ideas column white again, ready for the next group to continue the process. In this way, each group built upon the output of the previous groups without being bias by it.
 
-::: {#fig-ideas-document layout-ncol=2}
+::: {#fig-ideas-document layout-ncol=1}
 ![Ideas initially hidden](assets/ideas-doc-b4.png)
 
 ![Ideas revealed](assets/ideas-doc-after.png)
 
-An example row in the Ideas Table that was co-edited by participants. The left hand column contained influences that needed to be addressed for our target behaviour to occur. These came from the consolidated list generated in step four of the Behaviour Change Wheel workshops described in the previous chapter. Each influence had its own row, and only one row appeared on each page of the Word document, leaving a lot of white space to facilitate focus and ideation. Existing ideas were initially hidden (by turning the text white), and only made visible once participants had discussed their own ideas. #TODO fix format
+An example row in the Ideas Table that was co-edited by participants. The left hand column contained influences that needed to be addressed for our target behaviour to occur. These came from the consolidated list generated in step four of the Behaviour Change Wheel workshops described in the previous chapter. Each influence had its own row, and only one row appeared on each page of the Word document, leaving a lot of white space to facilitate focus and ideation. Existing ideas were initially hidden (by turning the text white), and only made visible once participants had discussed their own ideas.
 :::
+
+#TODO check how these are displayed 
 
 ### Focus group sessions
 
@@ -62,7 +66,7 @@ In chapter {{< var chapters.workshops >}} I described my active role within my w
 
 I wanted to ensure my results could be trusted as an account of participants' views. Lincoln and Guba @lincolnNaturalisticInquiry1985 argue that for a study to be trustworthy, the researcher must show that the findings are credible ('true'), transferable (applicable to other contexts), dependable (consistent and repeatable), and confirmable (shaped by participants, not by the researcher's bias or motivation). Lincoln and Guba propose a number of techniques to achieve these criteria, and I describe the techniques I used in @tbl-trust.
 
-{{< include _table.qmd >}}
+{{< include _table_trust.qmd >}}
 
 ### Ethics & Data Management
 

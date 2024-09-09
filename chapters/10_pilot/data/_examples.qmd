@@ -1,6 +1,8 @@
 #### Deficient component: {{< var intervention-components.examples.title >}}
  
-#TODO include features and barriers
+_Relevant website features: {{< var intervention-components.examples.description >}}_
+
+_Influences addressed: {{< var intervention-components.examples.barriers >}}_
 
 **Many participants said they wanted more, varied examples**
 

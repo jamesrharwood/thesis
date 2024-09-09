@@ -1,5 +1,5 @@
 | Intervention component                                                                                            | Intervention Function | BCT                                         |
-|---------------------------------|------------------|---------------------|
+|:--------------------------------|:-----------------|:--------------------|
 | Instruct authors to cite reporting guidelines so readers may learn about them                                     | Education             | Instruction on how to perform the behaviour |
 | Describe the scope of a reporting guideline at the top of every resource                                          | Education             | Instruction on how to perform the behaviour |
 | Use if-then rules to direct authors to more appropriate and up-to-date guidance when available                    | Education             | Instruction on how to perform the behaviour |

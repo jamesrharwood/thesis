@@ -106,7 +106,7 @@ When an SRQR item contained extra context or explanation not relevant to all use
 
 **Menu navigation was useful but could be more prominent and go one level deeper**
 
-The redesigned SRQR guideline has a side navigation menu so users can easily navigate to the Introduction, Methods, Results, and Discussion guidance sections, or to the FAQs and citation information. A few participants did not notice the menu, or suggested it could be more prominent, and one suggested it would be useful if the menu listed all reporting items (i.e., not just _Methods_, but also the item titles within). 
+The redesigned SRQR guideline has a side navigation menu so users can easily navigate to the Introduction, Methods, Results, and Discussion guidance sections, or to the FAQs and citation information. A few participants did not notice the menu, or suggested it could be more prominent, and one suggested it would be useful if the menu listed all reporting items (i.e.,. not just _Methods_, but also the item titles within). 
 
 > "when I scrolling I forgot to pay attention to the menu on the side. So [...] I suddenly realized it was a menu there [...] Maybe make it much more, like, the characters larger or, like, the colour, maybe change it, because now it is so light and I didn't pay attention to that. But this menu is useful if I pay attention to this." {{< var pilot.participants.PPT-YD >}}
 

@@ -1,11 +1,13 @@
 ---
-title: "Refining the intervention: qualitative study with authors"
+title: "Refining the intervention: interviewing authors and a qualitative description analysis"
 format: 
     html:
         output-file: index.html
     docx:
         output-file: JH-chapter-pilot.docx
 ---
+
+#ASK title feels clunky 
 
 {{< include /chapters/10_pilot/_background.qmd >}}
 

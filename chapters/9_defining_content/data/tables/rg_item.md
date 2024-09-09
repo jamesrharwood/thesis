@@ -1,5 +1,5 @@
 | Intervention component                                                                                                              | Intervention Function | BCT                                                                   |
-|---------------------------------|------------------|---------------------|
+|:--------------------------------|:-----------------|:--------------------|
 | Structure guideline items to make them quicker to digest                                                                            | Enablement            | Restructuring the physical environment                                |
 | For each item, explain why the *information* is important and to whom (not just what constitutes "good" design)                     | Education             | Information about social and environmental consequences               |
 | Provide links to other resources that explain how an item can be done                                                               | Education             | Instruction on how to perform the behaviour                           |

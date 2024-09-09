@@ -48,11 +48,11 @@ I wanted my study to resemble the way authors will experience the website in rea
 
 Secondly, I wanted to replicate the experience of encountering a new website as a naïve user, gradually exploring content, and then reading and applying guidance to one's own writing. I did this by using a variety of methods: 
 
-1. 5 second test to capture initial reactions
-2. Think aloud to capture real-time exploration within the interview session
-3. Plus-minus task to capture exploration between interview sessions
-4. A writing evaluation to explore interpretation
-5. Semi structured interviews throughout. 
+1. 5 second test to capture initial reactions @UXFiveSecondRules2014
+2. Think aloud to capture real-time exploration within the interview session @borenThinkingAloudReconciling2000
+3. Plus-minus task to capture exploration between interview sessions @dejongReaderFocusedTextEvaluation1997
+4. A writing evaluation to explore interpretation @daviesFindingsNovelApproach2016
+5. Semi structured interviews throughout. @magaldiSemistructuredInterviews2020
 
 I have outlined the order of data collection methods in @tbl-process-interviews. 
 
@@ -64,7 +64,7 @@ I began sessions by introducing myself as part of a team creating a new website.
 
 #### Five second test
 
-Until this point, participants had no idea what the website was about. My recruitment materials and interview introduction made no mention of writing nor reporting guidelines, and so participants were blind to the website's purpose.
+Until this point, participants had no idea what the website was about. My recruitment materials and interview introduction made no mention of writing nor reporting guidelines, and so participants were unaware of the website's purpose.
 
 The five second test is an "in the moment" survey method @UXFiveSecondRules2014. By sharing my screen, I showed participants the top of the home page for five seconds before removing it and asking questions. The test limits exposure to five seconds because although a participant can absorb much information (colours, words, shapes), five seconds is rarely sufficient to make sense of everything as a whole. The aim is to capture participant's immediate reactions to salient design elements (like images, large words) before they have a chance to consider the content more critically. Furthermore, this five second limit was relevant because my website service evaluation found many authors leave EQUATOR's website (chapter {{< var chapters.web-audit >}}) within five seconds without interacting with it.
 
@@ -79,7 +79,7 @@ I designed these questions to explore three intervention ingredients: describe w
 
 #### Semi structured interview 1 - prior experience with reporting guidelines
 
-After the five second test it was no longer necessary to keep participants blinded, and so I asked participants about their prior awareness of, or experience with, reporting guidelines. I asked which guidelines they had used and what they had used them for.
+After the five second test it was no longer necessary to keep participants masked to the website's purpose, and so I asked participants about their prior awareness of, or experience with, reporting guidelines. I asked which guidelines they had used and what they had used them for.
 
 #### Think aloud 1 - home screen
 
@@ -141,7 +141,7 @@ I did not attempt to explore two intervention components. I did not expect parti
 
 I recorded video and audio transcriptions using Microsoft Teams. Because automatic audio transcription was not always accurate, I corrected them by rewatching the videos. I de-identified transcripts by replacing names with participant codes before uploading them to NVivo for coding @qsrinternationalptyltd.NVivo2020.
 
-I used my intervention component table (see chapter {{< var chapters.defining-content >}} and appendix {{< var appendix.ict >}}) as a framework to code transcripts line by line. I did this deductively; whenever a participant said anything about a component, I coded text to that component. Because some website features implemented multiple components (for example, an image can both educate and persuade), I sometimes coded text to multiple components. In this way, I created categories of codes, and each category was an intervention component.
+As with my focus group data in chapter {{< var chapters.focus-groups >}} I used qualitative description to aggregate and summarise ideas [@bradshawEmployingQualitativeDescription2017; @kimCharacteristicsQualitativeDescriptive2017]. I used my intervention component table (see chapter {{< var chapters.defining-content >}} and appendix {{< var appendix.ict >}}) as a framework to code transcripts line by line. I did this deductively; whenever a participant said anything about a component, I coded text to that component. Because some website features implemented multiple components (for example, an image can both educate and persuade), I sometimes coded text to multiple components. In this way, I created categories of codes, and each category was an intervention component. I gave codes equal weight across all methods (5 second test, think aloud, interviews e.t.c.), and mapped data from all methods onto the same framework.
 
 Once all transcripts were coded, I grouped codes within categories into deficiencies. If a single component was deficient in multiple ways, I created a code group for each deficiency. If there was disagreement about a deficiency (e.g., some people disliked a component, but others liked it), then I created sub-groups within each deficiency. Although positive feedback did not directly address my objective of identifying deficiencies, I kept these codes because they provided context and counter-evidence to deficiencies.
 

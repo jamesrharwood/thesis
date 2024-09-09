@@ -1,5 +1,5 @@
 | Intervention component                                                                                                                   | Intervention Function | BCT                                                                                                                                   |
-|---------------------------------|------------------|---------------------|
+|:--------------------------------|:-----------------|:--------------------|
 | Describe what reporting guidelines are where they are first encountered                                                                  | Education             | Instruction on how to perform the behavior                                                                                            |
 | Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for                          | Education             | Instruction on how to perform the behavior                                                                                            |
 | Educate authors about writing as a process                                                                                               | Education             | Instruction on how to perform a behaviour                                                                                             |
