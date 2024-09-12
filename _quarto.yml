@@ -30,34 +30,8 @@ format:
       toc: true
       toc-depth: 2
       highlight-style: github
-  # pdf: 
-  #     toc: true
-  #     number-sections: true
-  #     colorlinks: true
-  #     pdf-engine: wkhtmltopdf
-  #     pdf-engine-opts: 
-  #       - "--no-background"
-  #       - "--header-right"
-  #       - "\"[page]/[toPage]\" --top 2cm"
-  #     latex-max-runs: 3
-  #     keep-tex: false
-  #     colorlinks: false
-  #     papersize: a4
-  #     linestretch: 1.5
-  #     toc: true
-  #     toc-depth: 2
-  #     number-sections: true 
-  #     toc-title: Table of Contents
-  #     margin-left: "0cm"
-  #     margin-right: "0cm"
-  #     margin-top: "3cm"
-  #     margin-bottom: "4cm"
-      
-  #     header-right:     
-  #       # include-in-header: include-in-header.tex
 number-depth: 2
 
 metadata-files:
- # - metadata/_footer.yml
   - metadata/_website.yml
   - metadata/_book.yml
