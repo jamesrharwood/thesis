@@ -3,7 +3,8 @@ format:
     html:
         number-sections: false
 ---
-# Notes on this draft {.unnumbered}
+
+## Notes on this draft {.unnumbered}
 
 :::{.callout}
 Here is the working version of my thesis. 
@@ -14,14 +15,8 @@ When opening in Word you'll get an error:
 
 Click Yes, then Update Entire Table. 
 
-If you see anything like "\@something", "**?:something**", or "#SOMETHING" then please ignore. 
-
-Some of the tables and figures aren't rendering nicely yet, especially in Word format. You can ignore that too. 
-
 Known todos:
 
-* Title page 
-* Acknowledgements
 * Glossary
 
 #### Word Count Tallies: 
