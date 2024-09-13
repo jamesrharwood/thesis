@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.workshop_step_2 >}}: Step 2: Select the Target Behaviour {.unnumbered}
+## Appendix {{< var appendix.workshop_step_2 >}}: Step 2: Select the Target Behaviour {.appendix}
 
 Instructions @michieBehaviourChangeWheel2014: 
 
@@ -52,6 +52,10 @@ Retrospective thoughts:
 
 *Key: Unacceptable (1), unpromising but worth considering (2), promising (3), very promising (4)*
 
+\newpage
+
+\blandscape
+
 |                                                                                                         |            |                |                |                 |
 |:--------------------------------------------------------------------------------------------------------|:-----------|:---------------|:---------------|:----------------|
 | **Potential target behaviour**                                                                          | **Impact** | **Likelihood** | **Spill-over** | **Measurement** |
@@ -71,3 +75,5 @@ Retrospective thoughts:
 *Target behaviour selected:*
 
 No clear winner so we decided to take a few different target behaviours on to step 3.
+
+\elandscape

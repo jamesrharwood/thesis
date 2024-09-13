@@ -4,7 +4,23 @@ Concern over reporting quality crescendoed through the eighties and early nineti
 
 CONSORT proved influential, and other groups quickly developed guidelines for different research types. Reporting guidelines are like a theme and variations, where CONSORT forged a path others have followed with varying fidelity (See @tbl-rgs). Most have acronym names. Most were first published as a journal article describing their development. Some, but not all, have checklists and elaboration documents. Some guideline developers publish resources as separate documents, others put them all into a single journal article. Guidelines are developed by different groups, with different compositions (possibly including methodologists, editors, clinicians etc.) and in different ways (e.g., some by Delphi consensus @ReportingGuidelinesUsed). Although most follow CONSORT's approach of presenting recommendations focussing on reporting above conduct, guidelines differ in how forceful their recommendations are and whether they also seek to influence design. 
 
-{{< include rg_table.md >}}
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
+
+{{< include chapters/1_introduction/rg_table.md >}}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\newpage 
+
+\blandscape 
+
+{{< include chapters/1_introduction/rg_table.md >}}
+
+\elandscape
+
+:::
 
 ## The EQUATOR Network unites the reporting guideline movement
 

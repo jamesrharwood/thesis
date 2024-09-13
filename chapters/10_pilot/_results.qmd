@@ -4,7 +4,24 @@
 
 I recruited participants between 21/03/2023 until 9/08/2023. The number of people who expressed interest, were eligible, consented, and participated are shown in @tbl-interview-recruitment. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, and first language. Six participants had never heard of reporting guidelines before – one had, but did not remember which. Three others had used a reporting guideline before, and one had used many reporting guidelines before. The first interview lasted between 45 minutes - 1.5 hours, and the second interview lasted 30-45 minutes.
 
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
+
 {{< include _table_recruitment.md >}}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\newpage 
+
+\blandscape 
+
+{{< include _table_recruitment.md >}}
+
+\elandscape
+
+:::
+
 
 {{< include _table_participants.md >}}
 

@@ -1,19 +1,11 @@
 {{< pagebreak >}}
 
-## Appendix {{< var appendix.deficiencies >}}: Deficiencies {.appendix #app-deficiencies .unnumbered}
+## Appendix {{< var appendix.deficiencies >}}: Deficiencies {.appendix #app-deficiencies}
 
 Intervention components found to be deficient by one or more authors during qualitative interviews, as described in chapter {{< var chapters.pilot >}}. 
 
-::: {.landscape}
-
-::: {.column-screen-inset-right}
-
 {{< include deficiencies.md >}}
 
-: Intervention components, relevant website features, the barriers they address, and deficiencies identified with supportive quotes. {#tbl-deficiencies-by-component}
-
-:::
-
-:::
+<!-- : Intervention components, relevant website features, the barriers they address, and deficiencies identified with supportive quotes. {#tbl-deficiencies-by-component} -->
 
 {{< pagebreak >}}

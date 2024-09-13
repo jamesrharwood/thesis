@@ -61,6 +61,8 @@ for key_behaviour, barriers in data.items():
                 IF = values.get('IF', SEE_ABOVE)
                 table.add_row([desc, BCT, IF, before, now])
 TEXT += table.draw() # type: ignore
+TEXT += "\n\n"
+TEXT += ": Intervention Components Table. Intervention components labelled with the behaviour change techniques and intervention functions they employ, and grouped according to the key behaviours, barriers, and behavioural drivers that they aim to target. Where possible, examples demonstrate how components were (or were not) used originally (Before) and, how they are included within the redesigned intervention (Now). {#tbl-int-plan}"
 
 OUT_FP = os.path.join(DIR, 'chapters', 'appendix', 'intervention_component_table.md')
 with open(OUT_FP, 'w', encoding='utf-8') as file_:

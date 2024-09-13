@@ -2,7 +2,7 @@
 
 The publishing community began to take note. The International Committee for Medical Journal Editors encouraged journals "to ask authors to follow \[reporting\] guidelines" @ICMJERecommendationsPreparing. Concerned editors sought ways to adopt reporting guidelines, and more and more journals [@kochExplicitMentioningReporting2016; @sharpCrosssectionalBibliometricStudy2019] have since found a range of strategies to introduce reporting guidelines into their policies, outlined in @tbl-journal-policies. There is variation in the degree of enforcement (from passive recommendation through to compulsory enforcement) and variation in the guidelines subject to the policy; PRISMA and CONSORT and more commonly enforced than STROBE, say, and many reporting guidelines in EQUATOR's library are not enforced nor endorsed by any journals. Instead of listing reporting guidelines by name, many journals keep their instructions vague and merely recommend authors find an appropriate guideline on EQUATOR's website.
 
-{{< include policy_table.md >}}
+{{< include chapters/1_introduction/policy_table.md >}}
 
 Other stakeholders have begun incorporating reporting guidelines into their policies. Conferences like the Peer Review Congress ask applicants to use reporting guidelines when writing their abstracts. MedRxiv, a large preprint server, asks authors to declare they have "followed all appropriate research reporting guidelines, such as any relevant EQUATOR Network research reporting checklist(s)" @MedRxivOrgPreprint.
 
@@ -12,6 +12,6 @@ Hence over the years, a system has organically grown around reporting guidelines
 
 As the Medical Research Council notes, a system with multiple components (like those listed above) is one of many hallmarks of a complex intervention: "an intervention might be considered complex because of properties of the intervention itself, such as the number of components involved; the range of behaviours targeted; expertise and skills required by those delivering and receiving the intervention; the number of groups, settings, or levels targeted; or the permitted level of flexibility of the intervention or its components.". The reporting guideline system exhibits these sources of complexity, as described in @tbl-complexity.
 
-{{< include complexity_table.qmd >}}
+{{< include chapters/1_introduction/complexity_table.qmd >}}
 
 Viewing reporting guidelines as part of a complex behaviour change intervention may seem novel. Researchers often call reporting guidelines "tools" or "strategies" (e.g., [@pouwelsQualityReportingConfounding2016; @sharpOnlineSurveySTROBE2020]). In their history of the EQUATOR Network @altmanHistoryEvolutionGuidelines2016, co-founders Douglas Altman and Iveta Simera refer to reporting guidelines as "resources" that "influence" reporting, but do not call them interventions. However, I believe my perspective is not radical and I will now outline studies exploring the efficacy of reporting guidelines and argue they too take a systems perspective although they seldom acknowledge it explicitly.

@@ -42,8 +42,20 @@ After summarising my findings and outputs, I reflect on the strengths and limita
 
 @fig-thesis-graphic summarises the outputs of each research chapter and shows how chapters fed into each other. 
 
-::: {.landscape .column-page-right}
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
 
-![Graphical abstract describing the outputs of research chapters and the relationships between them](./thesis_summary.png){#fig-thesis-graphic}
+![Graphical abstract describing the outputs of research chapters and the relationships between them](chapters/1_introduction/thesis_summary.png){#fig-thesis-graphic}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\newpage
+
+\blandscape 
+
+![Graphical abstract describing the outputs of research chapters and the relationships between them](chapters/1_introduction/thesis_summary.png){#fig-thesis-graphic}
+
+\elandscape
 
 :::

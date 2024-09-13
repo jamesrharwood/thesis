@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.pilot_recruitment_image >}}: Author interview recruitment image {.appendix #app-pilot-recruitment-image .unnumbered}
+## Appendix {{< var appendix.pilot_recruitment_image >}}: Author interview recruitment image {.appendix #app-pilot-recruitment-image}
 
 ![](assets/TwitterImage.png)
 

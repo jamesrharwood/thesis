@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.workshop_step_1 >}}: Step 1: Define the problem in behavioural terms {.unnumbered}
+## Appendix {{< var appendix.workshop_step_1 >}}: Step 1: Define the problem in behavioural terms {.appendix}
 
 Instructions @michieBehaviourChangeWheel2014: 
 

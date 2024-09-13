@@ -62,14 +62,9 @@ for method in method_names.keys():
     NAMES = "\n* " + NAMES + "\n"
     table.add_row([method_names[method], NAMES])
 
-text = f"""::: {{.landscape .column-page-right}}
-
-{table.draw()}
+text = f"""{table.draw()}
 
 : Methods used and the intervention components they explore. Intervention components are defined in chapter {{{{< var chapters.defining-content >}}}} {{#tbl-methods-for-components}}
-
-:::
-<!-- end landcape -->
 """
 text = text.replace("+=", "+:") # type: ignore #needed because text table doesn't specify aligntment with colons
 

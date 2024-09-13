@@ -133,7 +133,23 @@ Each method targeted multiple intervention components. For example, in the 5 sec
 
 Components that required participants to read text could be best explored in the plus minus-task, and I hoped the writing evaluation would reveal how participants interpreted and applied instruction. I hoped the think aloud would capture opinions on salient features, and the semi structured interviews would allow me to explore remaining, un-noticed, features. In table Table 10.2 I detail the intervention components I expected each method to explore. The intervention components are defined in chapter 9, where I also list the web elements related to each component.
 
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
+
 {{< include data/__methods_table.md >}}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\newpage 
+
+\blandscape 
+
+{{< include data/__methods_table.md >}}
+
+\elandscape
+
+:::
 
 I did not attempt to explore two intervention components. I did not expect participants to know about or comment on search engine optimization, especially as a large amount of optimization occurs in the website meta data and is thus invisible. Secondly, because I did not want to edit the _meaning_ of the SRQR guidelines (just its layout), I did not want to add instructions about what to report when an item was not done, could not be done, or does not apply.
 

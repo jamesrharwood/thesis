@@ -24,7 +24,7 @@ It would be unsurprising to find that the stricter the enforcement, the better t
 
 To summarise, reporting standards may have improved over the last two decades. There is some evidence that reporting guidelines may have contributed to this change, but if they have, their effect has only been modest, and the bottom line is that most research still does not include the details these guidelines call for. There is huge room for improvement. In a systematic review of 124 studies assessing adherence to one of eight reporting guidelines, Jin et al @jinDoesMedicalLiterature2018 found 88% of studies reported suboptimal adherence to reporting guidelines. More recently, Dal Santo et al @santoMethodsResultsStudies2023 performed a systematic review of studies assessing adherence to CONSORT, PRISMA, STARD, and STROBE. Of 148 studies published between August 2020 and June 2022, Dal Santo et al. only 6 described adherence as acceptable @tbl-dal-santo.
 
-{{< include _table_dal_santo.md >}}
+{{< include chapters/1_introduction/_table_dal_santo.md >}}
 
 ### Studies exploring the efficacy of reporting guidelines are actually exploring the efficacy of the reporting guideline *system*
 

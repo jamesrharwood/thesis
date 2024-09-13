@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.focus_group_information >}}: Focus Groups - participant information {.unnumbered}
+## Appendix {{< var appendix.focus_group_information >}}: Focus Groups - participant information {.appendix}
 
 James Harwood
 

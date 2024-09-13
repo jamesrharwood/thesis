@@ -1,11 +1,11 @@
-## Appendix {{< var appendix.workshop_step_4 >}}: Step 4: Identifying what needs to change {.unnumbered}
+## Appendix {{< var appendix.workshop_step_4 >}}: Step 4: Identifying what needs to change {.appendix}
 
 Instructions @michieBehaviourChangeWheel2014 :
 
 *When it comes to an individual/group/population doing/not doing X, use evidence and theory to form a judgement about which of the following needs to change and in each case whether it should be targeted directly or through one of the other elements of the COM-B system. Note that it might be appropriate to apply this analysis to one of more supportive or competing behaviours.*
 
 +----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The individual/group/population would have to…** |                                                                                                                                                                                            |
+| **Authors would have to…** |                                                                                                                                                                                            |
 +:===================================================+:===========================================================================================================================================================================================+
 | **CAPABILITY**                                     |                                                                                                                                                                                            |
 +----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

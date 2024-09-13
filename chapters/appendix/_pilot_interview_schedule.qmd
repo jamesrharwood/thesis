@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.pilot_interview_schedule >}}: Author interview schedule {.appendix #app-pilot-interview-schedule .unnumbered}
+## Appendix {{< var appendix.pilot_interview_schedule >}}: Author interview schedule {.appendix #app-pilot-interview-schedule}
 
 _Below is a list of topics/questions to be discussed in this study. Following best practice, the qualitative work will remain flexible with respect to participants’ agendas but we will cover the broad topics/questions noted. It is common in qualitative work to iteratively develop topics and questions as new ideas emerge from early data collection. Therefore, we may add new topics as the interviews progress and data collection continues. However, the key topics will remain the same._ 
 

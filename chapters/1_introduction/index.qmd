@@ -7,23 +7,51 @@ format:
         output-file: JH-chapter-introduction.docx
 ---
 
-{{< include 1_intro.qmd >}}
+::: { .content-visible when-format="docx"}
 
-{{< include 2_poor_reporting.qmd >}}
+::: {.callout}
 
-{{< include 3_1_rgs.qmd >}}
+**Notes on this draft**
 
-{{< include 3_2_complex_interventions.qmd >}}
+Here is the working version of my thesis. 
 
-{{< include 4_efficacy.qmd >}}
+When opening in Word you'll get an error: 
 
-{{< include 5_evidence_gap.qmd >}}
+`This document contains fields that may refer to other files. Do you want to update the fields in this document?`
 
-{{< include 7_summary.qmd >}}
+Click Yes, then Update Entire Table. 
 
-{{< include 8_aims_and_objectives.qmd >}}
+Known todos:
 
-{{< include 9_structure.qmd >}}
+* Glossary
+
+#### Word Count Tallies: 
+
+Actual word count is ~15k lower as these numbers include references and appendices. 
+
+{{< include metadata/_wordcounts.qmd >}}
+
+::: 
+
+:::
+
+{{< include chapters/1_introduction/1_intro.qmd >}}
+
+{{< include chapters/1_introduction/2_poor_reporting.qmd >}}
+
+{{< include chapters/1_introduction/3_1_rgs.qmd >}}
+
+{{< include chapters/1_introduction/3_2_complex_interventions.qmd >}}
+
+{{< include chapters/1_introduction/4_efficacy.qmd >}}
+
+{{< include chapters/1_introduction/5_evidence_gap.qmd >}}
+
+{{< include chapters/1_introduction/7_summary.qmd >}}
+
+{{< include chapters/1_introduction/8_aims_and_objectives.qmd >}}
+
+{{< include chapters/1_introduction/9_structure.qmd >}}
 
 
 

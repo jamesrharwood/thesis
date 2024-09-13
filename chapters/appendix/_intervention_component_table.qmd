@@ -1,11 +1,21 @@
-::: {.landscape .column-screen-inset-right}
-
-## Appendix {{< var appendix.ict >}}: Intervention Components Table {.appendix #app-ict .unnumbered}
+## Appendix {{< var appendix.ict >}}: Intervention Components Table {.appendix #app-ict}
 
 In chapter {{< var chapters.defining-content >}} I described how I combined the outputs of previous chapters to create the intervention components listed below. 
 
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
+
 {{< include intervention_component_table.md >}}
 
-: Intervention Components Table. Intervention components labelled with the behaviour change techniques and intervention functions they employ, and grouped according to the key behaviours, barriers, and behavioural drivers that they aim to target. Where possible, examples demonstrate how components were (or were not) used originally (Before) and, how they are included within the redesigned intervention (Now). {#tbl-int-plan}
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\newpage 
+
+\blandscape 
+
+{{< include intervention_component_table.md >}}
+
+\elandscape
 
 :::
