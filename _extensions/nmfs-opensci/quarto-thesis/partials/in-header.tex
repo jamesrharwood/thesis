@@ -1,7 +1,12 @@
-\usepackage[utf8]{inputenc} % Required for inputting international characters
-%\usepackage[T1]{fontenc} % Output font encoding for international characters; causes problems for xelatex
+%\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters; causes problems for xelatex
 
-%\usepackage{mathpazo} % Use the Palatino font by default
+% \usepackage{mathpazo} % Use the Palatino font by default
+\usepackage{utopia} 
+\usepackage{helvet}
+
+\usepackage{sectsty} % https://brushingupscience.com/2016/02/13/four-effortless-latex-packages-you-should-use/
+\allsectionsfont{\sffamily} % https://brushingupscience.com/2016/02/13/four-effortless-latex-packages-you-should-use/
 
 \usepackage[backend=bibtex, style=authoryear, natbib=true]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
 

@@ -8,6 +8,8 @@ I recruited participants between 21/03/2023 until 9/08/2023. The number of peopl
 
 {{< include _table_recruitment.md >}}
 
+{{< include _table_participants.md >}}
+
 :::
 
 ::: {.content-visible when-format="pdf"}
@@ -18,12 +20,11 @@ I recruited participants between 21/03/2023 until 9/08/2023. The number of peopl
 
 {{< include _table_recruitment.md >}}
 
+{{< include _table_participants.md >}}
+
 \elandscape
 
 :::
-
-
-{{< include _table_participants.md >}}
 
 ### Design Iterations
 

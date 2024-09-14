@@ -4,8 +4,8 @@ import os
 import yaml
 import texttable
 
-COLS = ['Intervention component', 'Intervention Function', 'BCT']
-WIDTHS = [50, 20, 30]
+COLS = ['**INTERVENTION COMPONENT**', '**INTERVENTION FUNCTION**', '**BCT**']
+WIDTHS = [50, 25, 25]
 ALIGNMENTS =['l' for col in COLS]
 
 DIR = os.getcwd()

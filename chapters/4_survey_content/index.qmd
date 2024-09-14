@@ -1,5 +1,5 @@
 ---
-title: "What influences might researchers encounter when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys."
+title: "What influences researchers when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys"
 format: 
     html:
         output-file: index.html
@@ -27,7 +27,23 @@ My objectives, therefore, were to:
 
 My qualitative synthesis included a systematic search that sought to capture all survey studies investigating reporting guidelines (see chapter {{< var chapters.synthesis >}} for full search details). I found 22 studies using quantitative survey questions, 14 of which also included one or more qualitative questions (see @tbl-study-list). Although Chinese databases did not yield qualitative studies to include in my previous chapter, I did find two Chinese quantitative surveys [@fangSurveyAwarenessARRIVE2015; @maSurveyBasicMedical2017]. Yuting Duan from the Chinese EQUATOR Centre translated these two studies into English. I imported files into NVivo, including the full surveys where available, labelled all questions with descriptive codes, creating new codes when necessary, and then inductively grouped related codes into broad categories.
 
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
+
 {{< include tbl_studies.md >}}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\newpage 
+
+\blandscape 
+
+{{< include tbl_studies.md >}}
+
+\elandscape
+
+:::
 
 ## Results
 

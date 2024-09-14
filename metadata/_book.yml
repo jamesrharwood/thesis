@@ -2,7 +2,6 @@ book:
   title: "Refining reporting guidelines using behaviour change theory "
   author: 
     name: James Harwood
-  # cover-image: oxford.png
   downloads: [pdf]
   abstract: |
     The lasting legacy of most medical research is the written account. When writing up their work, researchers often omit information that readers &mdash; including clinicians, reviewers, patients, and other researchers &mdash; need to fully understand, appraise, replicate, or apply the research. Reporting guidelines try to solve this problem. They are community-created recommendations of information to include when writing up research so that everybody can use it. The first reporting guideline was created almost 30 years ago, and many more have been created since. Most leading medical journals ask authors to adhere to reporting guidelines, yet adherence remains low in almost all medical fields. When authors do not adhere to reporting guidelines their work is less transparent, less valuable, contributes less to patient outcomes and has potential to inadvertently harm by distorting the evidence base. The aim of my thesis is to understand why authors do not adhere to reporting guidelines when writing up medical research, and to address these reasons with the intention of increasing adherence in the future. 
@@ -56,14 +55,14 @@ book:
     file: chapters/appendix/workshops/step_3.qmd
   - text: "{{< var appendix.workshop_step_4 >}}. BCW Step 4"
     file: chapters/appendix/workshops/step_4.qmd
+  - text: "{{< var appendix.barriers >}}. Influences/What needs to change"
+    file: chapters/appendix/_barriers.qmd
   - text: "{{< var appendix.workshop_step_5 >}}. BCW Step 5"
     file: chapters/appendix/workshops/step_5.qmd
   - text: "{{< var appendix.workshop_step_6 >}}. BCW Stage 6"
     file: chapters/appendix/workshops/step_6.qmd
   - text: "{{< var appendix.workshop_step_7 >}}. BCW Stage 7"
     file: chapters/appendix/workshops/step_7.qmd
-  - text: "{{< var appendix.barriers >}}. Influences/What needs to change"
-    file: chapters/appendix/_barriers.qmd
   - text: "{{< var appendix.focus_group_emails >}}. Focus groups - emails"
     file: chapters/appendix/focus_groups/emails.qmd
   - text: "{{< var appendix.focus_group_information >}}. Focus groups - participant information"

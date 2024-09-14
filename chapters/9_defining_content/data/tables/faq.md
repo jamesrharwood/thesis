@@ -1,4 +1,4 @@
-| Intervention component                                                                                                     | Intervention Function | BCT                                    |
+| **INTERVENTION COMPONENT**                                                                                                     | **INTERVENTION FUNCTION** | **BCT**                                    |
 |:--------------------------------|:------------------|:--------------------|
 | Provide advice regarding how to respond if asked to remove reporting guideline content by a colleague, editor, or reviewer | Education             | Problem solving                        |
 | *Explain how the guidance was developed and why it can be trusted*                                                         | Education             | Credible source                        |

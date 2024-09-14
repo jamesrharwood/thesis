@@ -1,5 +1,5 @@
-|Survey responses|
-|:-----------------|
+|**Survey responses**|
+|:-------------------|
 |qualitive|
 |word format would be more easy to fulfil|
 |I've just arrived, actually. As I started to look at the page content, this message was thrust in my face - why is it that websites so often ask immediately for feedback on material the viewer hasn't yet had a chance to explore?|  

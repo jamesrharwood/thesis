@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.ict >}}: Intervention Components Table {.appendix #app-ict}
+## Intervention Components Table {.appendix #app-ict}
 
 In chapter {{< var chapters.defining-content >}} I described how I combined the outputs of previous chapters to create the intervention components listed below. 
 

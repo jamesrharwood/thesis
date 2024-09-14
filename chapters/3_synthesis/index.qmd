@@ -1,5 +1,5 @@
 ---
-title: "What influences might researchers encounter when using reporting guidelines? Part 1: A thematic synthesis"
+title: "What influences researchers when using reporting guidelines? Part 1: A Thematic Synthesis"
 format: 
     html:
         output-file: index.html
@@ -29,7 +29,23 @@ In the previous chapter I introduced my supervisors Gary Collins, Charlotte Albu
 
 My search strategy sought all research publications reporting qualitative data exploring researchers' experiences of using reporting guidelines. I wanted to capture the experiences of researchers from around the world, so I included international databases in my information sources. All data sources are listed in @tbl-info-sources.
 
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
+
 {{< include tbl_info_sources.qmd >}}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\newpage 
+
+\blandscape 
+
+{{< include tbl_info_sources.qmd >}}
+
+\elandscape
+
+:::
 
 ### Inclusion and exclusion criteria
 
@@ -65,26 +81,41 @@ I imported files into NVivo 12.0 for Mac and coded all sentences from the result
 
 My search yielded 18 articles (see @fig-prisma-flow-diagram for full search results). I and Michael Schlüssel double-screened 10% of the non-Chinese titles and abstracts and agreed on 98.3% of them (170/173). We resolved the remaining three through discussion and consensus. All eligible records were in English; there were no eligible articles written in Chinese, Spanish, or Portuguese. Eligible articles included surveys, semi-structured interviews, focus groups, and writing tasks.
 
-{{< pagebreak >}}
-
-::: {.landscape}
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
 
 ![PRISMA flow diagram](prisma-flow-diagram.png){#fig-prisma-flow-diagram}
 
-::: 
-<!-- end of landcape -->
+:::
+
+::: {.content-visible when-format="pdf"}
+
+\blandscape 
+
+![PRISMA flow diagram](prisma-flow-diagram.png){#fig-prisma-flow-diagram width=150%}
+
+\elandscape
+
+:::
 
 Only 7 of the 18 records reported where participants came from. Three mixed method survey studies [@deweyImpactPerceivedValue2019; @macleodMDARMaterialsDesign2021; @sharpOnlineSurveySTROBE2020] included participants from a wide range of countries but it was not possible to tell which participants completed the optional qualitative questions. Three interview studies [@daviesSQUIREGuidelinesEvaluation2015; @fullerWhatAffectsAuthors2015; @korevaarUpdatingStandardsReporting2016] included participants exclusively from North America, Europe, and Australia, whilst the fourth [@sertARRIVEGuidelinesUpdated2020] included a participant from Brazil.
 
 Critical appraisal of the studies using CASP-Qual rated the studies ranging from valuable to not very valuable; the less valuable studies had few qualitative components or minimal reporting of qualitative analysis or findings. Study characteristics are reported in @tbl-study-characteristics.
 
-::: {.landscape}
+::: {.landscape .column-page-right .content-visible unless-format="pdf"}
 
 {{< include tbl_study_characteristics.qmd >}}
 
 :::
-<!-- end landscape -->
 
+::: {.content-visible when-format="pdf"}
+
+\blandscape 
+
+{{< include tbl_study_characteristics.qmd >}}
+
+\elandscape
+
+:::
 
 ### Synthesis findings
 
@@ -284,7 +315,7 @@ If some researchers only use checklists, which typically lack any nuance include
 
 Researchers face many challenges when trying to use reporting guidelines and have many questions, opinions, and suggestions that could be useful for reporting guideline developers. Researchers also report personal benefits, especially personal benefits when using a reporting guideline early. These benefits are at odds with how reporting guidelines are typically disseminated (as pre-submission checklists) and presented (as a benefit to others). The polarity and severity of these influences differ according to context (e.g., when or how a reporting guideline used), and personal characteristics (e.g., experience in academic writing). These findings could help increase the impact of reporting guidelines if taken into consideration during their development, dissemination, and implementation phases.
 
-#STRETCH There are studies looking at facilitators & barriers to clinical practice guidelines. They carve up influences in different ways. E.g., https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7765264/ separates clinician-related factors (e.g., lack of awareness) and external ones (e.g., patients or environments). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246545/ separates individual factors from guideline factors. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024051/ reports facilitators and barriers at the level of the innovation (e.g., the recommendations), whereas for the guideline as a whole, multiple levels (socio‐political, organization, user, and facilities). Should I divide my results up like this too?
+<!-- #STRETCH There are studies looking at facilitators & barriers to clinical practice guidelines. They carve up influences in different ways. E.g., https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7765264/ separates clinician-related factors (e.g., lack of awareness) and external ones (e.g., patients or environments). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246545/ separates individual factors from guideline factors. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024051/ reports facilitators and barriers at the level of the innovation (e.g., the recommendations), whereas for the guideline as a whole, multiple levels (socio‐political, organization, user, and facilities). Should I divide my results up like this too? -->
 
 
 The reporting guideline development community has typically relied on journals to promote their resources and have called on editors to better enforce reporting guideline adherence [@moherDescribingReportingGuidelines2011a]. However, the results presented here suggest that focusing solely on enforcement may be short sighted and that guideline developers have the power to address many influences, at least in part. Doing so may in turn make it easier for journals and funders to enforce reporting guidelines. For example, it is difficult to enforce a reporting guideline that is complicated to understand or if the guideline's applicability criteria are unclear.

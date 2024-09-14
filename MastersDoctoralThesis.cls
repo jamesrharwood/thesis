@@ -62,7 +62,7 @@
 \ProvideDocumentCommand{\autodot}{}{}
 \ProvideDocumentCommand{\mdtChapapp}{}{}
 \ProvideDocumentCommand{\chapteralign}{}{\raggedright}
-\ProvideDocumentCommand{\chapterfont}{}{\Huge\bfseries}
+% \ProvideDocumentCommand{\chapterfont}{}{\Huge\bfseries}
 \ProvideDocumentCommand{\chapterprefixfont}{}{\LARGE\bfseries}
 \DeclareDocumentCommand{\@makechapterhead}{ m }{%
 	\abovechapterskip

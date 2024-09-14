@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.pilot_participant_information >}}: Participant information sheet for author interviews {.appendix #app-pilot-participant-information}
+## Participant information sheet for author interviews {.appendix #app-pilot-participant-information}
 
 James  Harwood
 DPhil Candidate in Musculoskeletal Sciences

@@ -33,8 +33,9 @@ format:
   quarto-thesis-pdf: 
       urlcolor: blue
       toclinkcolor: black
+      citecolor: black
       toc-depth: 2
-      fontsize: 12pt
+      fontsize: 11pt
       include-in-header: 
         text: |
             \usepackage{pdflscape}

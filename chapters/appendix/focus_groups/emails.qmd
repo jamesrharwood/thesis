@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.focus_group_emails >}}: Focus Groups - emails {.appendix}
+## Focus Groups - emails {.appendix}
 
 ### Recruitment Email
 

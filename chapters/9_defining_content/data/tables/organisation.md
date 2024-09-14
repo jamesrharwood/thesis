@@ -1,4 +1,4 @@
-| Intervention component                                                             | Intervention Function       | BCT                                         |
+| **INTERVENTION COMPONENT**                                                                                                     | **INTERVENTION FUNCTION** | **BCT**                                    |
 |:--------------------------------|:-----------------|:--------------------|
 | Centralised hosting                                                                | Enablement                  | Restructuring the physical environment      |
 | Search function on website                                                         | Enablement                  | Restructuring the physical environment      |

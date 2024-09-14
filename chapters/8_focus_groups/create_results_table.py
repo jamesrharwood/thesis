@@ -10,7 +10,7 @@ table = texttable.Texttable()
 table.set_cols_align(['l', 'l'])
 table.set_header_align(['l', 'l'])
 table.set_max_width(0)
-table.header(('Ideas', 'Influences'))
+table.header(('**IDEAS**', '**INFLUENCES**'))
 
 changes_by_stage = defaultdict(list)
 for change in CHANGES_BY_STAGE:

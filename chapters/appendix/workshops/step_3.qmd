@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.workshop_step_3 >}}: Step 3: Specify the Target Behaviour {.appendix}
+## BCW Step 3 – Specify the Target Behaviour {.appendix}
 
 Instructions @michieBehaviourChangeWheel2014: 
 

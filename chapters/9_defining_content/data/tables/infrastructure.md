@@ -1,4 +1,4 @@
-| Intervention component                                                                                                 | Intervention Function | BCT                                        |
+| **INTERVENTION COMPONENT**                                                                                                     | **INTERVENTION FUNCTION** | **BCT**                                    |
 |:--------------------------------|:-----------------|:--------------------|
 | Make it possible for guideline developers to make small edits without having to publish new articles                   | Enablement            | Restructuring the physical environment     |
 | *Instruct authors to cite reporting guidelines so readers may learn about them (requires the resources to be citable)* | Education             | Instruction on how to perform the behavior |

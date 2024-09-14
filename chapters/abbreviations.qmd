@@ -39,8 +39,10 @@ TRIPOD | Transparent Reporting of a multivariable prediction model for Individua
 |
 :-|:----
 NICE | National Institute for Health and Care Excellence
-CASP | Critical Appraisal Skills Programme
 EQUATOR | Enhancing the QUAlity and Transparency Of health Research
+CASP | Critical Appraisal Skills Programme
 GIM | Global Index Medicus
 OSF | Open Science Framework
 SciELO | Scientific Electronic Library
+BCW | Behaviour Change Wheel
+BCT | Behaviour Change Technique

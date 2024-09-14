@@ -4,9 +4,9 @@ from collections import defaultdict
 import yaml
 import texttable
 
-COLS = ['Method', 'Intervention Components (defined in previous chapter)']
+COLS = ['**METHOD**', '**INTERVENTION COMPONENTS** (defined in previous chapter)']
 COL_RANGE = range(len(COLS))
-WIDTHS = [500, 500]
+WIDTHS = [10, 90]
 ALIGNMENTS = ['l' for _ in COL_RANGE]
 DIR = os.getcwd()
 FP = os.path.join(DIR, 'chapters', '9_defining_content', 'data', 'planning_table.yaml')

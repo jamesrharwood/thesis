@@ -1,4 +1,4 @@
-| havIntervention component                                                                                   | Intervention Function | BCT                                       |
+| **INTERVENTION COMPONENT**                                                                                                     | **INTERVENTION FUNCTION** | **BCT**                                    |
 |:--------------------------------|:-----------------|:--------------------|
 | Address communications to authors                                                                           | Persuasion            | Instruction on how to perform a behaviour |
 | Reassure that all research has limitations to encourage explanation over perfect design                     | Persuasion            | Social support (unspecified)              |

@@ -1,4 +1,4 @@
-## Appendix {{< var appendix.pilot_emails >}}: Emails for author interviews {.appendix #app-pilot-emails}
+## Emails for author interviews {.appendix #app-pilot-emails}
 
 ### Email 1: recruitment
 

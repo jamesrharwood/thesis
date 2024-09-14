@@ -12,11 +12,11 @@ TEXT = ""
 SEE_ABOVE = ""
 
 COLS = [
-    'Intervention Ingredient',
-    "Behaviour Change Technique",
-    'Intervention Function', 
-    'Before', 
-    'Now', 
+    '**INTERVENTION INGREDIENT**',
+    "**BCT**",
+    '**INTERVENTION FUNCTION**', 
+    '**BEFORE**', 
+    '**NOW**', 
 ]
 COLS = [f"**{col}**" for col in COLS]
 COL_RANGE = range(len(COLS))
