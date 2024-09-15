@@ -2,7 +2,7 @@
 
 
 
-### 1: Create reporting guidance for early stages of research{#sec-create-early-guidance}
+## 1: Create reporting guidance for early stages of research{#sec-create-early-guidance}
 
 Consider creating reporting guidance to help authors write protocols, funding applications, and ethics applications.
 
@@ -19,7 +19,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 
-### 2: Avoid confusing authors with too many reporting guidelines{#sec-avoid-proliferation}
+## 2: Avoid confusing authors with too many reporting guidelines{#sec-avoid-proliferation}
 
 * To avoid duplicating resources, before commencing a new reporting guideline:
   * consult EQUATOR's register of reporting guidelines under development;
@@ -45,7 +45,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 
-### 1: Avoid prescribing structure{#sec-avoid-prescribing-structure}
+## 1: Avoid prescribing structure{#sec-avoid-prescribing-structure}
 
 * Avoid prescribing structure of a journal article as it may clash with journal requirements or other reporting guidelines.
 * Instead, give options for where items can be reported.
@@ -64,7 +64,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 
-### 2: Keep reporting guidelines agnostic to design choices{#sec-design-agnostic}
+## 2: Keep reporting guidelines agnostic to design choices{#sec-design-agnostic}
 
 Ask authors to describe methods transparently without making assumptions about, or prescribing, methods or design choices. For example, an instruction to "describe how you determined your sample size" may be more helpful than "report your sample size calculation" for authors who encounter checklists at submission and did not perform a sample size calculation before collecting data.
 
@@ -91,7 +91,7 @@ Consider linking to external design or appraisal tools instead.
 
 
 
-### 3: Describe reporting items fully{#sec-item-content}
+## 3: Describe reporting items fully{#sec-item-content}
 
 For each item, authors may need to know the following:
 
@@ -130,7 +130,7 @@ For each item, authors may need to know the following:
 
 
 
-### 4: Describe each reporting guideline fully{#sec-rg-introductions}
+## 4: Describe each reporting guideline fully{#sec-rg-introductions}
 
 For each reporting guideline, authors may need the following information:
 
@@ -159,7 +159,7 @@ For each reporting guideline, authors may need the following information:
 
 
 
-### 5: Keep guidance short{#sec-keep-short}
+## 5: Keep guidance short{#sec-keep-short}
 
 Keep guidance as a short as possible:
 
@@ -183,7 +183,7 @@ Keep guidance as a short as possible:
 
 
 
-### 1: Make resources ready-to-use{#sec-ready-to-use}
+## 1: Make resources ready-to-use{#sec-ready-to-use}
 
 Ensure resources are ready-to-use e.g., checklists as Word files, not as tables within published articles.
 
@@ -200,7 +200,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 
 
-### 2: Make reporting guidelines easy to understand{#sec-easy-understand}
+## 2: Make reporting guidelines easy to understand{#sec-easy-understand}
 
 * Use plain language.
 * Define key terms.
@@ -221,7 +221,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 
 
-### 3: Use persuasive language and design{#sec-persuade}
+## 3: Use persuasive language and design{#sec-persuade}
 
 * Use language and design to communicate confidence and simplicity as opposed to judgement and complexity.
 * Encourage explanation even when choices were unusual or sub-optimal.
@@ -245,7 +245,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 
 
-### 4: Create additional tools{#sec-create-tools}
+## 4: Create additional tools{#sec-create-tools}
 
 Create tools for different tasks:
 
@@ -276,7 +276,7 @@ Create tools for different tasks:
 
 
 
-### 5: Make resources easy to discover and find{#sec-findable-resources}
+## 5: Make resources easy to discover and find{#sec-findable-resources}
 
 Link resources:
 
@@ -313,7 +313,7 @@ Names reporting guidelines to make them easy to discover and find:
 
 
 
-### 6: Make information digestible{#sec-information-architecture}
+## 6: Make information digestible{#sec-information-architecture}
 
 Organise information so it is easy to navigate and not overwhelming.
 
@@ -340,7 +340,7 @@ Organise information so it is easy to navigate and not overwhelming.
 
 
 
-### 1: Describe reporting guidelines where they are encountered{#sec-value-statement}
+## 1: Describe reporting guidelines where they are encountered{#sec-value-statement}
 
 * When authors first encounter reporting guidelines they may need to know:
   * what reporting guidelines are
@@ -371,7 +371,7 @@ Organise information so it is easy to navigate and not overwhelming.
 
 
 
-### 2: Make resources accessible{#sec-accessible}
+## 2: Make resources accessible{#sec-accessible}
 
 Ensure resources are open access. This allows access to authors without journal subscriptions and allows others to build upon the guidance.
 
@@ -387,7 +387,7 @@ Ensure resources are open access. This allows access to authors without journal 
 
 
 
-### 3: Show and encourage citations{#sec-citation}
+## 3: Show and encourage citations{#sec-citation}
 
 * Display usage data (like citations or downloads) alongside the guidelines as a form of social proof.
 * Encourage authors to cite the reporting guideline so readers discover it.
@@ -405,7 +405,7 @@ Ensure resources are open access. This allows access to authors without journal 
 
 
 
-### 4: Provide testimonials{#sec-testimonials}
+## 4: Provide testimonials{#sec-testimonials}
 
 Testimonials can be short quotes or longer case studies. They could come from:
 
@@ -433,7 +433,7 @@ Testimonials can be short quotes or longer case studies. They could come from:
 
 
 
-### 1: Budget for reporting{#sec-budget-and-fund-reporting}
+## 1: Budget for reporting{#sec-budget-and-fund-reporting}
 
 Funders and research supervisors could encourage researchers to allocate sufficient time and money for documenting and reporting results of their research.
 
@@ -450,7 +450,7 @@ Funders and research supervisors could encourage researchers to allocate suffici
 
 
 
-### 2: Create rewards{#sec-create-rewards}
+## 2: Create rewards{#sec-create-rewards}
 
 Stakeholders could create new rewards:
 
@@ -473,7 +473,7 @@ Stakeholders could create new rewards:
 
 
 
-### 3: Create discussion spaces{#sec-create-spaces}
+## 3: Create discussion spaces{#sec-create-spaces}
 
 Create spaces for authors to discuss reporting and reporting guidelines. These could be:
 
@@ -503,7 +503,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 
 
 
-### 4: Create ways to catch authors earlier{#sec-early-acquisition}
+## 4: Create ways to catch authors earlier{#sec-early-acquisition}
 
 * Consider creating email campaigns to prompt researchers at early stages.
 * The EQUATOR website could encourage visitors to use reporting guidelines for planning and drafting research.
@@ -525,7 +525,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 
 
 
-### 5: Endorse and enforce reporting guidelines{#sec-endorse-enforce}
+## 5: Endorse and enforce reporting guidelines{#sec-endorse-enforce}
 
 Stakeholders could:
 
@@ -546,7 +546,7 @@ Stakeholders could:
 
 
 
-### 6: Evidence the benefits{#sec-evidence-benefits}
+## 6: Evidence the benefits{#sec-evidence-benefits}
 
 Evidence any stated benefits:
 
@@ -565,7 +565,7 @@ Evidence any stated benefits:
 
 
 
-### 7: Make reporting guidelines appear as a priority{#sec-apparent-priority}
+## 7: Make reporting guidelines appear as a priority{#sec-apparent-priority}
 
 Journals, funders and ethics committees could make reporting guidelines appear as a priority:
 
@@ -586,7 +586,7 @@ Journals, funders and ethics committees could make reporting guidelines appear a
 
 
 
-### 8: Promote reporting guidelines{#sec-promote}
+## 8: Promote reporting guidelines{#sec-promote}
 
 * Promote reporting guidelines on and offline.
   * Online may include websites, email campaigns, social media, and blogs.
@@ -609,7 +609,7 @@ NB. Promotion is different to endorsement; a journal could run an email campaign
 
 
 
-### 9: Install reporting champions{#sec-reporting-champions}
+## 9: Install reporting champions{#sec-reporting-champions}
 
 All stakeholders could have members to promote and facilitate the usage of reporting guidelines.
 
@@ -632,7 +632,7 @@ All stakeholders could have members to promote and facilitate the usage of repor
 
 
 
-### 10: Provide additional teaching{#sec-support}
+## 10: Provide additional teaching{#sec-support}
 
 Provide education or training (e.g., courses, videos) specific to particular reporting guidelines.
 
@@ -660,7 +660,7 @@ More generally, students could:
 
 
 
-### 11: Make updating guidelines easier{#sec-updating}
+## 11: Make updating guidelines easier{#sec-updating}
 
 Update guidance in response to user feedback or changes in the field. This would be easier if:
 

@@ -13,7 +13,7 @@
 
 In this thesis I aimed to identify and address barriers authors face when using reporting guidelines. I chose this aim because I believe eliminating barriers will increase the proportion of authors adhering to reporting guidelines. In turn, this will make research articles easier for other researchers, clinicians, and patients to understand, synthesise, replicate, and use. 
 
-In chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}} I explored barriers through a qualitative evidence synthesis, a review of survey questions, and a service evaluation of the EQUATOR website. I identified {{< var counts.barriers >}} affecting how authors discover, find, understand, and apply reporting guidelines. 
+In chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}} I explored barriers through a qualitative evidence synthesis, a review of survey questions, and a service evaluation of the EQUATOR website. I identified {{< var counts.barriers >}} influences affecting how authors discover, find, understand, and apply reporting guidelines. 
 
 In chapters {{< var chapters.workshops >}} I described how I used a framework for designing behaviour change interventions called the Behaviour Change Wheel to prioritise intervention options. Over a series of workshops, EQUATOR UK staff and I decided to prioritise interventions using education, training, persuasion, modelling (demonstrating using reporting guidelines), and restructuring the environment (both physical and digital environments). Conversely, we saw restriction and incentivization as inequitable. When considering policy categories, we prioritized communication, guidelines, and service provision. 
 

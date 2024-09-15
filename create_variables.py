@@ -163,7 +163,6 @@ APPENDIX = [
     'barriers',
     'workshop_step_5',
     'workshop_step_6',
-    'workshop_step_7',
     'focus_group_emails',
     'focus_group_information',
     'ideas',

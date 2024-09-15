@@ -76,6 +76,10 @@ Additionally, I decided the guideline page should begin by briefly introducing t
 
 In contrast, most traditional reporting guideline publications begin with lengthy descriptions of how the guidance was made and justifications of why it is needed (see @fig-rg-intro-b4). Although this information is important (and is still present later in my design), I felt it wasn't what authors needed when making quick decisions about whether to engage with the guideline. Although EQUATOR's database pages for each guideline do include some explanation of when the guideline should be used, and links to related guidelines and tools, this information was quite hard to find and the pages lacked many other intervention components (see @fig-db-b4)
 
+\newpage 
+
+\blandscape 
+
 <!-- ## FIG-RG-INTRO-B4 -->
 ![The SRQR publication, captured on the 5th April, 2023. Limitations of reporting guideline publications may include:  
 1) Reporting guideline publications often focus on how the guidance was developed. The actual guidance (see area C) or checklist (area B) may be relegated to a box, table, or a linked supplement. 
@@ -87,7 +91,9 @@ In contrast, most traditional reporting guideline publications begin with length
 7) Instructions on whether a reporting guideline intends to be a strict standard vs. 'just' a guideline may be hard to find (see area D) or missing. 
 8) Links to related resources only include those that were created before the reporting guideline was published. Some guidelines don't include any links.  
 9) No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists. 
-](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm}
+](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm cap-location="margin"}
+
+\elandscape 
 
 <!-- ## FIG-RG -->
 ![Intervention reporting guideline page. Intervention changes made to RG introductions include:  

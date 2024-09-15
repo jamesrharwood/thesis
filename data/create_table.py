@@ -97,7 +97,7 @@ def create_abbr(item):
 def create_text(iterable, relationships_str, relationships_attr): #, bcw_concept_name, bcw_concept_attr):
     s = ""
     for idx, c in enumerate(iterable):
-        s += f"### {idx+1}: " + c.title + "{#sec-" + c.id + "}\n\n"
+        s += f"## " + c.title + "{#sec-" + c.id + "}\n\n"
         s += c.content + "\n\n"
         # concepts = getattr(c, bcw_concept_attr)
         # concepts = [concepts] if type(concepts) is not list else concepts
@@ -128,7 +128,7 @@ def create_recommendations_text(changes):
     )
 
 def create_title(idx, item):
-    return f"### {idx+1}: " + item.title + "{#sec-" + item.id + "}"
+    return f"## {idx+1}: " + item.title + "{#sec-" + item.id + "}"
 
 def create_subtitle(text):
     return f"{H8} {text}: "

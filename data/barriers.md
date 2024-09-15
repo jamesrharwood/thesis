@@ -189,7 +189,7 @@ Researchers use reporting guidelines for different tasks and want tools to make 
 ---
 
 id: need-up-to-date-guidance
-title: reporting guidelines can become outdated
+title: Reporting guidelines can become outdated
 driver_id: opportunity
 ---
 
@@ -245,7 +245,7 @@ Researcher should be able to easily find guidance and resources that they believ
 ---
 
 id: need-accessible
-title: reporting guidelines may be difficult to access
+title: Reporting guidelines may be difficult to access
 driver_id: opportunity
 ---
 
@@ -254,7 +254,7 @@ Researchers may be unable to access guidance published in subscription journals.
 ---
 
 id: need-usable-formats
-title: reporting guideline resources may not be in usable formats
+title: Reporting guideline resources may not be in usable formats
 driver_id: opportunity
 ---
 
