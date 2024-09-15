@@ -29,9 +29,9 @@ I used Lincoln and Guba's criteria for trustworthiness @lincolnNaturalisticInqui
 
 {{< include /chapters/7_workshops/_table.qmd >}}
 
-To encourage open discussion, I encouraged participants to rise above their own preconceptions and reassured them that there were no wrong answers, that all ideas were valid and should be documented (#TODO: I think I need to name and cite these as techniques but I don't know what to cite). To facilitate rich discussion I used open-ended questioning (#TODO: name and cite), left space for participants to talk (#TODO: name and cite), and followed Michie et al.'s worksheets which structure inquiry around frameworks, models, and taxonomies (#TODO: name and cite).
+To encourage open discussion, I encouraged participants to rise above their own preconceptions and reassured them that there were no wrong answers, that all ideas were valid and should be documented. To facilitate rich discussion I used open-ended questioning, left space for participants to talk, and followed Michie et al.'s worksheets which structure inquiry around frameworks, models, and taxonomies.
 
-#TODO: name all biases. Perhaps using https://www.ideatovalue.com/crea/nickskillicorn/2021/06/a-list-of-all-of-the-biases-which-affect-creativity-and-innovation-performance/ or https://catalogofbias.org/about/
+<!-- #ASK: name all biases. Perhaps using https://www.ideatovalue.com/crea/nickskillicorn/2021/06/a-list-of-all-of-the-biases-which-affect-creativity-and-innovation-performance/ or https://catalogofbias.org/about/ -->
 
 We met {{< var counts.EQUATOR_meetings >}} times between December 2021 and May 2022, and each online meeting lasted around 2 hours. All participants had access to the Behaviour Change Wheel book. We established some ground rules which were that no idea was a bad idea, we should favour evidence over preconceptions, and that we should aspire to challenge our own assumptions and be open minded as far as possible. We didn't seek consensus. Instead, we kept note of any disagreements that could not be resolved by discussion. 
 

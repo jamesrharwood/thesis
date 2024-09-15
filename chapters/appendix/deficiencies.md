@@ -180,7 +180,7 @@ In the second iteration, I moved some of this introduction information into a co
 
 ######## Relevant website features: Each reporting item has its own discussion board.
 
-######## Barriers addressed: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; reporting guidelines can become outdated; Researchers may feel patronized
+######## Barriers addressed: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; Reporting guidelines can become outdated; Researchers may feel patronized
 
 Each reporting item had a link to its own discussion page. Participants welcomed the opportunity to post comments, ask questions, and suggest edits on this page. 
 
@@ -620,7 +620,7 @@ Throughout the homepage and SRQR page I had tried to convey that reporting guide
 
 ######## Relevant website features: No changes made
 
-######## Barriers addressed: Researchers have limited time; reporting guideline resources may not be in usable formats
+######## Barriers addressed: Researchers have limited time; Reporting guideline resources may not be in usable formats
 
 Even though the links to the checklist and template were not live, participants expected the resources to be in ready-to-use formats. 
 

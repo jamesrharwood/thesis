@@ -7,7 +7,7 @@ format:
         output-file: JH-chapter-pilot.docx
 ---
 
-#ASK title feels clunky 
+<!-- #ASK title feels clunky  -->
 
 {{< include /chapters/10_pilot/_background.qmd >}}
 

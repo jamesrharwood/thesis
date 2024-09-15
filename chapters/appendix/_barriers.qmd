@@ -1,7 +1,5 @@
 ## BCW Step 4 – Consolidated list of what needs to change for the target behaviour to occur {.appendix #app-barriers}
 
-#TODO move this table to come after step 4 of BCW 
-
 The following list of barriers was generated from my thematic synthesis, review of survey questions, and my evaluation of EQUATOR's website.
 
 {{< include barriers.md >}}

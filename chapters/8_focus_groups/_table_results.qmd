@@ -67,7 +67,7 @@
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
 | **When writing guidance down and creating resources**      |                                                                                |
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
-| Make resources ready-to-use                                | reporting guideline resources may not be in usable formats                     |
+| Make resources ready-to-use                                | Reporting guideline resources may not be in usable formats                     |
 |                                                            |                                                                                |
 |                                                            | Researchers have limited time                                                  |
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
@@ -113,7 +113,7 @@
 |                                                            |                                                                                |
 |                                                            | Researchers may feel that checking reporting is someone else's job.            |
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
-| Make resources accessible                                  | reporting guidelines may be difficult to access                                |
+| Make resources accessible                                  | Reporting guidelines may be difficult to access                                |
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
 | Show and encourage citations                               | Researchers may not know what reporting guidelines exist                       |
 |                                                            |                                                                                |
@@ -191,7 +191,7 @@
 |                                                            |                                                                                |
 |                                                            | Researchers may not care about the benefits of using a reporting guideline     |
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
-| Make updating guidelines easier                            | reporting guidelines can become outdated                                       |
+| Make updating guidelines easier                            | Reporting guidelines can become outdated                                       |
 |                                                            |                                                                                |
 |                                                            | Researchers may misunderstand                                                  |
 +------------------------------------------------------------+--------------------------------------------------------------------------------+

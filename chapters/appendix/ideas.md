@@ -191,7 +191,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 ######## Barriers addressed: 
 
-######### [reporting guideline resources may not be in usable formats](#sec-need-usable-formats)
+######### [Reporting guideline resources may not be in usable formats](#sec-need-usable-formats)
 ######### [Researchers have limited time](#sec-need-enough-time)
 
 
@@ -379,7 +379,7 @@ Ensure resources are open access. This allows access to authors without journal 
 
 ######## Barriers addressed: 
 
-######### [reporting guidelines may be difficult to access](#sec-need-accessible)
+######### [Reporting guidelines may be difficult to access](#sec-need-accessible)
 
 
 
@@ -672,7 +672,7 @@ Update guidance in response to user feedback or changes in the field. This would
 
 ######## Barriers addressed: 
 
-######### [reporting guidelines can become outdated](#sec-need-up-to-date-guidance)
+######### [Reporting guidelines can become outdated](#sec-need-up-to-date-guidance)
 ######### [Researchers may misunderstand](#sec-understanding)
 
 

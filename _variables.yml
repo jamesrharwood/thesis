@@ -13,7 +13,7 @@ BARRIERS:
   how-to-report: Researchers may not know how to report an item in practice
   how-to-report-not-done: Researchers may not know what to write when they cannot report an item
   importance: Researchers may not know why items are important
-  need-accessible: reporting guidelines may be difficult to access
+  need-accessible: Reporting guidelines may be difficult to access
   need-concise-writing: Researchers may struggle to keep writing concise
   need-enough-time: Researchers have limited time
   need-findable: Guidance may be difficult to find
@@ -23,8 +23,8 @@ BARRIERS:
   need-to-remove: Researchers may be asked to remove reporting guideline content
   need-tools: Researchers may not have tools for the job at hand
   need-translations: Researchers may not understand the language
-  need-up-to-date-guidance: reporting guidelines can become outdated
-  need-usable-formats: reporting guideline resources may not be in usable formats
+  need-up-to-date-guidance: Reporting guidelines can become outdated
+  need-usable-formats: Reporting guideline resources may not be in usable formats
   scope: Researchers may not know whether a reporting guideline applies to them
   understanding: Researchers may misunderstand
   what-are-rgs: Researchers may not know what reporting guidelines are
@@ -124,15 +124,15 @@ IFs:
   value-statement: Describe reporting guidelines where they are encountered
 appendix:
   barriers: F
-  deficiencies: R
-  focus_group_emails: J
-  focus_group_information: K
-  ict: M
-  ideas: L
-  pilot_emails: P
-  pilot_interview_schedule: Q
-  pilot_participant_information: O
-  pilot_recruitment_image: N
+  deficiencies: Q
+  focus_group_emails: I
+  focus_group_information: J
+  ict: L
+  ideas: K
+  pilot_emails: O
+  pilot_interview_schedule: P
+  pilot_participant_information: N
+  pilot_recruitment_image: M
   search: A
   workshop_step_1: B
   workshop_step_2: C
@@ -140,7 +140,6 @@ appendix:
   workshop_step_4: E
   workshop_step_5: G
   workshop_step_6: H
-  workshop_step_7: I
 chapters:
   bcw: 6
   defining-content: 9
@@ -275,7 +274,7 @@ intervention-components:
     description: Items have consistent structure and use bullet points consistently
     title: Structure guideline items to make them quicker to digest
   discussion-spaces:
-    barriers: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; reporting guidelines can become outdated; Researchers may feel patronized
+    barriers: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; Reporting guidelines can become outdated; Researchers may feel patronized
     description: Each reporting item has its own discussion board.
     title: Create spaces for authors to discuss reporting guidelines with others
   doi:
@@ -355,7 +354,7 @@ intervention-components:
     description: Reporting guidelines warn authors when no better guidance exists for a use case, and how the current guidance can be adapted instead
     title: Explicitly state when no better guidance exists for a use case
   open-access:
-    barriers: reporting guidelines may be difficult to access
+    barriers: Reporting guidelines may be difficult to access
     description: No change
     title: Ensure guidelines and tools are open access
   plain-language:
@@ -371,7 +370,7 @@ intervention-components:
     description: No changes made
     title: Present design advice separately to reporting advice
   ready-to-use:
-    barriers: Researchers have limited time; reporting guideline resources may not be in usable formats
+    barriers: Researchers have limited time; Reporting guideline resources may not be in usable formats
     description: No changes made
     title: Ensure all resources and tools (e.g., checklists and templates) are in ready-to-use formats
   reassure-just-guidelines:

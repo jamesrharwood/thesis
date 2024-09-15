@@ -20,7 +20,7 @@ Following best-practice, I used information power @malterudSampleSizeQualitative
 
 I used the dialogue criteria from Information Power to decide when to stop recruiting. By monitoring the number of edits to the co-produced file I could be confident that my information power was good. Once groups began to add fewer and fewer comments, I judged that the benefit of continued recruitment was insufficient given time constraints.
 
-#ASK not mentioning data saturation because a) don't believe a limit exists.  No point claiming that I have reached saturation because I clearly haven't – if I recruited different stakeholders or changed my methods I would get new ideas. b) Data saturation purpose is to demonstrate transparency (which I did) and judge sample adequacy (which I also did). 
+<!-- #ASK not mentioning data saturation because a) don't believe a limit exists.  No point claiming that I have reached saturation because I clearly haven't – if I recruited different stakeholders or changed my methods I would get new ideas. b) Data saturation purpose is to demonstrate transparency (which I did) and judge sample adequacy (which I also did).  -->
 
 ### Materials
 
@@ -33,8 +33,6 @@ I used the ideas table to prompt discussion in the focus groups. However, becaus
 
 An example row in the Ideas Table that was co-edited by participants. The left hand column contained influences that needed to be addressed for our target behaviour to occur. These came from the consolidated list generated in step four of the Behaviour Change Wheel workshops described in the previous chapter. Each influence had its own row, and only one row appeared on each page of the Word document, leaving a lot of white space to facilitate focus and ideation. Existing ideas were initially hidden (by turning the text white), and only made visible once participants had discussed their own ideas.
 :::
-
-#TODO check how these are displayed 
 
 ### Focus group sessions
 

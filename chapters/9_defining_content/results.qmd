@@ -18,7 +18,7 @@ Some intervention components required considering how authors would navigate and
 <!-- Journey after -->
 ![The layout of the new web-intervention. Users must now only need to navigate to 2 pages to access reporting guidance. The proportion of users navigating between each step is shown in the width of the links. All links in are estimated proportions, based on a realistic aim to reduce the exit rate from the home page and database page by 50%.](figures/sankey-after.png){#fig-sankey-after width=100%}
 
-#STRETCH remake this figure without changing the exit rate
+<!-- #STRETCH remake this figure without changing the exit rate -->
 
 We also decided to display the full guidance texts on the website whenever licences allow. Currently, EQUATOR's website directs authors to different publishers and guideline development group websites. Sometimes the full guidance is published as a supplementary material, and checklists can appear as supplements, tables, or figures. Bringing the full guidance texts to a single website makes them easier to find, means we can ensure all have a consistent, usable format, and allows us to track authors behaviour. But this is only possible when guidance is published under a permissible licence. 
 
@@ -40,12 +40,8 @@ Finally, because my thematic synthesis found some authors describe reporting gui
 
 #### Home page
 
-The redesigned homepage aims to minimise the proportion of authors leaving the website without engaging with reporting guidelines. The home page explains what reporting guidelines are, what writing tasks to use them for, the personal benefits they offer, and why reporting is important for reproducibility. Short quotes from authors and editors, expounding the benefits of using reporting guidelines aim to convince sceptical authors.
+EQUATOR's current home page (see @fig-home-b4) does not define what reporting guidelines are, or how or why to use them. Although it is full of content, the overall impression is one of complexity with no clear message. Intervention components appearing on the home page are listed in @tbl-ics-home. Its limitations include:
 
-In contrast, EQUATOR's current home page (see @fig-home-b4 compared to @fig-home) does not define what reporting guidelines are, or how or why to use them. Although it is full of content, the overall impression is one of complexity with no clear message. Intervention components appearing on the home page are listed in @tbl-ics-home.
-
-<!-- FIG-HOME-B4 -->
-![The existing EQUATOR home page, as captured on 5th of April, 2023. Limitations include:
 1) No prominent description of what RGs are
 2) No clear instruction on what tasks RGs can and cannot be used for 
 3) Search function hard to find (area A) 
@@ -55,48 +51,55 @@ In contrast, EQUATOR's current home page (see @fig-home-b4 compared to @fig-home
 7) There was little description of benefits of using a reporting guideline besides the mention of 'quality' and 'transparency' in the definition of EQUATOR, reference to 'high-impact research', 'improve your writing', and 'enhance your peer review' in the header. 
 8) No reassurance that most research has limitations 
 9) Frequently accessed guidelines are fairly easy to find (area C). 
+
+<!-- FIG-HOME-B4 -->
+![The existing EQUATOR home page, as captured on 5th of April, 2023. Labelled areas are limitations and area described in the previous paragraph.
 ](figures/www.equator-network.org_.png){#fig-home-b4 height=200mm}
 
-![Intervention home page. Intervention changes made to the homepage include the following:  
+In contract, the redesigned homepage aims to minimise the proportion of authors leaving the website without engaging with reporting guidelines. The home page explains what reporting guidelines are, what writing tasks to use them for, the personal benefits they offer, and why reporting is important for reproducibility. Short quotes from authors and editors, expounding the benefits of using reporting guidelines aim to convince sceptical authors. The redesigned home page can bee seen in @fig-home. Intervention changes made to the homepage include:  
+
 1) RGs are now clearly defined (areas A) 
 2) The site looks simple and has plenty of white space  
 3) Personal benefits are described explicitly and communicated through reassuring language and quotes (see areas B)  
 4) Search and browse buttons are easy to find (area C) 
 5) Frequently accessed guidelines are still easy to find (area D) 
 6) The site describes what tasks RGs can be used for, and differentiates tools by task (area E)
+
+![Intervention home page. 
 ](figures/home.png){#fig-home height=200mm}
 
 {{< include data/tables/home.md >}}
 
 #### Introduction to the SRQR reporting guideline
 
-My aim for this introduction was to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and, if it does, to convince them to use it. Although some journals direct authors to EQUATOR's home page,  others send authors straight to EQUATOR's database records for a particular reporting guidelines. Consequently, 50% of visitors arrive on these guideline-specific pages, and so I decided the home page components aimed at naïve authors (such as basic information on what reporting guidelines, how to use them, when to use them, and why) should also appear at the top of guideline pages (see @tbl-ics-rg-intro)
+Although some journals direct authors to EQUATOR's home page,  others send authors straight to EQUATOR's database records for a particular reporting guidelines. Although EQUATOR's database pages for each guideline do include some explanation of when the guideline should be used, and links to related guidelines and tools, this information was quite hard to find and the pages lacked many other intervention components (see @fig-db-b4). Limitations of the existing database pages include:
 
-Additionally, I decided the guideline page should begin by briefly introducing the guideline, why it can be trusted, when it applies and when it does _not_ apply, how to use it, how to cite it, and should link to related guidance, translations, and associated checklists, templates and other tools in ready-to-use formats. This introduction positions the reporting guideline as a set of recommendations, not rules, clarifies it is for reporting research, not designing it, and that the guideline does not prescribe structure (see @fig-rg-intro). 
+1) The actual guidance is hard to find. Area A includes 3 links. The first two send users to an article describing how SRQR was developed. The actual guidance appears in a supplement of that article, which is the third link in area A. The label "relevant URLs" is vague. 
+2) Little instruction regarding what the RG is or can be used for other than "Qualitative research" 
+3) Links to related guidelines that are hard to find or, for SRQR, absent 
+4) No metrics around how many authors use this RG (e.g., citation counts) 
+5) The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance.
 
-In contrast, most traditional reporting guideline publications begin with lengthy descriptions of how the guidance was made and justifications of why it is needed (see @fig-rg-intro-b4). Although this information is important (and is still present later in my design), I felt it wasn't what authors needed when making quick decisions about whether to engage with the guideline. Although EQUATOR's database pages for each guideline do include some explanation of when the guideline should be used, and links to related guidelines and tools, this information was quite hard to find and the pages lacked many other intervention components (see @fig-db-b4)
+<!-- ## FIG-DB-B4 -->
+![The existing EQUATOR page for SRQR, as captured on 5th April, 2023. Labelled limitations are described in the previous paragraph.](figures/db_page_b4.png){#fig-db-b4 height=200mm}
 
-\newpage 
+EQUATOR's database pages direct authors to reporting guideline publications. Although these publications might include (or link to) the full guidance, most focus on lengthy descriptions of how the guidance was made and justifications of why it is needed. This is true for SRQR (see @fig-rg-intro-b4). Limitations of these publications may include:
 
-\blandscape 
-
-<!-- ## FIG-RG-INTRO-B4 -->
-![The SRQR publication, captured on the 5th April, 2023. Limitations of reporting guideline publications may include:  
-1) Reporting guideline publications often focus on how the guidance was developed. The actual guidance (see area C) or checklist (area B) may be relegated to a box, table, or a linked supplement. 
-2) Not all reporting guidelines describe what reporting guidelines are or what they can be used for, and these descriptions can be hard to find (areas A). 
+1) Not all reporting guidelines describe what reporting guidelines are or what they can be used for, and these descriptions can be hard to find (areas A). 
+2) The actual guidance or checklist may be relegated to a box, table (area B), or a linked supplement (see area C) . 
 3) Reporting guideline publications may not reassure authors that most research has limitations, and that transparency is OK 
 4) Publications may not be written with a reassuring tone of voice. Guideline developers often justify reporting items by emphasising the negative impact of research waste. This may be how developers justify their work to themselves, editors, reviewers, or readers. As a result, to a naïve author considering using the guidance, the tone of voice may come across as judgemental. 
 5) Benefits to the user may be hard to find or (as with this reporting guideline) not described at all. Benefits to _others_ are more likely to be described, including a focus on how transparent, complete reporting benefits the research community or, conversely, how poor reporting is wasteful. 
 6) Instruction on when reporting guidelines do/do not intend to prescribe structure, or instruction may be hard to find (see area D) or missing. 
 7) Instructions on whether a reporting guideline intends to be a strict standard vs. 'just' a guideline may be hard to find (see area D) or missing. 
 8) Links to related resources only include those that were created before the reporting guideline was published. Some guidelines don't include any links.  
-9) No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists. 
-](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm cap-location="margin"}
+9) No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists.
 
-\elandscape 
+<!-- ## FIG-RG-INTRO-B4 -->
+![The SRQR publication, captured on the 5th April, 2023. Areas A-D show the scope, checklist, link to the guidance, and its strictness.](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=100% cap-location="margin"}
 
-<!-- ## FIG-RG -->
-![Intervention reporting guideline page. Intervention changes made to RG introductions include:  
+In my redesign, I wanted authors to be able to find the full guidance directly, without having to navigate a database page or lengthy development article. However, I still wanted to give guidelines introduction and FAQ sections to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and, if it does, to convince them to use it (see @tbl-ics-rg-intro). Because half of visitors bypass the home page and arrive directly on these guideline-specific pages, I decided to duplicate some home page components aimed at naïve authors such as basic information on what reporting guidelines, how to use them, when to use them, and why. Intervention changes included in reporting guidelines' introductions and FAQs (shown in @fig-rg-intro) include:
+
 1) Clear description of what the reporting guideline is, what it can and cannot be used for, the benefits to the author and to society, and how and when it can be used. (area A) 
 2) Description of whether the reporting guideline is intended to be a standard or 'just' a guideline (area A) 
 3) Tools are clearly differentiated by task (area B) 
@@ -107,51 +110,45 @@ In contrast, most traditional reporting guideline publications begin with length
 8) Citation metrics (area G) 
 9) An estimation of how long guidance will take to read (area H) 
 10) Advice on how or where to report items so as not to breach word count limits and when RGs do or do not intend to prescribe structure (area I) 
-11) Full guidance (area J, see @fig-item) 
-12) Citation information (area K) 
-13) Information on how the guidance was developed and why it can be trusted (area L) 
-](figures/rg-after.png){#fig-rg-intro height=200mm}
+11) Citation information (area K) 
+12) Information on how the guidance was developed and why it can be trusted (area L) 
 
-<!-- ## FIG-DB-B4 -->
-![The existing EQUATOR page for SRQR, as captured on 5th April, 2023. Limitations include:  
-1) The actual guidance is hard to find. Area A includes 3 links. The first two send users to an article describing how SRQR was developed. The actual guidance appears in a supplement of that article, which is the third link in area A. The label "relevant URLs" is vague. 
-2) Little instruction regarding what the RG is or can be used for other than "Qualitative research" 
-3) Links to related guidelines that are hard to find or, for SRQR, absent 
-4) No metrics around how many authors use this RG (e.g., citation counts) 
-5) The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance. 
-](figures/db_page_b4.png){#fig-db-b4 height=200mm}
+<!-- ## FIG-RG -->
+![Redesigned intervention reporting guideline introduction and FAQ. Labelled areas include intervention components and are descirbed in the preceding paragraph.](figures/rg-after.png){#fig-rg-intro height=200mm}
 
 {{< include data/tables/rg_intro.md >}}
 
-
 #### Reporting guideline content
 
-Although I did not change the meaning of guidance, I did give it additional structure and edit how it was phrased. To increase clarity, I used plain language, consistent terms, and added definitions when I felt necessary. I wanted to cater to authors who read from start to finish as well as those who dip in and out, and so I created navigation menus so authors can jump to items. Intervention components applying to the entire reporting guideline content (which includes but is not limited to reporting items) appear in @tbl-ics-rg-content.
-	
-For each reporting item, I prioritized instructions of what to write. I placed remaining content in an expandable box, thus making the guidance appear shorter at first glance. Each expandable box includes why the reporting item is important and to whom, examples, links to related advice, and any other content that isn't an instruction of what to write. Each item links to its own discussion channel. Two intervention components required presenting design advice separately to reporting advice, but this was not necessary as SRQR made few design assumptions or recommendations. Intervention components applying to reporting items appear in @tbl-ics-item.
+Reporting guidelines comprise reporting _items_, and an example from SRQR is in @fig-item-b4. Limitations of how items are typically described include:
 
-<!-- ## FIG-ITEM-B4 -->
-![An example item from the SRQR guideline. Limitations may include:  
 1) Text is unstructured, so it is difficult to immediately identify what needs to be written.  
 2) Text uses verbose, passive language  
 3) The text appears long and difficult to digest  
 4) Terms aren't always defined  
 5) Not all reporting items are justified  
 6) Not all items include instruction of what to write if the item could not/was not done.  
-](figures/item-b4.png){#fig-item-b4 height=150mm}
 
-<!-- ## FIG ITEM AFTER -->
-![A re-designed item from the SRQR reporting guideline. Intervention changes include:  
+![An example item from the SRQR guideline. Limitations may include](figures/item-b4.png){#fig-item-b4 height=150mm}
+
+When redesigning items, although I did not change the meaning of guidance, I did give additional structure and edit phrasing. To increase clarity, I used plain language, consistent terms, and added definitions when I felt necessary. I wanted to cater to authors who read from start to finish as well as those who dip in and out, and so I created navigation menus so authors can jump to items. Intervention components applying to the entire reporting guideline content (which includes but is not limited to reporting items) appear in @tbl-ics-rg-content.
+	
+For each reporting item, I prioritized instructions of what to write. I placed remaining content in an expandable box, thus making the guidance appear shorter at first glance. Each expandable box includes why the reporting item is important and to whom, examples, links to related advice, and any other content that isn't an instruction of what to write. Each item links to its own discussion channel. Two intervention components required presenting design advice separately to reporting advice, but this was not necessary as SRQR made few design assumptions or recommendations. Intervention components applying to reporting items appear in @tbl-ics-item.
+
+@fig-item shows a redesigned reporting item. Intervention changes include:
+
 1) Content is separated into what to write (area A), why information is important (area B), examples (area C), and any additional background information (not shown). 
 2) Areas B and C are presented as expandable content, so the only instruction immediately visible is what to write (area A). This means that the guidance is easier to digest and less intimidating.
 3) Definitions are presented as pop-ups for technical terms
 4) Quotes provide reassurance and persuasion (area D) 
 5) Language is direct and edited for clarity and brevity 
-6) Each item has its own discussion page (linked to from the top right of area A)
- ](figures/item-after.png){#fig-item height=200mm}
+6) Each item has its own discussion page (see @fig-discussion, linked to from the top right of area A)
+
+<!-- ## FIG ITEM AFTER -->
+![A re-designed item from the SRQR reporting guideline. Labelled intervention changes are described in the paragraph above.](figures/item-after.png){#fig-item height=200mm}
 
 <!-- ## FIG-DISCUSSION -->
-![Intervention discussion page. Every reporting item now has its own discussion page where authors can ask and answer questions, and provide feedback to guideline developers. ](figures/discussion-page.png){#fig-discussion height=150mm}
+![Intervention discussion page. Every reporting item now has its own discussion page where authors can ask and answer questions (area A), and provide feedback to guideline developers. ](figures/discussion-page.png){#fig-discussion height=150mm}
 
 {{< include data/tables/rg_content.md >}}
 
@@ -177,4 +174,4 @@ Quarto websites do not require a database or a server. This means they are free 
 
 I've made all code available on Github @jamesrharwoodEQUATORGuidelinesWebsite2023. I've used Github Pages @GitHubPages to host the website because it is free, secure, beginner friendly, configurable, and integrates seamlessly with Github's version control system. 
 
-#STRETCH Consider putting outstanding components into the relevant tables or a separate one.
+<!-- #STRETCH Consider putting outstanding components into the relevant tables or a separate one. -->

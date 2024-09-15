@@ -16,7 +16,7 @@ In the summary below I have occasionally mentioned which stakeholder group an id
 
 Here I describe the aggregated ideas originating from the focus groups in this chapter and step 7 of the workshops from the previous chapter, as described at the beginning of my methods section. Although I described the people taking part in focus groups as _participants_, I did not use this term in the previous chapter because I took part in the workshops with my colleagues and so the line between researcher and participant was blurred. Because focus group participants were building upon our workshop outputs, the results presented here reflect the ideas of focus group participants _and_ workshop members. Consequently, I use the term _stakeholder_ in this section to reflect that the results presented originate from both focus group participants _and_ workshop members, which included myself.
 
-#ASK This feels clunky. 
+<!-- #ASK This feels clunky.  -->
 
 #### {{< var stages.planning >}}
 

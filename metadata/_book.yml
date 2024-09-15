@@ -61,8 +61,6 @@ book:
     file: chapters/appendix/workshops/step_5.qmd
   - text: "{{< var appendix.workshop_step_6 >}}. BCW Stage 6"
     file: chapters/appendix/workshops/step_6.qmd
-  - text: "{{< var appendix.workshop_step_7 >}}. BCW Stage 7"
-    file: chapters/appendix/workshops/step_7.qmd
   - text: "{{< var appendix.focus_group_emails >}}. Focus groups - emails"
     file: chapters/appendix/focus_groups/emails.qmd
   - text: "{{< var appendix.focus_group_information >}}. Focus groups - participant information"
@@ -100,4 +98,3 @@ thesis:
   faculty: Medical Sciences Division
   acknowledgements: "Frontmatter/acknowledgements.tex"
   abbreviations: "Frontmatter/abbreviations.tex"
-  symbols: "Frontmatter/symbols.tex"

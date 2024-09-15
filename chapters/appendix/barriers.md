@@ -274,7 +274,7 @@ Researchers use reporting guidelines for different tasks and want tools to make 
 
 
 
-## reporting guidelines can become outdated{#sec-need-up-to-date-guidance}
+## Reporting guidelines can become outdated{#sec-need-up-to-date-guidance}
 
 Guidelines can become out of date compared to other guidance or compared to current research standards.
 
@@ -337,7 +337,7 @@ Researcher should be able to easily find guidance and resources that they believ
 
 
 
-## reporting guidelines may be difficult to access{#sec-need-accessible}
+## Reporting guidelines may be difficult to access{#sec-need-accessible}
 
 Researchers may be unable to access guidance published in subscription journals. Journal websites can feature broken links.
 
@@ -347,7 +347,7 @@ Researchers may be unable to access guidance published in subscription journals.
 
 
 
-## reporting guideline resources may not be in usable formats{#sec-need-usable-formats}
+## Reporting guideline resources may not be in usable formats{#sec-need-usable-formats}
 
 Resources differ in how easy or readily usable they are. For example, some checklists are published as PDF tables that cannot be filled or copied. Some guidance can be dense, unstructured text that is hard to digest or navigate; whereas some researchers will read the guidance sequentially, others may dip in and out whilst writing, and unstructured text can make information harder to find.
 
