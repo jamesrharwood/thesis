@@ -155,7 +155,10 @@ pilot = {'participants': PARTICIPANT_IDS}
 counts['pilot'].update({'participants': len(PARTICIPANT_IDS.keys())}) #type: ignore
 
 APPENDIX = [
+    'prisma-s',
+    'entreq',
     'search',
+    'srqr-workshops',
     'workshop_step_1',
     'workshop_step_2',
     'workshop_step_3',
@@ -163,10 +166,12 @@ APPENDIX = [
     'barriers',
     'workshop_step_5',
     'workshop_step_6',
+    'srqr-focus-groups',
     'focus_group_emails',
     'focus_group_information',
     'ideas',
     'ict',
+    'srqr-interviews',
     'pilot_recruitment_image',
     'pilot_participant_information',
     'pilot_emails',

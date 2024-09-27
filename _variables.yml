@@ -123,23 +123,28 @@ IFs:
   updating: Make updating guidelines easier
   value-statement: Describe reporting guidelines where they are encountered
 appendix:
-  barriers: F
-  deficiencies: Q
-  focus_group_emails: I
-  focus_group_information: J
-  ict: L
-  ideas: K
-  pilot_emails: O
-  pilot_interview_schedule: P
-  pilot_participant_information: N
-  pilot_recruitment_image: M
-  search: A
-  workshop_step_1: B
-  workshop_step_2: C
-  workshop_step_3: D
-  workshop_step_4: E
-  workshop_step_5: G
-  workshop_step_6: H
+  barriers: I
+  deficiencies: V
+  entreq: B
+  focus_group_emails: M
+  focus_group_information: N
+  ict: P
+  ideas: O
+  pilot_emails: T
+  pilot_interview_schedule: U
+  pilot_participant_information: S
+  pilot_recruitment_image: R
+  prisma-s: A
+  search: C
+  srqr-focus-groups: L
+  srqr-interviews: Q
+  srqr-workshops: D
+  workshop_step_1: E
+  workshop_step_2: F
+  workshop_step_3: G
+  workshop_step_4: H
+  workshop_step_5: J
+  workshop_step_6: K
 chapters:
   bcw: 6
   defining-content: 9

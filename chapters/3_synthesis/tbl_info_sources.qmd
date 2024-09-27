@@ -17,5 +17,6 @@
 | Open Science Framework (OSF)                                          | https://osf.io/                                           | 15/12/2021        | "                                                                                                                               |
 | Methods in Research on Research website [@ProjetMiRoR]                | http://miror-ejd.eu/publications/                         | 14/12/2021        | "                                                                                                                               |
 | Emailing developers of guidelines listed in Table 2                   | n/a                                                       | 08/01/2022        | "                                                                                                                               |
+| Forward and backward citation searching                               | n/a                                                       | 08/01/2022        | "                                                                                                                               |
 
 : Information sources and record management {#tbl-info-sources}

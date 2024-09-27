@@ -7,6 +7,8 @@ My objectives were to:
 * explore the experience of a diverse sample of authors, and
 * to identify and understand deficiencies.
 
+#TODO name my qualitative approach and paradigm 
+
 ### Sampling strategy
 
 My purposive sample of authors varied in their:
@@ -38,7 +40,7 @@ I sent all eligible applicants the participant information sheet and consent for
 * What is your first language?
 * What country do you work and live in?
 
-I offered participants £50 reimbursement in return for an expected 2 hour commitment. This was delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My email templates and information sheet are in Appendices {{< var appendix.pilot_emails >}} and {{< var appendix.pilot_participant_information >}}. 
+I offered participants £50 reimbursement in return for an expected 2 hour commitment. This was delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My email templates and information sheet are in Appendices {{< var appendix.pilot_participant_information >}} and {{< var appendix.pilot_emails >}}. 
 
 Time and money limited my target sample size to 10 participants. As argued by Nielsen and Launder @nielsenMathematicalModelFinding1993, small samples (fewer than 10) are often sufficient to identify the majority of deficiencies. In chapter {{< var chapters.focus-groups >}} I introduced information power @malterudSampleSizeQualitative2016 as a concept to guide sample size in qualitative research, and I drew upon it again in this study. I maximised information power firstly by using methods to elicit rich information from each participant. Secondly, I used my table of intervention components ({{< var chapters.defining-content >}}) as an analysis framework. Hence I anticipated a sample of 10 to sufficiently inform at least one design iteration at the end of data collection.
 
@@ -165,7 +167,11 @@ Some participants spontaneously suggested modifications. In these instances, I c
 
 In this way, I ended up with a list of deficiencies (my primary unit of analysis), and incidental lists of influences and possible modifications.
 
-### Trustworthiness
+### Reflexivity and Trust
+
+As with my focus group chapter {{< var chapters.focus-groups >}} I tried to remain objective during interviews, and I considered research paradigm to be post-positivist,. My role was to identify deficiencies from what participants said, but I acknowledged that my own experience, perspective and opinion may affect what I observed, understood, and concluded.
+
+<!-- #ASK about my paradigm -->
 
 As with previous chapters, I used a number of techniques to ensure credibility, transferability, dependability, and confirmability @lincolnNaturalisticInquiry1985. I describe these in @tbl-trust-interviews.
 
@@ -177,4 +183,4 @@ Oxford University's Medical Sciences Interdivisional Research Ethics Committee d
 
 ### Reporting
 
-I used SRQR @obrienStandardsReportingQualitative2014 when outlining this chapter, and again to check my reporting during revision. 
+I used SRQR @obrienStandardsReportingQualitative2014 when outlining this chapter, and again to check my reporting during revision (see appendix {{< var appendix.srqr-interviews >}}). 

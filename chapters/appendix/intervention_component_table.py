@@ -18,7 +18,7 @@ COLS = [
     '**BEFORE**', 
     '**NOW**', 
 ]
-COLS = [f"**{col}**" for col in COLS]
+COLS = [f"{col}" for col in COLS]
 COL_RANGE = range(len(COLS))
 WIDTHS = [400, 200, 200, 400, 400]
 ALIGNMENTS = ['l' for _ in COL_RANGE]

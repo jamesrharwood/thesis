@@ -15,21 +15,21 @@ project:
     browser: true
     watch-inputs: true
 format:
-  # html:
-  #   toc: true
-  #   toc-depth: 4
-  #   theme: [cosmo, theme.scss]
-  #   smooth-scroll: true
-  #   downloads: [docx, pdf]
-  #   highlight-style: github
-  #   include-in-header: metadata/noindex.html
-  #   css: styles.css
-  # docx:
-  #     from: markdown+grid_tables
-  #     reference-doc: reference.docx
-  #     toc: true
-  #     toc-depth: 2
-  #     highlight-style: github
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [cosmo, theme.scss]
+    smooth-scroll: true
+    downloads: [docx, pdf]
+    highlight-style: github
+    include-in-header: metadata/noindex.html
+    css: styles.css
+  docx:
+      from: markdown+grid_tables
+      reference-doc: reference.docx
+      toc: true
+      toc-depth: 2
+      highlight-style: github
   quarto-thesis-pdf: 
       urlcolor: blue
       toclinkcolor: black

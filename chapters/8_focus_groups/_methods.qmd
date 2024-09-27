@@ -69,3 +69,7 @@ I wanted to ensure my results could be trusted as an account of participants' vi
 ### Ethics & Data Management
 
 The study was approved by the Medical Sciences Interdivisional Research Ethics Committee (R80414/RE001). Participants gave informed consent by completing an online form having read the participant information sheet (see Appendix {{< var appendix.focus_group_information >}}). Participant's edits to the co-produced file were anonymous. I recorded the audio of focus groups so that I could refer to them during analysis. All data and recordings were kept on secure university storage.
+
+### Reporting
+
+I used SRQR @obrienStandardsReportingQualitative2014 when outlining this chapter, and again to check my reporting during revision (see appendix {{< var appendix.srqr-focus-groups >}}). 

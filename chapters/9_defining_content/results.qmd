@@ -96,7 +96,7 @@ EQUATOR's database pages direct authors to reporting guideline publications. Alt
 9) No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists.
 
 <!-- ## FIG-RG-INTRO-B4 -->
-![The SRQR publication, captured on the 5th April, 2023. Areas A-D show the scope, checklist, link to the guidance, and its strictness.](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=100% cap-location="margin"}
+![The SRQR publication, captured on the 5th April, 2023. Areas A-D show the scope, checklist, link to the guidance, and its strictness.](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm}
 
 In my redesign, I wanted authors to be able to find the full guidance directly, without having to navigate a database page or lengthy development article. However, I still wanted to give guidelines introduction and FAQ sections to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and, if it does, to convince them to use it (see @tbl-ics-rg-intro). Because half of visitors bypass the home page and arrive directly on these guideline-specific pages, I decided to duplicate some home page components aimed at naïve authors such as basic information on what reporting guidelines, how to use them, when to use them, and why. Intervention changes included in reporting guidelines' introductions and FAQs (shown in @fig-rg-intro) include:
 

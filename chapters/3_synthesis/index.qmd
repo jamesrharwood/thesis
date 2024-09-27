@@ -19,7 +19,7 @@ After reading Haynes and Loblay I felt justified letting go of my barrier and fa
 
 ## Methods
 
-I performed a thematic synthesis of qualitative research that explored researchers' experiences of reporting guidelines. When writing this chapter, I used the ENTREQ guidelines for reporting qualitative evidence syntheses and the PRISMA-S guidelines for reporting systematic searches [@rethlefsenPRISMASExtensionPRISMA2021; @tongEnhancingTransparencyReporting2012].
+I performed a thematic synthesis of qualitative research that explored researchers' experiences of reporting guidelines. When writing this chapter, I used the PRISMA-S guidelines for reporting systematic searches (see appendix {{< var appendix.prisma-s >}}) and the ENTREQ guidelines for reporting qualitative evidence syntheses (see appendix {{< var appendix.entreq >}}) [@rethlefsenPRISMASExtensionPRISMA2021; @tongEnhancingTransparencyReporting2012].
 
 ### Researcher roles and characteristics
 
@@ -27,7 +27,7 @@ In the previous chapter I introduced my supervisors Gary Collins, Charlotte Albu
 
 ### Approach to searching and data sources 
 
-My search strategy sought all research publications reporting qualitative data exploring researchers' experiences of using reporting guidelines. I wanted to capture the experiences of researchers from around the world, so I included international databases in my information sources. All data sources are listed in @tbl-info-sources.
+My search strategy sought all research publications reporting qualitative data exploring researchers' experiences of using reporting guidelines. I wanted to capture the experiences of researchers from around the world, so I included international databases in my information sources. In addition to searching databases and websites, I emailed guideline developers and performed forwards and backwards citation searches. I did not set up article alerts. All data sources are listed in @tbl-info-sources. 
 
 ::: {.landscape .column-page-right .content-visible unless-format="pdf"}
 
@@ -79,7 +79,7 @@ I imported files into NVivo 12.0 for Mac and coded all sentences from the result
 
 ### Search
 
-My search yielded 18 articles (see @fig-prisma-flow-diagram for full search results). I and Michael Schlüssel double-screened 10% of the non-Chinese titles and abstracts and agreed on 98.3% of them (170/173). We resolved the remaining three through discussion and consensus. All eligible records were in English; there were no eligible articles written in Chinese, Spanish, or Portuguese. Eligible articles included surveys, semi-structured interviews, focus groups, and writing tasks.
+My search yielded 18 articles (see @fig-prisma-flow-diagram for full search results). I and Michael Schlüssel double-screened 10% of the non-Chinese titles and abstracts and agreed on 98.3% of them (170/173). We resolved the remaining three through discussion and consensus. Citations searches did not reveal any additional articles, nor did my emails with guideline developers. All eligible records were in English; there were no eligible articles written in Chinese, Spanish, or Portuguese. Eligible articles included surveys, semi-structured interviews, focus groups, and writing tasks.
 
 ::: {.landscape .column-page-right .content-visible unless-format="pdf"}
 
