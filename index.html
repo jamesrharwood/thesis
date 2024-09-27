@@ -2,12 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.4.557">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="James Harwood">
 
-<title>Thesis</title>
+<title>Refining reporting guidelines using behaviour change theory</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,6 +50,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./chapters/2_reflexivity/index.html" rel="next">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,12 +61,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
+  "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +81,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -63,44 +91,21 @@ ul.task-list li input[type="checkbox"] {
 <meta name="robots" content="noindex">
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar floating nav-fixed slimcontent">
-
+<body class="nav-sidebar floating">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Thesis</span>
-    </a>
-  </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./chapters/gantt.html" rel="" target="">
- <span class="menu-text">Timeline</span></a>
-  </li>  
-</ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
-          </div> <!-- /navcollapse -->
-      </div> <!-- /container-fluid -->
-    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="text-muted">Abstract</span></a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -108,9 +113,18 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Refining reporting guidelines using behaviour change theory</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/jamesrharwood/thesis" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="./Refining-reporting-guidelines-using-behaviour-change-theory-.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+</div>
+    </div>
+      </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -121,112 +135,19 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="text-muted">Abstract</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
- <span class="menu-text"><span class="text-muted">Acknowledgements</span></span>
-  </li>
-        <li class="sidebar-item">
- <span class="menu-text"><span class="text-muted">Glossary of key terms</span></span>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/abbreviations.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="text-muted">List of Abbreviations</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
- <span class="menu-text"><span class="text-muted">List of tables</span></span>
-  </li>
-        <li class="sidebar-item">
- <span class="menu-text"><span class="text-muted">List of Figures</span></span>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/1_introduction/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">1. Introduction</span></a>
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./chapters/2_reflexivity/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">2. Reflexivity</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
- <span class="menu-text"><b>Part 1: Identifying barriers</b></span>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/3_synthesis/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">3. Qualitative Evidence Synthesis</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/4_survey_content/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">4. Survey content review</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/5_website_audit/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">5. EQUATOR website evaluation</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
- <span class="menu-text"><b>Part 2: Defining intervention content</b></span>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/6_bcw/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">6. The Behaviour Change Wheel</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/7_workshops/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">7. Workshops</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/8_focus_groups/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">8. Focus Groups</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/9_defining_content/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">9. Defining intervention content</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
- <span class="menu-text"><b>Part 3: Redesigning and refining a reporting guideline and EQUATOR's home page</b></span>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/10_redesign/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">10. Development</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/11_pilot/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">11. Pilot</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chapters/12_discussion/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">12. Discussion</span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Reflexivity</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Appendix</span></a>
+ <span class="menu-text"><strong>Identifying influences</strong></span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -234,34 +155,221 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/appendix/synthesis_search_strategies.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Search Strategies</span></a>
+  <a href="./chapters/3_synthesis/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Qualitative Evidence Synthesis</span></span></a>
   </div>
 </li>
-          <li class="sidebar-item sidebar-item-section">
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/4_survey_content/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Survey content review</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/5_website_audit/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">EQUATOR website evaluation</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
- <span class="menu-text">Workshop outputs</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text"><strong>Identifying and implementing intervention changes</strong></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/appendix/barriers.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Barriers</span></a>
+  <a href="./chapters/6_bcw/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">The Behaviour Change Wheel</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
- <span class="menu-text"><span class="text-muted">Worksheets</span></span>
-  </li>
-      </ul>
-  </li>
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/7_workshops/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Workshops</span></span></a>
+  </div>
+</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/appendix/ideas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Ideas generated from workshops and focus groups</span></a>
+  <a href="./chapters/8_focus_groups/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Focus groups</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/9_defining_content/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Defining and developing intervention content</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+ <span class="menu-text"><strong>Refining the intervention</strong></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/10_pilot/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Author interviews</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/11_discussion/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Discussion</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+ <span class="menu-text">Appendices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_rg_prisma_s.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Completed PRISMA-S checklist for chapter 3</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_rg_entreq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Completed ENTREQ checklist for chapter 3</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_synthesis_search_strategies.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Search Strategies</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/workshops/step_1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">BCW Step 1</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/workshops/step_2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">BCW Step 2</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/workshops/step_3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">BCW Step 3</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/workshops/step_4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">G</span>&nbsp; <span class="chapter-title">BCW Step 4</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_barriers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">BCW Step 4 Consolidated</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/workshops/step_5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">BCW Step 5</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/workshops/step_6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">BCW Stage 6</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_rg_srqr_focus_groups.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">K</span>&nbsp; <span class="chapter-title">Completed SRQR checklist for chapter 8</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/focus_groups/emails.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">L</span>&nbsp; <span class="chapter-title">Focus groups - emails</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/focus_groups/participant_information.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">M</span>&nbsp; <span class="chapter-title">Focus groups - participant information</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_ideas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">N</span>&nbsp; <span class="chapter-title">Ideas generated from focus groups and workshops</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_intervention_component_table.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">O</span>&nbsp; <span class="chapter-title">Intervention component table</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_rg_srqr_interviews.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">P</span>&nbsp; <span class="chapter-title">Completed SRQR checklist for chapter 10</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_pilot_recruitment_image.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">Q</span>&nbsp; <span class="chapter-title">Authors interviews - recruitment image</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_pilot_participant_information.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">R</span>&nbsp; <span class="chapter-title">Author interviews - participant information</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_pilot_emails.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">S</span>&nbsp; <span class="chapter-title">Author interviews - emails</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_pilot_interview_schedule.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">T</span>&nbsp; <span class="chapter-title">Author interviews - interview schedule</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapters/appendix/_deficiencies.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">U</span>&nbsp; <span class="chapter-title">Author interviews - deficiencies</span></span></a>
   </div>
 </li>
       </ul>
@@ -269,70 +377,755 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#refining-reporting-guidance-dissemination-identifying-and-addressing-barriers-using-behaviour-change-theory" id="toc-refining-reporting-guidance-dissemination-identifying-and-addressing-barriers-using-behaviour-change-theory" class="nav-link active" data-scroll-target="#refining-reporting-guidance-dissemination-identifying-and-addressing-barriers-using-behaviour-change-theory">Refining reporting guidance dissemination: identifying and addressing barriers using behaviour change theory</a>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="header-section-number">1</span> Introduction</a>
   <ul>
-  <li><a href="#word-count-tallies" id="toc-word-count-tallies" class="nav-link" data-scroll-target="#word-count-tallies">Word Count Tallies:</a></li>
+  <li><a href="#the-problem-of-poor-reporting-in-health-research" id="toc-the-problem-of-poor-reporting-in-health-research" class="nav-link" data-scroll-target="#the-problem-of-poor-reporting-in-health-research"><span class="header-section-number">1.1</span> The problem of poor reporting in health research</a></li>
+  <li><a href="#reporting-guidelines-to-the-rescue" id="toc-reporting-guidelines-to-the-rescue" class="nav-link" data-scroll-target="#reporting-guidelines-to-the-rescue"><span class="header-section-number">1.2</span> Reporting guidelines to the rescue?</a></li>
+  <li><a href="#the-equator-network-unites-the-reporting-guideline-movement" id="toc-the-equator-network-unites-the-reporting-guideline-movement" class="nav-link" data-scroll-target="#the-equator-network-unites-the-reporting-guideline-movement"><span class="header-section-number">1.3</span> The EQUATOR Network unites the reporting guideline movement</a></li>
+  <li><a href="#reporting-guidelines-are-part-of-a-complex-behaviour-intervention" id="toc-reporting-guidelines-are-part-of-a-complex-behaviour-intervention" class="nav-link" data-scroll-target="#reporting-guidelines-are-part-of-a-complex-behaviour-intervention"><span class="header-section-number">1.4</span> Reporting guidelines are part of a complex behaviour intervention</a></li>
+  <li><a href="#reporting-guidelines-have-had-little-to-no-effect-on-reporting-quality-and-few-authors-adhere-to-them" id="toc-reporting-guidelines-have-had-little-to-no-effect-on-reporting-quality-and-few-authors-adhere-to-them" class="nav-link" data-scroll-target="#reporting-guidelines-have-had-little-to-no-effect-on-reporting-quality-and-few-authors-adhere-to-them"><span class="header-section-number">1.5</span> Reporting guidelines have had little-to-no effect on reporting quality, and few authors adhere to them</a>
+  <ul class="collapse">
+  <li><a href="#studies-exploring-the-efficacy-of-reporting-guidelines-are-actually-exploring-the-efficacy-of-the-reporting-guideline-system" id="toc-studies-exploring-the-efficacy-of-reporting-guidelines-are-actually-exploring-the-efficacy-of-the-reporting-guideline-system" class="nav-link" data-scroll-target="#studies-exploring-the-efficacy-of-reporting-guidelines-are-actually-exploring-the-efficacy-of-the-reporting-guideline-system">Studies exploring the efficacy of reporting guidelines are actually exploring the efficacy of the reporting guideline <em>system</em></a></li>
+  </ul></li>
+  <li><a href="#evidence-gap-what-more-could-be-done-to-improve-guideline-adherence" id="toc-evidence-gap-what-more-could-be-done-to-improve-guideline-adherence" class="nav-link" data-scroll-target="#evidence-gap-what-more-could-be-done-to-improve-guideline-adherence"><span class="header-section-number">1.6</span> Evidence gap: What more could be done to improve guideline adherence?</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">1.7</span> Summary</a></li>
+  <li><a href="#aims-and-objectives" id="toc-aims-and-objectives" class="nav-link" data-scroll-target="#aims-and-objectives"><span class="header-section-number">1.8</span> Aims and Objectives</a></li>
+  <li><a href="#thesis-structure" id="toc-thesis-structure" class="nav-link" data-scroll-target="#thesis-structure"><span class="header-section-number">1.9</span> Thesis structure</a></li>
   </ul></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jamesrharwood/thesis/blob/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/jamesrharwood/thesis/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Refining reporting guidelines using behaviour change theory</h1>
+</div>
 
 
 
-<section id="refining-reporting-guidance-dissemination-identifying-and-addressing-barriers-using-behaviour-change-theory" class="level1 unnumbered page-columns page-full">
-<h1 class="unnumbered">Refining reporting guidance dissemination: identifying and addressing barriers using behaviour change theory</h1>
-<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="">ASK Alterantively: Refining reporting guidelines using behaviour change theory.</span></div></div>
-<p><strong>James Harwood</strong></p>
-<p>ORCID: 0000-0003-3530-3231</p>
-<p>Doctor of Philosophy</p>
-<p>January 2024</p>
-<p>Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</p>
-<p>The University of Oxford</p>
-<div style="page-break-after: always;"></div>
-<!-- content-visible -->
-<div class="callout callout-style-simple callout-none no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>James Harwood </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+<div>
+  <div class="abstract">
+    <div class="block-title">Abstract</div>
+    <p>The lasting legacy of most medical research is the written account. When writing up their work, researchers often omit information that readers — including clinicians, reviewers, patients, and other researchers — need to fully understand, appraise, replicate, or apply the research. Reporting guidelines try to solve this problem. They are community-created recommendations of information to include when writing up research so that everybody can use it. The first reporting guideline was created almost 30 years ago, and many more have been created since. Most leading medical journals ask authors to adhere to reporting guidelines, yet adherence remains low in almost all medical fields. When authors do not adhere to reporting guidelines their work is less transparent, less valuable, contributes less to patient outcomes and has potential to inadvertently harm by distorting the evidence base. The aim of my thesis is to understand why authors do not adhere to reporting guidelines when writing up medical research, and to address these reasons with the intention of increasing adherence in the future.</p>
+    <p>I began my thesis with this clear aim but without a route to get there. My first step was a qualitative synthesis (chapter 3) of research exploring authors experiences of reporting guidelines, and I discovered authors’ adherence to reporting guidelines is influenced by features of the guidelines themselves, but also the system that surrounds them including the websites that disseminate them and the people and policies of the broader scholarly ecosystem. I probed this system further with a review of quantitative surveys and an evaluation of a key dissemination website (chapters 4 &amp; 5).</p>
+    <p>Given the complexity of the system and the complexity of the behaviour in question, I realised I would need a framework to help me make sense of them. I decided to use the Behaviour Change Wheel (chapter 6), a well established and evidenced framework for designing and defining complex behaviour change interventions. I led workshops and focus groups (chapters 7 &amp; 8) to guide stakeholders through frameworks’ steps and, ultimately, ended up identifying 32 influences that needed to change, and 128 ideas of how to change them. These ideas were applicable to guideline developers, the EQUATOR Network, journals, publishers, funders, ethics committees, and institutions.</p>
+    <p>I decided that redesigning reporting guidelines and EQUATOR’s website would be an effective, affordable, acceptable, and equitable way to realise many of the generated ideas. I defined 63 intervention components and managed to incorporate 46 into a prototype website that included a redesigned reporting guideline (the Standards for Reporting Qualitative Research) and the EQUATOR Network’s home page (chapter 9). I then explored authors experiences of using this prototype through in-depth interviews, observation, think aloud, and writing appraisals (chapter 10) and I identified 53 possible areas for improvement.</p>
+    <p>My key outputs include a design blueprint for user-friendly reporting guideline resources, and an online platform for creating and hosting resources following this blueprint. This platform will benefit guideline developers who typically lack the money, time, and skills to create user friendly resources. I have secured funding for a feasibility study and parallel process evaluation to explore the acceptability and usability of this platform amongst authors submitting to journals, in preparation for a future evaluation to determine whether my redesign leads to more authors adhering to reporting guidelines successfully.</p>
+  </div>
 </div>
-<div class="callout-body-container">
-<p>Here is the working version of my thesis.</p>
-<p>You’ll find chapters on the left, and can download Word files for each chapter on the right.</p>
-<p>Chapters that I’ve not done (including this one) are <span class="text-muted">this colour</span>. Chapters in <span class="text-warning">this colour</span> are a works-in-progress.</p>
-<p>If you see anything like “@something”, “<strong>?:something</strong>”, or “#TODO” then please ignore.</p>
-<p>Some of the tables and figures aren’t rendering nicely yet, especially in Word format. You can ignore that too.</p>
+
+
+</header>
+
+
+<section id="introduction" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Introduction</h1>
+<p>In this chapter I introduce the evidence gap I have addressed and the approach I have taken to address it. I begin by describing the prevalence and consequences of poorly reported medical research. I introduce reporting guidelines and position them as part of a complex behaviour change intervention. This intervention has had a disappointing impact — few authors adhere to reporting guidelines and medical research is still poorly reported. This brings me to my evidence gap: how can we get more authors to adhere to reporting guidelines? I then outline my aims, objectives, and thesis structure.</p>
+<section id="the-problem-of-poor-reporting-in-health-research" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="the-problem-of-poor-reporting-in-health-research"><span class="header-section-number">1.1</span> The problem of poor reporting in health research</h2>
+<p>Facing an uncertain choice during treatment for multiple myeloma, epidemiologist Alessandro Liberati wrote “Why was I forced to make my decision knowing that information was somewhere but not available?” <span class="citation" data-cites="liberatiUnfinishedTripUncertainties2004">[<a href="chapters/references.html#ref-liberatiUnfinishedTripUncertainties2004" role="doc-biblioref">1</a>]</span>. When I started my DPhil governments may have been asking the same question. The world was in the grip of COVID-19 and decision makers were wading through a deluge of patchy research articles missing important information <span class="citation" data-cites="ziemannPoorReportingQuality2022">[<a href="chapters/references.html#ref-ziemannPoorReportingQuality2022" role="doc-biblioref">2</a>]</span>. In the years since, members of my family have had to make treatment decisions where the evidence is of “low certainty” because key details are missing from research articles.</p>
+<p>A selfish silver-lining of these tumultuous years was that my family and friends finally understood the problem my thesis addresses: when medical researchers inadequately describe what they did, why they did it, and what they found, other people cannot understand, replicate, or use their work. Research costs huge amounts of time, money, and effort, and the written account is typically its sole legacy. When details are omitted they are lost. The remaining gaps are sources of doubt; are they accidental omissions? Oversights? Cover-ups? Whatever their source, the gaps fragment the full picture, and the potential value to patients drains away.</p>
+<p>Early concern over reporting quality came from frustrated reviewers unable to find the data they needed within research reports. For example, in 1963, Glick <span class="citation" data-cites="glickInadequaciesReportingClinical1963">[<a href="chapters/references.html#ref-glickInadequaciesReportingClinical1963" role="doc-biblioref">3</a>]</span> found many reports of psychiatric therapies used ambiguous descriptions of treatment duration like “at least two months” or “from one to several months”. These descriptions were so vague they were “unsuitable for comparative purposes”. In the decades since, evidence syntheses have increasingly underpinned clinical guidance, and the Cochrane Collaboration and the National Institute for Health and Care Excellence (NICE) are two organisations conducting such syntheses. Their reviews influence clinical practice throughout the UK and globally, but are undermined when the underlying literature omits details. Dechartres et al. <span class="citation" data-cites="dechartresEvolutionPoorReporting2017">[<a href="chapters/references.html#ref-dechartresEvolutionPoorReporting2017" role="doc-biblioref">4</a>]</span> looked at all Cochrane reviews published between 2011 and 2014. These reviews included over 20,000 randomised controlled trials. A third of these trials were so poorly reported, reviewers could not judge their potential for bias thereby limiting the confidence of conclusions. Some researchers fear that <em>unclear</em> bias may actually be <em>high-but-hidden</em> bias. For example, Savović et al. <span class="citation" data-cites="savovicAssociationRiskofBiasAssessments2018">[<a href="chapters/references.html#ref-savovicAssociationRiskofBiasAssessments2018" role="doc-biblioref">5</a>]</span> found exaggerated intervention effect estimates in randomized trials with high or unclear (versus low) risk of bias judgements. Poor reporting, therefore, not only undermines the confidence of systematic reviews but potentially allows distortions to creep into the evidence un-checked.</p>
+<p>No similar data exists for NICE reviews, so instead I’ll draw on personal experience of consulting NICE evidence when a relative was deciding between two cancer procedures. Both options had serious side effects, similar success rates, and neither had a clear-cut advantage given my relative’s medical history. To respect my relative’s privacy I won’t cite the NICE review, but it included ten studies: seven case series, two non-randomised comparison studies, and one randomised trial. Two studies did not describe participants’ gender, one did not describe ages, four did not describe their exclusion criteria, three did not describe side-effects fully. Consequently, NICE’s recommendation was less certain than it could have been. Did the case series include patients similar to my relative? We couldn’t tell. Did participants of equivalent age experience the side effects we feared? No idea. My family echoed Liberati’s frustration: the missing information was probably collected at some point and we (as tax payers) may even have paid for some of that research, but because details were not written down they would not help us in our hour of need. In typical scientific objectivity, Dechartres wrote <span class="citation" data-cites="dechartresEvolutionPoorReporting2017">[<a href="chapters/references.html#ref-dechartresEvolutionPoorReporting2017" role="doc-biblioref">4</a>]</span> “waste related to poor reporting could be completely avoided”, but it’s hard to remain so dispassionate when tossing and turning in the small hours of the morning, deliberating a life-changing decision, when details matter more than ever.</p>
+<p>Two of the studies in that NICE review barely described the procedure in question, so had the surgeon wished to repeat it for my relative he wouldn’t have been able to. This reveals another consequence of poor reporting: when research is poorly described, it cannot be repeated. Doctors and service providers need clear descriptions to replicate interventions <span class="citation" data-cites="glasziouWhatMissingDescriptions2008">[<a href="chapters/references.html#ref-glasziouWhatMissingDescriptions2008" role="doc-biblioref">6</a>]</span>. As Feinstein noted in 1974 <span class="citation" data-cites="feinsteinClinicalBiostatisticsXXV1974">[<a href="chapters/references.html#ref-feinsteinClinicalBiostatisticsXXV1974" role="doc-biblioref">7</a>]</span>, it is difficult enough for a clinician to understand the value of unfamiliar procedure, but “it is much more difficult when he is not told what that procedure was”. For example, Davidson et al. <span class="citation" data-cites="davidsonExerciseInterventionsLow2021">[<a href="chapters/references.html#ref-davidsonExerciseInterventionsLow2021" role="doc-biblioref">8</a>]</span> reviewed trials describing exercise interventions for chronic back pain and found authors often did not describe interventions sufficiently for other healthcare providers to copy them. Researchers also need clear descriptions to understand, appraise, and repeat each others’ work. For example, Carp <span class="citation" data-cites="carpSecretLivesExperiments2012">[<a href="chapters/references.html#ref-carpSecretLivesExperiments2012" role="doc-biblioref">9</a>]</span> described how a third of 241 brain imaging studies missed information necessary to interpret and repeat them, like the number of examinations, examination duration, and the resolution of images.</p>
+<p>As well as being wasteful, poor reporting breeds mistrust. The COVID pandemic saw a deluge of research, yet of 251 trial reports <span class="citation" data-cites="kappTransparencyReportingCharacteristics2022">[<a href="chapters/references.html#ref-kappTransparencyReportingCharacteristics2022" role="doc-biblioref">10</a>]</span>, only 14% described harms adequately; fifty five trials (22%) did not report any information about harms, and most others (n=150, 60%) did not explain whether harms resulted in participants dropping out. Fear over possible side effects stopped many people from getting vaccines <span class="citation" data-cites="pourrazaviCOVID19VaccineHesitancy2023">[<a href="chapters/references.html#ref-pourrazaviCOVID19VaccineHesitancy2023" role="doc-biblioref">11</a>]</span>, seeking medical treatment <span class="citation" data-cites="yilmazHesitancyRegardingMedical">[<a href="chapters/references.html#ref-yilmazHesitancyRegardingMedical" role="doc-biblioref">12</a>]</span>, or wearing masks <span class="citation" data-cites="taylorNegativeAttitudesFacemasks2021">[<a href="chapters/references.html#ref-taylorNegativeAttitudesFacemasks2021" role="doc-biblioref">13</a>]</span>. By not reporting side effects, trial reports did nothing to quell those fears and, in some cases, may have stoked them further. Even years later, in April 2024, a British member of parliament describing himself as “double vaccinated and vaccine-harmed” <span class="citation" data-cites="Covid19ResponseExcess2024">[<a href="chapters/references.html#ref-Covid19ResponseExcess2024" role="doc-biblioref">14</a>]</span> told the House of Commons that the “adverse effects of the [Covid-19] vaccine…are not currently known”, before speaking of “gaslighting” and blaming the vaccine as causing “enormous harm”. He repeatedly railed against an omission of information about harms — “crucial information was hidden from the regulator and the public”, “The public are being denied that data… yet again, data is hidden with impunity” — before jumping to un-evidenced, exaggerated, or conspirational claims of harm and cover-ups. The absence of evidence seemingly left a void for fantasy and fear to fill.</p>
+<p>These are a mere handful of many studies documenting poor reporting in medical literature. A 2023 systematic review found 148 published between 2020-2022 alone <span class="citation" data-cites="santoMethodsResultsStudies2023">[<a href="chapters/references.html#ref-santoMethodsResultsStudies2023" role="doc-biblioref">15</a>]</span>. All investigated reporting quality in different medical research disciplines, and <em>almost</em> all concluded reporting was sub-optimal. Hence, poor reporting is a long-standing problem, plagues all disciplines, devalues research, seeds mistrust in science, introduces avoidable doubt and patient distress, and derails the uptake of new knowledge into clinical practice.</p>
+</section>
+<section id="reporting-guidelines-to-the-rescue" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="reporting-guidelines-to-the-rescue"><span class="header-section-number">1.2</span> Reporting guidelines to the rescue?</h2>
+<p>Concern over reporting quality crescendoed through the eighties and early nineties as systematic reviews became more common. Responding to calls for “strategies”, “guides”, and “lists” to help authors prepare their manuscripts, the Standards Of Reporting Trials (SORT) <span class="citation" data-cites="ProposalStructuredReporting1994">[<a href="chapters/references.html#ref-ProposalStructuredReporting1994" role="doc-biblioref">16</a>]</span> and Asilomar <span class="citation" data-cites="CallCommentsProposal1994">[<a href="chapters/references.html#ref-CallCommentsProposal1994" role="doc-biblioref">17</a>]</span> guidelines were published in 1994 by two independent groups of methodologists, trialists, and editors. Both advised on how to report randomised trials and had similar content. On the suggestion of JAMA’s deputy editor, the SORT and Asilomar groups met in 1996 and combined their recommendations to create the CONsolidated Standards of Reporting Trials (CONSORT) statement <span class="citation" data-cites="beggImprovingQualityReporting1996">[<a href="chapters/references.html#ref-beggImprovingQualityReporting1996" role="doc-biblioref">18</a>]</span>. CONSORT is a set of recommendations detailing what information authors should include in clinical trial reports. It comprised an article describing how it was made, a checklist, flow diagram, and (after an update in 2001) and ‘Explanation and Elaboration’ publication <span class="citation" data-cites="altmanBetterReportingRandomised1996 altmanRevisedCONSORTStatement2001 hopewellUpdateSPIRITCONSORT2022">[<a href="chapters/references.html#ref-altmanBetterReportingRandomised1996" role="doc-biblioref">19</a>–<a href="chapters/references.html#ref-hopewellUpdateSPIRITCONSORT2022" role="doc-biblioref">21</a>]</span>.</p>
+<p>CONSORT proved influential, and other groups quickly developed guidelines for different research types. Reporting guidelines are like a theme and variations, where CONSORT forged a path others have followed with varying fidelity (See <a href="chapters/5_website_audit/index.html#tbl-rgs" class="quarto-xref">Table&nbsp;<span>5.5</span></a>). Most have acronym names. Most were first published as a journal article describing their development. Some, but not all, have checklists and elaboration documents. Some guideline developers publish resources as separate documents, others put them all into a single journal article. Guidelines are developed by different groups, with different compositions (possibly including methodologists, editors, clinicians etc.) and in different ways (e.g., some by Delphi consensus <span class="citation" data-cites="ReportingGuidelinesUsed">[<a href="chapters/references.html#ref-ReportingGuidelinesUsed" role="doc-biblioref">22</a>]</span>). Although most follow CONSORT’s approach of presenting recommendations focussing on reporting above conduct, guidelines differ in how forceful their recommendations are and whether they also seek to influence design.</p>
+<div id="tbl-rgs" class="quarto-float anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-rgs-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1.1: A selection of highly cited reporting guidelines and their similar dissemination strategies
+</figcaption>
+<div aria-describedby="tbl-rgs-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 10%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Guideline</strong></th>
+<th style="text-align: left;"><strong>Definition</strong></th>
+<th style="text-align: left;"><strong>Study type</strong></th>
+<th style="text-align: left;"><strong>Year</strong></th>
+<th><strong>Resources</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">CONSORT</td>
+<td style="text-align: left;">CONsolidated Standards Of Reporting Trials</td>
+<td style="text-align: left;">Randomised controlled trials</td>
+<td style="text-align: left;">1996 <span class="citation" data-cites="altmanBetterReportingRandomised1996">[<a href="chapters/references.html#ref-altmanBetterReportingRandomised1996" role="doc-biblioref">19</a>]</span>, updated in 2001 <span class="citation" data-cites="altmanRevisedCONSORTStatement2001">[<a href="chapters/references.html#ref-altmanRevisedCONSORTStatement2001" role="doc-biblioref">20</a>]</span>, and 2010 <span class="citation" data-cites="schulzCONSORT2010Statement2010">[<a href="chapters/references.html#ref-schulzCONSORT2010Statement2010" role="doc-biblioref">23</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Flow diagram</p>
+<p>Website</p>
+<p>COBWEB writing tool<span class="citation" data-cites="hopewellImpactWebbasedTool2016">[<a href="chapters/references.html#ref-hopewellImpactWebbasedTool2016" role="doc-biblioref">24</a>]</span></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">PRISMA</td>
+<td style="text-align: left;">Preferred Reporting Items for Systematic reviews and Meta-Analyses</td>
+<td style="text-align: left;">Systematic Reviews and Meta-Analyses</td>
+<td style="text-align: left;">2009 <span class="citation" data-cites="liberatiPRISMAStatementReporting2009">[<a href="chapters/references.html#ref-liberatiPRISMAStatementReporting2009" role="doc-biblioref">25</a>]</span>, updated in 2021 <span class="citation" data-cites="pagePRISMA2020Statement2021">[<a href="chapters/references.html#ref-pagePRISMA2020Statement2021" role="doc-biblioref">26</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Flow diagram</p>
+<p>Website</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">PRISMA-P</td>
+<td style="text-align: left;">Preferred Reporting Items for Systematic review and Meta-Analysis Protocols</td>
+<td style="text-align: left;">Protocols of systematic reviews and meta-analyses</td>
+<td style="text-align: left;">2015 <span class="citation" data-cites="moherPreferredReportingItems2015">[<a href="chapters/references.html#ref-moherPreferredReportingItems2015" role="doc-biblioref">27</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Website</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ARRIVE</td>
+<td style="text-align: left;">Animal Research: Reporting of <em>In Vivo</em> Experiments</td>
+<td style="text-align: left;">Publications describing research involving live animals</td>
+<td style="text-align: left;">2010 <span class="citation" data-cites="kilkennyImprovingBioscienceResearch2010">[<a href="chapters/references.html#ref-kilkennyImprovingBioscienceResearch2010" role="doc-biblioref">28</a>]</span>, updated in 2020 <span class="citation" data-cites="sertARRIVEGuidelinesUpdated2020">[<a href="chapters/references.html#ref-sertARRIVEGuidelinesUpdated2020" role="doc-biblioref">29</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Website</p>
+<p>Action plans</p>
+<p>Compliance questionnaire</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SRQR</td>
+<td style="text-align: left;">Standards for Reporting Qualitative Research</td>
+<td style="text-align: left;">Qualitative health research</td>
+<td style="text-align: left;">2014 <span class="citation" data-cites="obrienStandardsReportingQualitative2014">[<a href="chapters/references.html#ref-obrienStandardsReportingQualitative2014" role="doc-biblioref">30</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist (not editable)</p>
+<p>Explanatory document as supplementary material</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">STROBE<br>
+<br>
+</td>
+<td style="text-align: left;">Strengthening the Reporting of Observational Studies in Epidemiology</td>
+<td style="text-align: left;">Observational Epidemiology</td>
+<td style="text-align: left;">2007 <span class="citation" data-cites="vonelmStrengtheningReportingObservational2007">[<a href="chapters/references.html#ref-vonelmStrengtheningReportingObservational2007" role="doc-biblioref">31</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklists (four versions: cohort, case-control, cross-sectional, and combined)</p>
+<p>Explanatory document</p>
+<p>Website</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SPIRIT</td>
+<td style="text-align: left;">Standard Protocol Items: Recommendations for Interventional Trials</td>
+<td style="text-align: left;">Protocols of clinical trials</td>
+<td style="text-align: left;">2013 <span class="citation" data-cites="chanSPIRIT2013Statement2013">[<a href="chapters/references.html#ref-chanSPIRIT2013Statement2013" role="doc-biblioref">32</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Website</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CARE</td>
+<td style="text-align: left;">CAse REport</td>
+<td style="text-align: left;">Case Reports and data from the point of care</td>
+<td style="text-align: left;">2013 <span class="citation" data-cites="gagnierCAREGuidelinesConsensusbased2013">[<a href="chapters/references.html#ref-gagnierCAREGuidelinesConsensusbased2013" role="doc-biblioref">33</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Website</p>
+<p>Training course <span class="citation" data-cites="LearnHowWrite">[<a href="chapters/references.html#ref-LearnHowWrite" role="doc-biblioref">34</a>]</span></p>
+<p>Writing application <span class="citation" data-cites="CAREwriter">[<a href="chapters/references.html#ref-CAREwriter" role="doc-biblioref">35</a>]</span></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">STARD</td>
+<td style="text-align: left;">STAndards for Reporting Diagnostic accuracy</td>
+<td style="text-align: left;">Studies of diagnostic accuracy</td>
+<td style="text-align: left;">2003 <span class="citation" data-cites="bossuytSTARDStatementReporting2003">[<a href="chapters/references.html#ref-bossuytSTARDStatementReporting2003" role="doc-biblioref">36</a>]</span> and revised in 2015 <span class="citation" data-cites="bossuytSTARD2015Updated2015">[<a href="chapters/references.html#ref-bossuytSTARD2015Updated2015" role="doc-biblioref">37</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">AGREE</td>
+<td style="text-align: left;">Appraisal of Guidelines, Research and Evaluation</td>
+<td style="text-align: left;">Reporting clinical practice guidelines</td>
+<td style="text-align: left;">2016 <span class="citation" data-cites="brouwersAGREEReportingChecklist2016">[<a href="chapters/references.html#ref-brouwersAGREEReportingChecklist2016" role="doc-biblioref">38</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Website</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SQUIRE</td>
+<td style="text-align: left;">Standards for QUality Improvement Reporting Excellence</td>
+<td style="text-align: left;">Quality Improvement in Health Care</td>
+<td style="text-align: left;">2008 <span class="citation" data-cites="davidoffPublicationGuidelinesQuality2009">[<a href="chapters/references.html#ref-davidoffPublicationGuidelinesQuality2009" role="doc-biblioref">39</a>]</span> and revised in 2016 <span class="citation" data-cites="ogrincSQUIREStandardsQUality2016">[<a href="chapters/references.html#ref-ogrincSQUIREStandardsQUality2016" role="doc-biblioref">40</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Website</p>
+<p>Glossary</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CHEERS</td>
+<td style="text-align: left;">CHecklist and Explanation and ElaboRation taSk force report</td>
+<td style="text-align: left;">Economic evaluations</td>
+<td style="text-align: left;">2013 <span class="citation" data-cites="husereauConsolidatedHealthEconomic2013a">[<a href="chapters/references.html#ref-husereauConsolidatedHealthEconomic2013a" role="doc-biblioref">41</a>]</span> revised in 2022 <span class="citation" data-cites="husereauConsolidatedHealthEconomic2022">[<a href="chapters/references.html#ref-husereauConsolidatedHealthEconomic2022" role="doc-biblioref">42</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">TRIPOD</td>
+<td style="text-align: left;">Transparent Reporting of a multIvariable prediction model for Individual Prognosis Or Diagnosis</td>
+<td style="text-align: left;">Studies developing, validating, or updating a prediction model, whether for diagnostic or prognostic purposes</td>
+<td style="text-align: left;">2015 <span class="citation" data-cites="collinsTransparentReportingMultivariable2015">[<a href="chapters/references.html#ref-collinsTransparentReportingMultivariable2015" role="doc-biblioref">43</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist</p>
+<p>Explanatory document</p>
+<p>Website</p>
+<p>Adherence assessment form</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">RIGHT</td>
+<td style="text-align: left;">Reporting Items for practice Guidelines in HealThcare</td>
+<td style="text-align: left;">Practice guidelines in healthcare</td>
+<td style="text-align: left;">2017 <span class="citation" data-cites="chenReportingToolPractice2017">[<a href="chapters/references.html#ref-chenReportingToolPractice2017" role="doc-biblioref">44</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist (not editable)</p>
+<p>Explanatory document as supplementary material</p>
+<p>Website</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">COREQ</td>
+<td style="text-align: left;">COnsolidated criteria for REporting Qualitative research</td>
+<td style="text-align: left;">Interviews and Focus Groups</td>
+<td style="text-align: left;">2007 <span class="citation" data-cites="tongConsolidatedCriteriaReporting2007">[<a href="chapters/references.html#ref-tongConsolidatedCriteriaReporting2007" role="doc-biblioref">45</a>]</span></td>
+<td><p>Development article</p>
+<p>Checklist (not editable)</p></td>
+</tr>
+</tbody>
+</table>
 </div>
+</figure>
 </div>
+</section>
+<section id="the-equator-network-unites-the-reporting-guideline-movement" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="the-equator-network-unites-the-reporting-guideline-movement"><span class="header-section-number">1.3</span> The EQUATOR Network unites the reporting guideline movement</h2>
+<p>As reporting guidelines grew in number and the problem of poor reporting gained recognition, the late Professor Douglas Altman, a leading medical statistician and evidence synthesiser, saw the need to catalogue reporting guidelines and form a community. He united academics from around the world to form The EQUATOR Network, often simply called EQUATOR, standing for Enhancing the QUAlity and Transparency Of health Research. It was the first coordinated attempt to combat poor reporting systematically and on a global scale. One of EQUATOR’s core objectives was to create a database of reporting guidelines, accessible via their website where researchers will also find training and information about developing guidelines.</p>
+<p>There are now over 500 reporting guidelines, representing the collective work of thousands of academics. The best-known guidelines are endorsed by large numbers of medical journals and the International Committee of Medical Journal Editors, and are amongst the 1% most highly cited publications indexed by Web of Science <span class="citation" data-cites="caulleyCitationImpactWas2020">[<a href="chapters/references.html#ref-caulleyCitationImpactWas2020" role="doc-biblioref">46</a>]</span>.</p>
+</section>
+<section id="reporting-guidelines-are-part-of-a-complex-behaviour-intervention" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="reporting-guidelines-are-part-of-a-complex-behaviour-intervention"><span class="header-section-number">1.4</span> Reporting guidelines are part of a complex behaviour intervention</h2>
+<p>The publishing community began to take note. The International Committee for Medical Journal Editors encouraged journals “to ask authors to follow [reporting] guidelines” <span class="citation" data-cites="ICMJERecommendationsPreparing">[<a href="chapters/references.html#ref-ICMJERecommendationsPreparing" role="doc-biblioref">47</a>]</span>. Concerned editors sought ways to adopt reporting guidelines, and more and more journals <span class="citation" data-cites="kochExplicitMentioningReporting2016 sharpCrosssectionalBibliometricStudy2019">[<a href="chapters/references.html#ref-kochExplicitMentioningReporting2016" role="doc-biblioref">48</a>, <a href="chapters/references.html#ref-sharpCrosssectionalBibliometricStudy2019" role="doc-biblioref">49</a>]</span> have since found a range of strategies to introduce reporting guidelines into their policies, outlined in <a href="#tbl-journal-policies" class="quarto-xref">Table&nbsp;<span>1.2</span></a>. There is variation in the degree of enforcement (from passive recommendation through to compulsory enforcement) and variation in the guidelines subject to the policy; PRISMA and CONSORT and more commonly enforced than other reporting guidelines, and many reporting guidelines in EQUATOR’s library are not enforced nor endorsed by any journals. Instead of listing reporting guidelines by name, many journals keep their instructions vague and merely recommend authors find an appropriate guideline on EQUATOR’s website. To my knowledge, no journal explicitly advises against using a reporting guideline.</p>
+<div id="tbl-journal-policies" class="quarto-float anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-journal-policies-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1.2: Example journal policies regarding reporting guidelines.
+</figcaption>
+<div aria-describedby="tbl-journal-policies-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Policy</th>
+<th style="text-align: left;">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Enforcing adherence</td>
+<td style="text-align: left;">An editor or peer reviewer checks the article body for reporting guideline adherence and asks the author to add missing items.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Requesting peer reviewers use reporting guidelines</td>
+<td style="text-align: left;">Editors ask peer reviewers to consider reporting guideline adherence as part of their review. Some editors may supply the reviewer with the relevant checklist.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Enforcing checklist submission</td>
+<td style="text-align: left;">Editorial staff require authors to submit a completed reporting checklist as part of manuscript submission. Some journals may refuse to process a submission when the checklist is missing. Some journal submission systems may include fields for authors to upload their checklists, whereas other journals may expect authors to upload checklists as a supplementary file.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Journal endorsement</td>
+<td style="text-align: left;">The journal’s instructions to authors recommends authors follow reporting guidelines. Guidelines may be specified, in which case journals may link to guideline specific websites, to the guideline publications, or to the EQUATOR Network website. Sometimes journals include a general statement but do not name guidelines, instead referring authors to the EQUATOR website with an instruction to follow “relevant guidance”.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Publisher endorsement</td>
+<td style="text-align: left;">Sometimes reporting guideline policies are set at the level of the publisher, as is commonly done for editorial policies. Individual journals may point authors to their publisher policies.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">No policy</td>
+<td style="text-align: left;">Journals have no policies regarding reporting guidelines.</td>
+</tr>
+</tbody>
+</table>
 </div>
-<section id="word-count-tallies" class="level2">
-<h2 class="anchored" data-anchor-id="word-count-tallies">Word Count Tallies:</h2>
-<p>Actual word counts will be lower as these numbers include tables and references for each chapter.</p>
+</figure>
+</div>
+<p>Other stakeholders have begun incorporating reporting guidelines into their policies. Conferences like the Peer Review Congress ask applicants to use reporting guidelines when writing their abstracts. MedRxiv, a large preprint server, asks authors to declare they have “followed all appropriate research reporting guidelines, such as any relevant EQUATOR Network research reporting checklist(s)” <span class="citation" data-cites="MedRxivOrgPreprint">[<a href="chapters/references.html#ref-MedRxivOrgPreprint" role="doc-biblioref">50</a>]</span>.</p>
+<p>EQUATOR have developed training programmes based on reporting guidelines. The training covers different ways to use reporting guidelines, including drafting manuscripts, checking manuscripts you have written, and appraising the reporting of someone else’s manuscript. Researchers have developed writing software to help authors apply reporting guidelines when drafting <span class="citation" data-cites="barnesImpactOnlineWriting2015 hawwashUsefulnessApplyingResearch2019">[<a href="chapters/references.html#ref-barnesImpactOnlineWriting2015" role="doc-biblioref">51</a>, <a href="chapters/references.html#ref-hawwashUsefulnessApplyingResearch2019" role="doc-biblioref">52</a>]</span>, online applications to facilitate checklist and flow diagram completion <span class="citation" data-cites="haddawayPRISMA2020PackageShiny2022 struthersGoodReportsDevelopingWebsite2021">[<a href="chapters/references.html#ref-haddawayPRISMA2020PackageShiny2022" role="doc-biblioref">53</a>, <a href="chapters/references.html#ref-struthersGoodReportsDevelopingWebsite2021" role="doc-biblioref">54</a>]</span>, and resources for reviewers to check compliance <span class="citation" data-cites="ComplianceQuestionnaireARRIVE">[<a href="chapters/references.html#ref-ComplianceQuestionnaireARRIVE" role="doc-biblioref">55</a>]</span>.</p>
+<p>Hence over the years, a system has organically grown around reporting guidelines, driven by separate groups of people doing what they felt was sensible. This system includes the guidance resources themselves (the publications, checklists, flow diagrams), the websites that host those resources (guideline websites, the EQUATOR website, publisher’s websites), organisations that promote or enforce their use (EQUATOR, publishers, ICMJE, etc.), and staff at those institutions (researchers, editors, reviewers, etc.). These components all have the same aim: to influence what information researchers include in their articles.</p>
+<p>As the Medical Research Council notes, a system with multiple components (like those listed above) is one of many hallmarks of a complex intervention: “an intervention might be considered complex because of properties of the intervention itself, such as the number of components involved; the range of behaviours targeted; expertise and skills required by those delivering and receiving the intervention; the number of groups, settings, or levels targeted; or the permitted level of flexibility of the intervention or its components.”. The reporting guideline system exhibits these sources of complexity, as described in <a href="#tbl-complexity" class="quarto-xref">Table&nbsp;<span>1.3</span></a>.</p>
+<div id="tbl-complexity" class="quarto-float anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-complexity-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1.3: Sources of complexity within reporting guidelines and the system drives their use.
+</figcaption>
+<div aria-describedby="tbl-complexity-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Source of complexity</th>
+<th style="text-align: left;">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Number of components involved</td>
+<td style="text-align: left;">Reporting guidelines often consist of guidance documents, checklists, and flow diagrams, and other tools. These are disseminated through websites, publishing platforms, submission systems, and they are endorsed and enforced by stakeholders including publishers, the EQUATOR Network, conference organisers, and pre-print platforms.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Range of behaviours targeted</td>
+<td style="text-align: left;">Guidelines comprise “reporting items”. Some items are relatively simple, like asking the author to specify their study design in the title. Others are harder, perhaps because they require time, expertise, or prerequisite tasks. For instance, some items may require authors to have conducted their study or analysis in a certain way, or to have collected particular information.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Expertise and skills required by those delivering and receiving the intervention</td>
+<td style="text-align: left;">Academics from a particular field write reporting guidelines for their peers (as opposed to a lay audience), and so authors, editors, and reviewers must have sufficient expertise to use them.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The number of groups, settings, or levels targeted</td>
+<td style="text-align: left;"><p>Groups: Users of reporting guidelines differ in their field of expertise, their experience, place of work.</p>
+<p>Settings: Although mostly written with authoring in mind, most guideline developers may also hope their resources are used by editors or peer reviewers for checking or appraising research articles.</p>
+<p>Levels: Guidelines are written with individuals in mind, but their efficacy is generally measured at group level (e.g., articles from a particular field published in a period time).</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Flexibility of the intervention or its components</td>
+<td style="text-align: left;">There is variation between guideline content, resources, and the implementation strategies that development groups, publishers, and other stakeholders employ.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<p>Viewing reporting guidelines as part of a complex behaviour change intervention may seem novel. Researchers often call reporting guidelines “tools” or “strategies” (e.g., <span class="citation" data-cites="pouwelsQualityReportingConfounding2016 sharpOnlineSurveySTROBE2020">[<a href="chapters/references.html#ref-pouwelsQualityReportingConfounding2016" role="doc-biblioref">56</a>, <a href="chapters/references.html#ref-sharpOnlineSurveySTROBE2020" role="doc-biblioref">57</a>]</span>). In their history of the EQUATOR Network <span class="citation" data-cites="altmanHistoryEvolutionGuidelines2016">[<a href="chapters/references.html#ref-altmanHistoryEvolutionGuidelines2016" role="doc-biblioref">58</a>]</span>, co-founders Douglas Altman and Iveta Simera refer to reporting guidelines as “resources” that “influence” reporting, but do not call them interventions. However, I believe my perspective is not radical and I will now outline studies exploring the efficacy of reporting guidelines and argue they too take a systems perspective although they seldom acknowledge it explicitly.</p>
+</section>
+<section id="reporting-guidelines-have-had-little-to-no-effect-on-reporting-quality-and-few-authors-adhere-to-them" class="level2" data-number="1.5">
+<h2 data-number="1.5" class="anchored" data-anchor-id="reporting-guidelines-have-had-little-to-no-effect-on-reporting-quality-and-few-authors-adhere-to-them"><span class="header-section-number">1.5</span> Reporting guidelines have had little-to-no effect on reporting quality, and few authors adhere to them</h2>
+<p>Most studies exploring reporting guidelines’ impact have used a non-randomised design, often comparing reporting quality before and after reporting guidelines were published and/or journals began asking authors to use them. For example, in 2023 Kilicoglu et al. <span class="citation" data-cites="kilicogluMethodologyReportingImproved2023">[<a href="chapters/references.html#ref-kilicogluMethodologyReportingImproved2023" role="doc-biblioref">59</a>]</span> analysed 176,620 randomized trial reports published between 1966 and 2018. They used software to identify sentences pertaining to CONSORT methodology items. They found reporting quality in clinical trials has improved over time but remains suboptimal: articles published before CONSORT was published reported 24% of CONSORT items, whereas articles published afterwards reported 48%. The fastest improvement occurred in the years immediately after CONSORT was published.</p>
+<p>This result mirrors similar, manual, efforts to monitor reporting quality over time. For example, Dechartres et al. <span class="citation" data-cites="dechartresEvolutionPoorReporting2017">[<a href="chapters/references.html#ref-dechartresEvolutionPoorReporting2017" role="doc-biblioref">4</a>]</span> looked at CONSORT items related to bias in 20,920 trial reports. They found information on sequence generation was missing from 69% of articles published before CONSORT (1986-1990), but only 31% of articles published after CONSORT (2011-2014). The proportion of articles missing information on allocation concealment fell from 70% to 45% over the same periods.</p>
+<p>These two examples focus on clinical trials, but other research types have seen modest improvements too. De Jong et al. <span class="citation" data-cites="dejongMetareviewDemonstratesImproved2021">[<a href="chapters/references.html#ref-dejongMetareviewDemonstratesImproved2021" role="doc-biblioref">60</a>]</span> reviewed 284 qualitative evidence syntheses. These syntheses appraised whether their primary studies had adhered to COREQ (a reporting guideline for qualitative research). Studies published before COREQ was developed reported 16 of COREQ’s 32 items, whereas studies published after reported 18. Similarly, when comparing the reporting quality of genetic association studies, Nedovic et al. <span class="citation" data-cites="nedovicEvaluationEndorsementSTrengthening2016">[<a href="chapters/references.html#ref-nedovicEvaluationEndorsementSTrengthening2016" role="doc-biblioref">61</a>]</span> found reporting quality was better in generic association articles published after STREGA but only in journals that endorsed STREGA (63% vs 49% showing full adherence).</p>
+<p>Not all studies have found relationships like these. For example, Howell et al.&nbsp;found no improvement in the reporting of quality improvement studies after the SQUIRE guidelines were published <span class="citation" data-cites="howellEffectSQUIREStandards2015">[<a href="chapters/references.html#ref-howellEffectSQUIREStandards2015" role="doc-biblioref">62</a>]</span>. Similarly, Pouwels et al.&nbsp;found no improvement in observational epidemiology following STROBE’s publication <span class="citation" data-cites="pouwelsQualityReportingConfounding2016">[<a href="chapters/references.html#ref-pouwelsQualityReportingConfounding2016" role="doc-biblioref">56</a>]</span> and another study <span class="citation" data-cites="bastuji-garinImpactSTROBEStatement2013">[<a href="chapters/references.html#ref-bastuji-garinImpactSTROBEStatement2013" role="doc-biblioref">63</a>]</span> found that reporting quality improved <em>before</em> STROBE was published, but not <em>afterwards</em>.</p>
+<p>Other studies have explored the effect of different journal policies. For example, Hopewell et al. <span class="citation" data-cites="hopewellEffectEditorsImplementation2012">[<a href="chapters/references.html#ref-hopewellEffectEditorsImplementation2012" role="doc-biblioref">64</a>]</span> assessed the reporting of clinical trial abstracts before and after the publication of CONSORT for Abstracts and compared journals that a) had no reporting guideline policy b) endorsed the guideline and c) actively enforced guideline adherence. They only found an effect in the active enforcement group, where 5.41 items (out of 9) were reported, which was 50% higher than expected. No improvement was seen in journals that endorsed the guideline without enforcing it.</p>
+<p>Some observational studies have focussed on a single time period. In 2018, before my DPhil, I collaborated with the UK EQUATOR Centre and BMJ Open to compare manuscript versions before and after authors completed a reporting checklist <span class="citation" data-cites="struthersGoodReportsDevelopingWebsite2021">[<a href="chapters/references.html#ref-struthersGoodReportsDevelopingWebsite2021" role="doc-biblioref">54</a>]</span>. Authors made few edits to their work. Of 20 included authors, three added information for a single reporting item, one added information for two items, and one added information for six items. The remaining 15 authors made no changes. On average, manuscripts described 57% of necessary reporting items before the author completed the checklist and 60% afterwards.</p>
+<p>In 2018 the senior managing editor of the Journal of the National Cancer Institute asked 2000 submitting authors whether they had used a reporting guideline <span class="citation" data-cites="botosReportedUseReporting2018a">[<a href="chapters/references.html#ref-botosReportedUseReporting2018a" role="doc-biblioref">65</a>]</span>. She then asked peer reviewers to rate manuscripts for their clarity and adherence to reporting guidelines. Declared guideline use was associated with better adherence to guidelines, but not associated with improved clarity nor acceptance rates.</p>
+<p>Some experimental studies have tried to isolate the effect of journal policies by randomising authors. In 2015 PLOS One randomly allocated 1689 incoming submissions reporting <em>in vivo</em> animal research manuscripts to either a) request completion the ARRIVE reporting checklist or b) usual practice <span class="citation" data-cites="hairRandomisedControlledTrial2019">[<a href="chapters/references.html#ref-hairRandomisedControlledTrial2019" role="doc-biblioref">66</a>]</span>. No article achieved full compliance with ARRIVE, and only one sub item (details of animal husbandry) showed improvement between groups.</p>
+<p>In another study <span class="citation" data-cites="hopewellImpactWebbasedTool2016">[<a href="chapters/references.html#ref-hopewellImpactWebbasedTool2016" role="doc-biblioref">24</a>]</span>, 197 authors submitting to 46 participating journals were randomly allocated to receive either a) access to an online tool (WebCONSORT) to generate customised reporting checklists and flow diagrams based on CONSORT and its extensions or b) a standard CONSORT flow diagram generator without a reporting checklist. There was no difference in reporting quality between groups: authors only reported half of required items.</p>
+<p>In two earlier studies, Cobo et al.&nbsp;explored the roll of peer review. Simply providing peer reviewers with reporting guidelines had no effect <span class="citation" data-cites="coboStatisticalReviewersImprove2007">[<a href="chapters/references.html#ref-coboStatisticalReviewersImprove2007" role="doc-biblioref">67</a>]</span>. Adding a reviewer whose task was to check for guideline adherence did lead to improved reporting quality <span class="citation" data-cites="coboEffectUsingReporting2011">[<a href="chapters/references.html#ref-coboEffectUsingReporting2011" role="doc-biblioref">68</a>]</span>, but “the observed effect was smaller than hypothesised and not definitively demonstrated”.</p>
+<p>It would be unsurprising to find that the stricter the enforcement, the better the adherence. Pandis et al. <span class="citation" data-cites="pandisActiveImplementationStrategy2014">[<a href="chapters/references.html#ref-pandisActiveImplementationStrategy2014" role="doc-biblioref">69</a>]</span> describe an enforcement strategy used in a small Dentistry journal where the associate editor checked manuscripts for adherence to CONSORT. The associate editor would complete a CONSORT checklist for each manuscript, making note of unclear or unreported items and suggesting ways to improve the manuscript. This would be sent back to the author. Resubmitted manuscripts were subject to the same process, and the manuscript would only be sent out for peer review once the reporting was deemed satisfactory. Over two years, 23 manuscripts were handled in this way. The policy was effective. All studies reported at least 33 of 37 CONSORT items (compared to 15 items before the policy was introduced). However, even with this heavy-handed approach, “four items were still unreported in all trials: changes to methods (3b), changes to outcomes (6b), interim analysis (7b), and trial stopping (14b).”.</p>
+<p>To summarise, reporting standards may have improved over the last two decades. There is some evidence that reporting guidelines may have contributed to this change, but if they have, their effect has only been modest, and the bottom line is that most research still does not include the details these guidelines call for. There is huge room for improvement. In a systematic review of 124 studies assessing adherence to one of eight reporting guidelines, Jin et al <span class="citation" data-cites="jinDoesMedicalLiterature2018">[<a href="chapters/references.html#ref-jinDoesMedicalLiterature2018" role="doc-biblioref">70</a>]</span> found 88% of studies reported suboptimal adherence to reporting guidelines. More recently, Dal Santo et al <span class="citation" data-cites="santoMethodsResultsStudies2023">[<a href="chapters/references.html#ref-santoMethodsResultsStudies2023" role="doc-biblioref">15</a>]</span> performed a systematic review of studies assessing adherence to CONSORT, PRISMA, STARD, and STROBE. Of 148 studies published between August 2020 and June 2022, Dal Santo et al.&nbsp;only 6 described adherence as acceptable <a href="#tbl-dal-santo" class="quarto-xref">Table&nbsp;<span>1.4</span></a>.</p>
+<div id="tbl-dal-santo" class="quarto-float anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-dal-santo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1.4: Studies published between August 2020 and June 2022 assessing adherence to CONSORT, PRISMA, STROBE, or STARD and their extensions. Data from Dal Santos et al. <span class="citation" data-cites="santoMethodsResultsStudies2023">[<a href="chapters/references.html#ref-santoMethodsResultsStudies2023" role="doc-biblioref">15</a>]</span>
+</figcaption>
+<div aria-describedby="tbl-dal-santo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Subgroup</th>
+<th style="text-align: left;">No.&nbsp;of studies</th>
+<th style="text-align: left;">Adequate</th>
+<th style="text-align: left;">Inadequate</th>
+<th style="text-align: left;">Mixed</th>
+<th style="text-align: left;">Vague</th>
+<th style="text-align: left;">No mention</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">All</td>
+<td style="text-align: left;">148</td>
+<td style="text-align: left;">6 (4%)</td>
+<td style="text-align: left;">84 (57%)</td>
+<td style="text-align: left;">10 (7%)</td>
+<td style="text-align: left;">22 (15%)</td>
+<td style="text-align: left;">26 (18%)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CONSORT</td>
+<td style="text-align: left;">61</td>
+<td style="text-align: left;">3 (5%)</td>
+<td style="text-align: left;">41 (67%)</td>
+<td style="text-align: left;">3 (5%)</td>
+<td style="text-align: left;">9 (15%)</td>
+<td style="text-align: left;">5 (8%)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">PRISMA</td>
+<td style="text-align: left;">59</td>
+<td style="text-align: left;">1 (2%)</td>
+<td style="text-align: left;">31 (53%)</td>
+<td style="text-align: left;">7 (12%)</td>
+<td style="text-align: left;">11 (19%)</td>
+<td style="text-align: left;">9 (15%)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">STARD</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">0 (0%)</td>
+<td style="text-align: left;">6 (60%)</td>
+<td style="text-align: left;">0 (0%)</td>
+<td style="text-align: left;">2 (20%)</td>
+<td style="text-align: left;">2 (20%)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">STROBE</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">2 (11%)</td>
+<td style="text-align: left;">6 (33%)</td>
+<td style="text-align: left;">0 (0%)</td>
+<td style="text-align: left;">0 (0%)</td>
+<td style="text-align: left;">10 (56%)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<section id="studies-exploring-the-efficacy-of-reporting-guidelines-are-actually-exploring-the-efficacy-of-the-reporting-guideline-system" class="level3">
+<h3 class="anchored" data-anchor-id="studies-exploring-the-efficacy-of-reporting-guidelines-are-actually-exploring-the-efficacy-of-the-reporting-guideline-system">Studies exploring the efficacy of reporting guidelines are actually exploring the efficacy of the reporting guideline <em>system</em></h3>
+<p>Because reporting guidelines do not exist in a vacuum, it is difficult to separate the guidelines themselves from the policies, people, websites, and tools involved in their implementation. For example, many before-and-after studies use the publication of the guideline as their defining time point. However, these observational studies must disentangle the effect of guidelines coming into existence with the effect of subsequent journal policies and editorial practices. Similarly, in experimental studies comparing the effect of asking authors to complete a checklist or use a resource, the intervention groups included changes to editorial workflows. These changes were external to the resource being tested, but could be equally important to its success. For example, in the WebCONSORT study, editors’ inability to identify randomised trial reports was an important source of failure external to the tool being tested. Hence, in describing reporting guidelines as being part of a complex behaviour change intervention, I believe I am explicitly articulating a systems perspective that previous studies have hinted at, and I am exploring that system in more granularity.</p>
+</section>
+</section>
+<section id="evidence-gap-what-more-could-be-done-to-improve-guideline-adherence" class="level2" data-number="1.6">
+<h2 data-number="1.6" class="anchored" data-anchor-id="evidence-gap-what-more-could-be-done-to-improve-guideline-adherence"><span class="header-section-number">1.6</span> Evidence gap: What more could be done to improve guideline adherence?</h2>
+<p>Some of the articles I have cited end with rallying cries like “major improvements need active enforcement” <span class="citation" data-cites="glasziouReducingWasteIncomplete2014">[<a href="chapters/references.html#ref-glasziouReducingWasteIncomplete2014" role="doc-biblioref">71</a>]</span>. It would be tempting to look at Pandis’ results as support for heavy editorial enforcement being the best option, but this approach may not generalise to other journals and other guidelines. The dentistry journal in this study was small. Only 23 manuscripts underwent this treatment over 2 years, and despite giving “30 to 60 minutes” of editorial attention to each manuscript, not all completely adhered to CONSORT. The study authors admit the benefits should be “considered in the light of the additional time requirement and need for greater editorial input during the peer review process”.</p>
+<!-- Might there be other reasons? Perhaps editors are not sufficiently familiar with trial design or CONSORT content?Would editors have the necessarily resources and expertise to expand the policy to cover other reporting guidelines? Do editors see a benefit? Are they concerned about frustrating authors with multiple rounds of review?  -->
+<p>Other articles have called for lighter forms of enforcement; “We need to promote more active implementation, such as submission of the checklist with the manuscript” wrote Dechartres <span class="citation" data-cites="dechartresEvolutionPoorReporting2017">[<a href="chapters/references.html#ref-dechartresEvolutionPoorReporting2017" role="doc-biblioref">4</a>]</span>, and “it is not sufficient for journals to simply recommend the use of STREGA to authors in the authors’ instructions; instead, journals should require submission of the STREGA checklist together with the manuscript” wrote Nedovic <span class="citation" data-cites="nedovicEvaluationEndorsementSTrengthening2016">[<a href="chapters/references.html#ref-nedovicEvaluationEndorsementSTrengthening2016" role="doc-biblioref">61</a>]</span>. But the PLOS One <span class="citation" data-cites="hairRandomisedControlledTrial2019">[<a href="chapters/references.html#ref-hairRandomisedControlledTrial2019" role="doc-biblioref">66</a>]</span> and BMJ Open studies <span class="citation" data-cites="struthersGoodReportsDevelopingWebsite2021">[<a href="chapters/references.html#ref-struthersGoodReportsDevelopingWebsite2021" role="doc-biblioref">54</a>]</span> found little effect of checklist completion on reporting quality. Additionally, the PLOS One study found that enforcing checklists, although less burdensome than the editorial enforcement described by Pandis, still came with costs to both editors and authors and significantly prolonged publication times. Peer reviews focussing on reporting might help <span class="citation" data-cites="coboEffectUsingReporting2011">[<a href="chapters/references.html#ref-coboEffectUsingReporting2011" role="doc-biblioref">68</a>]</span> but is relatively unexplored as an option and may be unacceptable to reviewers.</p>
+<p>These studies all focussed on different methods of enforcement. Some include incidental findings hinting at areas-for-improvement unfixable by enforcement alone. For example, because reviewers assessing adherence in the PLOS One study did not always agree or fully understand the guidance, the study authors suggested refining the guideline’s “content” and “perceived clarity”. In the WebCONSORT study, <span class="citation" data-cites="hopewellImpactWebbasedTool2016">[<a href="chapters/references.html#ref-hopewellImpactWebbasedTool2016" role="doc-biblioref">24</a>]</span> Hopewell et al.&nbsp;made some guesses for why their intervention failed. They had to exclude 39% of manuscripts because editors had incorrectly identified them as randomised trials, and a quarter of authors selected inappropriate extensions. As a solution, they suggest a tool to help authors and editors identify study types. The study authors also raised other hypotheses to explain why their intervention failed: perhaps the custom combined checklists were too long, unclear, or perhaps giving feedback during manuscript revision was too late.</p>
+<p>Both of these studies may have benefited from a qualitative component to understand why the interventions were not working. In our BMJ Open study we surveyed authors after they completed checklists. Many reported finding the checklist too long, confusing, or irrelevant. However, because we used a multiple choice question with a (small) box for a free text answer, and because we did not survey authors if they <em>did not</em> complete a checklist, our results were fairly superficial.</p>
+<p>These incidental findings suggest authors may face challenges when trying to use reporting guidelines that require solutions beyond enforcement, and some groups have tried to address these challenges. Noting the outcome assessors’ confusion in the PLOS One study, ARRIVE’s developers took steps to refine its clarity when they revised it <span class="citation" data-cites="perciedusertReportingAnimalResearch2020">[<a href="chapters/references.html#ref-perciedusertReportingAnimalResearch2020" role="doc-biblioref">72</a>]</span>. They also decided to prioritise items to make the guidance quicker to apply. Hopewell et al. <span class="citation" data-cites="hopewellImpactWebbasedTool2016">[<a href="chapters/references.html#ref-hopewellImpactWebbasedTool2016" role="doc-biblioref">24</a>]</span> created WebCONSORT because they worried that combining CONSORT with its extensions may be “cumbersome and difficult” without providing evidence for this claim. In 2018 I worked with the UK EQUATOR Centre as a freelance developer to create GoodReports.org, a website where authors could answer a questionnaire to find the right guideline, and then complete the checklist online (previously, some reporting guidelines came with non-editable PDF checklists).</p>
+<p>These innovation efforts shared limitations. None took steps to identify barriers thoroughly, and by focussing on a few barriers they may have neglected others or introduced new ones. For example, in trying to make combining checklists easier, WebCONSORT may inadvertently made checklists longer, and increased the risk of authors selecting inappropriate guidance. Secondly, these studies did not systematically consider options to solve those barriers. For example, ARRIVE’s development team decided to prioritize items as a way to make the guidance quicker to apply, but this is not the only solution. They could also have considered making guidance more concise, providing suggested wording or creating tools to speed up writing. Thirdly, although the studies describe their innovations, they do not always describe changes beyond the tool in question (e.g., changes to editorial practice) or how changes are expected to alter behaviour.</p>
+</section>
+<section id="summary" class="level2" data-number="1.7">
+<h2 data-number="1.7" class="anchored" data-anchor-id="summary"><span class="header-section-number">1.7</span> Summary</h2>
+<p>In summary, medical research is often poorly reported, and this makes it difficult for other researchers to understand, appraise, synthesize, or replicate studies. This, in turn, makes research less useful to patients and potentially harmful if it distorts the evidence base.</p>
+<p>I’ve introduced reporting guidelines as recommendations, created by the research community with the aim to improve reporting quality. I’ve described how a system of tools, websites, people, and policies has organically grown around reporting guidelines, and I have argued this system forms a complex behaviour change intervention with the goal of altering what authors write.</p>
+<p>I’ve discussed how this system has had only a modest effect on reporting quality, at best. I’ve described how studies exploring modifications to this system are limited because they did not explore barriers thoroughly, and lacked a systematic method to identify options to address those barriers.</p>
+</section>
+<section id="aims-and-objectives" class="level2" data-number="1.8">
+<h2 data-number="1.8" class="anchored" data-anchor-id="aims-and-objectives"><span class="header-section-number">1.8</span> Aims and Objectives</h2>
+<p>My aim was to identify and address the influences affecting whether authors adhere to reporting guidelines. I wanted to explore the entire reporting guideline system, and I wanted to be thorough: I wanted to identify as many influences as possible, and as many solutions as possible, before deciding which to implement.</p>
+<p>My objectives were:</p>
 <ul>
-<li>introduction: 5561 (inc. tables: 6340)</li>
-<li>reflexivity: 1317 (inc. tables: 1317)</li>
-<li>synthesis: 7268 (inc. tables: 9518)</li>
-<li>survey-content: 2617 (inc. tables: 5044)</li>
-<li>website-audit: 3732 (inc. tables: 4842)</li>
-<li>bcw: 1616 (inc. tables: 2203)</li>
-<li>workshops: 4176 (inc. tables: 4731)</li>
-<li>focus-groups: 8713 (inc. tables: 9130)</li>
-<li>defining-content: 1378 (inc. tables: 6719)</li>
-<li>redesign: 3312 (inc. tables: 3312)</li>
-<li>pilot: 11390 (inc. tables: 21012)</li>
-<li>discussion: 4451 (inc. tables: 4451)</li>
+<li>To identify influences that may affect reporting guideline impact by synthesising existing research and by evaluating the EQUATOR Network website (addressed in chapters 3 - 5)</li>
+<li>To work with key stakeholders to identify intervention changes to address these influences (addressed in chapters 7 - 8)</li>
+<li>To implement these changes (described in 9)</li>
+<li>To refine the new intervention in response to feedback from authors (addressed in chapter 10)</li>
 </ul>
-<p><strong>TOTAL: 55531 (inc. tables: 78619)</strong></p>
+<p>My thesis bares hallmarks of pragmatism. I used both qualitative and quantitative methods. Constraints (like time and access to participants) influenced my decisions. I balanced participants’ views with my own; I sought to remove my views as much as possible in all chapters except for the workshops I conducted with EQUATOR (chapter 7) and when designing the intervention (chapter 9). I balanced inductive and deductive reasoning; my early chapters were exploratory and inductive, and my later chapters became increasingly deductive as my focus narrowed and I relied more heavily on a framework.</p>
+</section>
+<section id="thesis-structure" class="level2" data-number="1.9">
+<h2 data-number="1.9" class="anchored" data-anchor-id="thesis-structure"><span class="header-section-number">1.9</span> Thesis structure</h2>
+<p><strong>Chapter 2 - Reflections on starting my DPhil</strong></p>
+<p>I reflect on my background, my prior held opinions, and those of my supervision team, and how these may have influenced the direction of this thesis.</p>
+<p><strong>Chapter 3 - What influences researchers when using reporting guidelines? Part 1: A Thematic Synthesis</strong></p>
+<p>The next three chapters pertain to my first objective - to identify possible influences affecting whether authors adhere to reporting guidelines. Chapter 3 describes a thematic synthesis of qualitative studies exploring authors’ experiences of using reporting guidelines.</p>
+<p><strong>Chapter 4 - What influences researchers when using reporting guidelines? Part 2: Describing the questions asked in quantitative surveys</strong></p>
+<p>This chapter builds on the previous one by identifying additional possible influences from the content of quantitative survey questions.</p>
+<p><strong>Chapter 5 - Describing who visits EQUATOR’s website for disseminating reporting guidelines, and how visitors use it</strong></p>
+<p>This chapter describes the characteristics and behaviour of visitors to the EQUATOR Network website. This website, although an important piece reporting guideline infrastructure, was rarely explored by studies reviewed in the previous two chapters. This evaluation adds evidence and context to influences identified in the previous chapters, and goes on to inform discussions and decisions in later chapters.</p>
+<p><strong>Chapter 6 - Selecting the Behaviour Change Wheel framework</strong></p>
+<p>The next 3 chapters pertain to my second objective — identifying intervention changes. Chapter 6 introduces the Behaviour Change Wheel, which is a framework for designing behaviour change interventions. I explain how my thesis gained form at this point in time; my view of reporting guidelines as a system crystallised, and Charlotte Albury joined my supervision team as my plans took an unexpected qualitative turn. I wanted my thesis to accurately reflect the twists of my DPhil, and so instead of introducing my chosen framework at start of my thesis (which may be customary), I introduce it in the middle to more accurately reflect my journey.</p>
+<p><strong>Chapter 7 - Following the behaviour change wheel guide: Workshops with reporting guideline experts</strong></p>
+<p>This chapter describes how I led workshops with reporting guideline experts from the UK EQUATOR Centre to identify intervention options using the Behaviour Change Wheel framework.</p>
+<p><strong>Chapter 8 - Generating ideas to address influences affecting reporting guideline adherence: focus groups with reporting guideline developers, advocates, and publishers</strong></p>
+<p>This chapter reports focus groups where I collected ideas on how intervention options could be realised.</p>
+<p><strong>Chapter 9 - Defining intervention components and developing a prototype</strong></p>
+<p>In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components. I then describe how I implemented these components by redesigning a reporting guideline (SRQR) and the EQUATOR Network website’s home page.</p>
+<p><strong>Chapter 10 - Refining the intervention: interviewing authors and a qualitative description analysis</strong></p>
+<p>In this chapter I address my final objective by refining the intervention in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors.</p>
+<p><strong>Chapter 11 - Discussion</strong></p>
+<p>After summarising my findings and outputs, I reflect on the strengths and limitations of my approach, next steps, and the impact I hope my work will have on the scholarly publishing, the meta-research community, and implications for policy.</p>
+<p><a href="#fig-thesis-graphic" class="quarto-xref">Figure&nbsp;<span>1.1</span></a> summarises the outputs of each research chapter and shows how chapters fed into each other.</p>
+<div id="fig-thesis-graphic" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-thesis-graphic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="chapters/1_introduction/thesis_summary.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-thesis-graphic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.1: Graphical abstract describing the outputs of research chapters and the relationships between them
+</figcaption>
+</figure>
+</div>
 
 
+<div id="refs" class="references csl-bib-body" role="list" style="display: none">
+<div id="ref-liberatiUnfinishedTripUncertainties2004" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Liberati A (2004) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC351869">An unfinished trip through uncertainties</a>. BMJ : British Medical Journal 328:531</div>
+</div>
+<div id="ref-ziemannPoorReportingQuality2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Ziemann S, Paetzolt I, Grüßer L, Coburn M, Rossaint R, Kowark A (2022) <a href="https://doi.org/10.1186/s12874-021-01501-9">Poor reporting quality of observational clinical studies comparing treatments of <span>COVID-19</span> – a retrospective cross-sectional study</a>. BMC Medical Research Methodology 22:23</div>
+</div>
+<div id="ref-glickInadequaciesReportingClinical1963" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Glick BS (1963) <a href="https://doi.org/10.1007/BF01562195">Inadequacies in the reporting of clinical drug research</a>. The Psychiatric Quarterly 37:234–244</div>
+</div>
+<div id="ref-dechartresEvolutionPoorReporting2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Dechartres A, Trinquart L, Atal I, Moher D, Dickersin K, Boutron I, Perrodeau E, Altman DG, Ravaud P (2017) <a href="https://doi.org/10.1136/bmj.j2490">Evolution of poor reporting and inadequate methods over time in 20 920 randomised controlled trials included in <span>Cochrane</span> reviews: Research on research study</a>. BMJ 357:j2490</div>
+</div>
+<div id="ref-savovicAssociationRiskofBiasAssessments2018" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Savović J, Turner RM, Mawdsley D, Jones HE, Beynon R, Higgins JPT, Sterne JAC (2018) <a href="https://doi.org/10.1093/aje/kwx344">Association <span class="nocase">Between Risk-of-Bias Assessments</span> and <span>Results</span> of <span>Randomized Trials</span> in <span>Cochrane Reviews</span>: <span>The ROBES Meta-Epidemiologic Study</span></a>. American Journal of Epidemiology 187:1113–1122</div>
+</div>
+<div id="ref-glasziouWhatMissingDescriptions2008" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Glasziou P, Meats E, Heneghan C, Shepperd S (2008) <a href="https://doi.org/10.1136/bmj.39590.732037.47">What is missing from descriptions of treatment in trials and reviews?</a> BMJ 336:1472–1474</div>
+</div>
+<div id="ref-feinsteinClinicalBiostatisticsXXV1974" class="csl-entry" role="listitem">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Feinstein AR (1974) <a href="https://doi.org/10.1002/cpt197415197">Clinical biostatistics. <span>XXV</span>. <span>A</span> survey of the statistical procedures in general medical journals</a>. Clinical Pharmacology and Therapeutics 15:97–107</div>
+</div>
+<div id="ref-davidsonExerciseInterventionsLow2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Davidson SRE, Kamper SJ, Haskins R, Robson E, Gleadhill C, da Silva PV, Williams A, Yu Z, Williams CM (2021) <a href="https://doi.org/10.1016/j.jclinepi.2021.05.020">Exercise interventions for low back pain are poorly reported: A systematic review</a>. Journal of Clinical Epidemiology 139:279–286</div>
+</div>
+<div id="ref-carpSecretLivesExperiments2012" class="csl-entry" role="listitem">
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">Carp J (2012) <a href="https://doi.org/10.1016/j.neuroimage.2012.07.004">The secret lives of experiments: Methods reporting in the <span class="nocase">fMRI</span> literature</a>. NeuroImage 63:289–300</div>
+</div>
+<div id="ref-kappTransparencyReportingCharacteristics2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">10. </div><div class="csl-right-inline">Kapp P, Esmail L, Ghosn L, Ravaud P, Boutron I (2022) <a href="https://doi.org/10.1186/s12916-022-02567-y">Transparency and reporting characteristics of <span>COVID-19</span> randomized controlled trials</a>. BMC Medicine 20:363</div>
+</div>
+<div id="ref-pourrazaviCOVID19VaccineHesitancy2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">11. </div><div class="csl-right-inline">Pourrazavi S, Fathifar Z, Sharma M, Allahverdipour H (2023) <a href="https://doi.org/10.34172/hpp.2023.03"><span>COVID-19</span> vaccine hesitancy: <span>A Systematic</span> review of cognitive determinants</a>. Health Promotion Perspectives 13:21–35</div>
+</div>
+<div id="ref-yilmazHesitancyRegardingMedical" class="csl-entry" role="listitem">
+<div class="csl-left-margin">12. </div><div class="csl-right-inline">Yilmaz S, Çolak FÜ, Hökenek NM, Ak R <a href="https://doi.org/10.1017/dmp.2022.18">Hesitancy <span>Regarding Medical Advice</span> on <span>COVID-19</span>: <span>An Emergency Department Perspective</span></a>. Disaster Medicine and Public Health Preparedness 1–11</div>
+</div>
+<div id="ref-taylorNegativeAttitudesFacemasks2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">13. </div><div class="csl-right-inline">Taylor S, Asmundson GJG (2021) <a href="https://doi.org/10.1371/journal.pone.0246317">Negative attitudes about facemasks during the <span>COVID-19</span> pandemic: <span>The</span> dual importance of perceived ineffectiveness and psychological reactance</a>. PLoS ONE 16:e0246317</div>
+</div>
+<div id="ref-Covid19ResponseExcess2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">14. </div><div class="csl-right-inline">(2024) Covid-19: <span>Response</span> and <span>Excess Deaths</span> - <span>Hansard</span> - <span>UK Parliament</span>. </div>
+</div>
+<div id="ref-santoMethodsResultsStudies2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">15. </div><div class="csl-right-inline">Santo TD, Rice DB, Amiri LSN, Tasleem A, Li K, Boruff JT, Geoffroy M-C, Benedetti A, Thombs BD (2023) <a href="https://doi.org/10.1016/j.jclinepi.2023.05.017">Methods and results of studies on reporting guideline adherence are poorly reported: A meta-research study</a>. Journal of Clinical Epidemiology 159:225–234</div>
+</div>
+<div id="ref-ProposalStructuredReporting1994" class="csl-entry" role="listitem">
+<div class="csl-left-margin">16. </div><div class="csl-right-inline">(1994) <a href="https://www.ncbi.nlm.nih.gov/pubmed/7990245">A proposal for structured reporting of randomized controlled trials. <span>The Standards</span> of <span>Reporting Trials Group</span></a>. JAMA 272:1926–1931</div>
+</div>
+<div id="ref-CallCommentsProposal1994" class="csl-entry" role="listitem">
+<div class="csl-left-margin">17. </div><div class="csl-right-inline">(1994) <a href="https://doi.org/10.7326/0003-4819-121-11-199412010-00015">Call for comments on a proposal to improve reporting of clinical trials in the biomedical literature. <span>Working Group</span> on <span>Recommendations</span> for <span>Reporting</span> of <span>Clinical Trials</span> in the <span>Biomedical Literature</span></a>. Annals of Internal Medicine 121:894–895</div>
+</div>
+<div id="ref-beggImprovingQualityReporting1996" class="csl-entry" role="listitem">
+<div class="csl-left-margin">18. </div><div class="csl-right-inline">Begg C, Cho M, Eastwood S, et al (1996) <a href="https://doi.org/10.1001/jama.1996.03540080059030">Improving the <span>Quality</span> of <span>Reporting</span> of <span>Randomized Controlled Trials</span>: <span>The CONSORT Statement</span></a>. JAMA 276:637–639</div>
+</div>
+<div id="ref-altmanBetterReportingRandomised1996" class="csl-entry" role="listitem">
+<div class="csl-left-margin">19. </div><div class="csl-right-inline">Altman DG (1996) <a href="https://doi.org/10.1136/bmj.313.7057.570">Better reporting of randomised controlled trials: The <span>CONSORT</span> statement</a>. BMJ (Clinical research ed) 313:570–571</div>
+</div>
+<div id="ref-altmanRevisedCONSORTStatement2001" class="csl-entry" role="listitem">
+<div class="csl-left-margin">20. </div><div class="csl-right-inline">Altman DG, Schulz KF, Moher D, Egger M, Davidoff F, Elbourne D, Gøtzsche PC, Lang T (2001) <a href="https://doi.org/10.7326/0003-4819-134-8-200104170-00012">The <span>Revised CONSORT Statement</span> for <span>Reporting Randomized Trials</span>: <span>Explanation</span> and <span>Elaboration</span></a>. Annals of Internal Medicine 134:663–694</div>
+</div>
+<div id="ref-hopewellUpdateSPIRITCONSORT2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">21. </div><div class="csl-right-inline">Hopewell S, Boutron I, Chan A-W, et al (2022) <a href="https://doi.org/10.1038/s41591-022-01989-8">An update to <span>SPIRIT</span> and <span>CONSORT</span> reporting guidelines to enhance transparency in randomized trials</a>. Nature Medicine 28:1740–1743</div>
+</div>
+<div id="ref-ReportingGuidelinesUsed" class="csl-entry" role="listitem">
+<div class="csl-left-margin">22. </div><div class="csl-right-inline">Reporting guidelines used varying methodology to develop recommendations - <span>ScienceDirect</span>. </div>
+</div>
+<div id="ref-schulzCONSORT2010Statement2010" class="csl-entry" role="listitem">
+<div class="csl-left-margin">23. </div><div class="csl-right-inline">Schulz KF, Altman DG, Moher D, the CONSORT Group (2010) <a href="https://doi.org/10.1186/1741-7015-8-18"><span>CONSORT</span> 2010 <span>Statement</span>: Updated guidelines for reporting parallel group randomised trials</a>. BMC Medicine 8:18</div>
+</div>
+<div id="ref-hopewellImpactWebbasedTool2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">24. </div><div class="csl-right-inline">Hopewell S, Boutron I, Altman DG, et al (2016) <a href="https://doi.org/10.1186/s12916-016-0736-x">Impact of a web-based tool (<span>WebCONSORT</span>) to improve the reporting of randomised trials: Results of a randomised controlled trial</a>. BMC Medicine 14:199</div>
+</div>
+<div id="ref-liberatiPRISMAStatementReporting2009" class="csl-entry" role="listitem">
+<div class="csl-left-margin">25. </div><div class="csl-right-inline">Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC, Ioannidis JPA, Clarke M, Devereaux PJ, Kleijnen J, Moher D (2009) <a href="https://doi.org/10.1136/bmj.b2700">The <span>PRISMA</span> statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: Explanation and elaboration</a>. BMJ 339:b2700</div>
+</div>
+<div id="ref-pagePRISMA2020Statement2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">26. </div><div class="csl-right-inline">Page MJ, McKenzie JE, Bossuyt PM, et al (2021) <a href="https://doi.org/10.1136/bmj.n71">The <span>PRISMA</span> 2020 statement: An updated guideline for reporting systematic reviews</a>. BMJ (Clinical research ed) 372:n71</div>
+</div>
+<div id="ref-moherPreferredReportingItems2015" class="csl-entry" role="listitem">
+<div class="csl-left-margin">27. </div><div class="csl-right-inline">Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle P, Stewart LA, PRISMA-P Group (2015) <a href="https://doi.org/10.1186/2046-4053-4-1">Preferred reporting items for systematic review and meta-analysis protocols (<span>PRISMA-P</span>) 2015 statement</a>. Systematic Reviews 4:1</div>
+</div>
+<div id="ref-kilkennyImprovingBioscienceResearch2010" class="csl-entry" role="listitem">
+<div class="csl-left-margin">28. </div><div class="csl-right-inline">Kilkenny C, Browne WJ, Cuthill IC, Emerson M, Altman DG (2010) <a href="https://doi.org/10.1371/journal.pbio.1000412">Improving <span>Bioscience Research Reporting</span>: <span>The ARRIVE Guidelines</span> for <span>Reporting Animal Research</span></a>. PLOS Biology 8:e1000412</div>
+</div>
+<div id="ref-sertARRIVEGuidelinesUpdated2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">29. </div><div class="csl-right-inline">Sert NP du, Hurst V, Ahluwalia A, et al (2020) <a href="https://doi.org/10.1371/journal.pbio.3000410">The <span>ARRIVE</span> guidelines 2.0: <span>Updated</span> guidelines for reporting animal research</a>. PLOS Biology 18:e3000410</div>
+</div>
+<div id="ref-obrienStandardsReportingQualitative2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">30. </div><div class="csl-right-inline">O’Brien BC, Harris IB, Beckman TJ, Reed DA, Cook DA (2014) <a href="https://doi.org/10.1097/ACM.0000000000000388">Standards for <span>Reporting Qualitative Research</span>: <span>A Synthesis</span> of <span>Recommendations</span></a>. Academic Medicine 89:1245–1251</div>
+</div>
+<div id="ref-vonelmStrengtheningReportingObservational2007" class="csl-entry" role="listitem">
+<div class="csl-left-margin">31. </div><div class="csl-right-inline">von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP (2007) <a href="https://doi.org/10.1136/bmj.39335.541782.AD">Strengthening the reporting of observational studies in epidemiology (<span>STROBE</span>) statement: Guidelines for reporting observational studies</a>. BMJ : British Medical Journal 335:806–808</div>
+</div>
+<div id="ref-chanSPIRIT2013Statement2013" class="csl-entry" role="listitem">
+<div class="csl-left-margin">32. </div><div class="csl-right-inline">Chan A-W, Tetzlaff JM, Altman DG, et al (2013) <a href="https://doi.org/10.7326/0003-4819-158-3-201302050-00583"><span>SPIRIT</span> 2013 <span>Statement</span>: <span>Defining Standard Protocol Items</span> for <span>Clinical Trials</span></a>. Annals of Internal Medicine 158:200–207</div>
+</div>
+<div id="ref-gagnierCAREGuidelinesConsensusbased2013" class="csl-entry" role="listitem">
+<div class="csl-left-margin">33. </div><div class="csl-right-inline">Gagnier JJ, Kienle G, Altman DG, Moher D, Sox H, Riley D, Group the C (2013) <a href="https://doi.org/10.1136/bcr-2013-201554">The <span>CARE</span> guidelines: Consensus-based clinical case reporting guideline development</a>. Case Reports 2013:bcr2013201554</div>
+</div>
+<div id="ref-LearnHowWrite" class="csl-entry" role="listitem">
+<div class="csl-left-margin">34. </div><div class="csl-right-inline">Learn how to write and publish case reports. Scientific Writing in Health and Medicine </div>
+</div>
+<div id="ref-CAREwriter" class="csl-entry" role="listitem">
+<div class="csl-left-margin">35. </div><div class="csl-right-inline"><span class="nocase">CARE-writer</span>. CARE-writer </div>
+</div>
+<div id="ref-bossuytSTARDStatementReporting2003" class="csl-entry" role="listitem">
+<div class="csl-left-margin">36. </div><div class="csl-right-inline">Bossuyt PM, Reitsma JB, Bruns DE, et al (2003) <a href="https://doi.org/10.7326/0003-4819-138-1-200301070-00012-w1">The <span>STARD</span> statement for reporting studies of diagnostic accuracy: Explanation and elaboration</a>. Annals of Internal Medicine 138:W1–12</div>
+</div>
+<div id="ref-bossuytSTARD2015Updated2015" class="csl-entry" role="listitem">
+<div class="csl-left-margin">37. </div><div class="csl-right-inline">Bossuyt PM, Reitsma JB, Bruns DE, et al (2015) <a href="https://doi.org/10.1136/bmj.h5527"><span>STARD</span> 2015: An updated list of essential items for reporting diagnostic accuracy studies</a>. BMJ 351:h5527</div>
+</div>
+<div id="ref-brouwersAGREEReportingChecklist2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">38. </div><div class="csl-right-inline">Brouwers MC, Kerkvliet K, Spithoff K, Consortium ANS (2016) <a href="https://doi.org/10.1136/bmj.i1152">The <span>AGREE Reporting Checklist</span>: A tool to improve reporting of clinical practice guidelines</a>. BMJ 352:i1152</div>
+</div>
+<div id="ref-davidoffPublicationGuidelinesQuality2009" class="csl-entry" role="listitem">
+<div class="csl-left-margin">39. </div><div class="csl-right-inline">Davidoff F, Batalden P, Stevens D, Ogrinc G, Mooney SE (2009) <a href="https://doi.org/10.1136/bmj.a3152">Publication guidelines for quality improvement studies in health care: Evolution of the <span>SQUIRE</span> project</a>. BMJ 338:a3152</div>
+</div>
+<div id="ref-ogrincSQUIREStandardsQUality2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">40. </div><div class="csl-right-inline">Ogrinc G, Davies L, Goodman D, Batalden P, Davidoff F, Stevens D (2016) <a href="https://doi.org/10.1136/bmjqs-2015-004411"><span>SQUIRE</span> 2.0 (<span>Standards</span> for <span>QUality Improvement Reporting Excellence</span>): Revised publication guidelines from a detailed consensus process</a>. BMJ Quality &amp; Safety 25:986–992</div>
+</div>
+<div id="ref-husereauConsolidatedHealthEconomic2013a" class="csl-entry" role="listitem">
+<div class="csl-left-margin">41. </div><div class="csl-right-inline">Husereau D, Drummond M, Petrou S, Carswell C, Moher D, Greenberg D, Augustovski F, Briggs AH, Mauskopf J, Loder E (2013) <a href="https://doi.org/10.1186/1741-7015-11-80">Consolidated <span>Health Economic Evaluation Reporting Standards</span> (<span>CHEERS</span>) statement</a>. BMC Medicine 11:80</div>
+</div>
+<div id="ref-husereauConsolidatedHealthEconomic2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">42. </div><div class="csl-right-inline">Husereau D, Drummond M, Augustovski F, et al (2022) <a href="https://doi.org/10.1186/s12916-021-02204-0">Consolidated <span>Health Economic Evaluation Reporting Standards</span> 2022 (<span>CHEERS</span> 2022) statement: Updated reporting guidance for health economic evaluations</a>. BMC Medicine 20:23</div>
+</div>
+<div id="ref-collinsTransparentReportingMultivariable2015" class="csl-entry" role="listitem">
+<div class="csl-left-margin">43. </div><div class="csl-right-inline">Collins GS, Reitsma JB, Altman DG, Moons KG (2015) <a href="https://doi.org/10.1186/s12916-014-0241-z">Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (<span>TRIPOD</span>): The <span>TRIPOD Statement</span></a>. BMC Medicine 13:1</div>
+</div>
+<div id="ref-chenReportingToolPractice2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">44. </div><div class="csl-right-inline">Chen Y, Yang K, Marušić A, et al (2017) <a href="https://doi.org/10.7326/M16-1565">A <span>Reporting Tool</span> for <span>Practice Guidelines</span> in <span>Health Care</span>: <span>The RIGHT Statement</span></a>. Annals of Internal Medicine 166:128–132</div>
+</div>
+<div id="ref-tongConsolidatedCriteriaReporting2007" class="csl-entry" role="listitem">
+<div class="csl-left-margin">45. </div><div class="csl-right-inline">Tong A, Sainsbury P, Craig J (2007) <a href="https://doi.org/10.1093/intqhc/mzm042">Consolidated criteria for reporting qualitative research (<span>COREQ</span>): A 32-item checklist for interviews and focus groups</a>. International Journal for Quality in Health Care 19:349–357</div>
+</div>
+<div id="ref-caulleyCitationImpactWas2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">46. </div><div class="csl-right-inline">Caulley L, Cheng W, Catalá-López F, Whelan J, Khoury M, Ferraro J, Husereau D, Altman DG, Moher D (2020) <a href="https://doi.org/10.1016/j.jclinepi.2020.07.013">Citation impact was highly variable for reporting guidelines of health research: A citation analysis</a>. Journal of Clinical Epidemiology 127:96–104</div>
+</div>
+<div id="ref-ICMJERecommendationsPreparing" class="csl-entry" role="listitem">
+<div class="csl-left-margin">47. </div><div class="csl-right-inline"><span>ICMJE</span> <span></span> <span>Recommendations</span> <span></span> <span>Preparing</span> a <span>Manuscript</span> for <span>Submission</span> to a <span>Medical Journal</span>. </div>
+</div>
+<div id="ref-kochExplicitMentioningReporting2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">48. </div><div class="csl-right-inline">Koch M, Riss P, Umek W, Hanzal E (2016) <a href="https://doi.org/10.1002/nau.22726">The explicit mentioning of reporting guidelines in urogynecology journals in 2013: <span>A</span> bibliometric study</a>. Neurourology and Urodynamics 35:412–416</div>
+</div>
+<div id="ref-sharpCrosssectionalBibliometricStudy2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">49. </div><div class="csl-right-inline">Sharp MK, Tokalić R, Gómez G, Wager E, Altman DG, Hren D (2019) A cross-sectional bibliometric study showed suboptimal journal endorsement rates of <span>STROBE</span> and its extensions. Journal of clinical epidemiology 107:42–50</div>
+</div>
+<div id="ref-MedRxivOrgPreprint" class="csl-entry" role="listitem">
+<div class="csl-left-margin">50. </div><div class="csl-right-inline"><span class="nocase">medRxiv</span>.org - the preprint server for <span>Health Sciences</span>. </div>
+</div>
+<div id="ref-barnesImpactOnlineWriting2015" class="csl-entry" role="listitem">
+<div class="csl-left-margin">51. </div><div class="csl-right-inline">Barnes C, Boutron I, Giraudeau B, Porcher R, Altman DG, Ravaud P (2015) <a href="https://doi.org/10.1186/s12916-015-0460-y">Impact of an online writing aid tool for writing a randomized trial report: The <span>COBWEB</span> (<span class="nocase">Consort-based WEB</span> tool) randomized controlled trial</a>. BMC Medicine 13:221</div>
+</div>
+<div id="ref-hawwashUsefulnessApplyingResearch2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">52. </div><div class="csl-right-inline">Hawwash D, Sharp MK, Argaw A, Kolsteren P, Lachat C (2019) Usefulness of applying research reporting guidelines as <span>Writing Aid</span> software: A crossover randomised controlled trial. BMJ Open. <a href="https://doi.org/10.1136/bmjopen-2019-030943">https://doi.org/10.1136/bmjopen-2019-030943</a></div>
+</div>
+<div id="ref-haddawayPRISMA2020PackageShiny2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">53. </div><div class="csl-right-inline">Haddaway NR, Page MJ, Pritchard CC, McGuinness LA (2022) <a href="https://doi.org/10.1002/cl2.1230"><span>PRISMA2020</span>: <span>An R</span> package and <span>Shiny</span> app for producing <span>PRISMA</span> 2020-compliant flow diagrams, with interactivity for optimised digital transparency and <span>Open Synthesis</span></a>. Campbell Systematic Reviews 18:e1230</div>
+</div>
+<div id="ref-struthersGoodReportsDevelopingWebsite2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">54. </div><div class="csl-right-inline">Struthers C, Harwood J, de Beyer JA, Dhiman P, Logullo P, Schlüssel M (2021) <a href="https://doi.org/10.1186/s12874-021-01402-x"><span>GoodReports</span>: Developing a website to help health researchers find and use reporting guidelines</a>. BMC medical research methodology 21:217</div>
+</div>
+<div id="ref-ComplianceQuestionnaireARRIVE" class="csl-entry" role="listitem">
+<div class="csl-left-margin">55. </div><div class="csl-right-inline">Compliance <span>Questionnaire</span> <span></span> <span>ARRIVE Guidelines</span>. </div>
+</div>
+<div id="ref-pouwelsQualityReportingConfounding2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">56. </div><div class="csl-right-inline">Pouwels KB, Widyakusuma NN, Groenwold RHH, Hak E (2016) <a href="https://doi.org/10.1016/j.jclinepi.2015.08.009">Quality of reporting of confounding remained suboptimal after the&nbsp;<span>STROBE</span> guideline</a>. Journal of Clinical Epidemiology 69:217–224</div>
+</div>
+<div id="ref-sharpOnlineSurveySTROBE2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">57. </div><div class="csl-right-inline">Sharp MK, Glonti K, Hren D (2020) Online survey about the <span>STROBE</span> statement highlighted diverging views about its content, purpose, and value. Journal of clinical epidemiology 123:100–106</div>
+</div>
+<div id="ref-altmanHistoryEvolutionGuidelines2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">58. </div><div class="csl-right-inline">Altman DG, Simera I (2016) <a href="https://doi.org/10.1177/0141076815625599">A history of the evolution of guidelines for reporting medical research: The long road to the <span>EQUATOR Network</span></a>. Journal of the Royal Society of Medicine 109:67–77</div>
+</div>
+<div id="ref-kilicogluMethodologyReportingImproved2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">59. </div><div class="csl-right-inline">Kilicoglu H, Jiang L, Hoang L, Mayo-Wilson E, Vinkers CH, Otte WM (2023) Methodology reporting improved over time in 176,469 randomized controlled trials. Journal of Clinical Epidemiology. <a href="https://doi.org/10.1016/j.jclinepi.2023.08.004">https://doi.org/10.1016/j.jclinepi.2023.08.004</a></div>
+</div>
+<div id="ref-dejongMetareviewDemonstratesImproved2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">60. </div><div class="csl-right-inline">de Jong Y, van der Willik EM, Milders J, Voorend CGN, Morton RL, Dekker FW, Meuleman Y, van Diepen M (2021) <a href="https://doi.org/10.1186/s12874-021-01363-1">A meta-review demonstrates improved reporting quality of qualitative reviews following the publication of <span>COREQ-</span> and <span class="nocase">ENTREQ-checklists</span>, regardless of modest uptake</a>. BMC Medical Research Methodology 21:184</div>
+</div>
+<div id="ref-nedovicEvaluationEndorsementSTrengthening2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">61. </div><div class="csl-right-inline">Nedovic D, Panic N, Pastorino R, Ricciardi W, Boccia S (2016) <a href="https://doi.org/10.2188/jea.JE20150173">Evaluation of the <span>Endorsement</span> of the <span>STrengthening</span> the <span>REporting</span> of <span>Genetic Association Studies</span> (<span>STREGA</span>) <span>Statement</span> on the <span>Reporting Quality</span> of <span>Published Genetic Association Studies</span></a>. Journal of Epidemiology 26:399–404</div>
+</div>
+<div id="ref-howellEffectSQUIREStandards2015" class="csl-entry" role="listitem">
+<div class="csl-left-margin">62. </div><div class="csl-right-inline">Howell V, Schwartz AE, O’Leary JD, Donnell CM (2015) <a href="https://doi.org/10.1136/bmjqs-2014-003737">The effect of the <span>SQUIRE</span> (<span>Standards</span> of <span>QUality Improvement Reporting Excellence</span>) guidelines on reporting standards in the quality improvement literature: A before-and-after study</a>. BMJ Quality &amp; Safety 24:400–406</div>
+</div>
+<div id="ref-bastuji-garinImpactSTROBEStatement2013" class="csl-entry" role="listitem">
+<div class="csl-left-margin">63. </div><div class="csl-right-inline">Bastuji-Garin S, Sbidian E, Gaudy-Marqueste C, Ferrat E, Roujeau J-C, Richard M-A, Canoui-Poitrine F, European Dermatology Network (EDEN) (2013) <a href="https://doi.org/10.1371/journal.pone.0064733">Impact of <span>STROBE</span> statement publication on quality of observational study reporting: Interrupted time series versus before-after analysis</a>. PloS One 8:e64733</div>
+</div>
+<div id="ref-hopewellEffectEditorsImplementation2012" class="csl-entry" role="listitem">
+<div class="csl-left-margin">64. </div><div class="csl-right-inline">Hopewell S, Ravaud P, Baron G, Boutron I (2012) <a href="https://doi.org/10.1136/bmj.e4178">Effect of editors’ implementation of <span>CONSORT</span> guidelines on the reporting of abstracts in high impact medical journals: Interrupted time series analysis</a>. BMJ 344:e4178</div>
+</div>
+<div id="ref-botosReportedUseReporting2018a" class="csl-entry" role="listitem">
+<div class="csl-left-margin">65. </div><div class="csl-right-inline">Botos J (2018) <a href="https://doi.org/10.1186/s41073-018-0052-4">Reported use of reporting guidelines among <span>JNCI</span>: <span>Journal</span> of the <span>National Cancer Institute</span> authors, editorial outcomes, and reviewer ratings related to adherence to guidelines and clarity of presentation</a>. Research Integrity and Peer Review 3:7</div>
+</div>
+<div id="ref-hairRandomisedControlledTrial2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">66. </div><div class="csl-right-inline">Hair K, Macleod MR, Sena ES, et al (2019) <a href="https://doi.org/10.1186/s41073-019-0069-3">A randomised controlled trial of an <span>Intervention</span> to <span>Improve Compliance</span> with the <span>ARRIVE</span> guidelines (<span>IICARus</span>)</a>. Research Integrity and Peer Review 4:12</div>
+</div>
+<div id="ref-coboStatisticalReviewersImprove2007" class="csl-entry" role="listitem">
+<div class="csl-left-margin">67. </div><div class="csl-right-inline">Cobo E, Selva-O’Callagham A, Ribera J-M, Cardellach F, Dominguez R, Vilardell M (2007) <a href="https://doi.org/10.1371/journal.pone.0000332">Statistical <span>Reviewers Improve Reporting</span> in <span>Biomedical Articles</span>: <span>A Randomized Trial</span></a>. PLoS ONE 2:e332</div>
+</div>
+<div id="ref-coboEffectUsingReporting2011" class="csl-entry" role="listitem">
+<div class="csl-left-margin">68. </div><div class="csl-right-inline">Cobo E, Cortés J, Ribera JM, et al (2011) <a href="https://doi.org/10.1136/bmj.d6783">Effect of using reporting guidelines during peer review on quality of final manuscripts submitted to a biomedical journal: Masked randomised trial</a>. BMJ 343:d6783</div>
+</div>
+<div id="ref-pandisActiveImplementationStrategy2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">69. </div><div class="csl-right-inline">Pandis N, Shamseer L, Kokich VG, Fleming PS, Moher D (2014) <a href="https://doi.org/10.1016/j.jclinepi.2014.04.001">Active implementation strategy of <span>CONSORT</span> adherence by a dental specialty journal improved randomized clinical trial reporting</a>. Journal of Clinical Epidemiology 67:1044–1048</div>
+</div>
+<div id="ref-jinDoesMedicalLiterature2018" class="csl-entry" role="listitem">
+<div class="csl-left-margin">70. </div><div class="csl-right-inline">Jin Y, Sanger N, Shams I, et al (2018) <a href="https://doi.org/10.2147/JMDH.S155103">Does the medical literature remain inadequately described despite having reporting guidelines for 21 years? – <span>A</span> systematic review of reviews: An update</a>. Journal of Multidisciplinary Healthcare 11:495–510</div>
+</div>
+<div id="ref-glasziouReducingWasteIncomplete2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">71. </div><div class="csl-right-inline">Glasziou P, Altman DG, Bossuyt P, Boutron I, Clarke M, Julious S, Michie S, Moher D, Wager E (2014) <a href="https://doi.org/10.1016/S0140-6736(13)62228-X">Reducing waste from incomplete or unusable reports of biomedical research</a>. Lancet (London, England) 383:267–276</div>
+</div>
+<div id="ref-perciedusertReportingAnimalResearch2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">72. </div><div class="csl-right-inline">Percie du Sert N, Ahluwalia A, Alam S, et al (2020) Reporting animal research: <span>Explanation</span> and elaboration for the <span>ARRIVE</span> guidelines 2.0. PLoS biology 18:e3000411</div>
+</div>
+</div>
 </section>
 </section>
 
@@ -416,10 +1209,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/jamesrharwood\.github\.io\/thesis\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -429,8 +1239,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -442,7 +1261,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -486,6 +1428,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -511,6 +1454,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -570,9 +1539,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./chapters/2_reflexivity/index.html" class="pagination-link" aria-label="Reflexivity">
+        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Reflexivity</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jamesrharwood/thesis/blob/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/jamesrharwood/thesis/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer><script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
