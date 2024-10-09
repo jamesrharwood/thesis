@@ -19,4 +19,4 @@
 | Total records                 | 15  | Document the total number of records identified from each database and other information sources.                                                                                                                                                                  | See Results, @fig-prisma-flow-diagram               |
 | Deduplication                 | 16  | Describe the processes and any software used to deduplicate records from multiple database searches and other information sources.                                                                                                                                 | See Methods @tbl-info-sources                       |
 
-: PRISMA-S Checklist for chapter {{< var chapters.synthesis >}} @rethlefsenPRISMASExtensionPRISMA2021 {#tbl-srqr tbl-col-widths=\[20, 10, 40, 30\]}
+: PRISMA-S Checklist for chapter {{< var chapters.synthesis >}} @rethlefsenPRISMASExtensionPRISMA2021 {#tbl-srqr tbl-colwidths="[5, 25, 35, 35]"}

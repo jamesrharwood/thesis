@@ -29,7 +29,7 @@ The main output of my thesis is the website. Currently this website comprises on
 
 Hence although I've described my output as a website, it is more like a platform for generating and disseminating reporting guidelines and resources following an evidence-based blueprint. This blueprint, honed by redesigning SRQR, could be applied to any other reporting guideline to make them easier to understand and use. The website's layout and search engine optimization will change how authors find reporting guidelines, and its content will hopefully nudge them towards using guidelines earlier in their workflow. In my introduction I argued that reporting guidelines are a complex intervention, in part because of the number and variation of resources and how they are used. My website has potential to re-mold quite a lot of this complexity: the guidelines themselves, their associated resources, and how and when authors interact with them.
 
-<!-- #TODO check this makes sense. -->
+<!-- #TODO elaborate a little further? Say nothing like this exists? -->
 
 I believe the website will have a big impact on guideline development groups, as few have sufficient funding nor expertise to design and refine resources or to develop and maintain websites, even when using DIY "no code" tools like Wordpress. One guideline developer I spoke to spent weeks creating a simple website with little functionality. The website I've built is comparatively far more feature-full, and requires zero technical work from guideline developers. What previously took guideline developers weeks is now achievable in a matter of hours. Even guideline groups with no website budgets can use my platform to turn plain text into online resources that mirror the redesigned SRQR guideline. 
 

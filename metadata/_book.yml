@@ -45,12 +45,14 @@ book:
       file: chapters/11_discussion/index.qmd
     - chapters/references.qmd
   appendices:
-  - text: "Completed PRISMA-S checklist for chapter {{< var chapters.synthesis >}}"
+  - text: "PRISMA-S checklist for chapter {{< var chapters.synthesis >}}"
     file: chapters/appendix/_rg_prisma_s.qmd
-  - text: "Completed ENTREQ checklist for chapter {{< var chapters.synthesis >}}"
+  - text: "ENTREQ checklist for chapter {{< var chapters.synthesis >}}"
     file: chapters/appendix/_rg_entreq.qmd
   - text: "Search Strategies"
     file: chapters/appendix/_synthesis_search_strategies.qmd
+  - text: "SRQR checklist for chapter {{< var chapters.workshops >}}"
+    file: chapters/appendix/_rg_srqr_workshops.qmd
   - text: "BCW Step 1"
     file: chapters/appendix/workshops/step_1.qmd
   - text: "BCW Step 2"
@@ -65,7 +67,7 @@ book:
     file: chapters/appendix/workshops/step_5.qmd
   - text: "BCW Stage 6"
     file: chapters/appendix/workshops/step_6.qmd
-  - text: "Completed SRQR checklist for chapter {{< var chapters.focus-groups >}}"
+  - text: "SRQR checklist for chapter {{< var chapters.focus-groups >}}"
     file: chapters/appendix/_rg_srqr_focus_groups.qmd
   - text: "Focus groups - emails"
     file: chapters/appendix/focus_groups/emails.qmd
@@ -75,7 +77,7 @@ book:
     file: chapters/appendix/_ideas.qmd
   - text: "Intervention component table"
     file: chapters/appendix/_intervention_component_table.qmd
-  - text: "Completed SRQR checklist for chapter {{< var chapters.pilot >}}"
+  - text: "SRQR checklist for chapter {{< var chapters.pilot >}}"
     file: chapters/appendix/_rg_srqr_interviews.qmd
   - text: "Authors interviews - recruitment image"
     file: chapters/appendix/_pilot_recruitment_image.qmd

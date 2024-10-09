@@ -11,8 +11,6 @@ OBJECTIVES = InstanceCollection('id')
 class Objective(Driver):
     pass
 
-# ASK: Do we want to assess home page or guidance page? Or both?
-
 objectives = """
 - id: first-understandings
   title: What do authors understand within 5 seconds?

@@ -24,4 +24,4 @@
 | 20  | Quotations                 | Provide quotations from the primary studies to illustrate themes/constructs, and identify whether the quotations were participant quotations of the author’s interpretation.                                                                                                                                                                                                                             | See Results, Synthesis Findings                |
 | 21  | Synthesis output           | Present rich, compelling and useful results that go beyond a summary of the primary studies (e.g. new interpretation, models of evidence, conceptual models, analytical framework, development of a new theory or construct).                                                                                                                                                                            | See Results, Synthesis Findings                |
 
-: ENTREQ Checklist @tongEnhancingTransparencyReporting2012 {#tbl-srqr tbl-col-widths=\[10, 20, 40, 30\]}
+: ENTREQ Checklist @tongEnhancingTransparencyReporting2012 {#tbl-srqr tbl-colwidths="[5, 25, 35, 35]"}
