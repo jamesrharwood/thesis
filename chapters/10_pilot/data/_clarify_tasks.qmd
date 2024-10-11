@@ -18,7 +18,7 @@ However, describing these tools further up the page might help visitors "get" wh
 
 > "If any of these things: *writing research*, *checking manuscripts* and *planning research*, if these can be consolidated on [the top of] your landing page somewhere [...] it might be beneficial because my thought process is that I need to know what I'm doing and only then reporting guidelines can help me, right? So if I know that this website is gonna help me with writing the manuscripts, checking [...] I think then, reporting guidelines can make a logical progression in that particular case?" {{< var pilot.participants.PPT-SK >}}
 
-Even though participants could not download templates or checklists, they had expectations of what these resources might look like.
+Even though participants could not download templates or checklists (there were buttons, but clicking these did not trigger a download), they had expectations of what these resources might look like.
 
 > "The checklist could be a pre-populated document that I can go through..it may have a table that I could go through as a tick box exercise ticking which of the \[guideline reporting items\] my study includes." {{< var pilot.participants.PPT-VS >}}
 

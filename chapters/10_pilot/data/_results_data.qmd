@@ -464,10 +464,6 @@ Throughout the homepage and SRQR page I had tried to convey that reporting guide
 
 Even though the links to the checklist and template were not live, participants expected the resources to be in ready-to-use formats. 
 
-## explain-author-responsibility
-
-No participants commented on this. 
-
 ## design-agnostic
 
 No participants commented on this. 

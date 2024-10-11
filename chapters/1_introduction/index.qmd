@@ -7,8 +7,6 @@ format:
         output-file: JH-chapter-introduction.docx
 ---
 
-# Introduction 
-
 ::: { .content-visible when-format="docx"}
 
 ::: {.callout}

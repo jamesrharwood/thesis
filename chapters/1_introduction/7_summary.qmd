@@ -4,4 +4,4 @@ In summary, medical research is often poorly reported, and this makes it difficu
 
 I've introduced reporting guidelines as recommendations, created by the research community with the aim to improve reporting quality. I've described how a system of tools, websites, people, and policies has organically grown around reporting guidelines, and I have argued this system forms a complex behaviour change intervention with the goal of altering what authors write. 
 
-I've discussed how this system has had only a modest effect on reporting quality, at best. I've described how studies exploring modifications to this system are limited because they did not explore barriers thoroughly, and lacked a systematic method to identify options to address those barriers. 
+I've discussed how this system has had only a modest effect on reporting quality, at best. I've described how studies exploring modifications to this system are limited because they did not thoroughly explore barriers or facilitators that influence reporting guideline adherence, and lacked a systematic method to identify options to address those influences. 

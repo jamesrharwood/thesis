@@ -2,9 +2,9 @@
 
 ### Intervention components 
 
-From the initial list of {{< var counts.sub_ideas >}} ideas I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} influences. The full table is long and disrupted the narrative of this chapter, and so I moved it to Appendix {{< var appendix.ict >}}. In this chapter I've included shorter tables for each intervention part, and summarised each component by the intervention function and behaviour change technique it employs.
+From the initial list of {{< var counts.sub_ideas >}} ideas I identified {{< var counts.redesign.intervention-components.unique >}} intervention components that could be implemented by redesigning guidelines and by improving the EQUATOR Network home page. Together, these components use {{< var counts.redesign.bcts-used >}} behaviour change techniques and {{< var counts.redesign.intervention-functions-used >}} intervention functions to target {{< var counts.redesign.barriers-targeted >}} influences. Of these {{< var counts.redesign.intervention-components.unique >}} intervention components I managed to include {{< var counts.redesign.intervention-components.included_unique >}} when redesigning SRQR and EQUATOR's home page. The remainder were not feasible. 
 
-Of these {{< var counts.redesign.intervention-components.unique >}} intervention components I managed to include {{< var counts.redesign.intervention-components.included_unique >}} when redesigning SRQR and EQUATOR's home page. I'll now go through parts of the design and summarize the components in each.
+The full intervention component table is long and disrupted the narrative of this chapter, and so I moved it to Appendix {{< var appendix.ict >}}. In this chapter I've included shorter tables for each intervention part, and summarised included components labelled with their intervention function and employed behaviour change technique. I'll now go through parts of the design and summarize the components in each.
 
 ### Intervention description
 
@@ -22,7 +22,7 @@ Some intervention components required considering how authors would navigate and
 
 We also decided to display the full guidance texts on the website whenever licences allow. Currently, EQUATOR's website directs authors to different publishers and guideline development group websites. Sometimes the full guidance is published as a supplementary material, and checklists can appear as supplements, tables, or figures. Bringing the full guidance texts to a single website makes them easier to find, means we can ensure all have a consistent, usable format, and allows us to track authors behaviour. But this is only possible when guidance is published under a permissible licence. 
 
-When discussing how authors would navigate the website, we decided to cater to both users that search and users that browse. The website features a search function adhering to user experience norms (the search button on EQUATOR's original website is difficult to find), and each web page has enhanced meta data to optimise search engine performance. To help browsing authors, we decided to ensure all guidelines and resources link to each other. Previously, guidelines rarely linked to each other, and checklists rarely linked to full guidance. In the redesign, guidelines link to related guidelines, and all resources link to each other. In the future, EQUATOR may consider creating collections of related guidelines (e.g., a page featuring all guidelines relating to a study design, health condition, or theme), decision aid tools, or may embed related guidelines (e.g., PRISMA for Abstracts could be embedded within PRISMA). 
+When discussing how authors would navigate the website, we decided to cater to both users that search and users that browse. The website features a search function adhering to user experience norms (the search button on EQUATOR's original website is difficult to find), and each web page has enhanced meta data to optimise search engine performance. To help browsing authors, we decided to ensure all related guidelines and resources link to each other. Previously, guidelines rarely linked to each other, and checklists rarely linked to full guidance. In the redesign, guidelines link to related guidelines, and all resources link to each other. In the future, EQUATOR may consider creating collections of related guidelines (e.g., a page featuring all guidelines relating to a study design, health condition, or theme), decision aid tools, or may embed related guidelines (e.g., PRISMA for Abstracts could be embedded within PRISMA). 
 
 {{< include data/tables/organisation.md >}}
 
@@ -42,10 +42,10 @@ Finally, because my thematic synthesis found some authors describe reporting gui
 
 EQUATOR's current home page (see @fig-home-b4) does not define what reporting guidelines are, or how or why to use them. Although it is full of content, the overall impression is one of complexity with no clear message. Intervention components appearing on the home page are listed in @tbl-ics-home. Its limitations include:
 
-1) No prominent description of what RGs are
-2) No clear instruction on what tasks RGs can and cannot be used for 
+1) No prominent description of what reporting guidelines are
+2) No clear instruction on what tasks reporting guidelines can and cannot be used for 
 3) Search function hard to find (area A) 
-4) Decision tool for identifying which RG to use was hard to find (area B) 
+4) Decision tool for identifying which reporting guideline to use was hard to find (area B) 
 5) The page looked cluttered and unappealing 
 6) The tone of voice was functional. It was not particularly judgemental but not reassuring either. 
 7) There was little description of benefits of using a reporting guideline besides the mention of 'quality' and 'transparency' in the definition of EQUATOR, reference to 'high-impact research', 'improve your writing', and 'enhance your peer review' in the header. 
@@ -58,12 +58,12 @@ EQUATOR's current home page (see @fig-home-b4) does not define what reporting gu
 
 In contract, the redesigned homepage aims to minimise the proportion of authors leaving the website without engaging with reporting guidelines. The home page explains what reporting guidelines are, what writing tasks to use them for, the personal benefits they offer, and why reporting is important for reproducibility. Short quotes from authors and editors, expounding the benefits of using reporting guidelines aim to convince sceptical authors. The redesigned home page can bee seen in @fig-home. Intervention changes made to the homepage include:  
 
-1) RGs are now clearly defined (areas A) 
-2) The site looks simple and has plenty of white space  
-3) Personal benefits are described explicitly and communicated through reassuring language and quotes (see areas B)  
+1) Reporting guidelines are now clearly defined (areas A) 
+2) The site looks simple and has plenty of white space
+3) Personal benefits are described explicitly and communicated through reassuring language and quotes (see areas B)
 4) Search and browse buttons are easy to find (area C) 
 5) Frequently accessed guidelines are still easy to find (area D) 
-6) The site describes what tasks RGs can be used for, and differentiates tools by task (area E)
+6) The site describes what tasks reporting guidelines can be used for, and differentiates tools by task (area E)
 
 ![Intervention home page. 
 ](figures/home.png){#fig-home height=200mm}
@@ -75,9 +75,9 @@ In contract, the redesigned homepage aims to minimise the proportion of authors 
 Although some journals direct authors to EQUATOR's home page,  others send authors straight to EQUATOR's database records for a particular reporting guidelines. Although EQUATOR's database pages for each guideline do include some explanation of when the guideline should be used, and links to related guidelines and tools, this information was quite hard to find and the pages lacked many other intervention components (see @fig-db-b4). Limitations of the existing database pages include:
 
 1) The actual guidance is hard to find. Area A includes 3 links. The first two send users to an article describing how SRQR was developed. The actual guidance appears in a supplement of that article, which is the third link in area A. The label "relevant URLs" is vague. 
-2) Little instruction regarding what the RG is or can be used for other than "Qualitative research" 
-3) Links to related guidelines that are hard to find or, for SRQR, absent 
-4) No metrics around how many authors use this RG (e.g., citation counts) 
+2) Little instruction regarding what the reporting guideline is or can be used for other than "Qualitative research" 
+3) Links to related guidelines that are hard to find or, as for SRQR, absent 
+4) No metrics around how many authors use this reporting guideline (e.g., citation counts) 
 5) The French translation of the guidance is well labelled and fairly easy to find (area B), but to the right of it is a box prominently labelled "Translations", and the link in here would actually take the user further away from the translated guidance.
 
 <!-- ## FIG-DB-B4 -->
@@ -89,16 +89,16 @@ EQUATOR's database pages direct authors to reporting guideline publications. Alt
 2) The actual guidance or checklist may be relegated to a box, table (area B), or a linked supplement (see area C) . 
 3) Reporting guideline publications may not reassure authors that most research has limitations, and that transparency is OK 
 4) Publications may not be written with a reassuring tone of voice. Guideline developers often justify reporting items by emphasising the negative impact of research waste. This may be how developers justify their work to themselves, editors, reviewers, or readers. As a result, to a naïve author considering using the guidance, the tone of voice may come across as judgemental. 
-5) Benefits to the user may be hard to find or (as with this reporting guideline) not described at all. Benefits to _others_ are more likely to be described, including a focus on how transparent, complete reporting benefits the research community or, conversely, how poor reporting is wasteful. 
+5) Benefits to the user may be hard to find or (as with SRQR) not described at all. Benefits to _others_ are more likely to be described, including a focus on how transparent, complete reporting benefits the research community or, conversely, how poor reporting is wasteful. 
 6) Instruction on when reporting guidelines do/do not intend to prescribe structure, or instruction may be hard to find (see area D) or missing. 
 7) Instructions on whether a reporting guideline intends to be a strict standard vs. 'just' a guideline may be hard to find (see area D) or missing. 
-8) Links to related resources only include those that were created before the reporting guideline was published. Some guidelines don't include any links.  
+8) Links to related resources only include those that were created before the reporting guideline was published. Some guidelines don't include any links.
 9) No clear instruction on whether to use the guideline in a situation that it wasn't designed for, but when no better guidance exists.
 
-<!-- ## FIG-RG-INTRO-B4 -->
+<!-- ## FIG-reporting guideline-INTRO-B4 -->
 ![The SRQR publication, captured on the 5th April, 2023. Areas A-D show the scope, checklist, link to the guidance, and its strictness.](figures/rg-intro-b4.png){#fig-rg-intro-b4 height=200mm}
 
-In my redesign, I wanted authors to be able to find the full guidance directly, without having to navigate a database page or lengthy development article. However, I still wanted to give guidelines introduction and FAQ sections to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and, if it does, to convince them to use it (see @tbl-ics-rg-intro). Because half of visitors bypass the home page and arrive directly on these guideline-specific pages, I decided to duplicate some home page components aimed at naïve authors such as basic information on what reporting guidelines, how to use them, when to use them, and why. Intervention changes included in reporting guidelines' introductions and FAQs (shown in @fig-rg-intro) include:
+In my redesign, I wanted authors to be able to find the full guidance directly, without having to navigate a database page or lengthy development article. However, I still wanted to include an introduction and FAQ section to help authors quickly understand what the guideline is, what it _isn't_, whether it applies to them and, if it does, to convince them to use it (see @tbl-ics-rg-intro). Because half of visitors bypass the home page and arrive directly on these guideline-specific pages, I decided to duplicate some home page components aimed at naïve authors such as basic information on what reporting guidelines, how to use them, when to use them, and why. Intervention changes included in reporting guidelines' introductions and FAQs (shown in @fig-rg-intro) include:
 
 1) Clear description of what the reporting guideline is, what it can and cannot be used for, the benefits to the author and to society, and how and when it can be used. (area A) 
 2) Description of whether the reporting guideline is intended to be a standard or 'just' a guideline (area A) 
@@ -109,11 +109,11 @@ In my redesign, I wanted authors to be able to find the full guidance directly, 
 7) Reassuring language throughout, and reassuring quotes from editors, readers, and authors (e.g., area F) 
 8) Citation metrics (area G) 
 9) An estimation of how long guidance will take to read (area H) 
-10) Advice on how or where to report items so as not to breach word count limits and when RGs do or do not intend to prescribe structure (area I) 
+10) Advice on how or where to report items so as not to breach word count limits and when reporting guidelines do or do not intend to prescribe structure (area I) 
 11) Citation information (area K) 
 12) Information on how the guidance was developed and why it can be trusted (area L) 
 
-<!-- ## FIG-RG -->
+<!-- ## FIG-reporting guideline -->
 ![Redesigned intervention reporting guideline introduction and FAQ. Labelled areas include intervention components and are descirbed in the preceding paragraph.](figures/rg-after.png){#fig-rg-intro height=200mm}
 
 {{< include data/tables/rg_intro.md >}}
@@ -122,12 +122,12 @@ In my redesign, I wanted authors to be able to find the full guidance directly, 
 
 Reporting guidelines comprise reporting _items_, and an example from SRQR is in @fig-item-b4. Limitations of how items are typically described include:
 
-1) Text is unstructured, so it is difficult to immediately identify what needs to be written.  
-2) Text uses verbose, passive language  
-3) The text appears long and difficult to digest  
-4) Terms aren't always defined  
-5) Not all reporting items are justified  
-6) Not all items include instruction of what to write if the item could not/was not done.  
+1) Text is unstructured, so it is difficult to immediately identify what needs to be written.
+2) Text uses verbose, passive language
+3) The text appears long and difficult to digest
+4) Terms are not always defined
+5) Not all reporting items are justified
+6) Not all items include instruction of what to write if the item could not/was not done.
 
 ![An example item from the SRQR guideline. Limitations may include](figures/item-b4.png){#fig-item-b4 height=150mm}
 
@@ -172,6 +172,6 @@ Many researchers already use tools like RStudio @positRStudioIntegratedDevelopme
 
 Quarto websites do not require a database or a server. This means they are free to host, easy to maintain, and have fewer data security concerns. Because all reporting guideline content is saved as plain text files, these files can be version controlled on Github, an industry-leading version control system commonly used by academics, and each version can be cited. This means guideline developers will be able to release incremental updates (e.g., to clarify the wording of a reporting item) and authors will be able to cite the exact version of the guidance they used. 
 
-I've made all code available on Github @jamesrharwoodEQUATORGuidelinesWebsite2023. I've used Github Pages @GitHubPages to host the website because it is free, secure, beginner friendly, configurable, and integrates seamlessly with Github's version control system. 
+I've made all code available on Github @jamesharwoodEQUATORGuidelinesWebsite2023. I've used Github Pages @GitHubPages to host the website because it is free, secure, beginner friendly, configurable, and integrates seamlessly with Github's version control system. 
 
 <!-- #STRETCH Consider putting outstanding components into the relevant tables or a separate one. -->

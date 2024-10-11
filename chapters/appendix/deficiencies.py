@@ -56,7 +56,7 @@ for IC in ICs:
     if not IC:
         continue
     ic_id, ic_text = IC.split('\n\n', 1)
-    text += "### " + VAR["intervention-components"][ic_id]["title"]
+    text += "## " + VAR["intervention-components"][ic_id]["title"]
     text += "\n\n"
     text += H8 + " Relevant website features: " +  VAR["intervention-components"][ic_id]["description"]
     text += "\n\n"

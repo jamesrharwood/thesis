@@ -1,6 +1,6 @@
 commitID: COMMITID
 bibliography: references.bib
-csl: springer-vancouver.csl
+csl: vancouver.csl
 filters:
   - filters/docx-landscape.lua
   - filters/replace_todo.lua

@@ -1,7 +1,5 @@
 ## SRQR Checklist for chapter {{< var chapters.workshops >}} {.appendix}
 
-<!-- #ASK - not a great fit for workshops, esp as I didn't perform much analysis. -->
-
 | No. | Item                                                                                         | Description                                                                                                                                                                                                                                                                                                                                      | Location                                                                                                                                                                              |
 |-----|---------|---------------|---------------------------------------------|
 | 1   | Title                                                                                        | Concise description of the nature and topic of the study. Identifying the study as qualitative or indicating the approach (e.g., ethnography, grounded theory) or data collection methods (e.g., interview, focus group) is recommended.                                                                                                         | Title of chapter                                                                                                                                                                      |

@@ -1,14 +1,14 @@
-## Before developing a reporting guideline
+## Before developing a reporting guideline{.unnumbered}
 
 
 
-## 1: Create reporting guidance for early stages of research{#sec-create-early-guidance}
+## Create reporting guidance for early stages of research{#sec-create-early-guidance}
 
 Consider creating reporting guidance to help authors write protocols, funding applications, and ethics applications.
 
 ######## Who could do this: Guideline developers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not have tools for the job at hand](#sec-need-tools)
 ######### [Researchers may not encounter reporting guidelines early enough to act on them](#sec-need-right-time)
@@ -19,7 +19,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 
-## 2: Avoid confusing authors with too many reporting guidelines{#sec-avoid-proliferation}
+## Avoid confusing authors with too many reporting guidelines{#sec-avoid-proliferation}
 
 * To avoid duplicating resources, before commencing a new reporting guideline:
   * consult EQUATOR's register of reporting guidelines under development;
@@ -31,7 +31,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 ######## Who could do this: Guideline developers, EQUATOR Network, Publishers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what reporting guidelines exist](#sec-what-rgs-exist)
 ######### [Researchers may struggle to reconcile multiple sets of guidance](#sec-need-to-reconcile)
@@ -41,11 +41,11 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 
-## When developing a reporting guideline
+## When developing a reporting guideline{.unnumbered}
 
 
 
-## 1: Avoid prescribing structure{#sec-avoid-prescribing-structure}
+## Avoid prescribing structure{#sec-avoid-prescribing-structure}
 
 * Avoid prescribing structure of a journal article as it may clash with journal requirements or other reporting guidelines.
 * Instead, give options for where items can be reported.
@@ -53,7 +53,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 ######## Who could do this: Guideline developers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may struggle to reconcile multiple sets of guidance](#sec-need-to-reconcile)
 ######### [Researchers may struggle to keep writing concise](#sec-need-concise-writing)
@@ -64,7 +64,7 @@ Consider creating reporting guidance to help authors write protocols, funding ap
 
 
 
-## 2: Keep reporting guidelines agnostic to design choices{#sec-design-agnostic}
+## Keep reporting guidelines agnostic to design choices{#sec-design-agnostic}
 
 Ask authors to describe methods transparently without making assumptions about, or prescribing, methods or design choices. For example, an instruction to "describe how you determined your sample size" may be more helpful than "report your sample size calculation" for authors who encounter checklists at submission and did not perform a sample size calculation before collecting data.
 
@@ -78,7 +78,7 @@ Consider linking to external design or appraisal tools instead.
 
 ######## Who could do this: Guideline developers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may feel restricted if reporting guidelines prescribe design](#sec-feel-restricted)
 ######### [Researchers may feel afraid to report transparently](#sec-feel-transparent)
@@ -91,7 +91,7 @@ Consider linking to external design or appraisal tools instead.
 
 
 
-## 3: Describe reporting items fully{#sec-item-content}
+## Describe reporting items fully{#sec-item-content}
 
 For each item, authors may need to know the following:
 
@@ -111,7 +111,7 @@ For each item, authors may need to know the following:
 
 ######## Who could do this: Guideline developers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know whether a reporting guideline applies to them](#sec-scope)
 ######### [Researchers may not know how to report an item in practice](#sec-how-to-report)
@@ -130,7 +130,7 @@ For each item, authors may need to know the following:
 
 
 
-## 4: Describe each reporting guideline fully{#sec-rg-introductions}
+## Describe each reporting guideline fully{#sec-rg-introductions}
 
 For each reporting guideline, authors may need the following information:
 
@@ -143,7 +143,7 @@ For each reporting guideline, authors may need the following information:
 
 ######## Who could do this: Guideline developers, EQUATOR Network
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know whether a reporting guideline applies to them](#sec-scope)
 ######### [Researchers may not know what reporting guidelines exist](#sec-what-rgs-exist)
@@ -159,7 +159,7 @@ For each reporting guideline, authors may need the following information:
 
 
 
-## 5: Keep guidance short{#sec-keep-short}
+## Keep guidance short{#sec-keep-short}
 
 Keep guidance as a short as possible:
 
@@ -170,7 +170,7 @@ Keep guidance as a short as possible:
 
 ######## Who could do this: Guideline developers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers have limited time](#sec-need-enough-time)
 ######### [Researchers may expect the costs to outweigh benefits](#sec-believed-costs)
@@ -179,17 +179,17 @@ Keep guidance as a short as possible:
 
 
 
-## When writing guidance down and creating resources
+## When writing guidance down and creating resources{.unnumbered}
 
 
 
-## 1: Make resources ready-to-use{#sec-ready-to-use}
+## Make resources ready-to-use{#sec-ready-to-use}
 
 Ensure resources are ready-to-use e.g., checklists as Word files, not as tables within published articles.
 
 ######## Who could do this: Guideline developers, EQUATOR Network
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Reporting guideline resources may not be in usable formats](#sec-need-usable-formats)
 ######### [Researchers have limited time](#sec-need-enough-time)
@@ -200,7 +200,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 
 
-## 2: Make reporting guidelines easy to understand{#sec-easy-understand}
+## Make reporting guidelines easy to understand{#sec-easy-understand}
 
 * Use plain language.
 * Define key terms.
@@ -210,7 +210,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 ######## Who could do this: Guideline developers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may misunderstand](#sec-understanding)
 ######### [Researchers may not understand the language](#sec-need-translations)
@@ -221,7 +221,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 
 
-## 3: Use persuasive language and design{#sec-persuade}
+## Use persuasive language and design{#sec-persuade}
 
 * Use language and design to communicate confidence and simplicity as opposed to judgement and complexity.
 * Encourage explanation even when choices were unusual or sub-optimal.
@@ -232,7 +232,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 ######## Who could do this: Guideline developers, EQUATOR Network, Publishers, Funders, Ethics committees, Institutions, Conference organisers, Registries, Preprint servers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may feel afraid to report transparently](#sec-feel-transparent)
 ######### [Researchers may feel patronized](#sec-feel-patronized)
@@ -245,7 +245,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 
 
 
-## 4: Create additional tools{#sec-create-tools}
+## Create additional tools{#sec-create-tools}
 
 Create tools for different tasks:
 
@@ -265,7 +265,7 @@ Create tools for different tasks:
 
 ######## Who could do this: Guideline developers, EQUATOR Network, Funders, Ethics committees, Publishers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not have tools for the job at hand](#sec-need-tools)
 ######### [Researchers may not encounter reporting guidelines early enough to act on them](#sec-need-right-time)
@@ -276,7 +276,7 @@ Create tools for different tasks:
 
 
 
-## 5: Make resources easy to discover and find{#sec-findable-resources}
+## Make resources easy to discover and find{#sec-findable-resources}
 
 Link resources:
 
@@ -300,7 +300,7 @@ Names reporting guidelines to make them easy to discover and find:
 
 ######## Who could do this: Guideline developers, EQUATOR Network
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what reporting guidelines exist](#sec-what-rgs-exist)
 ######### [Researchers may not know what resources exist for a reporting guideline](#sec-what-resources-exist)
@@ -313,7 +313,7 @@ Names reporting guidelines to make them easy to discover and find:
 
 
 
-## 6: Make information digestible{#sec-information-architecture}
+## Make information digestible{#sec-information-architecture}
 
 Organise information so it is easy to navigate and not overwhelming.
 
@@ -326,7 +326,7 @@ Organise information so it is easy to navigate and not overwhelming.
 
 ######## Who could do this: Guideline developers, EQUATOR Network
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers have limited time](#sec-need-enough-time)
 ######### [Researchers may expect the costs to outweigh benefits](#sec-believed-costs)
@@ -336,11 +336,11 @@ Organise information so it is easy to navigate and not overwhelming.
 
 
 
-## When disseminating resources
+## When disseminating resources{.unnumbered}
 
 
 
-## 1: Describe reporting guidelines where they are encountered{#sec-value-statement}
+## Describe reporting guidelines where they are encountered{#sec-value-statement}
 
 * When authors first encounter reporting guidelines they may need to know:
   * what reporting guidelines are
@@ -357,7 +357,7 @@ Organise information so it is easy to navigate and not overwhelming.
 
 ######## Who could do this: Publishers, EQUATOR Network, Guideline developers, Funders, Ethics committees, Institutions, Registries, Preprint servers, Conference organisers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what reporting guidelines are](#sec-what-are-rgs)
 ######### [Researchers may not know when reporting guidelines should be used](#sec-when-to-use)
@@ -371,13 +371,13 @@ Organise information so it is easy to navigate and not overwhelming.
 
 
 
-## 2: Make resources accessible{#sec-accessible}
+## Make resources accessible{#sec-accessible}
 
 Ensure resources are open access. This allows access to authors without journal subscriptions and allows others to build upon the guidance.
 
 ######## Who could do this: Guideline developers, EQUATOR Network
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Reporting guidelines may be difficult to access](#sec-need-accessible)
 
@@ -387,14 +387,14 @@ Ensure resources are open access. This allows access to authors without journal 
 
 
 
-## 3: Show and encourage citations{#sec-citation}
+## Show and encourage citations{#sec-citation}
 
 * Display usage data (like citations or downloads) alongside the guidelines as a form of social proof.
 * Encourage authors to cite the reporting guideline so readers discover it.
 
 ######## Who could do this: Guideline developers, EQUATOR Network, Publishers, Conference organisers, Preprint servers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what reporting guidelines exist](#sec-what-rgs-exist)
 ######### [Researchers may not believe stated benefits](#sec-believed-benefits)
@@ -405,7 +405,7 @@ Ensure resources are open access. This allows access to authors without journal 
 
 
 
-## 4: Provide testimonials{#sec-testimonials}
+## Provide testimonials{#sec-testimonials}
 
 Testimonials can be short quotes or longer case studies. They could come from:
 
@@ -417,7 +417,7 @@ Testimonials can be short quotes or longer case studies. They could come from:
 
 ######## Who could do this: Guideline developers, EQUATOR Network
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what benefits to expect](#sec-benefits)
 ######### [Researchers may not believe stated benefits](#sec-believed-benefits)
@@ -429,17 +429,17 @@ Testimonials can be short quotes or longer case studies. They could come from:
 
 
 
-## On an ongoing basis
+## On an ongoing basis{.unnumbered}
 
 
 
-## 1: Budget for reporting{#sec-budget-and-fund-reporting}
+## Budget for reporting{#sec-budget-and-fund-reporting}
 
 Funders and research supervisors could encourage researchers to allocate sufficient time and money for documenting and reporting results of their research.
 
 ######## Who could do this: Funders, Institutions
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers have limited time](#sec-need-enough-time)
 ######### [Researchers may not consider writing as reporting](#sec-feel-not-a-job)
@@ -450,7 +450,7 @@ Funders and research supervisors could encourage researchers to allocate suffici
 
 
 
-## 2: Create rewards{#sec-create-rewards}
+## Create rewards{#sec-create-rewards}
 
 Stakeholders could create new rewards:
 
@@ -463,7 +463,7 @@ Stakeholders could create new rewards:
 
 ######## Who could do this: Guideline developers, EQUATOR Network, Publishers, Funders, Institutions, Preprint servers, Registries
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not care about the benefits of using a reporting guideline](#sec-care-about-benefits)
 
@@ -473,7 +473,7 @@ Stakeholders could create new rewards:
 
 
 
-## 3: Create discussion spaces{#sec-create-spaces}
+## Create discussion spaces{#sec-create-spaces}
 
 Create spaces for authors to discuss reporting and reporting guidelines. These could be:
 
@@ -489,7 +489,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 
 ######## Who could do this: EQUATOR Network, Guideline developers, Institutions
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may misunderstand](#sec-understanding)
 ######### [Researchers may feel patronized](#sec-feel-patronized)
@@ -503,7 +503,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 
 
 
-## 4: Create ways to catch authors earlier{#sec-early-acquisition}
+## Create ways to catch authors earlier{#sec-early-acquisition}
 
 * Consider creating email campaigns to prompt researchers at early stages.
 * The EQUATOR website could encourage visitors to use reporting guidelines for planning and drafting research.
@@ -512,7 +512,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 
 ######## Who could do this: EQUATOR Network, Guideline developers, Publishers, Funders, Ethics committees, Institutions, Conference organisers, Preprint servers, Registries
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may forget to use reporting guidelines at earlier research stages](#sec-need-prompts)
 ######### [Researchers may not encounter reporting guidelines early enough to act on them](#sec-need-right-time)
@@ -525,7 +525,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 
 
 
-## 5: Endorse and enforce reporting guidelines{#sec-endorse-enforce}
+## Endorse and enforce reporting guidelines{#sec-endorse-enforce}
 
 Stakeholders could:
 
@@ -535,7 +535,7 @@ Stakeholders could:
 
 ######## Who could do this: Publishers, Institutions, Ethics committees, Funders, Registries, Conference organisers, Preprint servers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what reporting guidelines exist](#sec-what-rgs-exist)
 ######### [Researchers may expect the costs to outweigh benefits](#sec-believed-costs)
@@ -546,7 +546,7 @@ Stakeholders could:
 
 
 
-## 6: Evidence the benefits{#sec-evidence-benefits}
+## Evidence the benefits{#sec-evidence-benefits}
 
 Evidence any stated benefits:
 
@@ -555,7 +555,7 @@ Evidence any stated benefits:
 
 ######## Who could do this: Guideline developers, EQUATOR Network, Publishers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not believe stated benefits](#sec-believed-benefits)
 
@@ -565,7 +565,7 @@ Evidence any stated benefits:
 
 
 
-## 7: Make reporting guidelines appear as a priority{#sec-apparent-priority}
+## Make reporting guidelines appear as a priority{#sec-apparent-priority}
 
 Journals, funders and ethics committees could make reporting guidelines appear as a priority:
 
@@ -575,7 +575,7 @@ Journals, funders and ethics committees could make reporting guidelines appear a
 
 ######## Who could do this: Publishers, Funders, Ethics committees, Institutions, Preprint servers, Conference organisers, Registries
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not believe stated benefits](#sec-believed-benefits)
 ######### [Researchers may not care about the benefits of using a reporting guideline](#sec-care-about-benefits)
@@ -586,7 +586,7 @@ Journals, funders and ethics committees could make reporting guidelines appear a
 
 
 
-## 8: Promote reporting guidelines{#sec-promote}
+## Promote reporting guidelines{#sec-promote}
 
 * Promote reporting guidelines on and offline.
   * Online may include websites, email campaigns, social media, and blogs.
@@ -598,7 +598,7 @@ NB. Promotion is different to endorsement; a journal could run an email campaign
 
 ######## Who could do this: Institutions, Publishers, Guideline developers, EQUATOR Network, Ethics committees, Funders, Societies, Registries, Conference organisers, Preprint servers
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what reporting guidelines are](#sec-what-are-rgs)
 ######### [Researchers may not know what reporting guidelines exist](#sec-what-rgs-exist)
@@ -609,7 +609,7 @@ NB. Promotion is different to endorsement; a journal could run an email campaign
 
 
 
-## 9: Install reporting champions{#sec-reporting-champions}
+## Install reporting champions{#sec-reporting-champions}
 
 All stakeholders could have members to promote and facilitate the usage of reporting guidelines.
 
@@ -618,7 +618,7 @@ All stakeholders could have members to promote and facilitate the usage of repor
 
 ######## Who could do this: EQUATOR Network, Guideline developers, Institutions, Funders, Ethics committees, Publishers, Conference organisers, Preprint servers, Registries
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not know what reporting guidelines are](#sec-what-are-rgs)
 ######### [Researchers may not know what benefits to expect](#sec-benefits)
@@ -632,7 +632,7 @@ All stakeholders could have members to promote and facilitate the usage of repor
 
 
 
-## 10: Provide additional teaching{#sec-support}
+## Provide additional teaching{#sec-support}
 
 Provide education or training (e.g., courses, videos) specific to particular reporting guidelines.
 
@@ -645,7 +645,7 @@ More generally, students could:
 
 ######## Who could do this: Guideline developers, EQUATOR Network, Publishers, Institutions, Funders, Ethics committees
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Researchers may not consider writing as reporting](#sec-feel-not-a-job)
 ######### [Researchers may misunderstand](#sec-understanding)
@@ -660,7 +660,7 @@ More generally, students could:
 
 
 
-## 11: Make updating guidelines easier{#sec-updating}
+## Make updating guidelines easier{#sec-updating}
 
 Update guidance in response to user feedback or changes in the field. This would be easier if:
 
@@ -670,7 +670,7 @@ Update guidance in response to user feedback or changes in the field. This would
 
 ######## Who could do this: EQUATOR Network, Funders
 
-######## Barriers addressed: 
+######## Influences addressed: 
 
 ######### [Reporting guidelines can become outdated](#sec-need-up-to-date-guidance)
 ######### [Researchers may misunderstand](#sec-understanding)

@@ -1,5 +1,7 @@
 ## Thesis structure
 
+I have structured my thesis in three parts. Part 1 (chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}}) addresses my first objective, part 2 (chapters {{< var chapters.bcw >}} - {{< var chapters.defining-content >}}) addresses my second and third, and part 3 (chapter {{< var chapters.pilot >}}) addresses my fourth objective. I'll now give a short summary of each chapter. 
+
 **Chapter {{< var chapters.reflexivity >}} - {{< var titles.reflexivity >}}**
 
 I reflect on my background, my prior held opinions, and those of my supervision team, and how these may have influenced the direction of this thesis. 
@@ -30,15 +32,15 @@ This chapter reports focus groups where I collected ideas on how intervention op
 
 **Chapter {{< var chapters.defining-content >}} - {{< var titles.defining_content >}}**
 
-In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components. I then describe how I implemented these components by redesigning a reporting guideline (SRQR) and the EQUATOR Network website's home page.
+In this chapter, I bring together the outputs of the previous two chapters to create a table of intervention components. I then describe how I implemented these components by redesigning a reporting guideline (SRQR), the EQUATOR Network website's home page, and creating a web platform for reporting guideline developers to create and disseminate resources.
 
 **Chapter {{< var chapters.pilot >}} - {{< var titles.pilot >}}**
 
-In this chapter I address my final objective by refining the intervention in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors. 
+In this chapter I address my final objective by refining the redesigned reporting guideline and home page in response to feedback from authors. I describe a qualitative study where I used observation, think aloud, structured interviews, and a writing evaluation, to gather feedback from an international sample of authors. 
 
 **Chapter {{< var chapters.discussion >}} - {{< var titles.discussion >}}**
 
-After summarising my findings and outputs, I reflect on the strengths and limitations of my approach, next steps, and the impact I hope my work will have on the scholarly publishing, the meta-research community, and implications for policy.
+After summarising my findings and outputs, I reflect on the strengths and limitations of my approach, next steps, and the impact I hope my work will have on scholarly publishing, the meta-research community, and implications for policy.
 
 @fig-thesis-graphic summarises the outputs of each research chapter and shows how chapters fed into each other. 
 

@@ -19,15 +19,15 @@ After reading Haynes and Loblay I felt justified letting go of my barrier and fa
 
 ## Methods
 
-I performed a thematic synthesis of qualitative research that explored researchers' experiences of reporting guidelines. When writing this chapter, I used the PRISMA-S guidelines for reporting systematic searches (see appendix {{< var appendix.prisma-s >}}) and the ENTREQ guidelines for reporting qualitative evidence syntheses (see appendix {{< var appendix.entreq >}}) [@rethlefsenPRISMASExtensionPRISMA2021; @tongEnhancingTransparencyReporting2012].
+In order to identify influences that may affect whether authors adhere to reporting guidelines, I performed a thematic synthesis of qualitative research that explored researchers' experiences of reporting guidelines. When writing this chapter, I used the PRISMA-S guidelines for reporting systematic searches (see appendix {{< var appendix.prisma-s >}}) and the ENTREQ guidelines for reporting qualitative evidence syntheses (see appendix {{< var appendix.entreq >}}) [@rethlefsenPRISMASExtensionPRISMA2021; @tongEnhancingTransparencyReporting2012].
 
 ### Researcher roles and characteristics
 
-In the previous chapter I introduced my supervisors Gary Collins, Charlotte Albury, Jennifer de Beyer and Michael Schlüssel, and their relationships with reporting guidelines. In this chapter I also worked with Shona Kirtley, a search specialist at the UK EQUATOR Centre and an author of the PRISMA-S guidelines for reporting systematic review literature searches, and I sought help from Yuting Duan and Lingyun Zhao at the Chinese EQUATOR Centre, run by Professor Zhao-Xiang Bian. As with all work in this thesis, I conceived, coordinated, and led all research.
+In the previous chapter I introduced my supervisors Gary Collins, Charlotte Albury, Jennifer de Beyer and Michael Schlüssel, and our relationships with reporting guidelines. In this chapter I also worked with Shona Kirtley, a search specialist at the UK EQUATOR Centre and an author of the PRISMA-S guidelines for reporting systematic review literature searches, and I sought help from Yuting Duan and Lingyun Zhao at the Chinese EQUATOR Centre, run by Professor Zhao-Xiang Bian. As with all work in this thesis, I conceived, coordinated, and led all research.
 
 ### Approach to searching and data sources 
 
-My search strategy sought all research publications reporting qualitative data exploring researchers' experiences of using reporting guidelines. I wanted to capture the experiences of researchers from around the world, so I included international databases in my information sources. In addition to searching databases and websites, I emailed guideline developers and performed forwards and backwards citation searches. I did not set up article alerts. All data sources are listed in @tbl-info-sources. 
+My search strategy sought all research publications reporting qualitative data exploring researchers' experiences of using reporting guidelines. I wanted to capture the experiences of researchers from around the world, so I included international databases in my information sources. In addition to searching databases and websites, I emailed guideline developers and performed forwards and backwards citation searches. All data sources are listed in @tbl-info-sources. 
 
 ::: {.landscape .column-page-right .content-visible unless-format="pdf"}
 
@@ -57,7 +57,7 @@ Many research articles I found used a mix of quantitative and qualitative survey
 
 ### Electronic search strategy
 
-The UK EQUATOR Centre's search specialist (Shona Kirtley) helped develop comprehensive search strategies, which had a component for reporting guidelines and another for qualitative methods. I constructed my reporting guidelines component from the acronyms of frequently accessed guidelines (@tbl-rgs) with generic terms for reporting guidelines to capture guidelines not named explicitly. My qualitative component came from a review of search filters [@rosumeckValidationStudyRevealed2020], which recommended a sensitive qualitative filter for systematic reviews [@rogersLocatingQualitativeStudies2018]. I extended the filter to include descriptive methods because I knew some of my target records were mixed method surveys. I conducted scoping searches, but my search strategies were not peer reviewed before execution. My search strategies are reported fully in Appendix {{< var appendix.search >}}.
+The UK EQUATOR Centre's search specialist (Shona Kirtley) helped develop comprehensive search strategies, which had a component for reporting guidelines and another for qualitative methods. I constructed my reporting guidelines component from the acronyms of frequently accessed guidelines (@tbl-rgs) with generic terms for reporting guidelines to capture guidelines not named explicitly. My qualitative component came from a review of search filters [@rosumeckValidationStudyRevealed2020], which recommended a sensitive qualitative filter for systematic reviews [@rogersLocatingQualitativeStudies2018]. I extended the filter to include descriptive methods because I knew some of my target records were mixed method surveys. I conducted scoping searches, but my search strategies were not peer reviewed before execution and I did not set up article alerts. My search strategies are reported fully in Appendix {{< var appendix.search >}}.
 
 {{< include tbl_rgs.qmd >}}
 
@@ -129,7 +129,7 @@ As mentioned in the introduction of this chapter, I identified that barriers and
 
 Researchers commonly stated that they need more information to fully understand the intention of the guideline developer. When asked about the clarity of guidance, researchers across many studies reported difficulty in understanding certain terms, concepts, or checklist items:
 
-> 'outcome': "Does it mean the domain, or does it mean the domain measure, metric, method of aggregation, and time?" [@pageUpdatingGuidanceReporting2021].
+> "Does [the word _outcome_] mean the domain, or does it mean the domain measure, metric, method of aggregation, and time? [@pageUpdatingGuidanceReporting2021]."
 >
 > "Primary and secondary improvement related question is confusing, what does that mean?... I had a hard time with the [difference between the] improvement question and the study question." [@daviesSQUIREGuidelinesEvaluation2015]
 
@@ -189,7 +189,7 @@ Although reporting guidelines were designed to help researchers draft and check 
 
 Researchers noted that some items require extra work, either to collect the necessary information or just to think about and report, and that sometimes this workload felt overly burdensome:
 
-> "If I put the onus on everybody out there who's trying to improve care to deal with that sophisticated question [...], I just think I are putting a barrier in place that is going to be a mountain" [@daviesFindingsNovelApproach2016]
+> "If [reporting guideline developers] put the onus on everybody out there who's trying to improve care to deal with that sophisticated question [...], I just think [they] are putting a barrier in place that is going to be a mountain" [@daviesFindingsNovelApproach2016]
 
 This work requires time, and "the length of time it would take to consider the items" [@burfordTestingPRISMAEquity20122013] was cited by many researchers as a cost, with some asking themselves whether "sufﬁcient time [was] available to comply with [the] reporting guideline" [@fullerWhatAffectsAuthors2015].
 
@@ -211,7 +211,7 @@ This problem was exacerbated by journal word limits:
 >
 > "two remarked that word limitations has necessitated removal of many items" [@pradyAssessingUtilityStandards2007]
 
-Although a handful of researchers noted that "the relaxation of word limits" [@fullerWhatAffectsAuthors2015] would help, many researchers objected to long articles because they were bloated, harder to read, or simply "unintelligible" [@daviesSQUIREGuidelinesEvaluation2015] and requested strategies to "enhance readability" regardless of journal policies. Some wondered where they could place this information besides the article body, such as "in an appendix", an "online supplement or repository", or a figure [@pageUpdatingGuidanceReporting2021]. Some researchers preferred to report information in the checklist instead of the article body because of "space restrictions, because [it was] a minor component of the study, because they considered the information to be obvious, or because they were unsure of how to incorporate it in the manuscript." [@sertARRIVEGuidelinesUpdated2020]. Some used this strategy to report items that had "not been used or observed during the study, for example that no inclusion or exclusion criteria had been set, no data had been excluded, randomisation and blinding had not been used..." [@sertARRIVEGuidelinesUpdated2020] although it was not clear whether this was motivated by a desire for a concise article or a concern about highlighting potential weaknesses.
+Although a handful of researchers noted that "the relaxation of word limits" [@fullerWhatAffectsAuthors2015] would help, many researchers objected to long articles because they were bloated, harder to read, or simply "unintelligible" [@daviesSQUIREGuidelinesEvaluation2015] and requested strategies to "enhance readability" regardless of journal policies. Some wondered where they could place this information outside of the article body, such as "in an appendix", an "online supplement or repository", or a figure [@pageUpdatingGuidanceReporting2021]. Some researchers preferred to report information in the checklist instead of the article body because of "space restrictions, because [it was] a minor component of the study, because they considered the information to be obvious, or because they were unsure of how to incorporate it in the manuscript." [@sertARRIVEGuidelinesUpdated2020]. Some used this strategy to report items that had "not been used or observed during the study, for example that no inclusion or exclusion criteria had been set, no data had been excluded, randomisation and blinding had not been used..." [@sertARRIVEGuidelinesUpdated2020] although it was not clear whether this was motivated by a desire for a concise article or a concern about highlighting potential weaknesses.
 
 Faced with the costs of time, work and article length, some researchers explicitly weighed perceived benefits against costs and disagreed about the balance:
 
@@ -243,7 +243,7 @@ Some researchers described being unable to report items because of external fact
 >
 > "The RCT was initiated before trial registration became customary in Norway, and therefore does not have a Trial ID number." [@eysenbachg.CONSORTEHEALTHImplementationChecklist2013]
 
-This left some researchers fearing that "an ''incomplete'' checklist [gave] the impression that their study is ''less than 'perfect'.''[@sharpOnlineSurveySTROBE2020]. Some expressed concern that strict wording that assumed something was done may "force people to lie/mislead by asking a question they cannot answer" [@pageUpdatingGuidanceReporting2021] and suggested that guidance should instead use more agnostic language and specify what to do if an item were not addressed, such as "If no publicly accessible protocol is available, please state this" [@pageUpdatingGuidanceReporting2021].
+This left some researchers fearing that "an incomplete checklist [gave] the impression that their study is less than perfect."[@sharpOnlineSurveySTROBE2020]. Some expressed concern that strict wording that assumed something was done may "force people to lie/mislead by asking a question they cannot answer" [@pageUpdatingGuidanceReporting2021] and suggested that guidance should instead use more agnostic language and specify what to do if an item were not addressed, such as "If no publicly accessible protocol is available, please state this" [@pageUpdatingGuidanceReporting2021].
 
 #### 7) Awareness and accessibility may limit reporting guideline usage
 
@@ -257,7 +257,7 @@ One researcher wrote that "poor dissemination strategy by authors of reporting g
 
 Some researchers reported that they didn't need the guidance as they were experienced enough to know what they were doing:
 
-> "One of the most prevalent themes was the expression of self-assuredness. ''[I] follow the STROBE guidelines in my reporting reasonably well without actually referring to them or using a checklist'' (group 3, ID1) and ''[I] already apply the STROBE recommendations despite not having heard of it until today''" [@sharpOnlineSurveySTROBE2020]
+> "One of the most prevalent themes was the expression of self-assuredness. '[I] follow the STROBE guidelines in my reporting reasonably well without actually referring to them or using a checklist' (group 3, ID1) and '[I] already apply the STROBE recommendations despite not having heard of it until today'" [@sharpOnlineSurveySTROBE2020]
 
 Sometimes this was accompanied by an acknowledgement that reporting guidance may be more beneficial to less experienced researchers:
 
@@ -267,7 +267,7 @@ Sometimes this was accompanied by an acknowledgement that reporting guidance may
 >
 > "this exercise might be good for college students but is insulting for professionals" [@eysenbachg.CONSORTEHEALTHImplementationChecklist2013]
 
-However, less experienced researchers often reported finding "reporting guidelines being difficult to use initially" [@fullerWhatAffectsAuthors2015], or that reporting guidelines became easier with experience in medical writing in general, and with experience in using other reporting guidelines. For instance, "Participants with less experience in scholarly medical writing found the SQUIRE Guidelines harder" [@daviesSQUIREGuidelinesEvaluation2015].
+However, less experienced researchers often reported finding "reporting guidelines being difficult to use initially" [@fullerWhatAffectsAuthors2015], or that a reporting guideline became easier after repeated use, after using other reporting guidelines, or with experience in medical writing in general. For instance, "Participants with less experience in scholarly medical writing found the SQUIRE Guidelines harder" [@daviesSQUIREGuidelinesEvaluation2015].
 
 #### 9) Researchers want or need design advice, but reporting guidelines may not be the right place
 
@@ -275,13 +275,13 @@ Many researchers reported wanting advice on design choices but disagreed on wher
 
 However, other researchers objected to reporting guidelines that were opinionated about design choices. One user described STROBE as a "procedural straightjacket" [@sharpOnlineSurveySTROBE2020], suggesting that it dictates how studies should be conducted. Users who encounter the guidance late in writing may be unable to act on any design recommendations and consequently may feel fearful of reporting transparently if their design choices deviate from what the guideline recommends as best practice (see *Researchers may not be able to report all items, which can leave them feeling uncertain or worried*).
 
-Perhaps with these concerns in mind, one wrote about the "need to make sure that the language around this elaboration gives [researchers] some flexibility" [@pageUpdatingGuidanceReporting2021], with another noting that "I am OK with the idea of emphasizing the value of [this design choice], but I cannot mandate it" [@pageUpdatingGuidanceReporting2021].
+Perhaps with these concerns in mind, one wrote about the "need to make sure that the language around this elaboration gives [researchers] some flexibility" [@pageUpdatingGuidanceReporting2021], with another noting they were "OK with the idea of emphasizing the value of [this design choice], but [they would not] mandate it" [@pageUpdatingGuidanceReporting2021].
 
 #### 10) Reporting guidelines can be harder to use if their scope is too broad, too narrow, or poorly defined
 
-Reporting guideline developers may narrow the scope of their guidance by limiting it to certain design choices or research contexts. This frustrated some researchers, who noted that narrow "checklists cannot fit all types of research" [@deweyImpactPerceivedValue2019] and "cautioned that ''that balance between freedom and structure is important to consider'' [...] and that it is ''important to recognise that each study/analysis is unique and doesn't always ﬁt with the recommendations''.[@sharpOnlineSurveySTROBE2020]
+Reporting guideline developers may narrow the scope of their guidance by limiting it to certain design choices or research contexts. This frustrated some researchers, who noted that narrow "checklists cannot fit all types of research" [@deweyImpactPerceivedValue2019] and "cautioned that 'balance between freedom and structure is important to consider' [...] and that it is 'important to recognise that each study/analysis is unique and doesn't always ﬁt with the recommendations'".[@sharpOnlineSurveySTROBE2020]
 
-This narrowing of scope may have been a conscious decision, as requested by this researcher giving feedback on a proposed update of the PRISMA guideline: "I need an agreement on whether PRISMA is to be only for intervention studies (as implied by the proposed modification above) or more general." [@pageUpdatingGuidanceReporting2021] However, scope may not always be clearly communicated: another PRISMA user opined that "the assessment of risk of bias, statement of risk ratio and explaining additional analyses depend on the study design ... [For] a systematic review of cross-sectional surveys or a meta-synthesis I do not need this information" [@tamPerceptionPreferredReporting2019], suggesting they were unaware of PRISMA's focus on interventional studies or that MOOSE and ENTREQ would be more appropriate for these kinds of studies (see previous themes for further discussion of awareness and understanding the applicability of reporting guidelines).
+Scope may not always be clearly communicated. One PRISMA user opined that "the assessment of risk of bias, statement of risk ratio and explaining additional analyses depend on the study design ... [For] a systematic review of cross-sectional surveys or a meta-synthesis I do not need this information" [@tamPerceptionPreferredReporting2019], suggesting they were unaware of PRISMA's focus on interventional studies or that MOOSE and ENTREQ would be more appropriate for these kinds of studies (see previous themes for further discussion of awareness and understanding the applicability of reporting guidelines).
 
 Researchers noted that scope could be made broader by removing items or, more commonly, by extending items with more options and examples:
 
@@ -324,7 +324,7 @@ Qualitative methods uncovered issues that may be masked by quantitative surveys.
 
 Despite there being hundreds of reporting guidelines, my search found only 18 studies that collected qualitative data, covering 12 reporting guidelines in total, and only six of the 15 reporting guidelines listed on the EQUATOR Network's homepage. Of notable absence were the COREQ and SRQR guidelines for qualitative research. Given that qualitative research differs from quantitative research in terms of its ontologies, epistemologies, and how it considers replicability and best practice, it would be interesting to know whether qualitative researchers face additional influences not covered here.
 
-Many of the themes centred on understanding and usability. For example, not understanding what reporting guidelines are, their scope, their content, or how to use them. Reporting guideline developers may lack the funds, time, motivation, or expertise to design user-friendly resources or effectively evaluate them. The EQUATOR Network guidance for reporting guideline developers [@moherGuidanceDevelopersHealth2010], published in 2010, covers steps from inception to dissemination but largely neglects user experience or user testing. Only two short sections, totalling eight sentences of an eight-page document, address the importance of gathering user feedback, but the guidance offers no instruction on how to do this. Nor does the guidance advise on usability best-practices. Reporting guideline developers may benefit from advice on how to evaluate their resources and from infrastructure to collect feedback from researchers, such as a commenting system on the EQUATOR Network website.
+Many of the themes centred on understanding and usability. For example, not understanding what reporting guidelines are, their scope, their content, or how to use them. These issues could be resolved through user-friendly design and refinement in response to feedback, but reporting guideline developers may lack the funds, time, motivation, or expertise to design user-friendly resources or effectively test them. The EQUATOR Network guidance for reporting guideline developers [@moherGuidanceDevelopersHealth2010], published in 2010, covers steps from inception to dissemination but largely neglects user experience or user testing. Only two short sections, totalling eight sentences of an eight-page document, address the importance of gathering user feedback, but the guidance offers no instruction on how to do this. Nor does the guidance advise on usability best-practices. Reporting guideline developers may benefit from advice on how to design and refine their resources, and assistance in conducting user testing.
 
 ### Limitations
 

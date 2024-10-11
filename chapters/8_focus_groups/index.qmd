@@ -1,5 +1,5 @@
 ---
-title: "Generating ideas to address influences affecting reporting guideline adherence: focus groups with reporting guideline developers, advocates, and publishers"
+title: "Generating ideas to address influences: focus groups with reporting guideline developers, advocates, and publishers"
 format: 
     html:
         output-file: index.html

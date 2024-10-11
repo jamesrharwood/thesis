@@ -24,11 +24,11 @@ The home page introduced EQUATOR at the very bottom. Participants recommended mo
 
 > "And then this is the thing on the bottom that I want to look at on every website... because I want to see if they have an actual office. So usually I click this "about us" first" {{< var pilot.participants.PPT-RW >}}
 
-> "Oh, so this is your mission. So here my question is _What is this group? What is EQUATOR?_ So this is my first question because from my background, which is not from medicine, I'm not very familiar with this group. So I want to know what is this and the second feeling I have, I think I might want to see this information at the very first beginning...I want to know who this website is created by. Because I want to use a professional website, so I think the reason I read this paragraph is I want to find some evidence to prove that your group is very professional...Well, maybe you can put [the section about EQUATOR] at the very first beginning and provide a little description about what the group is about, what it is, and what are those people where do they come from something like this." {{< var pilot.participants.PPT-JZ >}}
+<!-- > "Oh, so this is your mission. So here my question is _What is this group? What is EQUATOR?_ So this is my first question because from my background, which is not from medicine, I'm not very familiar with this group. So I want to know what is this and the second feeling I have, I think I might want to see this information at the very first beginning...I want to know who this website is created by. Because I want to use a professional website, so I think the reason I read this paragraph is I want to find some evidence to prove that your group is very professional...Well, maybe you can put [the section about EQUATOR] at the very first beginning and provide a little description about what the group is about, what it is, and what are those people where do they come from something like this." {{< var pilot.participants.PPT-JZ >}}
 
 > "I also did some research with my Chinese colleagues and sometimes some prestigious university's logo will add trust, yeah." {{< var pilot.participants.PPT-YD >}}
 
-> "I think sometimes it is useful [...] to put some awards here. Just to make people think you are trustworthy." {{< var pilot.participants.PPT-JZ >}}
+> "I think sometimes it is useful [...] to put some awards here. Just to make people think you are trustworthy." {{< var pilot.participants.PPT-JZ >}} -->
 
 **The site's design could be more professional**
 

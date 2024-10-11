@@ -19,9 +19,9 @@ contributes:
         - partials/in-header.tex
       geometry: 
         - paper=a4paper
-        - inner=2.5cm
-        - outer=3.8cm
-        - bindingoffset=.5cm
+        - inner=3cm
+        - outer=3cm
+        - bindingoffset=0cm
         - top=1.5cm
         - bottom=1.5cm
       colorlinks: true

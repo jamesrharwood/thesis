@@ -2,9 +2,9 @@
 
 In this chapter I describe how I brought together the outputs of all previous research chapters to create an intervention planning table containing intervention components. I then describe how I turned this table into a working prototype ready to be tested by authors.
 
-In chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}} I described how I identified influences affecting whether authors adhere to reporting guidelines. In chapter {{< var chapters.workshops >}} I described how ran workshops with reporting guideline experts at the UK EQUATOR Centre to define a target behaviour, consolidate influences, prioritise intervention functions and policy categories, and how we decided to prioritise redesigning reporting guidelines and the EQUATOR Network's website hope page. In chapter {{< var chapters.focus-groups >}} I described how I asked guideline developers, publishers, and other stakeholders to build upon our workshop outputs by brainstorming solutions to barriers. 
+In chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}} I described how I identified influences affecting whether authors adhere to reporting guidelines. In chapter {{< var chapters.workshops >}} I described how ran workshops with reporting guideline experts at the UK EQUATOR Centre to define a target behaviour, consolidate influences, prioritise intervention functions and policy categories, and how I decided to prioritise redesigning reporting guidelines and the EQUATOR Network's website hope page. In chapter {{< var chapters.focus-groups >}} I described how I asked guideline developers, publishers, and other stakeholders to build upon our workshop outputs by brainstorming solutions to barriers. 
 
-Consequently, at this point in my thesis I had multiple lists; a list of influences, lists of intervention options, and a list of ideas. Not all ideas were relevant to the EQUATOR Network or aligned with our prioritised intervention options, and although ideas referenced influences, the links between ideas, barriers, intervention functions, and behaviour change techniques were not fully explicit. 
+Consequently, at this point in my thesis I had multiple lists; a list of influences, lists of intervention options, and a list of ideas. Not all ideas were relevant to the EQUATOR Network or aligned with our prioritised intervention options, and although ideas referenced influences, the links between ideas, influences, intervention functions, and behaviour change techniques were not fully explicit. 
 
 What remained was to select ideas I could implement, define them as intervention components, then build a prototype I could test with authors. Michie et al.  @michieBehaviourChangeWheel2014 define an intervention component as:
 
@@ -22,5 +22,5 @@ I decided to focus on redesigning one reporting guideline instead of many: the S
 
 In summary, the aim of this chapter was to create an intervention in preparation for a subsequent qualitative user feedback study. My objectives were to:
 
-1. Create a list of intervention components by combining the outputs of previous chapters
-2. Redesign the EQUATOR Network home page and SRQR guideline 
+1. Create a list of intervention components by combining the outputs of previous chapters.
+2. Redesign the EQUATOR Network home page and SRQR guideline.

@@ -1,5 +1,5 @@
-## BCW Step 4 – Consolidated list of what needs to change for the target behaviour to occur {.appendix #app-barriers}
+## BCW Step 4 – Consolidated list of influences needing to change for the target behaviour to occur {.appendix #app-barriers}
 
-The following list of barriers was generated from my thematic synthesis, review of survey questions, and my evaluation of EQUATOR's website.
+The following list of influences was generated from my thematic synthesis, review of survey questions, and my evaluation of EQUATOR's website. I have labelled each influence with ideas to address them, generated in my workshops with reporting guideline experts, and my focus groups with publishers, guideline developers, and advocates. 
 
 {{< include barriers.md >}}

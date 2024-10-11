@@ -6,4 +6,4 @@
 | Legislation                     | Making or changing laws                                                                           | Prohibiting sale or use                                       |
 | Environmental / social planning | Designing and/or controlling the physical or social environment                                   | Establishing support services in workplaces, communities etc. |
 
-: Policy categories, reproduced from @michieBehaviourChangeWheel2011 used under Creative Commons Attribution License {#tbl-policy-categories tbl-colwidths=\[20,40,40\]}
+: Policy categories, reproduced from Michie et al. @michieBehaviourChangeWheel2011 used under Creative Commons Attribution License {#tbl-policy-categories tbl-colwidths=\[20,40,40\]}

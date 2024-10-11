@@ -30,7 +30,7 @@ Many authors discover reporting guidelines as they are submitting to a journal, 
 
 Some intervention components received little to no discussion. The five second test, think aloud, plus minus test, and writing evaluation all examine _salient_ intervention components and will not elicit discussion of un-noticed components.
 
-Sometimes this was useful and expected. For example, one component was to _remove_ patronizing language. That nobody spontaneously described the website as patronizing was a success. Similarly, another component was to use terms consistently. This component was only salient when it had not been applied properly, for instance, where I had used the terms "guidelines" and "reporting guidelines" interchangeably. For components like these, a good outcome is to go unnoticed. However, other components still deserve evaluation even though they are purposefully not salient. My semi structured interview questions addressed this limitation to some extent by asking participants directly about less salient features. 
+Sometimes this was useful and expected. For example, one component was to _remove_ patronizing language. That nobody spontaneously described the website as patronizing was a success. Similarly, another component was to use terms consistently. This component was only salient when it had not been applied properly, for instance, where I had used the terms "guidelines" and "reporting guidelines" interchangeably. For components like these, a good outcome is to go unmentioned. However, other components still deserve evaluation even though they are purposefully not salient. My semi structured interview questions addressed this limitation to some extent by asking participants directly about less salient features. 
 
 Some components could not be fully explored until the website is further developed. For example, although participants recognised the search button, they could not explore the search functionality. Although participants said they liked the links to related guidelines, I could not explore participants' ability to find and select guidelines because the website only included SRQR. Once other guidelines are uploaded, future studies could use task based protocols @cravenTaskBasedApproach2007 to explore how participants find, compare, and select appropriate guidelines.
 
@@ -66,9 +66,9 @@ This study did not aim to explore whether participants preferred the revised rep
 
 Once the new website and redesigned reporting guidelines are live, real world evaluations should continue to monitor, understand, and improve authors' experiences. This will include using google analytics to monitor how authors use the website, online surveys and other feedback channels, and opportunistic recruitment of authors engaged in their day-to-day work. 
 
-Some important metrics include the proportion of authors that return to use the website, the proportion who access resources for drafting vs checking (we would hope to see more authors use the former), and the length of time authors engage with guidance. 
+Some important metrics include the proportion of authors that return to use the website, the proportion who access resources for drafting vs checking (I would hope to see more authors use the former), and the length of time authors engage with guidance. 
 
-Because journals will probably continue to be an important dissemination channel, one possibility would be a mixed methods feasibility study, in collaboration with a journal, similar to the study EQUATOR executed with BMJ Open before my DPhil @struthersGoodReportsDevelopingWebsite2021. Such a study could combine google analytics data with author interviews and writing evaluations of manuscript submissions. 
+Because journals will probably continue to be an important dissemination channel, one possibility would be a mixed methods feasibility study, in collaboration with a journal. Such a study could combine google analytics data with author interviews and writing evaluations of manuscript submissions. 
 
 #### Evaluating guideline content
 

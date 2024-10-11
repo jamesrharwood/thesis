@@ -12,7 +12,7 @@ for change in CHANGES_BY_STAGE:
     changes_by_stage[change.stage].append(change)
 
 for stage in changes_by_stage:
-    TEXT += (f"## {STAGES[stage]}\n\n\n\n")
+    TEXT += (f"## {STAGES[stage]}{{.unnumbered}}\n\n\n\n")
     TEXT += create_recommendations_text(changes_by_stage[stage])
 
 DIR = os.getcwd()

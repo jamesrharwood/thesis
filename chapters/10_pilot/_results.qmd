@@ -90,7 +90,7 @@ However, some participants questioned whether these quotes were from real people
 
 A few others said they "don't care what people think" {{< var pilot.participants.PPT-CW >}} or "did not pay much attention to [the quotes]" {{< var pilot.participants.PPT-OMK >}}.
 
-Seven intervention components received no mention. Two of these were purposefully not tested, four others were perhaps too subtle, and one was about _removing_ aversive design, so it was good that no participants commented on the presence of ugly or judgemental design. Like all results discussed in this section, these unmentioned components are also in appendix {{< var appendix.deficiencies >}}.
+Six intervention components received no mention. Two of these were purposefully not tested, three others were perhaps too subtle, and one was about _removing_ aversive design, so it was good that no participants commented on the presence of ugly or judgemental design. Like all results discussed in this section, these unmentioned components are also in appendix {{< var appendix.deficiencies >}}.
 
 #### Influences
 

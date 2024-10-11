@@ -111,7 +111,7 @@ def create_text(iterable, relationships_str, relationships_attr): #, bcw_concept
     return s
 
 def create_barriers_text():
-    return create_text(BARRIERS, 'Ideas to address this barrier', 'changes') #, 'Behavioural Driver', 'driver')
+    return create_text(BARRIERS, 'Ideas to address this influence', 'changes') #, 'Behavioural Driver', 'driver')
 
 def create_recommendations_text(changes):
     # return create_text(CHANGES_BY_STAGE, 'Barriers addressed', 'barriers', 'Intervention Functions', 'intervention_fns')
@@ -121,14 +121,15 @@ def create_recommendations_text(changes):
             change.content,
             # create_subtitle('Intervention Functions') + create_inline_list(change.intervention_fns),
             create_subtitle('Who could do this') + create_inline_list(change.stakeholders),
-            create_subtitle('Barriers addressed'),
+            create_subtitle('Influences addressed'),
             create_linked_list(change.barriers),
             '\n\n\n\n'
         ) for idx, change in enumerate(changes)]
     )
 
 def create_title(idx, item):
-    return f"## {idx+1}: " + item.title + "{#sec-" + item.id + "}"
+    # return f"## {idx+1}: " + item.title + "{#sec-" + item.id + "}"
+    return f"## " + item.title + "{#sec-" + item.id + "}"
 
 def create_subtitle(text):
     return f"{H8} {text}: "
