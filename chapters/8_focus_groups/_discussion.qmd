@@ -28,7 +28,7 @@ I purposefully did not seek input from naïve authors as this study required inp
 
 In this chapter I have described how ran workshops with reporting guideline experts from the UK EQUATOR Centre to generate {{< var counts.EQUATOR_ideas >}} ideas to address {{< var counts.barriers >}} influences affecting whether authors adhere to reporting guidelines. I then described how I ran focus groups with publishers, reporting guideline developers, and advocates, to expand this list to {{< var counts.sub_ideas_pre_jh >}} ideas. In the next chapter I describe how I decided which ideas to act on and how I turned them into intervention components.
 
-### Reflections on this chapter
+## Reflections on this chapter
 
 As with chapter {{< var chapters.synthesis >}}, I decided to keep notes on my experience of writing this chapter using the SRQR guideline. I began by writing paragraphs for each guideline item in the order they are presented in the guideline. The resulting text lacked a narrative thread, and I found it difficult to explain how this chapter related to the previous one. As a result, my first draft required a significant re-write. 
 

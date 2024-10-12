@@ -10,14 +10,14 @@
 \begin{spacing}{1.2}
 \begin{center}
 
-\vspace*{.06\textheight}
-{\scshape\LARGE \univname\par}\vspace{1.5cm} % University name
-\textsc{\Large Doctoral Thesis}\\[0.5cm] % Thesis type
+% \vspace*{.06\textheight}
+% {\scshape\LARGE \univname\par}\vspace{1.5cm} % University name
+% \textsc{\Large Doctoral Thesis}\\[0.5cm] % Thesis type
 
-\HRule \\[0.4cm] % Horizontal line
-{\huge \bfseries \ttitle\par}\vspace{0.4cm} % Thesis title
-\HRule \\[1.5cm] % Horizontal line
- 
+% \HRule \\[0.4cm] % Horizontal line
+{\huge \bfseries \ttitle\par}\vspace{3cm} % Thesis title
+% \HRule \\[1.5cm] % Horizontal line
+
 \begin{minipage}[t]{0.4\textwidth}
 \begin{flushleft} \large
 \emph{Author:}\\
@@ -39,22 +39,36 @@ $endif$
 \end{flushright}
 \end{minipage}\\[2cm]
  
-\vfill
+% \vfill
 
-\large \textit{A thesis submitted in fulfillment of the requirements\\ for the degree of \degreename}\\[0.3cm] % University requirement text
+% \HRule \\[1.5cm] % Horizontal line
+$if(thesis.logo)$
+$if(thesis.logo-height)$
+\includegraphics[height=$thesis.logo-height$]{$thesis.logo$}  % University/department logo
+$else$
+\includegraphics{$thesis.logo$}
+$endif$
+$endif$
+\vspace{2cm}
+% \HRule \\[1.5cm] % Horizontal line
+
+\textsc{\Large St. Cross College}\\ % College
+{\scshape\LARGE \univname\par}\vspace{1.5cm} % University name
+
+\large \textit{A thesis submitted in fulfillment of the requirements\\ for the degree of \degreename \\ Michaelmas Term 2024}\\[0.3cm] % University requirement text
 % \textit{in the}\\[0.4cm]
 % \groupname\\
 % \deptname\\[2cm] % Research group name and department name
  
 \vfill
 
-$if(thesis.logo)$
-$if(thesis.logo-height)$
-\includegraphics[height=$thesis.logo-height$]{$thesis.logo$} % University/department logo
-$else$
-\includegraphics{$thesis.logo$}
-$endif$
-$endif$
+% $if(thesis.logo)$
+% $if(thesis.logo-height)$
+% \includegraphics[height=$thesis.logo-height$]{$thesis.logo$} % University/department logo
+% $else$
+% \includegraphics{$thesis.logo$}
+% $endif$
+% $endif$
 
 $if(book.date)$
 {\large $book.date$}\\[4cm] % Date

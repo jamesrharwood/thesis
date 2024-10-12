@@ -65,7 +65,7 @@ In contract, the redesigned homepage aims to minimise the proportion of authors 
 5) Frequently accessed guidelines are still easy to find (area D) 
 6) The site describes what tasks reporting guidelines can be used for, and differentiates tools by task (area E)
 
-![Intervention home page. 
+![Redesigned intervention home page. 
 ](figures/home.png){#fig-home height=200mm}
 
 {{< include data/tables/home.md >}}
@@ -129,7 +129,7 @@ Reporting guidelines comprise reporting _items_, and an example from SRQR is in 
 5) Not all reporting items are justified
 6) Not all items include instruction of what to write if the item could not/was not done.
 
-![An example item from the SRQR guideline. Limitations may include](figures/item-b4.png){#fig-item-b4 height=150mm}
+![An example item from the SRQR guideline.](figures/item-b4.png){#fig-item-b4 height=150mm}
 
 When redesigning items, although I did not change the meaning of guidance, I did give additional structure and edit phrasing. To increase clarity, I used plain language, consistent terms, and added definitions when I felt necessary. I wanted to cater to authors who read from start to finish as well as those who dip in and out, and so I created navigation menus so authors can jump to items. Intervention components applying to the entire reporting guideline content (which includes but is not limited to reporting items) appear in @tbl-ics-rg-content.
 	
@@ -145,7 +145,7 @@ For each reporting item, I prioritized instructions of what to write. I placed r
 6) Each item has its own discussion page (see @fig-discussion, linked to from the top right of area A)
 
 <!-- ## FIG ITEM AFTER -->
-![A re-designed item from the SRQR reporting guideline. Labelled intervention changes are described in the paragraph above.](figures/item-after.png){#fig-item height=200mm}
+![A redesigned item from the SRQR reporting guideline. Labelled intervention changes are described in the paragraph above.](figures/item-after.png){#fig-item height=200mm}
 
 <!-- ## FIG-DISCUSSION -->
 ![Intervention discussion page. Every reporting item now has its own discussion page where authors can ask and answer questions (area A), and provide feedback to guideline developers. ](figures/discussion-page.png){#fig-discussion height=150mm}
@@ -168,7 +168,7 @@ Creating a custom coded website also felt unacceptable. Html and javascript are 
 
 I noticed that researchers are increasingly writing reproducible manuscripts using markdown, and therein lay a compromise that promised the functionality we needed without technical expertise. Markdown is a simple language and takes minutes to learn. It uses asterisks, underscores, and carets to make text **\*\*bold\*\***, _\_italic\__, or ^\^superscript\^^. Headings, URLS, and references are similarly easy, and free editing software makes writing markdown feel like writing a Microsoft Word document. Markdown converts into lots of other formats, including docx (Microsoft Word files), LaTeX, PDF, and HTML. 
 
-Many researchers already use tools like RStudio @positRStudioIntegratedDevelopment or Quarto @QuartoOpenSource to convert markdown into other formats. I decided to use Quarto because it is open source, has great documentation, and its functionality can be extended with other programming languages commonly used by researchers and statisticians, like Python or Ruby. Quarto takes plain text (markdown) and converts it into a web page. Academics who write using Quarto or R Studio will be familiar with the idea of "knitting" documents together: taking text with data, figures, analyses, and references, all saved as separate files, and compiling them into a single, publication-ready manuscript. The process of creating a web page is similar. I've created a platform that takes a guideline, stored as plain text across multiple files, and converts it into an interactive web page. These guideline files include reporting items, a glossary, meta data, introductory information, and FAQ information. 
+Many researchers already use tools like RStudio @RStudioIntegratedDevelopment or Quarto @QuartoOpenSource to convert markdown into other formats. I decided to use Quarto because it is open source, has great documentation, and its functionality can be extended with other programming languages commonly used by researchers and statisticians, like Python or Ruby. Quarto takes plain text (markdown) and converts it into a web page. Academics who write using Quarto or R Studio will be familiar with the idea of "knitting" documents together: taking text with data, figures, analyses, and references, all saved as separate files, and compiling them into a single, publication-ready manuscript. The process of creating a web page is similar. I've created a platform that takes a guideline, stored as plain text across multiple files, and converts it into an interactive web page. These guideline files include reporting items, a glossary, meta data, introductory information, and FAQ information. 
 
 Quarto websites do not require a database or a server. This means they are free to host, easy to maintain, and have fewer data security concerns. Because all reporting guideline content is saved as plain text files, these files can be version controlled on Github, an industry-leading version control system commonly used by academics, and each version can be cited. This means guideline developers will be able to release incremental updates (e.g., to clarify the wording of a reporting item) and authors will be able to cite the exact version of the guidance they used. 
 

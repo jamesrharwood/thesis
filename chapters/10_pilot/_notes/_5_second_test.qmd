@@ -1,4 +1,4 @@
-Notes from @UXFiveSecondRules2014
+Notes from @pauldoncasterUXFiveSecondRules2014
 
 Type of "in the moment" survey method. I showed participants the top of the home page for 5 seconds before removing it again and asking questions. Exposure is limited to five seconds because although the participant can take in a lot of information within that time (colours, words, shapes), its not sufficient time to make sense of everything as a whole. The aim is to capture participant's immediate reactions to the most salient parts of the design - the colours, layout, large words, images - before they have a chance to view the page critically or with more consideration. 
 

@@ -23,7 +23,7 @@ Authors were eligible to participate if they were currently engaged in research 
 I recruited through four channels:
 
 1. I posted on X (called Twitter at the time). 
-2. I advertised through Penelope.ai @PenelopeAi, the manuscript checker I created before starting my PhD. Many medical journals offer the manuscript checker to submitting authors. BMJ Open is the largest of these journals, and enjoys a large, international, author base. 
+2. I advertised through Penelope.ai @PenelopeaiAutomatedManuscript, the manuscript checker I created before starting my PhD. Many medical journals offer the manuscript checker to submitting authors. BMJ Open is the largest of these journals, and enjoys a large, international, author base. 
 3. I invited researchers from a research consultancy in the Philippines.
 4. I wrote to Chinese researchers who had published qualitative research, and I asked them to share my recruitment advert. One of the researchers I contacted posted the advert on internet forums used by Chinese students. 
 
@@ -31,14 +31,14 @@ My recruitment advert is in appendix {{< var appendix.pilot_recruitment_image >}
 
 All recruitment channels invited authors to signal their interest by email. To check applicants' eligibility as qualitative researchers, I asked them to describe their research methods in a few sentences over email. I excluded applicants if their descriptions made no reference of a qualitative method.
 
-I sent all eligible applicants the participant information sheet and consent form. I used JISC Online Surveys @OnlineSurveys to obtain consent and ask the following demographic questions:
+I sent all eligible applicants the participant information sheet and consent form. I used JISC Online Surveys @jiscOnlineSurveys to obtain consent and ask the following demographic questions:
 
 * How many years have you done research?
 * Please describe your research in a couple of sentences
 * What is your first language?
 * What country do you work and live in?
 
-I offered participants 50 pounds as reimbursement in return for an expected 2 hour commitment. This was delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My email templates and information sheet are in Appendices {{< var appendix.pilot_participant_information >}} and {{< var appendix.pilot_emails >}}. 
+I offered participants $50 as reimbursement in return for an expected 2 hour commitment. This was delivered as an Amazon voucher to UK participants, and a bank transfer to international participants. My email templates and information sheet are in Appendices {{< var appendix.pilot_participant_information >}} and {{< var appendix.pilot_emails >}}. 
 
 Time and money limited my target sample size to 10 participants. As argued by Nielsen and Launder @nielsenMathematicalModelFinding1993, small samples (fewer than 10) are often sufficient to identify the majority of deficiencies. In chapter {{< var chapters.focus-groups >}} I introduced information power @malterudSampleSizeQualitative2016 as a concept to guide sample size in qualitative research, and I drew upon it again in this study. I maximised information power firstly by using methods to elicit rich information from each participant. Secondly, I used my table of intervention components ({{< var chapters.defining-content >}}) as an analysis framework. Hence I anticipated a sample of 10 to sufficiently inform at least one design iteration at the end of data collection.
 
@@ -48,7 +48,7 @@ I wanted my study to resemble the way authors will experience the website in rea
 
 Secondly, I wanted to replicate the experience of encountering a new website as a naïve user, gradually exploring content, and then reading and applying guidance to one's own writing. I did this by using a variety of methods: 
 
-1. 5 second test to capture initial reactions @UXFiveSecondRules2014
+1. 5 second test to capture initial reactions @pauldoncasterUXFiveSecondRules2014
 2. Think aloud to capture real-time exploration within the interview session @borenThinkingAloudReconciling2000
 3. Plus-minus task to capture exploration between interview sessions @dejongReaderFocusedTextEvaluation1997
 4. A writing evaluation to explore interpretation @daviesFindingsNovelApproach2016
@@ -66,7 +66,7 @@ I began sessions by introducing myself as part of a team creating a new website.
 
 Until this point, participants had no idea what the website was about. My recruitment materials and interview introduction made no mention of writing nor reporting guidelines, and so participants were unaware of the website's purpose.
 
-The five second test is an "in the moment" survey method @UXFiveSecondRules2014. By sharing my screen, I showed participants the top of the home page for five seconds before removing it and asking questions. The test limits exposure to five seconds because although a participant can absorb much information (colours, words, shapes), five seconds is rarely sufficient to make sense of everything as a whole. The aim is to capture participant's immediate reactions to salient design elements (like images, large words) before they have a chance to consider the content more critically. Furthermore, this five second limit was relevant because my website service evaluation found many authors leave EQUATOR's website (chapter {{< var chapters.web-audit >}}) within five seconds without interacting with it.
+The five second test is an "in the moment" survey method @pauldoncasterUXFiveSecondRules2014. By sharing my screen, I showed participants the top of the home page for five seconds before removing it and asking questions. The test limits exposure to five seconds because although a participant can absorb much information (colours, words, shapes), five seconds is rarely sufficient to make sense of everything as a whole. The aim is to capture participant's immediate reactions to salient design elements (like images, large words) before they have a chance to consider the content more critically. Furthermore, this five second limit was relevant because my website service evaluation found many authors leave EQUATOR's website (chapter {{< var chapters.web-audit >}}) within five seconds without interacting with it.
 
 This test was appropriate for the top of the home page because, as per best practice, the area has little text, all relevant content is visible in one frame, and I asked few questions:
 
@@ -83,7 +83,7 @@ After the five second test it was no longer necessary to keep participants maske
 
 #### Think aloud 1 - home screen
 
-Website designers often ask participant's to "think aloud" as they complete a task or view a website as a way of exploring participants' thought processes [@szinayInfluencesUptakeHealth2021; @yardleyUnderstandingReactionsInternetdelivered2010]. Think aloud as a method was first described by cognitive psychologists Ericsson and Simon @laffalEricssonAndersSimon1985. Their strict approach viewed verbalizations as "indicators of what information was heeded and in what order, a sort of time stamp of the contents of short-term memory" @borenThinkingAloudReconciling2000. As user experience testers adopted the method, they used it more flexibly to additionally capture participants' thoughts, feelings, and expectations @borenThinkingAloudReconciling2000. Whereas cognitive psychologists use the method to understand cognitive processes, usability testers use it to "support the development of usable systems by identifying system deficiencies". Because "building robust models of human cognition is not a central concern", Ericsson and Simon's strict approach is less appropriate, and usability testers use a more flexible and pragmatic approach to data collection and interpretation @borenThinkingAloudReconciling2000.
+Website designers often ask participant's to "think aloud" as they complete a task or view a website as a way of exploring participants' thought processes [@szinayInfluencesUptakeHealth2021; @yardleyUnderstandingReactionsInternetdelivered2010]. Think aloud as a method was first described by cognitive psychologists Ericsson and Simon @ericssonProtocolAnalysisVerbal1993. Their strict approach viewed verbalizations as "indicators of what information was heeded and in what order, a sort of time stamp of the contents of short-term memory" @borenThinkingAloudReconciling2000. As user experience testers adopted the method, they used it more flexibly to additionally capture participants' thoughts, feelings, and expectations @borenThinkingAloudReconciling2000. Whereas cognitive psychologists use the method to understand cognitive processes, usability testers use it to "support the development of usable systems by identifying system deficiencies". Because "building robust models of human cognition is not a central concern", Ericsson and Simon's strict approach is less appropriate, and usability testers use a more flexible and pragmatic approach to data collection and interpretation @borenThinkingAloudReconciling2000.
 
 As per best practice @borenThinkingAloudReconciling2000 I began by explaining the task, and giving instruction to continually verbalize a train of thought. I then demonstrated by sharing my screen, opening up a different website, and "thinking aloud" for a minute. Participants then shared their screen as they explored the home page. Whenever participants stopped talking, I would prompt them to continue by asking "What are you thinking?". I acknowledged participants' verbalizations with neutral sounds like "uh-hu" and "mmm", which encourage further talk, but do not show agreement or disagreement. These verbalizations and prompts are also considered best practice @borenThinkingAloudReconciling2000.
 

@@ -1,5 +1,5 @@
 book: 
-  title: "Refining reporting guidelines using behaviour change theory "
+  title: "Refining reporting guidelines using behaviour change theory"
   author: 
     name: James Harwood
   downloads: [pdf]
@@ -105,7 +105,7 @@ thesis:
   university: University of Oxford
   department: Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
   logo: "/oxford.png"
-  logo-height: "4cm"
+  logo-height: "6cm"
   group: UK EQUATOR Centre
   faculty: Medical Sciences Division
   acknowledgements: "Frontmatter/acknowledgements.tex"

@@ -1,4 +1,4 @@
-## Reporting guidelines have had little-to-no effect on reporting quality, and few authors adhere to them
+## Reporting guidelines have had little to no effect on reporting quality, and few authors adhere to them
 
 Most studies exploring reporting guidelines' impact have used a non-randomised design, often comparing reporting quality before and after reporting guidelines were published and/or journals began asking authors to use them. For example, in 2023 Kilicoglu et al. @kilicogluMethodologyReportingImproved2023 analysed 176,620 randomized trial reports published between 1966 and 2018. They used software to identify sentences pertaining to CONSORT methodology items. They found reporting quality in clinical trials has improved over time but remains suboptimal: articles published before CONSORT was published reported 24% of CONSORT items, whereas articles published afterwards reported 48%. The fastest improvement occurred in the years immediately after CONSORT was published.
 

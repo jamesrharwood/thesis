@@ -7,7 +7,7 @@ format:
         output-file: JH-chapter-survey-content.docx
 ---
 
-## Background 
+## Introduction 
 
 In the previous chapter I describe my systematic search and thematic synthesis of qualitative research exploring authors' experiences of using reporting guidelines. I identified influences that may affect whether an author adheres to reporting guidelines. Many of the studies I included used mixed methods surveys and my search also identified purely quantitative survey studies. Despite not including these quantitative data in my qualitative synthesis, I decided the quantitative _questions_ were important to investigate for three reasons. 
 
@@ -104,7 +104,7 @@ Some included surveys contained leading questions. For example, the Likert rated
 
 Studies used lots of different words to describe reporting guidelines, including *guidelines, standards, requirements, checklist, explanation and elaboration,* or just an acronym, e.g., CONSORT. This became a problem in studies where participants were not supplied with guidance documents as part of the study, as it was not always clear which document a participant was considering. For instance, asking participants whether PRISMA is easy to understand will not tell you whether they are talking about the PRISMA checklist, statement, or explanation and elaboration document. Future studies should be specific when asking questions and reporting results.
 
-## Conclusion
+### Conclusions
 
 Very few reporting guidelines have been evaluated using either quantitative or qualitative methods. Reviewing the content of quantitative surveys revealed few novel influences which were absent from the qualitative data synthesised in chapter {{< var chapters.synthesis >}}. However, the qualitative data contained many more themes than the quantitative questions. This suggests that the results of my qualitative evidence synthesis were not limited by the content of quantitative survey questions within the mixed methods surveys. Because the qualitative data revealed more themes and provided explanation and context to findings, reporting guideline developers who want to make sure their resources are easy to use should consider using qualitative methods, which may produce richer, actionable insights.
 
