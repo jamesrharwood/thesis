@@ -9,7 +9,7 @@ Consequently, at this point in my thesis I had multiple lists; a list of influen
 What remained was to select ideas I could implement, define them as intervention components, then build a prototype I could test with authors. Michie et al.  @michieBehaviourChangeWheel2014 define an intervention component as:
 
 1. a designed element that uses one or more behaviour change technique,
-2. theorized to work through one or more intervention functions 
+2. theorised to work through one or more intervention functions 
 3. to target one or more behavioural drivers. 
 
 Michie et al. @michieBehaviourChangeWheel2014 describe this step as "identify[ing] intervention content in terms of which [behaviour change techniques] best serve intervention functions", where a behaviour change technique is "an active component" that is "observable, replicable, [and] irreducible". Defining intervention content in this way is useful because it helps intervention developers understand why the component was added (or removed), how it is theorised to work, and how its effectiveness may be tested.

@@ -12,7 +12,7 @@ This is the first time that guideline developers from different groups have come
 
 These results will be of interest to the reporting guideline community. Guideline developers may find inspiration here when writing or revising guidance. Many of the ideas could be enacted by the EQUATOR Network. At the time of writing, the EQUATOR Network was in the process of updating its advice for guideline developers, which I hope will be informed by these results. The ideas generated may also be of interest to publishers, funders, and Universities.
 
-Although only a few reporting guideline development groups took part in this study, most ideas identified were abstract enough to generalise to most reporting guidelines, which tend to be developed and distributed in similar ways; (e.g., all development groups will have to consider what guidance to create, its scope, how to communicate it clearly and how to disseminate it). Some ideas may even generalise to other interventions to encourage good research practices (e.g., to communicate personal benefits, and not to patronize researchers). 
+Although only a few reporting guideline development groups took part in this study, most ideas identified were abstract enough to generalise to most reporting guidelines, which tend to be developed and distributed in similar ways; (e.g., all development groups will have to consider what guidance to create, its scope, how to communicate it clearly and how to disseminate it). Some ideas may even generalise to other interventions to encourage good research practices (e.g., to communicate personal benefits, and not to patronise researchers). 
 
 ### Limitations
 
@@ -22,7 +22,7 @@ My focus groups were smaller than I had planned. Some would consider these group
 
 ### Future work
 
-I purposefully did not seek input from naïve authors as this study required input from experts familiar with reporting guideline dissemination. Instead, I describe how I sought input from authors in chapter {{< var chapters.pilot >}}. I also purposefully did not ask stakeholders to prioritize or rank ideas. In chapter {{< var chapters.workshops >}} I explained that prioritization is subjective and, therefore, should be done by stakeholders separately. 
+I purposefully did not seek input from naïve authors as this study required input from experts familiar with reporting guideline dissemination. Instead, I describe how I sought input from authors in chapter {{< var chapters.pilot >}}. I also purposefully did not ask stakeholders to prioritise or rank ideas. In chapter {{< var chapters.workshops >}} I explained that prioritization is subjective and, therefore, should be done by stakeholders separately. 
 
 ### Conclusions 
 

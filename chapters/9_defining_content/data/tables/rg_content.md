@@ -13,7 +13,7 @@
 | *Include testimonials from researchers who were nervous about being punished for reporting transparently*                                                                  | Persuasion                  | Demonstration of behaviour                                                                                                            |
 | *Gather and communicate evidence for benefits*                                                                                                                             | Persuasion                  | Information about emotional consequences, Information about others' approval, Information about social and environmental consequences |
 
-: Intervention components pertaining to the content and organisation of reporting guidelines, alongside the intervention functions and behaviour change techniques (BCT) they employ. A reporting guideline's content includes (but is not limited to) reporting *items*. Components specific to reporting items appear in @tbl-ics-item. Italicized items are duplicated from previous tables. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses. {#tbl-ics-rg-content}
+: Intervention components pertaining to the content and organisation of reporting guidelines, alongside the intervention functions and behaviour change techniques (BCT) they employ. A reporting guideline's content includes (but is not limited to) reporting *items*. Components specific to reporting items appear in @tbl-ics-item. Italicised items are duplicated from previous tables. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses. {#tbl-ics-rg-content}
 
 ```{=html}
 <!--

@@ -29,7 +29,7 @@ STARD |  STAndards for Reporting Diagnostic accuracy studies
 STREGA | STrengthening the REporting of Genetic Association Studies
 STRICTA | STandards for Reporting Interventions in Clinical Trials of Acupuncture
 STROBE | Strengthening the Reporting of Observational Studies in Epidemiology
-TREND | Transparent Reporting of Evaluations with Nonrandomized Designs
+TREND | Transparent Reporting of Evaluations with Nonrandomised Designs
 TRIPOD | Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis
 
 

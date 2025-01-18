@@ -101,7 +101,7 @@ Engage with (read) appropriate reporting guidance as early as possible:
         before_example:
         now: Site has meta data required by search engines
         now_example:
-        future: Optimize the site for search engines
+        future: Optimise the site for search engines
         IF: Enablement
       Permanent links (DOIs):
         before: Although guideline publications have DOIs, tools (commonly hosted on guideline developer's websites) do not. EQUATOR's website does not use document object identifiers. If resources move (e.g., a website is reorganised or depreciated) then links can "die".
@@ -247,7 +247,7 @@ Apply reporting guidance to writing:
       Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications):
         before: Benefits are not prominently described on EQUATOR's home page, nor within the guideline publications. Benefits that are described may by hard to find, and often focus on hypothetical benefits to the research community, but not personal benefits to the author.
         before_example: See @fig-home-b4
-        now: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritize personal benefits to the authors above hypothetical benefits to others.
+        now: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritise personal benefits to the authors above hypothetical benefits to others.
         now_example: See @fig-rg-intro
         IF: Education
   believed-benefits:
@@ -450,12 +450,12 @@ Apply reporting guidance to writing:
         IF: Enablement
   need-right-time:
     ingredients:
-      Optimize websites for search terms aimed at early use like "how to write", or "funding application".:
+      Optimise websites for search terms aimed at early use like "how to write", or "funding application".:
         before: Not done
         now: No changes made #-DECIDE
         before_example:
         now_example:
-        future: Optimize for search engines
+        future: Optimise for search engines
         IF: Enablement
       Promote RGs in writing clubs or writing training:
         before: Done in some training courses
@@ -640,7 +640,7 @@ Apply reporting guidance to writing:
         before_example: See @fig-rg-intro-b4
         now_example: See @fig-rg-intro
         IF: Persuasion
-  feel-patronized:
+  feel-patronised:
     ingredients:
       Create discussion spaces for authors to voice disagreements and contribute to revisions (see above):
         before:
@@ -649,7 +649,7 @@ Apply reporting guidance to writing:
         now_example:
         IF: Persuasion
       Avoid patronizing language:
-        before: Although authors may feel patronized when asked to adhere to a RG, RGs themselves rarely use patronizing language
+        before: Although authors may feel patronised when asked to adhere to a RG, RGs themselves rarely use patronizing language
         now: Continue to avoid using patronizing language
         before_example:
         now_example:

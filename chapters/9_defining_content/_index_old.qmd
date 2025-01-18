@@ -19,7 +19,7 @@ Consequently, at this point in my thesis I had multiple lists; a list of barrier
 What remained was to selected ideas to implement and turn them into intervention components, defined as @michieBehaviourChangeWheel2014:
 
 1. a designed element that uses one or more behaviour change technique,
-2. theorized to work through one or more intervention functions 
+2. theorised to work through one or more intervention functions 
 3. to target one or more behavioural drivers. 
 
 Michie et al. @michieBehaviourChangeWheel2014 describe this step as "identify[ing] intervention content in terms of which [behaviour change techniques] best serve intervention functions", where a behaviour change technique is "an active component" that is "observable, replicable, [and] irreducible". Defining intervention content in this way is useful because it helps intervention developers understand why the component added (or removed), how it is theorised to work and, therefore, how its effectiveness may be tested.
@@ -66,7 +66,7 @@ Throughout the table I have drawn comparisons between the proposed components an
 
 ### Conclusions
 
-By linking components with barriers, functions, and behaviour change techniques, I have justified components using evidence and described how they are theorized to work. This table will help other intervention developers and stakeholders understand what changes I have made and why. The next two chapters make use of this table. In chapter {{< chapters.pilot >}} I describe how I referred to this table when designing a study to refine components. But first, in the next chapter, I describe how I used this table to redesign a reporting guideline and the EQUATOR Network's home page. 
+By linking components with barriers, functions, and behaviour change techniques, I have justified components using evidence and described how they are theorised to work. This table will help other intervention developers and stakeholders understand what changes I have made and why. The next two chapters make use of this table. In chapter {{< chapters.pilot >}} I describe how I referred to this table when designing a study to refine components. But first, in the next chapter, I describe how I used this table to redesign a reporting guideline and the EQUATOR Network's home page. 
 
 {{< pagebreak >}}
 

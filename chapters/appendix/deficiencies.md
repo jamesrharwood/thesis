@@ -24,7 +24,7 @@ See text
 
 ## Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications)
 
-######## Relevant website features: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritize personal benefits to the authors above hypothetical benefits to others.
+######## Relevant website features: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritise personal benefits to the authors above hypothetical benefits to others.
 
 ######## Barriers addressed: Researchers may not know what benefits to expect
 
@@ -108,7 +108,7 @@ When an SRQR item contained extra context or explanation not relevant to all use
 
 The redesigned SRQR guideline has a side navigation menu so users can easily navigate to the Introduction, Methods, Results, and Discussion guidance sections, or to the FAQs and citation information. A few participants did not notice the menu, or suggested it could be more prominent, and one suggested it would be useful if the menu listed all reporting items (i.e.,. not just _Methods_, but also the item titles within). 
 
-> "when I scrolling I forgot to pay attention to the menu on the side. So [...] I suddenly realized it was a menu there [...] Maybe make it much more, like, the characters larger or, like, the colour, maybe change it, because now it is so light and I didn't pay attention to that. But this menu is useful if I pay attention to this." {{< var pilot.participants.PPT-YD >}}
+> "when I scrolling I forgot to pay attention to the menu on the side. So [...] I suddenly realised it was a menu there [...] Maybe make it much more, like, the characters larger or, like, the colour, maybe change it, because now it is so light and I didn't pay attention to that. But this menu is useful if I pay attention to this." {{< var pilot.participants.PPT-YD >}}
 
 Each reporting item has its own menu within the collapsible content, so users can jump to the item's justification, examples, or related resources. The same participant described these item menus as a useful way to help "find the detailed part" they desired.
 
@@ -136,7 +136,7 @@ In the think aloud, one participant said they would prefer to browse the checkli
 
 ######## Relevant website features: Brief description included on home page and at top of reporting guideline, links to full to development information
 
-######## Barriers addressed: Researchers may feel patronized
+######## Barriers addressed: Researchers may feel patronised
 
 **The relationship between the website and publication could be clearer**
 
@@ -180,7 +180,7 @@ In the second iteration, I moved some of this introduction information into a co
 
 ######## Relevant website features: Each reporting item has its own discussion board.
 
-######## Barriers addressed: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; Reporting guidelines can become outdated; Researchers may feel patronized
+######## Barriers addressed: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; Reporting guidelines can become outdated; Researchers may feel patronised
 
 Each reporting item had a link to its own discussion page. Participants welcomed the opportunity to post comments, ask questions, and suggest edits on this page. 
 
@@ -346,7 +346,7 @@ One participant said they had sought the original paper because they "wanted to 
 
 Many participants noticed and welcomed the clarification that SRQR does not prescribe structure. Nobody objected to it.
 
-> "I think this is very clear. If you say that did not prescribe order nor structure. [...] Yes, that's great. [...] I like it very much because I think it helps me understand that the guideline is not a standardized one, but it depends on the user. To use this kind guide in their own context. So I think this one this sentence is is very important." {{< var pilot.participants.PPT-JZ >}}
+> "I think this is very clear. If you say that did not prescribe order nor structure. [...] Yes, that's great. [...] I like it very much because I think it helps me understand that the guideline is not a standardised one, but it depends on the user. To use this kind guide in their own context. So I think this one this sentence is is very important." {{< var pilot.participants.PPT-JZ >}}
 
 In the writing task, two participants used subheadings for the items they wrote. When asked about these subheadings in the second interview, both said they intended to remove at least some of the subheadings. One participant replied "One of our reviewers wanted more structure, so of course we leave some [subheadings] in, but not all" {{< var pilot.participants.PPT-MJ >}}. Another said "I'll probably not include them [in my final article], but the information, that's what I'm I'm going to maintain, yeah." {{< var pilot.participants.PPT-OMK >}}
 
@@ -536,9 +536,9 @@ Two participants questioned why the home page referred to "guidelines" _and_ "re
 
 ######## Relevant website features: Continue to avoid using patronizing language
 
-######## Barriers addressed: Researchers may feel patronized
+######## Barriers addressed: Researchers may feel patronised
 
-No participants mentioned feeling patronized. When asked, one participant described the tone as "suitable" and said "simple comments" and "explaining like this, \[is not patronizing\] because I also need a lot to learn." {{< var pilot.participants.PPT-YD >}}
+No participants mentioned feeling patronised. When asked, one participant described the tone as "suitable" and said "simple comments" and "explaining like this, \[is not patronizing\] because I also need a lot to learn." {{< var pilot.participants.PPT-YD >}}
 
 ## Centralised hosting
 
@@ -614,7 +614,7 @@ Very little of the guideline text deals with _where_ content can be reported (e.
 
 Throughout the homepage and SRQR page I had tried to convey that reporting guidelines are recommendations, and I took care not to use words like _rules_ or _standards_. Only one participant commented explicitly about this, but no participants talked about the guideline as if it were a set of rules. 
 
-> "So I think this explanation here is very clear that it helps researchers to know that definitely they can have their own ideas and this guideline is, it is kind of like a supporting one, but not a rule, not a standardized rule." {{< var pilot.participants.PPT-JZ >}}
+> "So I think this explanation here is very clear that it helps researchers to know that definitely they can have their own ideas and this guideline is, it is kind of like a supporting one, but not a rule, not a standardised rule." {{< var pilot.participants.PPT-JZ >}}
 
 ## Ensure all resources and tools (e.g., checklists and templates) are in ready-to-use formats
 
@@ -660,7 +660,7 @@ No participants described the design as unpleasant or judgemental.
 
 ## Search Engine Optimization
 
-######## Relevant website features: The site has additional meta-data. Each reporting guideline page has its own meta-data. The site is optimized for mobiles.
+######## Relevant website features: The site has additional meta-data. Each reporting guideline page has its own meta-data. The site is optimised for mobiles.
 
 ######## Barriers addressed: Guidance may be difficult to find; Researchers may not encounter reporting guidelines early enough to act on them
 

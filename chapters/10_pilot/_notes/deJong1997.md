@@ -68,6 +68,6 @@ At second level - selecting content within the document
 
 * plus minus (spontaneous reading and putting marks in the margin to signal positive or negative reaction. Then discuss marks)
 * signaled stopping technique (spontaneous reading and indicating where flow of reading is disrupted and reasons for disruption. Then discuss interruptions)
-* reader protocol (simultaneously read aloud and verbailize positive and negative reactions - less natural)
+* reader protocol (simultaneously read aloud and verbailise positive and negative reactions - less natural)
 
 NB the Dutch public information practice uses plus minus and a questionnaire.

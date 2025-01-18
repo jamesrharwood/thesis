@@ -151,7 +151,7 @@ For each reporting guideline, authors may need the following information:
 ######### [Researchers may not know when reporting guidelines should be used](#sec-when-to-use)
 ######### [Researchers may feel that checking reporting is someone else's job.](#sec-feel-not-my-job)
 ######### [Researchers have limited time](#sec-need-enough-time)
-######### [Researchers may feel patronized](#sec-feel-patronized)
+######### [Researchers may feel patronised](#sec-feel-patronised)
 
 
 
@@ -235,7 +235,7 @@ Ensure resources are ready-to-use e.g., checklists as Word files, not as tables 
 ######## Influences addressed: 
 
 ######### [Researchers may feel afraid to report transparently](#sec-feel-transparent)
-######### [Researchers may feel patronized](#sec-feel-patronized)
+######### [Researchers may feel patronised](#sec-feel-patronised)
 ######### [Researchers may not believe stated benefits](#sec-believed-benefits)
 ######### [Researchers may feel that checking reporting is someone else's job.](#sec-feel-not-my-job)
 
@@ -289,7 +289,7 @@ Make searching easy:
 
 * Host resources somewhere consistent, like the EQUATOR Network website and database.
 * Provide easy-to-use website search functions
-* Web pages should be optimized for search engines ^JH^
+* Web pages should be optimised for search engines ^JH^
 * Created curated collections for study types
 * Create decision tools for identifying reporting guidelines
 
@@ -492,7 +492,7 @@ Try to make spaces accessible to researchers from all nationalities, professiona
 ######## Influences addressed: 
 
 ######### [Researchers may misunderstand](#sec-understanding)
-######### [Researchers may feel patronized](#sec-feel-patronized)
+######### [Researchers may feel patronised](#sec-feel-patronised)
 ######### [Researchers may not believe stated benefits](#sec-believed-benefits)
 ######### [Researchers may not know how to report an item in practice](#sec-how-to-report)
 ######### [Researchers may not know how to do an item](#sec-how-to-do)
@@ -571,7 +571,7 @@ Journals, funders and ethics committees could make reporting guidelines appear a
 
 * Make them prominent in author instructions.
 * Placing checklists earlier in the PDFs that are automatically created by journal submission systems.
-* Publicize when reporting guidelines are used by reviewers.
+* Publicise when reporting guidelines are used by reviewers.
 
 ######## Who could do this: Publishers, Funders, Ethics committees, Institutions, Preprint servers, Conference organisers, Registries
 

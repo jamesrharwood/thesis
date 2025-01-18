@@ -13,7 +13,7 @@
 | *Describe what reporting guidelines are where they are first encountered*                                         | Education             | Instruction on how to perform the behaviour |
 | *Clarify what tasks (e.g., writing, designing, or appraising research) guidelines and resources are designed for* | Education             | Instruction on how to perform the behaviour |
 
-: Intervention components appearing in the introductory material preceding the reporting guideline, alongside the intervention functions and behaviour change techniques (BCT) they employ. Italicized items are duplicated from previous tables. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses. {#tbl-ics-rg-intro}
+: Intervention components appearing in the introductory material preceding the reporting guideline, alongside the intervention functions and behaviour change techniques (BCT) they employ. Italicised items are duplicated from previous tables. See Appendix {{< var appendix.ict >}} for further descriptions and links to barriers each component addresses. {#tbl-ics-rg-intro}
 
 ```{=html}
 <!--

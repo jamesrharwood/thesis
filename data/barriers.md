@@ -281,12 +281,12 @@ Advice or assumptions about design choices narrow the scope of the guidance and 
 
 ---
 
-id: feel-patronized
-title: Researchers may feel patronized
+id: feel-patronised
+title: Researchers may feel patronised
 driver_id: motivation
 ---
 
-Researchers can feel patronized by checklists.
+Researchers can feel patronised by checklists.
 
 ---
 

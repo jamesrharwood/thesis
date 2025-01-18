@@ -6,7 +6,7 @@ BARRIERS:
   care-about-benefits: Researchers may not care about the benefits of using a reporting guideline
   feel-not-a-job: Researchers may not consider writing as reporting
   feel-not-my-job: Researchers may feel that checking reporting is someone else's job.
-  feel-patronized: Researchers may feel patronized
+  feel-patronised: Researchers may feel patronised
   feel-restricted: Researchers may feel restricted if reporting guidelines prescribe design
   feel-transparent: Researchers may feel afraid to report transparently
   how-to-do: Researchers may not know how to do an item
@@ -39,7 +39,7 @@ BARRIER_SECTIONS:
   care-about-benefits: researchers-may-not-care-about-the-benefits-of-using-a-reporting-guideline
   feel-not-a-job: researchers-may-not-consider-writing-as-reporting
   feel-not-my-job: researchers-may-feel-that-checking-reporting-is-someone-else's-job.
-  feel-patronized: researchers-may-feel-patronized
+  feel-patronised: researchers-may-feel-patronised
   feel-restricted: researchers-may-feel-restricted-if-reporting-guidelines-prescribe-design
   feel-transparent: researchers-may-feel-afraid-to-report-transparently
   how-to-do: researchers-may-not-know-how-to-do-an-item
@@ -244,10 +244,10 @@ intervention-components:
     title: Define key terms
   describe-benefits:
     barriers: Researchers may not know what benefits to expect
-    description: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritize personal benefits to the authors above hypothetical benefits to others.
+    description: Benefits are prominently and consistently displayed across the home page and guidance pages. Descriptions prioritise personal benefits to the authors above hypothetical benefits to others.
     title: Describe personal benefits and benefits to others where reporting guidelines are introduced (home page, on resources, in communications)
   describe-development:
-    barriers: Researchers may feel patronized
+    barriers: Researchers may feel patronised
     description: Brief description included on home page and at top of reporting guideline, links to full to development information
     title: Explain how the guidance was developed and why it can be trusted
   describe-scope:
@@ -279,7 +279,7 @@ intervention-components:
     description: Items have consistent structure and use bullet points consistently
     title: Structure guideline items to make them quicker to digest
   discussion-spaces:
-    barriers: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; Reporting guidelines can become outdated; Researchers may feel patronized
+    barriers: Researchers may not believe stated benefits; Researchers may misunderstand; Researchers may not know how to report an item in practice; Reporting guidelines can become outdated; Researchers may feel patronised
     description: Each reporting item has its own discussion board.
     title: Create spaces for authors to discuss reporting guidelines with others
   doi:
@@ -391,7 +391,7 @@ intervention-components:
     description: A clean, simple interface for the home page and guidance pages. Text makes less use of judgemental phrases and fewer references to the negative consequences of poor reporting.
     title: Remove branding and messaging that may invoke feelings of judgement, complexity, or administrative red-tape
   remove-patronizing-language:
-    barriers: Researchers may feel patronized
+    barriers: Researchers may feel patronised
     description: Continue to avoid using patronizing language
     title: Avoid patronizing language
   rg-collections:
@@ -404,7 +404,7 @@ intervention-components:
     title: Search function on website
   seo:
     barriers: Guidance may be difficult to find; Researchers may not encounter reporting guidelines early enough to act on them
-    description: The site has additional meta-data. Each reporting guideline page has its own meta-data. The site is optimized for mobiles.
+    description: The site has additional meta-data. Each reporting guideline page has its own meta-data. The site is optimised for mobiles.
     title: Search Engine Optimization
   shorten:
     barriers: Researchers may expect the costs to outweigh benefits

@@ -381,9 +381,9 @@ Advice or assumptions about design choices narrow the scope of the guidance and 
 
 
 
-## Researchers may feel patronized{#sec-feel-patronized}
+## Researchers may feel patronised{#sec-feel-patronised}
 
-Researchers can feel patronized by checklists.
+Researchers can feel patronised by checklists.
 
 ######## Ideas to address this influence:
 

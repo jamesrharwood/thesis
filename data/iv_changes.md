@@ -167,7 +167,7 @@ Stakeholders could create new rewards:
 
 id: create-spaces
 title: Create discussion spaces
-barrier_ids: [understanding, feel-patronized, believed-benefits, how-to-report, how-to-do]
+barrier_ids: [understanding, feel-patronised, believed-benefits, how-to-report, how-to-do]
 intervention_fn_ids: [enablement, persuasion]
 stakeholder_ids: [equator, developers, institutions]
 stage: ongoing
@@ -232,7 +232,7 @@ Consider linking to external design or appraisal tools instead.
 
 id: persuade
 title: Use persuasive language and design
-barrier_ids: [feel-transparent, feel-patronized, believed-benefits, feel-not-my-job]
+barrier_ids: [feel-transparent, feel-patronised, believed-benefits, feel-not-my-job]
 intervention_fn_ids: [persuasion]
 stakeholder_ids: [developers, equator,  publishers, funders, ethics, institutions, conferences, registries, preprints]
 stage: creation
@@ -298,7 +298,7 @@ Make searching easy:
 
 * Host resources somewhere consistent, like the EQUATOR Network website and database.
 * Provide easy-to-use website search functions
-* Web pages should be optimized for search engines ^JH^
+* Web pages should be optimised for search engines ^JH^
 * Created curated collections for study types
 * Create decision tools for identifying reporting guidelines
 
@@ -409,7 +409,7 @@ Journals, funders and ethics committees could make reporting guidelines appear a
 
 * Make them prominent in author instructions.
 * Placing checklists earlier in the PDFs that are automatically created by journal submission systems.
-* Publicize when reporting guidelines are used by reviewers.
+* Publicise when reporting guidelines are used by reviewers.
 
 ---
 
@@ -452,7 +452,7 @@ All stakeholders could have members to promote and facilitate the usage of repor
 ---
 id: rg-introductions
 title: Describe each reporting guideline fully
-barrier_ids: [scope, what-rgs-exist, best-fit, when-to-use, feel-not-my-job, need-enough-time, feel-patronized]
+barrier_ids: [scope, what-rgs-exist, best-fit, when-to-use, feel-not-my-job, need-enough-time, feel-patronised]
 intervention_fn_ids: [education, enablement, persuasion]
 stakeholder_ids: [developers, equator]
 stage: development

@@ -59,7 +59,7 @@
 |                                                            |                                                                                |
 |                                                            | Researchers have limited time                                                  |
 |                                                            |                                                                                |
-|                                                            | Researchers may feel patronized                                                |
+|                                                            | Researchers may feel patronised                                                |
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
 | Keep guidance short                                        | Researchers have limited time                                                  |
 |                                                            |                                                                                |
@@ -77,7 +77,7 @@
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
 | Use persuasive language and design                         | Researchers may feel afraid to report transparently                            |
 |                                                            |                                                                                |
-|                                                            | Researchers may feel patronized                                                |
+|                                                            | Researchers may feel patronised                                                |
 |                                                            |                                                                                |
 |                                                            | Researchers may not believe stated benefits                                    |
 |                                                            |                                                                                |
@@ -139,7 +139,7 @@
 +------------------------------------------------------------+--------------------------------------------------------------------------------+
 | Create discussion spaces                                   | Researchers may misunderstand                                                  |
 |                                                            |                                                                                |
-|                                                            | Researchers may feel patronized                                                |
+|                                                            | Researchers may feel patronised                                                |
 |                                                            |                                                                                |
 |                                                            | Researchers may not believe stated benefits                                    |
 |                                                            |                                                                                |

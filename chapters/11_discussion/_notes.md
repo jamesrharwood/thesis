@@ -26,7 +26,7 @@ PBA step 5 is Guiding principles for intervention design.
 
 Utilise 
 
-Utilize
+Utilise
 
 Vocalise the different. The guidelines were written by some developers. 
 

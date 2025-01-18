@@ -37,7 +37,7 @@ Be explicit about flexibility where items can go.
 
 ## Feedback channels
 
-barrier_ids: [understanding, feel-patronized, believed-benefits, how-to-report, how-to-do]
+barrier_ids: [understanding, feel-patronised, believed-benefits, how-to-report, how-to-do]
 intervention_fn_ids: [enablement, persuasion]
 
 * solicit help,
@@ -58,7 +58,7 @@ intervention_fn_ids: [education]
 
 ## Persuasion
 
-barrier_ids: [feel-transparent, feel-patronized, believed-benefits, feel-not-my-job]
+barrier_ids: [feel-transparent, feel-patronised, believed-benefits, feel-not-my-job]
 intervention_fn_ids: [persuasion]
 
 * Use language and design to communicate confidence and simplicity as opposed to judgement and complexity.
@@ -157,7 +157,7 @@ intervention_fn_ids: [enablement]
 
 ## Testimonials from patients
 
-## Testimonials from evidence synthesizers
+## Testimonials from evidence synthesisers
 
 ## Testimonials from research users
 

@@ -71,7 +71,7 @@ Consequently, two personas crystallised in my mind: inexperienced and experience
 
 * may be familiar with EQUATOR and/or reporting guidelines
 * may have used checklists before, but may not realise full guidance exists, and may have never used reporting guidelines for drafting.
-* may feel patronized or restricted by reporting guidelines, especially if they believe them to be design requirements
+* may feel patronised or restricted by reporting guidelines, especially if they believe them to be design requirements
 * may see checklists as red tape necessary for publication, or they may be reporting guideline "converts" already convinced of their value.
 
 Many authors may fall somewhere between these two personas. In discussion with the design advisory group, I decided to prioritise inexperienced authors because I believed them to be more numerous, and because qualitative evidence suggests inexperienced authors may benefit more from reporting guidelines but experience more barriers when using them (see chapter {{< var chapters.synthesis >}}). By focussing on helping inexperienced authors, I hoped any spill-over effects may also help experienced authors. 

@@ -20,7 +20,7 @@ CW - different frame of mind storyline
 
 Surprised by how frequently examples are mentioned. 
 
-testimonials / quotes were polarizing. Deprioritize?
+testimonials / quotes were polarizing. Deprioritise?
 
 Comparison with old website - came up organically (one asked about permanence, another accidentally clicked on a link, a third remembered having used it before). OMK took 8 minutes to find SRQR E&E and said she would have given up. 
 

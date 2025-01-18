@@ -15,7 +15,7 @@ In this thesis I aimed to identify and address barriers authors face when using 
 
 In chapters {{< var chapters.synthesis >}} - {{< var chapters.web-audit >}} I explored barriers through a qualitative evidence synthesis, a review of survey questions, and a service evaluation of the EQUATOR website. I identified {{< var counts.barriers >}} influences affecting how authors discover, find, understand, and apply reporting guidelines. 
 
-In chapters {{< var chapters.workshops >}} I described how I used a framework for designing behaviour change interventions called the Behaviour Change Wheel to prioritise intervention options. Over a series of workshops, EQUATOR UK staff and I decided to prioritise interventions using education, training, persuasion, modelling (demonstrating using reporting guidelines), and restructuring the environment (both physical and digital environments). Conversely, we saw restriction and incentivization as inequitable. When considering policy categories, we prioritized communication, guidelines, and service provision. 
+In chapters {{< var chapters.workshops >}} I described how I used a framework for designing behaviour change interventions called the Behaviour Change Wheel to prioritise intervention options. Over a series of workshops, EQUATOR UK staff and I decided to prioritise interventions using education, training, persuasion, modelling (demonstrating using reporting guidelines), and restructuring the environment (both physical and digital environments). Conversely, we saw restriction and incentivization as inequitable. When considering policy categories, we prioritised communication, guidelines, and service provision. 
 
 In chapter {{< var chapters.focus-groups >}} I described leading focus groups with stakeholders to generate {{< var counts.ideas >}} ideas to address barriers, and in chapters {{< var chapters.defining-content >}} and {{< var chapters.development >}} I describe how I turned these ideas into {{< var counts.intervention-components >}} intervention components and brought them to life by redesigning a reporting guideline and the EQUATOR Network home page.
 
@@ -23,7 +23,7 @@ Finally, in chapter {{< var chapters.pilot >}} I described how I evaluated the r
 
 ## Overview of resources resulting from this thesis
 
-Of course I intend to publish chapters as articles. In particular chapters {{< var chapters.synthesis >}}, {{< var chapters.review >}}, {{< var chapters.workshops >}} & {{< var chapters.focus-groups >}} (probably together), {{< var chapters.pilot >}} after testing more iterations and resolving deficiencies as far as possible. I hope to update the intervention table presented in chapter {{< var chapters.defining-content >}} to reflect the final iteration of redesigned guidance, and publish it in an article that references and summarizes the articles that came before. This will be the article that brings together the pieces and presents them as a whole 
+Of course I intend to publish chapters as articles. In particular chapters {{< var chapters.synthesis >}}, {{< var chapters.review >}}, {{< var chapters.workshops >}} & {{< var chapters.focus-groups >}} (probably together), {{< var chapters.pilot >}} after testing more iterations and resolving deficiencies as far as possible. I hope to update the intervention table presented in chapter {{< var chapters.defining-content >}} to reflect the final iteration of redesigned guidance, and publish it in an article that references and summarises the articles that came before. This will be the article that brings together the pieces and presents them as a whole 
 
 But my main thesis output is a redesigned reporting guideline and EQUATOR Network home page. 
 - RG redesign could be copied by other guidelines
@@ -83,7 +83,7 @@ A recurring strength was my application of systematic methods.
 - Systematic search in my evidence synthesis and survey review
 - BCW framework to systematically consider all intervention functions, policy categories
 - BCT taxonomy to consider all techniques
-- APEASE to prioritize options.
+- APEASE to prioritise options.
 - Applying components systematically into design
 - Using intervention component table to analyze pilot data
 Hence I used systematic approached throughout. But this use was judicious, using an unmotivated analysis in QES  was _also_ a strength.
@@ -230,7 +230,7 @@ Made no attempt to quantify frequency or perceived importance of factors, ideas,
 - I could have characterised reporting guidelines as they are now by quantifying the occurance of barriers, but again, huge amount of work. Where would I stop? All guidelines? All journals? All funders? A smaller audit was already underway, and such an audit.
 - Behaviour change was new territory for EQUATOR, and so there is no guarantee that a future student would continue my work or have the necessary coding skills to create something. 
 - Ultimately, what was the marginal benefit of knowing _exactly_ how many people experience something, versus knowing that _some_ people experience it? Especially when that number might vary by guideline/demographic/context. If addressing it is simple, affordable, acceptable, equitable, and effective, why not do it?
-- This did not really limit my pragmatic approach, as even if I did qantify them, frequency and importance were only 2 criteria by which to prioritize. Others were affordability, acceptability, equity, side effects. Etc. 
+- This did not really limit my pragmatic approach, as even if I did qantify them, frequency and importance were only 2 criteria by which to prioritise. Others were affordability, acceptability, equity, side effects. Etc. 
 - Such quantification would have taken a long time, not lead to change directly, ultimately less impactful thesis.
 
 But other researchers will have different interests and objectives for which quantification may be useful. For example:

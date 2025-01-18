@@ -19,7 +19,7 @@
 
 ### Justify qualitative approach
 
--   Reasons to prioritize qual over quant
+-   Reasons to prioritise qual over quant
 
     -   Generate ideas / hypotheses, not looking to confirm, compare or quantify.
 
@@ -267,7 +267,7 @@ SRQR
 
 ### Participants
 
-Recruitment ran from 21/03/2023 until 9/08/2023. The number of people expressing interest, eligible, consenting, and participating and shown in @tbl-interview-recruitment, as are the reasons for drop out. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarized in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, first language, and experience in using reporting guidelines. Seven participants had never heard of reporting guidelines before, one had but did not remember whether they had used one, two had used a guideline before, and one had used many reporting guidelines before.
+Recruitment ran from 21/03/2023 until 9/08/2023. The number of people expressing interest, eligible, consenting, and participating and shown in @tbl-interview-recruitment, as are the reasons for drop out. Eleven people participated. Two dropped out before the second interview, without giving a reason. Participants' characteristics are summarised in @tbl-interview-participants and included variety in research experience (from 1 to 10+ years), subject area, country of origin, first language, and experience in using reporting guidelines. Seven participants had never heard of reporting guidelines before, one had but did not remember whether they had used one, two had used a guideline before, and one had used many reporting guidelines before.
 
 ### Iterations to the home page and reporting guideline
 
